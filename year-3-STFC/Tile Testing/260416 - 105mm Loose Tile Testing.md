@@ -10,5 +10,5 @@ The issue is that the peak values of each channel seem to be different, making a
 - mismatched gain due to slow HV drift
 
 - [ ] R/L the tiles and do a clustering study 
-	- [ ] label all tiles 
-	- [ ] Source alignment is
+	- [ ] label all tiles
+	- [ ] Source alignment is 

@@ -1,4 +1,4 @@
-
+- [ ] Finish documentation and notetaking on elements of muon spectroscopy 🔽
 ### discovery of the muon 
 The [[muon]] is a fundamental particle with some unique properties, it was discovered 1936 by Carl Anderson and Seth Neddermeyer. They determined the mass charge ratio of a mystery particle, which turned out to be the fundamental particle the muon, which had some interesting properties. 
 

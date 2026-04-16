@@ -1,8 +1,7 @@
 ```tasks
 ```
 
-## High Priority]
-## Due today
+## High Priority
 ```tasks
 due today
 not done

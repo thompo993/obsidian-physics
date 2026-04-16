@@ -24,6 +24,7 @@ The issue is that the peak values of each channel seem to be different, making a
 - qualitative more than quantitative need to extract the "shape" of the PHS
 	- LHS w.r.t position
 	- RHS w.r.t position 
+	- total w.r.t position 
 
 #### 185mm
 ![[fig-260416-185mm-pos-scan-105mmt-iles.png]]

@@ -11,7 +11,7 @@ The issue is that the peak values of each channel seem to be different, making a
 
 - [ ] R/L the tiles and do a clustering study 
 	- [ ] label all tiles
-	- [ ] Source alignment test wiggle the source forwards back left and right - position scan or rough locations? 
+	- [ ] Position scans of 105mm tiles, do we recover the twin peak issue?
 	- [ ] Flip source measurement after each tile, to get a LHS and RHS.
 
 

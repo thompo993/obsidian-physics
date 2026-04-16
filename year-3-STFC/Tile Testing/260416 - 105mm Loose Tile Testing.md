@@ -39,3 +39,6 @@ The issue is that the peak values of each channel seem to be different, making a
 ![[fig-260416-215mm-pos-scan-105mm-tiles 1.png]]
 #### 225
 ![[fig-260416-225mm-pos-scan-105mmt-iles.jpg]]
+
+#### 235  
+![[fig-260416-235mm-pos-scan-105mmt-iles.png]]

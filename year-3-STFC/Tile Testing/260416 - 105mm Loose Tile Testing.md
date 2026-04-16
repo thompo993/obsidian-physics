@@ -17,4 +17,8 @@ The issue is that the peak values of each channel seem to be different, making a
 
 
 ### Position scan 
-#### 
+#### procedure 
+- measure difference relative to the LHS wall and near side of the source boom arm
+- increase this by 1cm for 10 measurements across the tile 
+- measure distance from the tile (which is not moved at all in this process) to get relative tile position (no real physical meaning)
+- qualitative more than quantitative need to extract the "shape" of the PHS

@@ -7,7 +7,7 @@
 The issue is that the peak values of each channel seem to be different, making a broad and wide peak. The potential causes have been noted as follows: 
 - alignment of source 
 - PMT photocathode uniformity 
-- mismatched gain due to 
+- mismatched gain due to slow HV drift
 
 - [ ] R/L the tiles and do a clustering study 
 	- [ ] label all tiles 

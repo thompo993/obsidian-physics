@@ -22,3 +22,8 @@ The issue is that the peak values of each channel seem to be different, making a
 - increase this by 1cm for 10 measurements across the tile 
 - measure distance from the tile (which is not moved at all in this process) to get relative tile position (no real physical meaning)
 - qualitative more than quantitative need to extract the "shape" of the PHS
+	- LHS w.r.t position
+	- RHS w.r.t position 
+
+#### 185mm
+![[fig-260416-185mm-pos-scan-105mmt-iles.png]]

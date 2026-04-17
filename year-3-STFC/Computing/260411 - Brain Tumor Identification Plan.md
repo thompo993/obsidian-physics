@@ -57,3 +57,7 @@ using a pretrained model as a feature extractor
 
 ### train resnet image datset and normalisation 
 When ResNet (and similar models) were trained on ImageNet, the input pixels weren't raw values between 0–255, or even just scaled to 0–1. They were **shifted and scaled** so that each colour channel had a specific mean and standard deviation across the whole ImageNet dataset.
+
+### normalise to resnet 
+Converting grayscale images to RGB for neural networks (e.g., ResNet, EfficientNet) is standardly done by duplicating the single grayscale channel three times to create an artificial 3-channel (RGB) image, or by using a 
+ convolution layer to map 1 channel to 3. This allows 1-channel data to fit 3-channel input requirements without losing information, typically using OpenCV (`cv2.cvtColor`) or NumPy (`np.stack`)

@@ -54,4 +54,6 @@ using a pretrained model as a feature extractor
 - resize to 224x224 - because this is what resnet is trained on
 - normalize to ImageNet stats
 - 70/15/15 split 
-- 
+
+### train resnet image datset and normalisation 
+When ResNet (and similar models) were trained on ImageNet, the input pixels weren't raw values between 0–255, or even just scaled to 0–1. They were **shifted and scaled** so that each colour channel had a specific mean and standard deviation across the whole ImageNet dataset.

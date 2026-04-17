@@ -72,7 +72,7 @@ Now we have enough to lay out the full plan. Here it is in order:
 - Resize to **224×224** (why? — think about what pretrained models expect)
 	- because we need to change the image size to what the pre trained models expect resnet and other pre trained models were trained on 224x224. 
 - Normalise to ImageNet stats (we'll discuss why)
-	- restnet expects RGG, which we have greyscale
+	- restnet expects RGG, which we have 3064 T1-weighted contrast-inhanced images with three kinds of brain tumor.
 - 70/15/15 train/val/test random split
 
 ### Stage 2 — Baseline Model

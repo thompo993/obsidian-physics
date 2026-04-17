@@ -50,3 +50,5 @@ Random image-level split: leakage risk in your report. For a physics coursework 
 https://cs231n.github.io/transfer-learning/ 
 using a pretrained model as a feature extractor
 	- **Pretrained models**. Since modern ConvNets take 2-3 weeks to train across multiple GPUs on ImageNet, it is common to see people release their final ConvNet checkpoints for the benefit of others who can use the networks for fine-tuning. For example, the Caffe library has a [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) where people share their network weights.
+
+- 

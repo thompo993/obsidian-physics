@@ -62,3 +62,34 @@ When ResNet (and similar models) were trained on ImageNet, the input pixels were
 Converting grayscale images to RGB for neural networks (e.g., ResNet, EfficientNet) is standardly done by duplicating the single grayscale channel three times to create an artificial 3-channel (RGB) image, or by using a 
  convolution layer to map 1 channel to 3. This allows 1-channel data to fit 3-channel input requirements without losing information, typically using OpenCV (`cv2.cvtColor`) or NumPy (`np.stack`)
  Convolution Layer (Learned): Add a convolutional layer at the beginning of the model to learn the optimal transformation from 1 channel to 3.
+
+## full plan 
+Now we have enough to lay out the full plan. Here it is in order:
+
+### Stage 1 — Data Pipeline
+
+- `ImageFolder` dataset
+- Resize to **224×224** (why? — think about what pretrained models expect)
+	- because we need to change the image size to what the pre trained models expect resnet and other pre trained models were trained on 224x224. 
+- Normalise to ImageNet stats (we'll discuss why)
+	- restnet expects RGG, which we have greyscale
+- 70/15/15 train/val/test random split
+
+### Stage 2 — Baseline Model
+
+- Small custom CNN (3–4 conv layers)
+- No pretrained weights
+- Gives you a floor to beat
+
+### Stage 3 — Improved Model
+
+- Pretrained backbone (e.g. ResNet-18)
+- Fine-tuning strategy to discuss
+- Augmentation added here
+
+### Stage 4 — Evaluation
+
+- Confusion matrix
+- Per-class F1, precision, recall
+- ROC-AUC (one-vs-rest)
+- **Not just accuracy**

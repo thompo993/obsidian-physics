@@ -53,3 +53,5 @@ using a pretrained model as a feature extractor
 
 - resize to 224x224
 - normalize to ImageNet stats
+- 70/15/15 split 
+- 

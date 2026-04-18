@@ -73,6 +73,7 @@ Now we have enough to lay out the full plan. Here it is in order:
 	- because we need to change the image size to what the pre trained models expect resnet and other pre trained models were trained on 224x224. 
 - Normalise to ImageNet stats (we'll discuss why)
 	- restnet expects RGG, which we have 3064 T1-weighted contrast-inhanced images with three kinds of brain tumor.
+	https://docs.pytorch.org/vision/0.9/transforms.html - documentation for pytorch
 - 70/15/15 train/val/test random split
 
 ### Stage 2 — Baseline Model

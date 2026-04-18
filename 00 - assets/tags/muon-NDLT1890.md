@@ -1,0 +1,2 @@
+A muon from the Greek letter mu (μ) used to represent it) is an elementary particle similar to the electron, with an electric charge of −1 e and a spin of ⁠
+1/2ħ, but with a much greater mass. It is classified as a lepton. As with other leptons, the muon is not thought to be composed of any constituent particles.

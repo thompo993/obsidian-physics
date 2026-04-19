@@ -82,6 +82,11 @@ Now we have enough to lay out the full plan. Here it is in order:
 		- GPU can parallelize computation
 		- Much faster training
 - added a function to get dataset size, so it will work with any size of dataset, more future proof (I think this is one point of the mark scheme that states this.)
+#### Two Questions To Think About Before You Run It
+
+1. Which class do you expect the model to struggle with most, and why?
+2. 
+3. In a medical context, which error is worse — a **false positive** (predicting tumour when there isn't one) or a **false negative** (missing a tumour)? How does that affect which metric you should prioritise?
 
 ### Stage 2 — Baseline Model
 

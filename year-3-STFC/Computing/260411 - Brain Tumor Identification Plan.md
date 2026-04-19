@@ -76,7 +76,11 @@ Now we have enough to lay out the full plan. Here it is in order:
 	- restnet expects RGG, which we have 3064 T1-weighted contrast-inhanced images with three kinds of brain tumor.
 	https://docs.pytorch.org/vision/0.9/transforms.html - documentation for pytorch
 - 70/15/15 train/val/test random split
-- setup data loaders, what are they? find in pytorch documentation. 
+- setup data loaders, what are they? find in pytorch documentation. "A **DataLoader** is a utility that prepares your data in batches for training machine learning models. Think of it as a smart conveyor belt that feeds data to your model in organized chunks."
+	- **Benefits:**
+		- 32 images processed simultaneously
+		- GPU can parallelize computation
+		- Much faster training
 - added a function to get dataset size, so it will work with any size of dataset, more future proof (I think this is one point of the mark scheme that states this.)
 
 ### Stage 2 — Baseline Model

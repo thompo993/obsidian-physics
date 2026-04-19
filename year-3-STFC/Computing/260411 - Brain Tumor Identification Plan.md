@@ -11,6 +11,7 @@
 - we need to use a CNN 
 -  Transfer learning due to a small dataset. 
 - need a method of splitting the data fairly. 
+---
 
 ### NN Structure 
 ```
@@ -47,6 +48,8 @@ Output Layer: 4 units, Softmax
 
 Random image-level split: leakage risk in your report. For a physics coursework (not a medical deployment!), this is a reasonable and honest tradeoff. Your markers will respect you more for flagging it than ignoring it.
 
+---
+
 ### Article 
 https://cs231n.github.io/transfer-learning/ 
 using a pretrained model as a feature extractor
@@ -63,6 +66,8 @@ When ResNet (and similar models) were trained on ImageNet, the input pixels were
 Converting grayscale images to RGB for neural networks (e.g., ResNet, EfficientNet) is standardly done by duplicating the single grayscale channel three times to create an artificial 3-channel (RGB) image, or by using a 
  convolution layer to map 1 channel to 3. This allows 1-channel data to fit 3-channel input requirements without losing information, typically using OpenCV (`cv2.cvtColor`) or NumPy (`np.stack`)
  Convolution Layer (Learned): Add a convolutional layer at the beginning of the model to learn the optimal transformation from 1 channel to 3.
+ 
+---
 
 ## full plan 
 Now we have enough to lay out the full plan. Here it is in order:
@@ -82,7 +87,7 @@ Now we have enough to lay out the full plan. Here it is in order:
 		- GPU can parallelize computation
 		- Much faster training
 - added a function to get dataset size, so it will work with any size of dataset, more future proof (I think this is one point of the mark scheme that states this.)
-#### Two Questions To Think About Before You Run It
+#### Claude: Two Questions To Think About Before You Run It
 
 1. Which class do you expect the model to struggle with most, and why?
 	1. meningioma, easy to spot 
@@ -93,7 +98,22 @@ Now we have enough to lay out the full plan. Here it is in order:
 		1. FP - the patient has further investigation, by  a human, and it is clear they do not have a tumor 
 		2. FN - the patient leaves with a tumor that does not get further investigation. 
 	2. Therefore the metric that should be prioritized is the True positive metric. 
+#### Claude: Two Questions To Think About Before You Run It - feedback
+#### On Your Class Difficulty Predictions
 
+Your meningioma prediction was **correct** — it has the lowest F1 (0.93) and lowest recall (0.91). Good intuition.
+
+However, refine your reasoning slightly for the report. The key reason meningioma is harder isn't just "variety" — it's that meningiomas tend to appear at the **brain boundary** and can look similar to normal tissue in some slices. Glioma has the most samples (1426) so the model has seen more examples of it.
+#### 🎯 On False Negatives vs False Positives
+
+Spot on. The metric you're describing — minimising false negatives — is **recall** (also called sensitivity):
+
+```
+Recall = True Positives / (True Positives + False Negatives)
+```
+
+High recall means few tumors are missed. For your report, frame it this way:
+*"In a clinical screening context, recall is prioritised over precision, since a false negative — failing to detect a tumour — carries greater risk than a false positive, which would simply trigger further investigation."*
 ### Stage 2 — Baseline Model
 
 - Small custom CNN (3–4 conv layers)

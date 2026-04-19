@@ -76,6 +76,7 @@ Now we have enough to lay out the full plan. Here it is in order:
 	- restnet expects RGG, which we have 3064 T1-weighted contrast-inhanced images with three kinds of brain tumor.
 	https://docs.pytorch.org/vision/0.9/transforms.html - documentation for pytorch
 - 70/15/15 train/val/test random split
+- setup dataloaders, what are they? find in pytorch documentation. 
 
 ### Stage 2 — Baseline Model
 

@@ -85,8 +85,14 @@ Now we have enough to lay out the full plan. Here it is in order:
 #### Two Questions To Think About Before You Run It
 
 1. Which class do you expect the model to struggle with most, and why?
-2. 
-3. In a medical context, which error is worse — a **false positive** (predicting tumour when there isn't one) or a **false negative** (missing a tumour)? How does that affect which metric you should prioritise?
+	1. meningioma, easy to spot 
+	2. glioma, easy for human, but lots of variety, could cause a NN problems
+	3. repetitive - easy for a nn to spot. 
+2. In a medical context, which error is worse — a **false positive** (predicting tumor when there isn't one) or a **false negative** (missing a tumor)? How does that affect which metric you should priorities?
+	1. False positive is better than a false negative, we would rather be on the side of caution regarding this, there are two cases
+		1. FP - the patient has further investigation, by  a human, and it is clear they do not have a tumor 
+		2. FN - the patient leaves with a tumor that does not get further investigation. 
+	2. Therefore the metric that should be prioritized is the True positive metric. 
 
 ### Stage 2 — Baseline Model
 

@@ -3,7 +3,7 @@
 [[machine learning]]
 [[pytorch]]
 
-
+- [ ] Complete Coding Assignment and report 📅 2026-05-23
 ### Rough Plan
 - get a way to use machine learning hardware using Kaggle
 - how do i get GPU hours etc 

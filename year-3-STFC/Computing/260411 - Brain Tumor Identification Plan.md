@@ -88,7 +88,42 @@ Now we have enough to lay out the full plan. Here it is in order:
 - Small custom CNN (3–4 conv layers)
 - No pretrained weights
 - Gives you a floor to beat
+#### Baseline model results 
+```
+Epoch 01/20 | Train Loss: 0.7133 Acc: 0.685 | Val Loss: 0.4637 Acc: 0.794
+Epoch 02/20 | Train Loss: 0.4374 Acc: 0.826 | Val Loss: 0.3351 Acc: 0.863
+Epoch 03/20 | Train Loss: 0.3309 Acc: 0.865 | Val Loss: 0.3324 Acc: 0.829
+Epoch 04/20 | Train Loss: 0.2557 Acc: 0.897 | Val Loss: 0.2305 Acc: 0.909
+Epoch 05/20 | Train Loss: 0.1949 Acc: 0.920 | Val Loss: 0.2418 Acc: 0.918
+Epoch 06/20 | Train Loss: 0.1312 Acc: 0.943 | Val Loss: 0.2111 Acc: 0.939
+Epoch 07/20 | Train Loss: 0.1031 Acc: 0.960 | Val Loss: 0.1887 Acc: 0.946
+Epoch 08/20 | Train Loss: 0.1025 Acc: 0.965 | Val Loss: 0.1634 Acc: 0.941
+Epoch 09/20 | Train Loss: 0.0694 Acc: 0.975 | Val Loss: 0.2076 Acc: 0.939
+Epoch 10/20 | Train Loss: 0.0559 Acc: 0.980 | Val Loss: 0.1819 Acc: 0.928
+Epoch 11/20 | Train Loss: 0.0548 Acc: 0.980 | Val Loss: 0.1756 Acc: 0.948
+Epoch 12/20 | Train Loss: 0.0337 Acc: 0.988 | Val Loss: 0.1521 Acc: 0.961
+Epoch 13/20 | Train Loss: 0.0305 Acc: 0.987 | Val Loss: 0.2592 Acc: 0.935
+Epoch 14/20 | Train Loss: 0.0244 Acc: 0.993 | Val Loss: 0.1454 Acc: 0.963
+Epoch 15/20 | Train Loss: 0.0280 Acc: 0.992 | Val Loss: 0.1625 Acc: 0.950
+Epoch 16/20 | Train Loss: 0.0469 Acc: 0.986 | Val Loss: 0.1419 Acc: 0.952
+Epoch 17/20 | Train Loss: 0.0321 Acc: 0.989 | Val Loss: 0.1845 Acc: 0.957
+Epoch 18/20 | Train Loss: 0.0252 Acc: 0.992 | Val Loss: 0.1477 Acc: 0.954
+Epoch 19/20 | Train Loss: 0.0146 Acc: 0.995 | Val Loss: 0.2923 Acc: 0.950
+Epoch 20/20 | Train Loss: 0.0386 Acc: 0.986 | Val Loss: 0.2431 Acc: 0.952
+```
 
+```
+precision    recall  f1-score   support
+
+  meningioma       0.95      0.91      0.93       129
+      glioma       0.94      0.97      0.95       200
+   pituitary       0.99      0.98      0.99       130
+
+    accuracy                           0.96       459
+   macro avg       0.96      0.95      0.96       459
+weighted avg       0.96      0.96      0.96       459
+```
+![[fgi-260419-confsusion-matrix-baseline-model-brain.png]]
 ### Stage 3 — Improved Model
 
 - Pretrained backbone (e.g. ResNet-18)

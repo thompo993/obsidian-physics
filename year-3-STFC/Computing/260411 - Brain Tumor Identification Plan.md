@@ -3,6 +3,7 @@
 [[machine learning]]
 [[pytorch]]
 
+
 ### Rough Plan
 - get a way to use machine learning hardware using Kaggle
 - how do i get GPU hours etc 

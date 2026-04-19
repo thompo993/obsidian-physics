@@ -82,7 +82,8 @@ class MNIST_CNN(nn.Module):
 
         print('y_hat (probs):', probs)
 
-        print('predicted digit:', int(torch.argmax(probs)))```
+        print('predicted digit:', int(torch.argmax(probs)))
+        ```
 
 ### Claude Basic Scaffold Example
 ```

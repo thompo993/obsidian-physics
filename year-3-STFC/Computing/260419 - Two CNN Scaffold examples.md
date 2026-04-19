@@ -83,6 +83,54 @@ class MNIST_CNN(nn.Module):
         print('y_hat (probs):', probs)
 
         print('predicted digit:', int(torch.argmax(probs)))```
-```
 
 ### Claude Basic Scaffold Example
+```
+import torch.nn as nn
+import torch.nn.functional as F
+
+class BaselineCNN(nn.Module):
+    def __init__(self, num_classes=3):
+        super().__init__()
+        
+        # Feature extractor — 3 conv blocks
+        # Each block: Conv → ReLU → MaxPool
+        self.features = nn.Sequential(
+            # Block 1: 3 → 32 channels
+            nn.Conv2d(3, 32, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(2),          # 224 → 112
+
+            # Block 2: 32 → 64 channels
+            nn.Conv2d(32, 64, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(2),          # 112 → 56
+
+            # Block 3: 64 → 128 channels
+            nn.Conv2d(128, 128, kernel_size=3, padding=1),  # ← spot the bug?
+            nn.ReLU(),
+            nn.MaxPool2d(2),          # 56 → 28
+        )
+        
+        # Classifier head
+        self.classifier = nn.Sequential(
+            nn.Flatten(),
+            nn.Linear(128 * 28 * 28, 256),
+            nn.ReLU(),
+            nn.Dropout(0.5),
+            nn.Linear(256, num_classes)
+        )
+    
+    def forward(self, x):
+        x = self.features(x)
+        x = self.classifier(x)
+        return x
+
+# Instantiate and move to device
+model = BaselineCNN(num_classes=3).to(device)
+print(model)
+
+# Quick parameter count
+total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+print(f"\nTrainable parameters: {total_params:,}")
+```

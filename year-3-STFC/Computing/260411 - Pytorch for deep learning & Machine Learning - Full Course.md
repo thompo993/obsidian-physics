@@ -1,3 +1,9 @@
+## Timestamp
+
+## Link
+https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
+
+
 
 ### Tags
 [[machine learning]]
@@ -31,3 +37,52 @@ consider driving- very complex
 	- since outputs of deep learning models aren't always predictable. 
 - when you don't have much data 
 
+--- 
+### machine learning vs deep learning 
+- traditional machine learning 
+	- used on structured data 
+	- "rows and columns"
+	- we like to use a gradient boosted machine eg XGBOOST
+
+	- machine learning types include 
+	- random forest 
+	- gradient boosted models 
+	- naive bayes 
+	- nearest neighbor 
+	- support vector machine 
+
+	- deep learning types include 
+	- neural network 
+	- fully connected neural networks 
+	-  convolutional neutral networks 
+	- recurrent neural network 
+	- transformer
+
+- deep learning 
+	- unstructured data 
+	- if you had loads of text, unstructured 
+	- images 
+	- voices- voice assistant 
+	- typically, we use a neural network
+
+--- 
+### what are neural networks. 
+**my definition:** a neural network  is a computational model inspired by the structure and functions of biological neural networks, such as those that are in the brain. 
+
+- 3b1b recommended for learning about NN 
+
+## Daniel Bourke's definition 
+before data gets used with a neural network, it needs to be turned into numbers
+$\longrightarrow$
+we then pass our numbers through our neural network, this is numerical encoding 
+$\longrightarrow$
+
+--- 
+choose the appropriate neural network for your problem 
+inputs $\longrightarrow$ numerical encoding $\longrightarrow$ learns representation (patterns/features/weights) $\longrightarrow$ represents outputs $\longrightarrow$ outputs 
+
+--- 
+
+### anatomy of a neural networks 
+
+![[]]

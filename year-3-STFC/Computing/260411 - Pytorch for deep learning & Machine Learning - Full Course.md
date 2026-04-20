@@ -10,3 +10,8 @@ Artificial intelligence
 - machine learning
 	- deep learning
 
+why would you want to use machine learning or deeplearning? 
+**why not?**
+for a complex problem, can you think of all the rules! 
+consider driving
+

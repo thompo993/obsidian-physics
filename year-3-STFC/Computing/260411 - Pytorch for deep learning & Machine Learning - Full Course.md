@@ -85,4 +85,5 @@ inputs $\longrightarrow$ numerical encoding $\longrightarrow$ learns representat
 
 ### anatomy of a neural networks 
 
-![[]]
+![[fig-260420-anatomy-of-a-nn-24hr-pytorch.png]]
+

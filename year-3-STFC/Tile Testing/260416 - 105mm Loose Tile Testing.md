@@ -8,6 +8,7 @@ The issue is that the peak values of each channel seem to be different, making a
 - alignment of source 
 - PMT photocathode uniformity 
 - mismatched gain due to slow HV drift
+- **QE of the PMT, if LHS has greater counts, then this will cause the two peaks effect, LHS PMT seems to have much greater counts after 10 minutes**
 
 - [ ] R/L the tiles and do a clustering study 
 	- [ ] label all tiles
@@ -18,7 +19,14 @@ The issue is that the peak values of each channel seem to be different, making a
 
 ### Position scan 
 #### procedure 
+- **Convention:** "LHS", marked as in the run names, refers too which stud side aligns with the LHS PMT (left hand side as you are looking at it. )
 - measure difference relative to the LHS wall and near side of the source boom arm
+- label tiles on each side, convention is LR  corresponds to the tile id and length such that it corresponds too how you would read the tiles ** for example:
+
+| 30MM | ID001 |
+| ---- | ----- |
+| LHS  | RHS   |
+
 - increase this by 1cm for 10 measurements across the tile 
 - measure distance from the tile (which is not moved at all in this process) to get relative tile position (no real physical meaning)
 - qualitative more than quantitative need to extract the "shape" of the PHS
@@ -42,3 +50,5 @@ The issue is that the peak values of each channel seem to be different, making a
 
 #### 235  
 ![[fig-260416-235mm-pos-scan-105mmt-iles.png]]
+
+- this pattern continues, and then drops off very quickly while CHD spikes. overall effect of L/R alignment is seem (at a preliminary level, zero analysis conducted. )

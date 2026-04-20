@@ -1,4 +1,12 @@
-## Timestamp
+## progress
+
+| Link and Section                                                                               | Date     |     |
+| ---------------------------------------------------------------------------------------------- | -------- | --- |
+| [0:32:24](https://www.youtube.com/watch?v=V_xro1bcAuA&t=1944s) 5. Different learning paradigms | 20/04/26 |     |
+|                                                                                                |          |     |
+|                                                                                                |          |     |
+|                                                                                                |          |     |
+
 
 ## Link
 https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
@@ -86,4 +94,4 @@ inputs $\longrightarrow$ numerical encoding $\longrightarrow$ learns representat
 ### anatomy of a neural networks 
 
 ![[fig-260420-anatomy-of-a-nn-24hr-pytorch.png]]
-
+- mention of ResNet, common for computer vision  

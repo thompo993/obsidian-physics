@@ -15,6 +15,26 @@ The issue is that the peak values of each channel seem to be different, making a
 	- [ ] Position scans of 105mm tiles, do we recover the twin peak issue?
 	- [ ] Flip source measurement after each tile, to get a LHS and RHS.
 
+### potential solution
+```
+for idx, peak_idx in enumerate(peaks):
+
+        peak_x = x[peak_idx]
+
+        peak_y = y_smooth[peak_idx]
+
+        # Fit polynomial around this peak only if peak_x is greater than 0.005
+
+        if peak_x > 0.005:
+
+            fit_range = (x > peak_x - (x[-1] - x[0]) * 0.075) & (x < peak_x + (x[-1] - x[0]) * 0.075)
+
+            x_fit = x[fit_range]
+
+            y_fit = y[fit_range]
+```
+changed the fit range from 0.05 to 0.075. This made it fit a larger range of the peak, so it can handle the broader peaks better. 
+
 
 
 ### Position scan 

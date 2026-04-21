@@ -8,6 +8,8 @@
 | LHS  | RHS   |
 
 ![[fig-260410-105mm-tile-testing-histogram.png]]
-- here we can see that the overall tile testing is very resilient to go XY dispalcement, with it only seeming to fall off very quickly
+- here we can see that the overall tile testing is very resilient to go XY displacement, with it only seeming to fall off very quickly
 
-#### still to be do
+#### still to be done:
+- errors and setting benchmark
+- qualitative analysis 

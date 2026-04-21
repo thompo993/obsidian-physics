@@ -32,4 +32,9 @@
 - problems with remote download. 
 - switched to "local download" and downloaded the available firmware firmware version **26.02.19.01** 
 ### 02:ab:ba:00:22:75
-- also had to s
+- also had to use PuTTY
+- unsure if firmware boot will work, attempted to load from server
+
+
+### 02:ab:ba:00:22:7b
+- unsure if firmware boot will work, attempted to load from server

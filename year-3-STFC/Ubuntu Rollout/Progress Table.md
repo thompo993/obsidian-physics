@@ -27,5 +27,6 @@
 |                   |                                         |              |                 |        |
 |                   |                                         |              |                 |        |
 #### 02:ab:ba:00:22:74 
+- had to use PuTTY and wired protocol. ([[]])
 - problems with remote download. 
-- switched to "local download" and downloaded the available firmware 
+- switched to "local download" and downloaded the available firmware firmware version **26.02.19.01** 

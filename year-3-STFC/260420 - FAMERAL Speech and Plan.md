@@ -29,4 +29,6 @@ Once the muons are inside, the spins act like tiny magnets, and interact with th
 
 It tells us about **magnetism on the atomic scale**, and that’s exactly what we need for superconductors.
 
-when a muon pirouettes, we call this precession, and the speed of this precession
+when a muon pirouettes, we call this precession, and the speed of this precession is set by the local field the muon has come to rest at within the sample. 
+
+Different parts of the material have different local magnetic field,

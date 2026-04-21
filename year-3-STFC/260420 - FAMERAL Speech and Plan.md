@@ -31,4 +31,6 @@ It tells us about **magnetism on the atomic scale**, and that’s exactly what 
 
 when a muon pirouettes, we call this precession, and the speed of this precession is set by the local field the muon has come to rest at within the sample. 
 
-Different parts of the material have different local magnetic field, so a ensemble of muons allows us to reconstruct the magnetic field of our sa
+Different parts of the material have different local magnetic field, so a ensemble of muons allows us to reconstruct the magnetic field of our sample. 
+
+But how do we reconstruct this? We do it using another key fact, the muon lives for 2.2$\mu s$ 

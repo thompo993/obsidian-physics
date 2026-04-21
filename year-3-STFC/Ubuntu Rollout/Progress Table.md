@@ -34,8 +34,9 @@
 ### 02:ab:ba:00:22:75
 - also had to use PuTTY
 - unsure if firmware boot will work, attempted to load from server
-- **invalid firmware when booted from remote, proceeding with **
+- **invalid firmware when booted from remote, proceeding with local downloaded firmware**
 
 
 ### 02:ab:ba:00:22:7b
 - unsure if firmware boot will work, attempted to load from server
+- - **invalid firmware when booted from remote, proceeding with local downloaded firmware** 

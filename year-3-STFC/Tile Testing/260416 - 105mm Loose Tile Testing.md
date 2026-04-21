@@ -12,8 +12,8 @@ The issue is that the peak values of each channel seem to be different, making a
 
 - [ ] R/L the tiles and do a clustering study 
 	- [ ] label all tiles
-	- [ ] Position scans of 105mm tiles, do we recover the twin peak issue?
-	- [ ] Flip source measurement after each tile, to get a LHS and RHS.
+	- [x] Position scans of 105mm tiles, do we recover the twin peak issue? ✅ 2026-04-21
+	- [x] Flip source measurement after each tile, to get a LHS and RHS. ✅ 2026-04-21
 
 ### potential solution
 ```
@@ -34,6 +34,7 @@ for idx, peak_idx in enumerate(peaks):
             y_fit = y[fit_range]
 ```
 changed the fit range from 0.05 to 0.075. This made it fit a larger range of the peak, so it can handle the broader peaks better. 
+Still not perfect, but much better
 
 
 

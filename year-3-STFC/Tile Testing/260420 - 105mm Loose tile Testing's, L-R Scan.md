@@ -6,3 +6,6 @@
 | 30MM | ID001 |
 | ---- | ----- |
 | LHS  | RHS   |
+
+![[fig-260410-105mm-tile-testing-histogram.png]]
+- here we can see that th eovera;;

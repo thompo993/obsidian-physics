@@ -8,4 +8,4 @@
 | LHS  | RHS   |
 
 ![[fig-260410-105mm-tile-testing-histogram.png]]
-- here we can see that th eovera;;
+- here we can see that the overall tile testing is very resilient to errors  

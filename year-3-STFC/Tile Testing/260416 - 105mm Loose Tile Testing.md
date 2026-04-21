@@ -35,6 +35,7 @@ for idx, peak_idx in enumerate(peaks):
 ```
 changed the fit range from 0.05 to 0.075. This made it fit a larger range of the peak, so it can handle the broader peaks better. 
 Still not perfect, but much better
+![[fig-260416-pos-scan-twin-peak-solution.png]]
 
 
 

@@ -8,4 +8,6 @@
 | LHS  | RHS   |
 
 ![[fig-260410-105mm-tile-testing-histogram.png]]
-- here we can see that the overall tile testing is very resilient to errors  
+- here we can see that the overall tile testing is very resilient to go XY dispalcement, with it only seeming to fall off very quickly
+
+#### still to be do

@@ -20,7 +20,7 @@ But how do we actually see inside and study superconductors?
 
 At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance.  He have an array of cutting edge muon spectrometers which we use to probe superconductors . 
 
-To produce muons, our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  A key feature of MuSR is that these muons that are polarised, we know their inital spin
+To produce muons, our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  A key feature of MuSR is that these muons that are polarised, we know their initial spin direction
 
 These muons are then accelerated down the muon beamline, and implanted into the sample, still fully polarised-so each muon has a spin antiparallel to its momentum. 
 

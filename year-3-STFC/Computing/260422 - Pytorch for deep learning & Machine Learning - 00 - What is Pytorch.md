@@ -74,4 +74,7 @@ later
 ### learning pytorch resources 
 GitHub repo: https://github.com/mrdbourke/pytorch-deep-learning
 Q&A: abit late too this sadly, but use chat gpt or Claude
-Course Online Book: 
+Course Online Book: https://www.learnpytorch.io/
+
+
+code is written in vscode

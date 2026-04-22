@@ -103,5 +103,9 @@ Supervised learning
 
 Unsupervised and self-supervised learning 
 - no labels 
+- extracts patterns 
 
 transfer learning
+- very important paradigm 
+- take patterns one model has learned ---> tranfer it to another model 
+- 

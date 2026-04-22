@@ -33,7 +33,7 @@ The muon lives for 2.2$\mu s$, and decays preferentially in the direction of the
 
 So now we know how a MuSR experiment works, but how does this link to superconductors? 
 
-To start with we need to consider something called the Meissner effect. This is where the magnetic field is expelled from inside the material. when the material reaches below its critical temperature. But most practical superconductors are type-II superconductors, and they behave differently under a strong applied field. 
+To start with we need to consider something called the Meissner effect. This is where the magnetic field is expelled from inside the material when the material reaches below its critical temperature. But most practical superconductors are type-II superconductors, and they behave differently under a strong applied field. 
 
 When we apply a strong magnetic field to a type-II superconductor, the field can partially penetrate the material in the form of quantized magnetic flux lines, known as vortices, there vortices arrange to form a vortex lattice, which creates a characteristic distribution of local magnetically fields in our sample, which we can detect using MuSR. 
 

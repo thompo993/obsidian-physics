@@ -38,3 +38,7 @@ consider the anatomy of a neural network [[260411 - Pytorch for deep learning & 
 A Tensor seems like it is simply a matrix. 
 
 `Torch.tensor` is very relevant to this whole course 
+
+![[fig-260422-pytoch-what-is-a-tensor.png]]
+
+

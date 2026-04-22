@@ -39,6 +39,10 @@ When we apply a strong magnetic field to a type-II superconductor, the field can
 
 MuSR can measure this distribution. From its shape, we can extract key features, like the magnetic penetration depth, which is directly related to the superfluid density, a measure of how robust and coherent the superconducting condensate is.
 
+If the measured field distribution is narrow and well-defined, it indicates a well-ordered vortex lattice. If the distribution is broadened, asymmetric, or otherwise distorted, that typically signals disorder, such as defects and **vortex pinning**.
+
+Pinning is crucial for applications: **stronger pinning prevents vortices from moving**, which allows the superconductor to carry **higher currents** with **less dissipation** (since vortex motion is a major source of energy loss in the mixed state).
+
 
 --- 
 

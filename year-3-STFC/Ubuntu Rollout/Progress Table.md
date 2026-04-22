@@ -27,6 +27,8 @@
 | 15  | 30  |
 |     |     |
 
+---
+
 
 ### Table
 
@@ -50,6 +52,9 @@
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
+
+--- 
+
 ## TOP LEFT DIGITISER - DIGITISER 1 - pausing for future work
 ### 02:ab:ba:00:22:74 
 - had to use PuTTY and wired protocol. ([[IP  Change contingecy]])
@@ -64,16 +69,17 @@
 ![[fig-260421-ubuntu24-rollout-double-ip-1-mac-add.png]]
 ### 02:ab:ba:00:22:77
 - not booting from its known IP
+
 --- 
 
-## TOP LEFT DIGITISER - DIGITISER 1 - pausing for future work
+## TOP LEFT DIGITISER - DIGITISER 2
 ### 02:ab:ba:00:22:18 
 - password is not working, is this because its already updated? 
 - tested two one that was updated, and one that we were unsure of updated state. the password didn't work for both, even though for one of the digitisers, it did work before the update.
 - in terminal, we verified that the versions are the same 
 ![[fig-260421-ubuntu24-rollout-version-when-password-not-working.png]]
 - however some do not have a working password and do not have the right firmware versions
-
+### 02:ab:ba:00:22:18 
 
 
 

@@ -2,5 +2,8 @@ https://www.youtube.com/watch?v=f5liqUk0ZTw
 
 - we start with a vector, the stick example, length of stick is the magnitude, and the direction is where the stick is pointing 
 - vectors can also represent area HOW?
-	- make the length of the area proportional to the 
+	- make the length of the area proportional to the size of the area (eg m^2)
+	- make the direction of the vector perpendicular to the surface. 
 
+#### components of a vector
+- unit vectors - they have a leng

@@ -7,6 +7,19 @@
 
 **NOTE: UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
 
+### Coordinate convention for DAQ121 - 260424
+
+|     |     |
+| --- | --- |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+
 ### Table
 
 | Digitiser ID      | Display IP     | True IP       |     | Update Start | Update Finished | Date   |     |

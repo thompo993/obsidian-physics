@@ -42,3 +42,4 @@ A Tensor seems like it is simply a matrix.
 ![[fig-260422-pytoch-what-is-a-tensor.png]]
 
 
+### What is a [[tensor]]

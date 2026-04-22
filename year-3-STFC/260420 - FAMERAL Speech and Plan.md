@@ -32,6 +32,7 @@ But how do we measure the spin of all our muons?
 The muon lives for 2.2$\mu s$, and decays preferentially in the direction of their spin, which we already know is the direction of the local magnetic field for that particular muon. We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
 
 So now we know how a MuSR experiment works, but how does this link to superconductors? 
-To start with we need to consider something called the Meissner effect. This is where the magnetic field is expelled from inside the material when the material reaches below its critical temperature. if we apply a strong magnetic field to this super conductor, we begin too see the feild creep inside of the material, forming something called a vortex lattice, this creates a characteristic pattern of local magnetic fields within the sample, which we can detect using MuSR. 
+
+To start with we need to consider something called the Meissner effect. This is where the magnetic field is expelled from inside the material. Most Practical Siperconwhen the material reaches below its critical temperature. if we apply a strong magnetic field to this super conductor, we begin too see the feild creep inside of the material, forming something called a vortex lattice, this creates a characteristic pattern of local magnetic fields within the sample, which we can detect using MuSR. 
 
 

@@ -14,9 +14,9 @@ Superconductors are materials that conduct electricity with 0 resistance when th
 
 Resistance in a normal material is caused by scattering  electrons, but in a superconductor scattering would require breaking one of these cooper pairs. This is energetically impossible below the critical temperature.
 
-But how do we see inside and study superconductors?
+But how do we actually see inside and study superconductors?
 
-At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and reso using a range of cutting edge muon spectrometers to learn the composition of superconductors. 
+At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance.  Using a range of cutting edge muon spectrometers, we probe superconductors . 
 
 Our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  What is special about pions, is that they violate parity, which is a form of symmetry that the pion violates **Maybe add about madame Wu**
 

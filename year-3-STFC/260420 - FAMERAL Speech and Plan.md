@@ -30,19 +30,16 @@ Muon spins act like tiny magnets, interacting with the local fields inside of th
 
 But how do we measure the spin of all our muons? 
 The muon lives for 2.2$\mu s$, and decays preferentially in the direction of their spin, which we already know is the direction of the local magnetic field for that particular muon. We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
+Now that we know how a MuSR experiment works, how does it connect to superconductors?
 
-So now we know how a MuSR experiment works, but how does this link to superconductors? 
+First, the Meissner effect: when a material is cooled below its critical temperature, it expels magnetic fields. But most real superconductors are type II, which behave differently in strong fields.
 
-First, we need to understand the Meissner effect when a material is cooled below its critical temperature, it expels any magnetic field from its interior. However, most practical superconductors are type II, which behave differently when exposed to strong magnetic fields.
+Instead of fully expelling the field, they allow it to enter in tiny, quantized tubes called vortices. These vortices form an ordered lattice, creating a distinct pattern of magnetic fields inside the material, something MuSR can directly measure.
 
-When we apply a strong magnetic field to a type-II superconductor, the field can partially penetrate the material in the form of quantized magnetic flux lines, known as vortices, these vortices arrange to form a vortex lattice, which creates a characteristic distribution of local magnetic fields in our sample, which we can detect using MuSR. 
+From this pattern, we can extract key properties like the superfluid density, which tells us how strong and coherent the superconducting state is. The shape of the distribution also reveals how ordered the vortex lattice is, any distortion points to defects and vortex pinning.
 
-MuSR can measure this distribution. From its shape, we can extract key features, like the superfluid density, a measure of how robust and coherent the superconducting condensate is.
-and depending on how narrow and well-defined the distribution is, we can tell how ordered a vortex lattice is. If the distribution is broadened, asymmetric, or otherwise distorted, that typically signals disorder, such as defects and vortex pinning.
+Pinning is essential in real-world applications because it stops vortices from moving, allowing superconductors to carry higher currents with minimal energy loss.
 
-Pinning is crucial for applications: stronger pinning prevents vortices from moving which allows the superconductor to carry higher currents with less dissipation.
-
-
-So next time you go and get an MRI, or Ride a Maglev train, you have MuSR and superconductors to thank!
+So next time you have an MRI scan or ride a maglev train, you can thank MuSR and superconductors.
 
 --- 

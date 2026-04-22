@@ -35,7 +35,7 @@ Now that we know how a MuSR experiment works, how does it connect to superconduc
 
 First, the Meissner effect: when a material is cooled below its critical temperature, it expels magnetic fields. But most real superconductors are type II, which behave differently in strong fields.
 
-Instead of fully expelling the field, they allow it to enter in tiny, quantized tubes called vortices. These vortices form an ordered lattice, creating a distinct pattern of magnetic fields inside the material, something MuSR can directly measure.
+Instead of fully expelling the field, they allow it to enter in tiny, quantised tubes called vortices. These vortices form an ordered lattice, creating a distinct pattern of magnetic fields inside the material, something MuSR can measure.
 
 From this pattern, we can extract key properties like the superfluid density, which tells us how strong and coherent the superconducting state is. The shape of the distribution also reveals how ordered the vortex lattice is, any distortion points to defects and vortex pinning.
 

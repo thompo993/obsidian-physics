@@ -37,7 +37,7 @@ First, we need to understand the Meissner effect—when a material is cooled bel
 
 When we apply a strong magnetic field to a type-II superconductor, the field can partially penetrate the material in the form of quantized magnetic flux lines, known as vortices, these vortices arrange to form a vortex lattice, which creates a characteristic distribution of local magnetic fields in our sample, which we can detect using MuSR. 
 
-MuSR can measure this distribution. From its shape, we can extract key features, like the magnetic penetration depth, which is directly related to the superfluid density, a measure of how robust and coherent the superconducting condensate is.
+MuSR can measure this distribution. From its shape, we can extract key features, like the superfluid density, a measure of how robust and coherent the superconducting condensate is.
 
 If the measured field distribution is narrow and well-defined, it indicates a well-ordered vortex lattice. If the distribution is broadened, asymmetric, or otherwise distorted, that typically signals disorder, such as defects and vortex pinning.
 

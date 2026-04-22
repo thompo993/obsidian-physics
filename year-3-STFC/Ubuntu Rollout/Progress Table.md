@@ -29,6 +29,10 @@
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
+
+
+
+
 ### 02:ab:ba:00:22:74 
 - had to use PuTTY and wired protocol. ([[IP  Change contingecy]])
 - problems with remote download. 

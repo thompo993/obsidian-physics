@@ -109,3 +109,12 @@ transfer learning
 - very important paradigm 
 - take patterns one model has learned ---> transfer it to another model 
 - "head start" for your model
+
+### Q: What is deep learning actually used for? 
+- computer vision 
+- self driving cars
+- facial recognition 
+- NLP 
+- Medical diagnostics
+	- medical imaging of brain tumours THIS IS US
+- 

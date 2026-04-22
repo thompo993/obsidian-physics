@@ -117,4 +117,5 @@ transfer learning
 - NLP 
 - Medical diagnostics
 	- medical imaging of brain tumors THIS IS US
-- 
+- Sequence2Sequence (Seq2Seq)
+- Classification/regression

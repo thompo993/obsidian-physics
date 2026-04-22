@@ -18,7 +18,7 @@ But how do we actually see inside and study superconductors?
 
 At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance.  He have an array of cutting edge muon spectrometers which we use to probe superconductors . 
 
-To produce muons, ur Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  What is special about pions, is that they violate parity, which is a form of symmetry that the pion violates **Maybe add about madame Wu**
+To produce muons, ur Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  One key detail is that pion decay violates parity—so the muons are produced spin-polarised
 
 Some of these muons come to rest near the surface of the carbon, and as they have no kinetic energy, we know that their momentum is exactly antiparallel to their magnetic spin. 
 

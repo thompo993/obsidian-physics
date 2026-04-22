@@ -43,6 +43,6 @@ and depending on how narrow and well-defined the distribution is, we can tell h
 Pinning is crucial for applications: stronger pinning prevents vortices from moving which allows the superconductor to carry higher currents with less dissipation.
 
 
-So next time you go and get an MRI, 
+So next time you go and get an MRI, or Ride a Ma
 
 --- 

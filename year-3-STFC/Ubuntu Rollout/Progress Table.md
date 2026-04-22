@@ -55,3 +55,4 @@
 - tested two one that was updated, and one that we were unsure of updated state. the password didn't work for both, even though for one of the digitisers, it did work before the update.
 - in terminal, we verified that the versions are the same 
 ![[fig-260421-ubuntu24-rollout-version-when-password-not-working.png]]
+- howe

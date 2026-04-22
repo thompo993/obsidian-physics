@@ -71,5 +71,7 @@ later
 - avoid overthinking the course 
 	- don't say "i cant learn"
 
-### [[learning pytorch resources]] 
-GitHub repo: 
+### learning pytorch resources 
+GitHub repo: https://github.com/mrdbourke/pytorch-deep-learning
+Q&A: abit late too this sadly, but use chat gpt or Claude
+Course Online Book: 

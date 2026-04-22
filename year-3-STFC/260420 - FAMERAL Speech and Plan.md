@@ -35,7 +35,7 @@ So now we know how a MuSR experiment works, but how does this link to supercondu
 
 First, we need to understand the Meissner effect—when a material is cooled below its critical temperature, it expels any magnetic field from its interior. However, most practical superconductors are type II, which behave differently when exposed to strong magnetic fields.
 
-When we apply a strong magnetic field to a type-II superconductor, the field can partially penetrate the material in the form of quantized magnetic flux lines, known as vortices, there vortices arrange to form a vortex lattice, which creates a characteristic distribution of local magnetically fields in our sample, which we can detect using MuSR. 
+When we apply a strong magnetic field to a type-II superconductor, the field can partially penetrate the material in the form of quantized magnetic flux lines, known as vortices, these vortices arrange to form a vortex lattice, which creates a characteristic distribution of local magnetic fields in our sample, which we can detect using MuSR. 
 
 MuSR can measure this distribution. From its shape, we can extract key features, like the magnetic penetration depth, which is directly related to the superfluid density, a measure of how robust and coherent the superconducting condensate is.
 

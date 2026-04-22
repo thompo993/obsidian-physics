@@ -33,5 +33,5 @@ when a muon pirouettes, we call this precession, and the speed of this precessio
 
 Different parts of the material have different local magnetic field, so a ensemble of muons allows us to reconstruct the magnetic field of our sample. 
 
-But how do we reconstruct this? We do it using another key fact, the muon lives for 2.2$\mu s$, and decays preferentially in the direction of the sample magnetic field. We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in sour sample
+But how do we reconstruct this? The muon lives for 2.2$\mu s$, and decays preferentially in the direction of the sample magnetic field. We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
 

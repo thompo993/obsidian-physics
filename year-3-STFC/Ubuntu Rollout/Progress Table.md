@@ -90,12 +90,15 @@
 
 ### 02:ab:ba:00:22:20
 - password did not work 
+- not updated 
 ### 02:ab:ba:00:22:21
 - password did not work
+- not updated
 - worried about man in middle attach, does not let me try and login
 ![[fig-260421-ubuntu24-rollou-man-in-middle.png]]
 
-## TOP LEFT DIGITISER - DIGITISER 2
+--- 
+## TOP LEFT DIGITISER - DIGITISER 3
 
 
 

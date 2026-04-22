@@ -107,5 +107,5 @@ Unsupervised and self-supervised learning
 
 transfer learning
 - very important paradigm 
-- take patterns one model has learned ---> tranfer it to another model 
-- 
+- take patterns one model has learned ---> transfer it to another model 
+- "head start" for your model

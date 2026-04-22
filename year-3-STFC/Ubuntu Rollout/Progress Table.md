@@ -52,4 +52,5 @@
 
 ### 02:ab:ba:00:22:18 
 - password is not working, is this because its already updated? 
-- tested two one that was updated, and one that the password didn't work
+- tested two one that was updated, and one that we were unsure of updated state. the password didn't work for both, even though for one of the digitisers, it did work before the update.
+- in terminal, we verified that the versions are the same 

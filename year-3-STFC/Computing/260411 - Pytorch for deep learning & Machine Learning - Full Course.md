@@ -93,3 +93,15 @@ inputs $\longrightarrow$ numerical encoding $\longrightarrow$ learns representat
 
 ![[fig-260420-anatomy-of-a-nn-24hr-pytorch.png]]
 - mention of ResNet, common for computer vision  
+
+--- 
+
+### types of learning
+
+Supervised learning 
+- labels
+
+Unsupervised and self-supervised learning 
+- no labels 
+
+transfer learning

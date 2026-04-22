@@ -39,7 +39,8 @@
 - unsure if firmware boot will work, attempted to load from server
 - **invalid firmware when booted from remote, proceeding with local downloaded firmware**
 ### 02:ab:ba:00:22:76 
-- multiple IP adresses? 
+- multiple IP addresses? 
+![[fig-260421-ubuntu24-rollout-double-ip-1-mac-add.png]]
 ### 02:ab:ba:00:22:77
 - not booting from its known IP
 - 

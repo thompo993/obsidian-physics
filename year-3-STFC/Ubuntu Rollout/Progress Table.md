@@ -181,7 +181,7 @@ PS C:\Users\fzy12567>
 --- 
 ### Digitiser 10
 - DAQ 4, accidently skipped and completed 
-- TRUE IP is 
+- TRUE IP is http://130.246.84.28/firmware
 ---
 
 

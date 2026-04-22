@@ -11,8 +11,6 @@
 ## Link
 https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 
-
-
 ### Tags
 [[machine learning]]
 [[pytorch]]

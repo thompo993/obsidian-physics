@@ -37,6 +37,10 @@ To start with we need to consider something called the Meissner effect. This is 
 
 If we apply a strong magnetic field to this super conductor, we begin too see the field creep inside of the material, forming something called a vortex lattice, this creates a characteristic distribution of local magnetic fields within the sample, which we can detect using MuSR.
 
-We can see whether the vortex lattice is well ordered or disordered, which tells us about defects, and how a superconductor might perform in real devices
+In MuSR, the way the internal magnetic field isspread out by the vortex lattice tells us the penetration depth, which is directly linked to the superfluid density how strong and coherent the superconducting condensate is.  
+
+If that field pattern is sharp and regular, the vortex lattice is well ordered; if it’s broadened or distorted, that points to defects and vortex pinning.  
+
+And pinning really matters in devices, because stronger pinning helps a superconductor carry higher currents without energy loss from vortex motion.
 
 

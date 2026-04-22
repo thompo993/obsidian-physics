@@ -26,11 +26,10 @@ These muons are then accelerated down the muon beamline, and implanted into the 
 
 The muons slow and come to a stop inside the sample, in our case a superconductor!
 
-The muons come to rest inside the sample, and their spins act like tiny magnets, interacting with the local fields inside of the sample. Muons dont just stay still however, they spin! Our Muons are Like tiny ballet dancers This is a common analogy for muons, but what does this spin tell us about our sample. 
+The muons come to rest inside the sample, and their spins act like tiny magnets, interacting with the local fields inside of the sample. Muons don't just stay still however, they spin! Our Muons are Like tiny ballet dancers pirouetting at different points in the material. 
 
 It tells us about **magnetism on the atomic scale**, and that’s exactly what we need for superconductors.
 
-when a muon pirouettes, we call this precession, and the speed of this precession is set by the local field the muon has come to rest at within the sample. 
 
 Different parts of the material have different local magnetic field, so a ensemble of muons allows us to reconstruct the magnetic field of our sample. 
 

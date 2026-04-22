@@ -30,7 +30,9 @@ Muon spins act like tiny magnets, interacting with the local fields inside of th
 Our Muons are Like tiny ballet dancers pirouetting at different points in the material. The frequency of this precession can tell us about the local magnetism on the atomic scale, and that’s exactly what we need for superconductors.
 
 But how do we measure the spin of all our muons? 
-The muon lives for 2.2$\mu s$, and decays preferentially in the direction of their spin, which we already know is the direction of the local magnetic field for that particular muon. We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
+The muon lives for 2.2$\mu s$, and decays preferentially in the direction of their spin, which we already know is the direction of the local magnetic field for that particular muon
+
+We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
 Now that we know how a MuSR experiment works, how does it connect to superconductors?
 
 First, the Meissner effect: when a material is cooled below its critical temperature, it expels magnetic fields. But most real superconductors are type II, which behave differently in strong fields.

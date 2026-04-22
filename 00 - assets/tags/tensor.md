@@ -6,4 +6,9 @@ https://www.youtube.com/watch?v=f5liqUk0ZTw
 	- make the direction of the vector perpendicular to the surface. 
 
 #### components of a vector
-- unit vectors - they have a leng
+- unit vectors:
+	- length of 1 
+	- in direction. 
+	- x, y and z hat are examples of unit vectors
+### example 
+consider an vector in the X-Y plane

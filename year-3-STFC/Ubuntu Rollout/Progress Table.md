@@ -115,7 +115,7 @@
 --- 
 ## TOP LEFT DIGITISER - DIGITISER 3
 
-terminal attempt for all 4 digitisers, either password doesn't work or they think there is a MIM attack, 
+terminal attempt for all 4 digitisers, either password doesn't work or they think there is a MIM attack,  **CHECK ALL FIRMWAREs**
 
 ```
 PS C:\Users\fzy12567> ssh ubuntu@130.246.84.7

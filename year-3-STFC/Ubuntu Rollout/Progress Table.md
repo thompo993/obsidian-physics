@@ -29,10 +29,7 @@
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
-
-
-
-
+## TOP LEFT DIGITISER
 ### 02:ab:ba:00:22:74 
 - had to use PuTTY and wired protocol. ([[IP  Change contingecy]])
 - problems with remote download. 
@@ -41,11 +38,12 @@
 - also had to use PuTTY
 - unsure if firmware boot will work, attempted to load from server
 - **invalid firmware when booted from remote, proceeding with local downloaded firmware**
-
+### 02:ab:ba:00:22:76 
+- multiple IP adresses? 
+### 02:ab:ba:00:22:77
+- not booting from its known IP
+- 
 
 ### 02:ab:ba:00:22:7b
 - unsure if firmware boot will work, attempted to load from server
 - - **invalid firmware when booted from remote, proceeding with local downloaded firmware** 
-
-### 02:ab:ba:00:22:77
-- not booting from its known IP

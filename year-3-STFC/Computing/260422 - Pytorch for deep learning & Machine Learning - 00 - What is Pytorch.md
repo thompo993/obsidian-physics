@@ -43,3 +43,25 @@ A Tensor seems like it is simply a matrix.
 
 
 ### What is a [[tensor]]
+
+## what are we going to cover 
+- pytorch basics and fundamentals 
+later
+- preprocessing data (getting data into tensors)
+- building and using pretrained deep learning models 
+- fitting a model to the data  
+- making predictions 
+- evaluating model predictions 
+- saving and loading models 
+- using a trained models to make predictions on custom data
+- ![[fig-260422-pytoch-workflow-what-is-pytorch.png]]
+
+
+
+### how to approach this course 
+- this course is focused on writing pytorch code 
+- code along
+	- so we will need to boot a lot of Kaggle notebooks 
+- explore and experiment
+- visualize what you don't understand
+- ask questions (copilot could be used)

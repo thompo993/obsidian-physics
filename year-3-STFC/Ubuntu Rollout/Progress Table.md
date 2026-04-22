@@ -86,9 +86,10 @@
 - password did not work 
 ### 02:ab:ba:00:22:21
 - password did not work
-- worried about man in middle attach, does not lte 
+- worried about man in middle attach, does not let me try and login
 ![[fig-260421-ubuntu24-rollou-man-in-middle.png]]
 
+## TOP LEFT DIGITISER - DIGITISER 2
 
 
 

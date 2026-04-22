@@ -44,4 +44,4 @@
 - - **invalid firmware when booted from remote, proceeding with local downloaded firmware** 
 
 ### 02:ab:ba:00:22:77
-- not booting from its known 
+- not booting from its known IP

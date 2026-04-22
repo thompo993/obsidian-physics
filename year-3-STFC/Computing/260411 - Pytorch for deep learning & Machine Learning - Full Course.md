@@ -116,5 +116,5 @@ transfer learning
 - facial recognition 
 - NLP 
 - Medical diagnostics
-	- medical imaging of brain tumours THIS IS US
+	- medical imaging of brain tumors THIS IS US
 - 

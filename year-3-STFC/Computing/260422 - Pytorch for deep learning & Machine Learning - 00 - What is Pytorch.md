@@ -65,3 +65,11 @@ later
 - explore and experiment
 - visualize what you don't understand
 - ask questions (copilot could be used)
+- do the exercises 
+- share your work
+### How to not approach this course 
+- avoid overthinking the course 
+	- don't say "i cant learn"
+
+### [[learning pytorch resources]] 
+GitHub repo: 

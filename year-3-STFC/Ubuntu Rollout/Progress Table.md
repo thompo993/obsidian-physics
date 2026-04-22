@@ -179,6 +179,13 @@ PS C:\Users\fzy12567>
 ### 02:ab:ba:00:22:84 
 
 --- 
+### Digitiser 10
+- DAQ 4, accidently skipped and completed 
+- TRUE IP is 
+---
+
+
+
 
 ## other digitisers
 ### 02:ab:ba:00:22:7b

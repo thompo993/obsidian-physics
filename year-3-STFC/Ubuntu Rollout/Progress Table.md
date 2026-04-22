@@ -109,7 +109,7 @@
 ### 02:ab:ba:00:22:21
 - password did not work
 - not updated
-- worried about man in middle attach, does not let me try and login
+- worried about man in middle attack, does not let me try and login
 ![[fig-260421-ubuntu24-rollou-man-in-middle.png]]
 
 --- 

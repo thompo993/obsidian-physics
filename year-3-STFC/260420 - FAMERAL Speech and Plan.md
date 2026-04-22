@@ -35,6 +35,6 @@ So now we know how a MuSR experiment works, but how does this link to supercondu
 
 To start with we need to consider something called the Meissner effect. This is where the magnetic field is expelled from inside the material. when the material reaches below its critical temperature. But most practical superconductors are type-II superconductors*, and they behave differently under a strong applied field. 
 
-If we apply a strong magnetic field to this super conductor, we begin too see the feild creep inside of the material, forming something called a vortex lattice, this creates a characteristic pattern of local magnetic fields within the sample, which we can detect using MuSR. 
+If we apply a strong magnetic field to this super conductor, we begin too see the field creep inside of the material, forming something called a vortex lattice, this creates a characteristic pattern of local magnetic fields within the sample, which we can detect using MuSR. 
 
 

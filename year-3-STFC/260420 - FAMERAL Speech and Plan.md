@@ -18,7 +18,7 @@ But how do we actually see inside and study superconductors?
 
 At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance.  He have an array of cutting edge muon spectrometers which we use to probe superconductors . 
 
-To produce muons, ur Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  One key detail is that pion decay violates parity- so the muons are produced spin-polarised
+To produce muons, our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  One key detail is that pion decay violates parity- so the muons are produced spin-polarised
 
 Some of these muons come to rest near the surface of the carbon, and as they have no kinetic energy, we know that their momentum is exactly antiparallel to their magnetic spin. 
 
@@ -45,13 +45,3 @@ Pinning is crucial for applications: stronger pinning prevents vortices from mo
 
 
 --- 
-
-If we apply a strong magnetic field to this super conductor, we begin too see the field creep inside of the material, forming something called a vortex lattice, this creates a characteristic distribution of local magnetic fields within the sample, which we can detect using MuSR.
-
-In MuSR, the way the internal magnetic field is spread out by the vortex lattice tells us the penetration depth, which is directly linked to the superfluid density, how strong and coherent the superconducting condensate is.  
-
-If that field pattern is sharp and regular, the vortex lattice is well ordered; if it’s broadened or distorted, that points to defects and vortex pinning.  
-
-And pinning really matters in devices, because stronger pinning helps a superconductor carry higher currents without energy loss from vortex motion.
-
-

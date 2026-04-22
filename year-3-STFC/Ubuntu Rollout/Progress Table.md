@@ -79,7 +79,15 @@
 - in terminal, we verified that the versions are the same 
 ![[fig-260421-ubuntu24-rollout-version-when-password-not-working.png]]
 - however some do not have a working password and do not have the right firmware versions
-### 02:ab:ba:00:22:18 
+### 02:ab:ba:00:22:19
+- password did not work 
+
+### 02:ab:ba:00:22:20
+- password did not work 
+### 02:ab:ba:00:22:21
+- password did not work
+- worried about man in middle attach, does not lte 
+![[fig-260421-ubuntu24-rollou-man-in-middle.png]]
 
 
 

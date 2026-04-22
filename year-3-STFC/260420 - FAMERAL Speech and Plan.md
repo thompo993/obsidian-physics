@@ -12,7 +12,7 @@ Infront of MuSR
 ### Script
 Nuclear Fusion, MRI Machines, Quantum Computing, and MagLev Trains are all linked by one thing, Superconductors.
 
-Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature".  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
+Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature.  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
 
 Resistance in a normal material is caused by scattering  electrons, but in a superconductor scattering would require breaking one of these cooper pairs. This is energetically impossible below the critical temperature.
 
@@ -43,6 +43,6 @@ and depending on how narrow and well-defined the distribution is, we can tell h
 Pinning is crucial for applications: stronger pinning prevents vortices from moving which allows the superconductor to carry higher currents with less dissipation.
 
 
-So next time you go and get an MRI, or Ride a Ma
+So next time you go and get an MRI, or Ride a Maglev train, you have MuSR and superconductors to thank!
 
 --- 

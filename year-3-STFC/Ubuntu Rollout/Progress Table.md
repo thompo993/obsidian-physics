@@ -22,7 +22,7 @@
 | 02:ab:ba:00:22:74 | 130.246.84.7   | 130.246.84.8  |     | y            |                 | 260421 |     |
 | 02:ab:ba:00:22:75 | 130.246.84.123 | 130.246.84.10 |     | y            |                 | 260421 |     |
 | 02:ab:ba:00:22:76 | 130.246.84.124 | 130.246.84.2  |     | y            |                 | 260421 |     |
-| 02:ab:ba:00:22:77 |                |               |     |              |                 | 260421 |     |
+| 02:ab:ba:00:22:77 |                |               |     | y            |                 | 260421 |     |
 | 02:ab:ba:00:22:7b | 130.246.84.6   | 130.246.84.6  |     | Y            |                 | 260422 |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
@@ -42,3 +42,6 @@
 ### 02:ab:ba:00:22:7b
 - unsure if firmware boot will work, attempted to load from server
 - - **invalid firmware when booted from remote, proceeding with local downloaded firmware** 
+
+### 02:ab:ba:00:22:77
+- not booting from its known 

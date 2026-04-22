@@ -5,6 +5,8 @@
 - [ ] Write speech for FAMRAL ⏫ 📅 2026-04-22
 - [ ] Record Speech and Submit to Rosei 📅 2026-04-24
 
+
+[[script]]
 ### Location 
 Infront of MuSR
 ### Script

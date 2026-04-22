@@ -5,7 +5,7 @@
 [[firmware]]
 [[Super MuSR]]
 
-**NOTE: UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION
+**NOTE: UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
 
 ### Table
 
@@ -23,7 +23,7 @@
 | 02:ab:ba:00:22:75 | 130.246.84.123 | 130.246.84.10 |     | y            |                 | 260421 |     |
 | 02:ab:ba:00:22:76 | 130.246.84.124 | 130.246.84.2  |     | y            |                 | 260421 |     |
 | 02:ab:ba:00:22:77 |                |               |     |              |                 | 260421 |     |
-| 02:ab:ba:00:22:7b | 130.246.84.6   | 130.246.84.6  |     | Y            |                 |        |     |
+| 02:ab:ba:00:22:7b | 130.246.84.6   | 130.246.84.6  |     | Y            |                 | 260422 |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |
 |                   |                |               |     |              |                 |        |     |

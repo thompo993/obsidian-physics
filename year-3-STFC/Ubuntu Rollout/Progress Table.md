@@ -49,3 +49,7 @@
 ### 02:ab:ba:00:22:7b
 - unsure if firmware boot will work, attempted to load from server
 - - **invalid firmware when booted from remote, proceeding with local downloaded firmware** 
+
+### 02:ab:ba:00:22:18 
+- password is not working, is this because its already updated? 
+- tested two one that was updated, and one that the password didn't work

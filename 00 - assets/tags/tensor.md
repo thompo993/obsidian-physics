@@ -12,3 +12,11 @@ https://www.youtube.com/watch?v=f5liqUk0ZTw
 	- x, y and z hat are examples of unit vectors
 ### example 
 consider an vector in the X-Y plane
+
+#### projections 
+-  shine a light perpendicular to the x axis
+- this gives us the x component of the vector
+- shine a light perpendicular to the y axis
+- this gives us the y component of the vector 
+- alternatively, how far along each axis do i need to go to get to the tip of this vector? 
+	- how many  x, y and z hat?

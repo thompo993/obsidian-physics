@@ -39,13 +39,19 @@ But how do we measure the spin of all our muons?
 The muon lives for 2.2$\mu s$, and then decays, 
 emitting a positron in a direction related to the magnetic field. By counting the positrons, we can calculate the magnetic properties and therefore understand the quality of the superconductor!
 
-But how does this connect to superconductors? 
+But what does this tell us about the super conductor? 
 
 First, the Meissner effect: when a material is cooled below its critical temperature, it expels magnetic fields. But most real superconductors are type II, which behave differently in strong fields.
 
-Instead of fully expelling the field, they allow it to enter in tiny, quantised tubes called vortices. These vortices form an ordered lattice, creating a distinct pattern of magnetic fields inside the material, something MuSR can measure.
+Instead of fully expelling the field
 
-From this pattern, we can extract key properties like the superfluid density, which tells us how strong and coherent the superconducting state is. The shape of the distribution also reveals how ordered the vortex lattice is, any distortion points to defects and vortex pinning.
+they allow it to enter in tiny, quantised tubes called vortices. 
+
+These vortices form an ordered lattice, creating a distinct pattern of magnetic fields inside the material, something MuSR can measure.
+
+From this pattern, we can extract key properties like the superfluid density, which tells us how strong and coherent the superconducting state is.
+
+The shape of the distribution also reveals how ordered the vortex lattice is, any distortion points to defects and vortex pinning.
 
 Pinning is essential in real-world applications because it stops vortices from moving, allowing superconductors to carry higher currents with minimal energy loss.
 

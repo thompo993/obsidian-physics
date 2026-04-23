@@ -51,10 +51,12 @@ These vortices form an ordered lattice, creating a distinct pattern of magnetic 
 
 From this pattern, we can extract key properties like the superfluid density, which tells us how strong and coherent the superconducting state is.
 
-The shape of the distribution also reveals how ordered the vortex lattice is, any distortion points to defects and vortex pinning.
+The shape of the distribution also reveals how ordered the vortex lattice is, any distortion suggests there are defects and vortex pinning.
 
-Pinning is essential in real-world applications because it stops vortices from moving, allowing superconductors to carry higher currents with minimal energy loss.
+Pinning is essential for
 
-So next time you have an MRI scan or ride a maglev train, you can thank  superconductors and MuSR
+real-world applications because it stops vortices from moving, allowing superconductors to carry higher currents with minimal energy loss.
+
+
 
 --- 

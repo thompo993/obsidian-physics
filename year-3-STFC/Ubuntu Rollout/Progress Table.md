@@ -217,7 +217,8 @@ PS C:\Users\fzy12567>
 --- 
 
 ## digitiser 5: SN15256
-
+- all seem to be going fine except DAQ4, which is not even letting me boot putty, or login
+- had this issue earlier, troubleshoot later
 
 
 

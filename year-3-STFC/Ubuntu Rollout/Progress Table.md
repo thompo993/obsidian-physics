@@ -97,7 +97,7 @@
 | 02:ab:ba:00:22:A6                      | 130.246.84.80  | 130.246.84.80    | needs install    | needs install    |              |                 |        |
 | 02:ab:ba:00:22:A7                      | 130.246.84.81  | 130.246.84.81    | needs install    | needs install    |              |                 |        |
 |                                        |                |                  |                  |                  |              |                 |        |
-|                                        |                |                  |                  |                  |              |                 |        |
+| **Digitiser 9 SN1713**                 |                |                  |                  |                  |              |                 |        |
 
 --- 
 

@@ -38,7 +38,7 @@ Procedure to fix this, enter these in the terminal sequentially
 if you still get `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`, enter the following otherwise, proceed as normal
 
 
-`ssh-keygen -R 130.246.84.70`
+`ssh-keygen -R <IP>
 
 `ssh ubuntu@130.246.84.70`
 

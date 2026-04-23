@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------------------------------------------------- | -------- | --------- |
 | [0:32:24](https://www.youtube.com/watch?v=V_xro1bcAuA&t=1944s) 5. Different learning paradigms                   | 20/04/26 | Obosidian |
 | [2:03:26](https://www.youtube.com/watch?v=V_xro1bcAuA&t=7406s) 18. Tensor attributes (information about tensors) | 22/04/26 | kaggle    |
-|                                                                                                                  |          | VSCODE    |
+| 2:23:00 Mat Multiplication                                                                                       | 23/04/26 | VSCODE    |
 |                                                                                                                  |          |           |
 
 

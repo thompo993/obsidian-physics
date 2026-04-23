@@ -105,11 +105,7 @@ By detecting and counting these positrons, we can reconstruct how the muon spins
 
 So what does this tell us about superconductors?
 
-One key phenomenon is the **Meissner effect**: when a material becomes superconducting, it expels magnetic fields.
-
-However, most real superconductors are what we call **Type II superconductors**, and they behave differently under strong magnetic fields.
-
-Instead of completely expelling the field, they allow it to penetrate in tiny, quantised tubes called **vortices**.
+Most practical superconductors allow strong magnetic fields it to penetrate in tiny, quantised tubes called **vortices**.
 
 These vortices arrange themselves into an ordered lattice, creating a unique magnetic field pattern inside the material—something MuSR is perfectly suited to measure.
 

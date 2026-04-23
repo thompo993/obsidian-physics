@@ -10,7 +10,8 @@
 ### Location 
 Infront of MuSR
 ### Script
-Nuclear Fusion, MRI Machines, Quantum Computing, and MagLev Trains are all linked by one thing, Superconductors. 
+Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors. 
+but the real breakthrough would be discovering one that works at room temperature, this would revolutionise how we transmit and use energy worldwide!
 
 Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature.  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
 

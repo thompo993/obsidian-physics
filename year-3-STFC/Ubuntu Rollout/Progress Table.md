@@ -85,7 +85,7 @@
 | 02:ab:ba:00:22:4a                      | 130.246.84.72  | 130.246.84.72    | needs install    | needs install    |              |                 |        |
 | 02:ab:ba:00:22:4b                      | 130.246.84.73  | 130.246.84.73    | needs install    | needs install    |              |                 |        |
 |                                        |                |                  |                  |                  |              |                 |        |
-| Digiter 7                              |                |                  |                  |                  |              |                 |        |
+| Digitiser 7                            |                |                  |                  |                  |              |                 |        |
 |                                        |                |                  |                  |                  |              |                 |        |
 |                                        |                |                  |                  |                  |              |                 |        |
 |                                        |                |                  |                  |                  |              |                 |        |

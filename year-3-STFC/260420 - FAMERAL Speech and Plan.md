@@ -22,11 +22,13 @@ At ISIS, one way we do this using MuSR, which stands for Muon Spin Rotation, rel
 
 We produce muons using 
 
-our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  A key feature of MuSR is that these muons that are polarised, we know their initial spin direction
+our Synchrotron that accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons. 
+
+A key feature of MuSR is that these muons that are polarised, we know their initial spin direction
 
 These muons are then accelerated down the muon beamline, and implanted into the sample, still fully polarised-so each muon has a spin antiparallel to its momentum. 
 
-The muons slow and come to a stop inside the sample, in our case a superconductor!
+The muons are slowed and come to a stop inside the sample, in our case a superconductor!
 
 Muon spins act like tiny magnets, interacting with the local fields inside of the sample. Muons don't just stay still however, they precess! 
 Our Muons are Like tiny ballet dancers pirouetting at different points in the material. The frequency of this precession can tell us about the local magnetism on the atomic scale, and that’s exactly what we need for superconductors.

@@ -43,6 +43,6 @@ From this pattern, we can extract key properties like the superfluid density, wh
 
 Pinning is essential in real-world applications because it stops vortices from moving, allowing superconductors to carry higher currents with minimal energy loss.
 
-So next time you have an MRI scan or ride a maglev train, you can thank MuSR and superconductors.
+So next time you have an MRI scan or ride a maglev train, you can thank  superconductors and MuSR
 
 --- 

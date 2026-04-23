@@ -6,9 +6,8 @@
 [[Super MuSR]]
 
 ### Notes: 
-
-**UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
-
+- **UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
+- the first three digitsers are jumbled, and some have a double IP issue, we will return to these 3 later (digitisers 1,2 and 3)
 ### Coordinate convention for DAQ121 - 260424
 
 ![[fig-260421-ubuntu24-rollout-layout-for-digitsers.png.jpg]]
@@ -65,10 +64,10 @@
 | 02:ab:ba:00:22:87              | 130.246.84.37  | 130.246.84.37 | **9.5.9.1**      | **24.12.12.02**  | y            |                 |        |
 |                                |                |               |                  |                  |              |                 |        |
 | **Digitiser 4**                |                |               |                  |                  |              |                 |        |
-|                                | 130.246.84.62  | 130.246.84.62 |                  |                  |              |                 |        |
-|                                | 130.246.84.63  | 130.246.84.63 |                  |                  |              |                 |        |
-|                                | 130.246.84.64  | 130.246.84.64 |                  |                  |              |                 |        |
-|                                | 130.246.84.65  | 130.246.84.65 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:64              | 130.246.84.62  | 130.246.84.62 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:65              | 130.246.84.63  | 130.246.84.63 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:66              | 130.246.84.64  | 130.246.84.64 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:67              | 130.246.84.65  | 130.246.84.65 |                  |                  |              |                 |        |
 |                                |                |               |                  |                  |              |                 |        |
 |                                |                |               |                  |                  |              |                 |        |
 |                                |                |               |                  |                  |              |                 |        |

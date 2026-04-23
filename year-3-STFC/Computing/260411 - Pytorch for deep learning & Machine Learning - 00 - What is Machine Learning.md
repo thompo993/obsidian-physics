@@ -1,11 +1,11 @@
-## progress
+## progress Table
 
-| Link and Section                                                                               | Date     |     |
-| ---------------------------------------------------------------------------------------------- | -------- | --- |
-| [0:32:24](https://www.youtube.com/watch?v=V_xro1bcAuA&t=1944s) 5. Different learning paradigms | 20/04/26 |     |
-|                                                                                                |          |     |
-|                                                                                                |          |     |
-|                                                                                                |          |     |
+| Link and Section                                                                                                 | Date     |     |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | --- |
+| [0:32:24](https://www.youtube.com/watch?v=V_xro1bcAuA&t=1944s) 5. Different learning paradigms                   | 20/04/26 |     |
+| [2:03:26](https://www.youtube.com/watch?v=V_xro1bcAuA&t=7406s) 18. Tensor attributes (information about tensors) | 22/04/26 |     |
+|                                                                                                                  |          |     |
+|                                                                                                                  |          |     |
 
 
 ## Link

@@ -17,3 +17,5 @@ Offending ED25519 key in C:\\Users\\fzy12567/.ssh/known_hosts:6
 Host key for <ip address> has changed and you have requested strict checking.
 Host key verification failed.
 ```
+
+The way to get around this is as follows, it is because someone has logged into the digitiser before you. 

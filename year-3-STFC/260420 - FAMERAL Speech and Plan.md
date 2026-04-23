@@ -10,13 +10,9 @@
 ### Location 
 Infront of MuSR
 ### Script
-Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors. 
+Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors, but the real breakthrough would be a room-temperature superconductor, which could transform global energy transmission and efficiency.
 
-These applications are great, but the real breakthrough would be discovering one that works at room temperature, this would revolutionise how we transmit and use energy worldwide!
-
-Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature.  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
-
-superconductivity is an amazing property observed in a few materials, where electrical resistance falls to zero. This phenomenon can be explained using quantum mechanics - where classical rules of physics can be broken!  Scientists have been hunting for over 100 years to find a material that superconducts at room temperature! We are getting very close
+Superconductors are materials that carry electricity with zero resistance below a critical temperature, an extraordinary effect explained by quantum mechanics, where behavior departs from classical physics. Scientists have been searching for over a century for a material that works at room temperature, and recent progress suggests we may be getting close.
 
 But how do we actually see inside and study superconductors?
 

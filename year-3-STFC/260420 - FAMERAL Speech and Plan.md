@@ -12,7 +12,7 @@ Infront of MuSR
 ### Script
 Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors, but the real breakthrough would be a room-temperature superconductor, which could transform global energy transmission and efficiency.
 
-Superconductors are materials that carry electricity with zero resistance below a critical temperature, an extraordinary effect explained by quantum mechanics, where behavior departs from classical physics. Scientists have been searching for over a century for a material that works at room temperature, and recent progress suggests we may be getting close.
+Superconductors are materials that carry electricity with zero resistance below a critical temperature, which is normally hundreds of degrees below freezing. Superconductivity is a extraordinary effect explained by quantum mechanics, where behaviour departs from classical physics. Scientists have been searching for over a century for a material that works at room temperature, and recent progress suggests we may be getting close.
 
 But how do we actually see inside and study superconductors?
 

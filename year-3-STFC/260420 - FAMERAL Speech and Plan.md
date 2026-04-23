@@ -16,7 +16,7 @@ These applications are great, but the real breakthrough would be discovering one
 
 Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature.  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
 
-Resistance in a normal material is caused by scattering  electrons, but in a superconductor scattering would require breaking one of these cooper pairs. This is energetically impossible below the critical temperature.
+superconductivity is an amazing property observed in a few materials, where electrical resistance falls to zero. This phenomenon can be explained using quantum mechanics - where classical rules of physics can be broken!  Scientists have been hunting for over 100 years to find a material that superconducts at room temperature! We are getting very close
 
 But how do we actually see inside and study superconductors?
 

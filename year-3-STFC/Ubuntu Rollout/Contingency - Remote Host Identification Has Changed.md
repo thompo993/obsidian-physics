@@ -1,3 +1,4 @@
+### Tags
 
 When trying to `ssh ubuntu@<ip address>` you may be met with the following message: 
 
@@ -22,4 +23,4 @@ The way to get around this is as follows, it is because someone has logged into 
 
 “I’ve connected This is SSH telling you: “I’ve connected to `130.246.84.70` before, and the server’s **host key** I’m seeing now is **different** from the one saved in your `known_hosts` file.” 
 
-That can be totally normal (server rebuilt, OS reinstalled, SSH keys regenerated, IP now points to a different machine), **or** it can indicate a **man‑in‑the‑middle attack**. SSH blocks the connection when strict checking is on. we know it is not a man in the middle attack, as we are on ethernet and 
+That can be totally normal (server rebuilt, OS reinstalled, SSH keys regenerated, IP now points to a different machine), **or** it can indicate a **man‑in‑the‑middle attack**. SSH blocks the connection when strict checking is on. we know it is not a man in the middle attack, as we are on ethernet and there is no point hacking these digitisers. 

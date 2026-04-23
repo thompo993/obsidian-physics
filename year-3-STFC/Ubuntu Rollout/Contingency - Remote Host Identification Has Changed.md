@@ -1,5 +1,7 @@
 
-When trying to `ssh`
+When trying to `ssh ubuntu@<ip adress>` you may be met with the following message: 
+
+```
 PS C:\Users\fzy12567> ssh ubuntu@130.246.84.20
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
@@ -14,3 +16,4 @@ Add correct host key in C:\\Users\\fzy12567/.ssh/known_hosts to get rid of this 
 Offending ED25519 key in C:\\Users\\fzy12567/.ssh/known_hosts:6
 Host key for 130.246.84.20 has changed and you have requested strict checking.
 Host key verification failed.
+```

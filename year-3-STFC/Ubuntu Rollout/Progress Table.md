@@ -202,6 +202,26 @@ PS C:\Users\fzy12567>
 ### 02:ab:ba:00:22:84 
 
 --- 
+
+### Digitiser 4 
+- DAQ 1 was fine, kept the IP 
+- DAQ 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- 
 ### Digitiser 10
 - DAQ 4, accidently skipped and completed 
 	- **02abba0022a3** 

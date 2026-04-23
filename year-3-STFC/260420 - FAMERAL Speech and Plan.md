@@ -29,9 +29,13 @@ These muons are then guided down the muon beamline, and implanted into the sampl
 The muons are slowed and come to a stop inside the sample, in our case a superconductor!
 
 Muon spins act like tiny magnets, interacting with the local fields inside of the sample. Muons don't just stay still however, they precess! 
-Our Muons are Like tiny ballet dancers pirouetting at different points in the material. The frequency of this precession can tell us about the local magnetism on the atomic scale, and that’s exactly what we need for superconductors.
 
-But how do we measure the spin of all our muons? 
+Our Muons are Like tiny ballet dancers pirouetting at different points in the material. 
+
+The frequency of this precession can tell us about the local magnetism on the atomic scale, and that’s exactly what we need for superconductors.
+
+But how do we measure the spin of all our muons?
+
 The muon lives for 2.2$\mu s$, and then decays, 
 emitting a positron in a direction related to the magnetic field. By counting the positrons, we can calculate the magnetic properties and therefore understand the quality of the superconductor!
 

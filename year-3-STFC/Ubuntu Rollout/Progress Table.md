@@ -227,7 +227,8 @@ PS C:\Users\fzy12567>
 
 ## digitiser 6 SN14895:
 
-- DAQ 1 had the same error with the Man in the middle attack being suggested.  (see [[#Man in the Middle Example]])
+- DAQ 1 had the same error with the Man in the middle attack being suggested.  (see [[#Man in the Middle Example]]) 
+- F
 
 
 

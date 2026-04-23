@@ -85,13 +85,13 @@ We produce them using a synchrotron, which accelerates protons to about **84% of
 
 A key feature of these muons is that they are **polarised**—we know their initial spin direction.
 
-These muons are then guided along a beamline and implanted into our sample—here, a superconductor—while still fully polarised.
+These muons are then guided along a beamline and implanted into our sample while still fully polarised.
 
-Once inside the material, the muons come to rest, but their spins don’t just sit still.
+Once inside the superconductor, the muons come to rest, but their spins don’t just sit still.
 
 They **precess**.
 
-You can think of them like tiny spinning tops—or even ballet dancers—pirouetting within the material.
+You can think of them likeor even ballet dancerspirouetting within the material.
 
 Because muons behave like tiny magnets, their precession is influenced by the local magnetic fields inside the superconductor.
 

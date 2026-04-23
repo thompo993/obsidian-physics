@@ -2,7 +2,7 @@
 [[muon]]
 [[MuSR]]
 [[superconductivity]]
-- [ ] Write speech for FAMRAL ⏫ 📅 2026-04-22
+- [x] Write speech for FAMRAL ⏫ 📅 2026-04-22 ✅ 2026-04-23
 - [ ] Record Speech and Submit to Rosei 📅 2026-04-24
 
 
@@ -10,7 +10,7 @@
 ### Location 
 Infront of MuSR
 ### Script
-Nuclear Fusion, MRI Machines, Quantum Computing, and MagLev Trains are all linked by one thing, Superconductors. Further than
+Nuclear Fusion, MRI Machines, Quantum Computing, and MagLev Trains are all linked by one thing, Superconductors. 
 
 Superconductors are materials that conduct electricity with 0 resistance when they are cooled to below their critical temperature.  The electrons pair up forming  cooper pairs. A collection of cooper pairs behave as a coherent quantum state inside a superconductor. 
 
@@ -26,7 +26,7 @@ our Synchrotron that accelerates protons to 84% the speed of light, where they c
 
 A key feature of MuSR is that these muons that are polarised, we know their initial spin direction
 
-These muons are then accelerated down the muon beamline, and implanted into the sample, still fully polarised-so each muon has a spin antiparallel to its momentum. 
+These muons are then guided down the muon beamline, and implanted into the sample, still fully polarised-so each muon has a spin antiparallel to its momentum. 
 
 The muons are slowed and come to a stop inside the sample, in our case a superconductor!
 

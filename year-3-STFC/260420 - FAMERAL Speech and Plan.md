@@ -12,7 +12,7 @@ Infront of MuSR
 ### Script
 Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors, but the real breakthrough would be a room-temperature superconductor, which could transform global energy transmission and efficiency.
 
-Superconductors are materials that carry electricity with zero resistance below a critical temperature, which is normally hundreds of degrees below freezing. Superconductivity is a extraordinary effect explained by quantum mechanics, where behaviour departs from classical physics. Scientists have been searching for over a century for a material that works at room temperature, and recent progress suggests we may be getting close.
+Superconductors are materials that carry electricity with zero resistance below a critical temperature, which is normally hundreds of degrees below freezing. Superconductivity is a extraordinary effect explained by quantum mechanic. Scientists have been searching for over a century for a material that works at room temperature, and recent progress suggests we may be getting close.
 
 But how do we actually see inside and study superconductors?
 
@@ -32,7 +32,7 @@ Muon spins act like tiny magnets, interacting with the local fields inside of th
 Our Muons are Like tiny ballet dancers pirouetting at different points in the material. The frequency of this precession can tell us about the local magnetism on the atomic scale, and that’s exactly what we need for superconductors.
 
 But how do we measure the spin of all our muons? 
-The muon lives for 2.2$\mu s$, and decays preferentially in the direction of their spin, which we y know is the direction of the local magnetic field for that particular muon
+The muon lives for 2.2$\mu s$, and  they decay, emitting a positron in a direction related to the magnetic field. By counting the positrons, we can calculate the magnetic properties and therefore understand the quality of the superconductor!
 
 We surround the sample with detectors, and this allows us to build a complete picture of the magnetic field in our sample
 Now that we know how a MuSR experiment works, how does it connect to superconductors?

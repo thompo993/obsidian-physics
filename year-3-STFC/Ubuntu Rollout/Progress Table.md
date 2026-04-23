@@ -220,6 +220,7 @@ PS C:\Users\fzy12567>
 - all seem to be going fine except DAQ4, which is not even letting me boot putty, or login
 - had this issue earlier, troubleshoot later
 - DAQ 4 was used for a random test earlier to see if all ips were static, so it was already updated. so its at the same step as the others
+## digitiser 6: 
 
 
 

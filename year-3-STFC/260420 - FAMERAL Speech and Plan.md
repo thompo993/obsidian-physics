@@ -91,7 +91,7 @@ Once inside the superconductor, the muons come to rest, but their spins don’t 
 
 They **precess**.
 
-You can think of them likeor even ballet dancerspirouetting within the material.
+You can think of them like tiny  ballet dancers pirouetting within the material.
 
 Because muons behave like tiny magnets, their precession is influenced by the local magnetic fields inside the superconductor.
 

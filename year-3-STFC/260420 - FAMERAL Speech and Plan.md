@@ -18,7 +18,7 @@ Resistance in a normal material is caused by scattering  electrons, but in a su
 
 But how do we actually see inside and study superconductors?
 
-At ISIS, we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance.  We have an array of cutting edge muon spectrometers which we use to probe superconductors . 
+At ISIS, one way we do this using MuSR, which stands for Muon Spin Rotation, relaxation, and resonance. We can use this technique to probe superconductors . 
 
 To produce muons, our Synchrotron accelerates protons to 84% the speed of light, where they collide with a carbon target, producing Pions, which rapidly decay into muons.  A key feature of MuSR is that these muons that are polarised, we know their initial spin direction
 

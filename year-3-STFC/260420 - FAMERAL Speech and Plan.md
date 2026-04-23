@@ -104,7 +104,6 @@ Muons are unstable—they live for about **2.2 microseconds** before decaying. W
 By detecting and counting these positrons, we can reconstruct how the muon spins evolved over time—and from that, determine the internal magnetic properties of the material.
 
 So what does this tell us about superconductors?
-
 Most practical superconductors allow strong magnetic fields it to penetrate in tiny, quantised tubes called **vortices**.
 
 These vortices arrange themselves into an ordered lattice, creating a unique magnetic field pattern inside the material—something MuSR is perfectly suited to measure.

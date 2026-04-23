@@ -7,12 +7,12 @@
 
 ### Notes: 
 - **UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
-- the first three digitsers are jumbled, and some have a double IP issue, we will return to these 3 later (digitisers 1,2 and 3)
+- the first three digitisers are jumbled, and some have a double IP issue, we will return to these 3 later (digitisers 1,2 and 3)
 #### Current protocol
 - ALL STEPS UP TOO THE FIRMWARE UPDATE STEP ARE BEING TAKEN
 - This is to: 
-	- prevent dual IP error, seems to creep up on occassions when firmware is rebooted
-	- no valid firmwar
+	- prevent dual IP error, seems to creep up on occasions when firmware is rebooted
+	- no valid firmware bug, waiting on Andrea
 ### Coordinate convention for DAQ121 - 260424
 
 ![[fig-260421-ubuntu24-rollout-layout-for-digitsers.png.jpg]]
@@ -73,10 +73,10 @@
 | 02:ab:ba:00:22:65              | 130.246.84.4   | 130.246.84.63/4 | needs install    | needs install    |              |                 |        |
 | 02:ab:ba:00:22:66              | 130.246.84.64  | 130.246.84.64   | needs install    | needs install    |              |                 |        |
 | 02:ab:ba:00:22:67              | 130.246.84.65  | 130.246.84.65   | needs install    | needs install    |              |                 |        |
-|                                |                |                 |                  |                  |              |                 |        |
-|                                |                |                 |                  |                  |              |                 |        |
-|                                |                |                 |                  |                  |              |                 |        |
-|                                |                |                 |                  |                  |              |                 |        |
+| **Digitiser 5**                |                |                 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:78              |                |                 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:79              |                |                 |                  |                  |              |                 |        |
+| 02:ab:ba:00:22:                |                |                 |                  |                  |              |                 |        |
 |                                |                |                 |                  |                  |              |                 |        |
 |                                |                |                 |                  |                  |              |                 |        |
 |                                |                |                 |                  |                  |              |                 |        |

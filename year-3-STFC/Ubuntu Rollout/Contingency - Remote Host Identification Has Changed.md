@@ -34,12 +34,12 @@ That can be totally normal (server rebuilt, OS reinstalled, SSH keys regenerated
 
 Procedure to fix this, enter these in the terminal sequentially 
 
-`ssh ubuntu@130.246.84.70`
+`ssh ubuntu@<IP>
 if you still get `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`, enter the following otherwise, proceed as normal
 
 
-`ssh-keygen -R <IP>
+`ssh-keygen -R <IP>`
 
-`ssh ubuntu@130.246.84.70`
+`ssh ubuntu@<IP>`
 
 This should fix the issue!

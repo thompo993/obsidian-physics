@@ -207,6 +207,7 @@ PS C:\Users\fzy12567>
 - DAQ 1 was fine, kept the IP 
 - DAQ 2 was not fine (02:ab:ba:00:22:65)
 	- double IP ISSUE AGAIN
+![[fig-260421-ubuntu24-rollout-double-ip-1-mac-add-2.png]]
 
 
 

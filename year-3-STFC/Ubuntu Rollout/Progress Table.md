@@ -78,7 +78,7 @@
 | 02:ab:ba:00:22:79                      | 130.246.84.67  | 130.246.84.67    | needs install    | needs install    |              |                 | 260423 |     |
 | 02:ab:ba:00:22:7a                      | 130.246.84.68  | 130.246.84.68    | needs install    | needs install    |              |                 | 260423 |     |
 | 02:ab:ba:00:22:7b                      | 130.246.84.69  | 130.246.84.69    | 10.0.0.3         | 26.02.19.01      |              |                 | 260423 |     |
-|                                        | ATTEMPTED      | FIRMWARE         | ON               | ABOVE            |  8           |                 |        |     |
+|                                        | ATTEMPTED      | FIRMWARE         | ON               | ABOVE            | 8            |                 |        |     |
 | **Digitiser 6 SN14895**                |                |                  |                  |                  |              |                 |        |     |
 | 02:ab:ba:00:22:48                      | 130.246.84.70  | 130.246.84.70    | needs install    | needs install    |              |                 | 260423 |     |
 | 02:ab:ba:00:22:49                      | 130.246.84.71  | 130.246.84.71    | needs install    | needs install    |              |                 | 260423 |     |

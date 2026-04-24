@@ -5,6 +5,8 @@
 [[firmware]]
 [[Super MuSR]]
 
+
+- **DOUBLE IP ISSUE IS RUNNING RAMPANT**
 ### Notes: 
 - **UPDATE FINISHED WHEN CORRECT FIRMWARE IS INSTALLED**, CURRENT INSTALLED VERSION - **26.02.19.01** 
 - the first three digitisers are jumbled, and some have a double IP issue, we will return to these 3 later (digitisers 1,2 and 3)

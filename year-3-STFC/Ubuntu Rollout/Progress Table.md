@@ -92,10 +92,10 @@
 | 02:ab:ba:00:22:AB                      | 130.246.84.77                           | 130.246.84.77    | **9.5.9.1**      | **24.12.12.02**  |              |                 | 260423 |     |
 |                                        |                                         |                  |                  |                  |              |                 |        |     |
 | **Digitiser 8 SN17153**                |                                         |                  |                  |                  |              |                 |        |     |
-| 02:ab:ba:00:22:A4                      | 130.246.84.78                           | 130.246.84.78    | needs install    | needs install    |              |                 | 260423 |     |
-| 02:ab:ba:00:22:A5                      | 130.246.84.79                           | 130.246.84.79    | needs install    | needs install    |              |                 | 260423 |     |
-| 02:ab:ba:00:22:A6                      | 130.246.84.80                           | 130.246.84.80    | needs install    | needs install    |              |                 | 260423 |     |
-| 02:ab:ba:00:22:A7                      | 130.246.84.81                           | 130.246.84.81    | needs install    | needs install    |              |                 | 260423 |     |
+| 02:ab:ba:00:22:A4                      | 130.246.84.22                           | 130.246.84.22    | needs install    | needs install    |              |                 | 260423 |     |
+| 02:ab:ba:00:22:A5                      | 130.246.84.21                           | 130.246.84.721   | needs install    | needs install    |              |                 | 260423 |     |
+| 02:ab:ba:00:22:A6                      | 130.246.84.24                           | 130.246.84.24    | needs install    | needs install    |              |                 | 260423 |     |
+| 02:ab:ba:00:22:A7                      | 130.246.84.23                           | 130.246.84.23    | needs install    | needs install    |              |                 | 260423 |     |
 |                                        |                                         |                  |                  |                  |              |                 |        |     |
 | **Digitiser 9 SN17143**                |                                         |                  |                  |                  |              |                 |        |     |
 | 02:ab:ba:00:22:9C                      | 130.246.84.82                           | 130.246.84.82    | needs install    | needs install    |              |                 | 260423 |     |

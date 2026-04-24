@@ -303,3 +303,6 @@ PS C:\Users\fzy12567>
 ---
 
 
+### DOUBLE IP ISSUE 
+
+#### EXAMPLE: 130.246.84.12/ 12

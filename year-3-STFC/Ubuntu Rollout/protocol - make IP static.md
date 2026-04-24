@@ -1,9 +1,8 @@
 Enter the terminal, and enter:
-`sudo nano /etc/systemd/network/20-end0.network`
-
-change the file to add "ClientIdentifier=mac".
-
 ```
+sudo nano /etc/systemd/network/20-end0.network
+```
+change the file to add "ClientIdentifier=mac".
 [Match]
 Name=end0
 

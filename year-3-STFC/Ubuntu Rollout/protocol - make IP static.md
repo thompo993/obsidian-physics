@@ -19,8 +19,7 @@ UseDomains=yes
 ```
 
 
-Reboot: 
-`sudo systemctl restart systemd-networkd`
+Reboot. 
 
 Verify there is only one ip address:
 

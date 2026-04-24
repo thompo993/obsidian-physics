@@ -12,7 +12,6 @@ DHCP=ipv4
 
 [DHCPv4]
 ClientIdentifier=mac
-```
 
 Reboot: 
 `sudo systemctl restart systemd-networkd`

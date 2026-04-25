@@ -1,3 +1,9 @@
+[[ubuntu]]
+[[digitiser]]
+[[firmware]]
+[[Super MuSR]]
+[[Progress Table]]
+
 Enter the terminal, and enter:
 ```
 sudo nano /etc/systemd/network/20-end0.network

@@ -94,7 +94,7 @@ Spin Seebeck effect
 
 
 ### Nicola Kelly (Cambridge): Exploring the Magnetic Stretched Diamond Lattic
-![[Drawing 2026-04-14 11.32.18.excalidraw]]
+
 
 
 #### Nathan Bentley (Durham): Local magnetic properties of the rare-earth intermetallics RMn2Ge2 (R=Ce, Pr, Nd)

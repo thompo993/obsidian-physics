@@ -12,5 +12,6 @@ alias: ["Radiation detection and measurement"]
 Knoll, G. F. _Radiation Detection and Measurement_. (Wiley, Hoboken, NJ, 2010).
 
 # Tags:
+[[detectors]]
 
 # Article:

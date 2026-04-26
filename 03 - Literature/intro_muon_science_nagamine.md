@@ -12,5 +12,7 @@ alias: ["Introductory Muon Science"]
 Nagamine, K. _Introductory Muon Science_. (Cambridge University Press, 2003). doi:[10.1017/CBO9780511470776](https://doi.org/10.1017/CBO9780511470776).
 
 # Tags:
+[[MuSR]]
+[[muon]]
 
 # Article:

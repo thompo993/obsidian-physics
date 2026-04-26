@@ -11,5 +11,7 @@ alias: ["Muon spin rotation and relaxation in magnetic materials"]
 P Dalmas de Réotier, A. Y. Muon spin rotation and relaxation in magnetic materials. _J. Phys.: Condens. Matter 9 9113_ (1997).
 
 # Tags:
+[[muon]]
+
 
 # Article:

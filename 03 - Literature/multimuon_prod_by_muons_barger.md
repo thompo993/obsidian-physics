@@ -10,5 +10,6 @@ alias: ["Multimuon production by muons"]
 Barger, V., Keung, W. Y. & Phillips, R. J. N. Multimuon production by muons. _Phys. Rev. D_ **20**, 630–639 (1979).
 
 # Tags:
+[[muon]]
 
 # Article:

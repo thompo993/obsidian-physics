@@ -13,5 +13,10 @@ alias: ["Super-MuSR scientific design"]
 Baker, P. J., Lord, J. S., Biswas, P. K. & Hillier, A. D. Super-MuSR scientific design: Progress towards a step-change in muon capabilities at ISIS. _J. Phys.: Conf. Ser._ **2462**, 012032 (2023).
 
 # Tags:
+[[Super MuSR]]
+[[muon]]
+[[MuSR]]
+[[detectors]]
+
 
 # Article:

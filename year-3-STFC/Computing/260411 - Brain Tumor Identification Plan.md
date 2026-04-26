@@ -21,6 +21,8 @@
 -  Transfer learning due to a small dataset. 
 - need a method of splitting the data fairly. 
 - **consider loss function **
+- **Consider optimizer**
+
 ---
 
 ### NN Structure 

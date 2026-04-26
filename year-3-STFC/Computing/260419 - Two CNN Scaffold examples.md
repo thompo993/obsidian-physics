@@ -1,5 +1,6 @@
 [[python]]
 [[pytorch]]
+[[machine learning]]
 ### Week 13 CNN example
 class MNIST_CNN(nn.Module):
 

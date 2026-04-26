@@ -7,6 +7,8 @@
 | 2:23:00 Mat Multiplication                                                                                             | 23/04/26 | VSCODE    |
 | 2:57:48 25. Reshaping, viewing and stacking                                                                            | 23/04/26 | VSODE     |
 | [5:41:15](https://www.youtube.com/watch?v=V_xro1bcAuA&t=20475s) 43. Training a model with PyTorch (intuition building) | 24/04/27 | Kaggle    |
+|                                                                                                                        |          |           |
+|                                                                                                                        |          |           |
 
 
 ## Link

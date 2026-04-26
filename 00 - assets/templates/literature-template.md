@@ -7,6 +7,13 @@ authors:
 Abstract:
   "{ abstractNote }":
 ---
+---
+year: {{date | format("YYYY")}}
+tags: {{tags}}
+authors: {{authors}}
+Abstract: {{abstractNote}}
+---
+
 # Tags
 
 ### {{title}}

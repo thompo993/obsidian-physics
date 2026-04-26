@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 | [2:03:26](https://www.youtube.com/watch?v=V_xro1bcAuA&t=7406s) 18. Tensor attributes (information about tensors)       | 22/04/26 | kaggle    |
 | 2:23:00 Mat Multiplication                                                                                             | 23/04/26 | VSCODE    |
 | 2:57:48 25. Reshaping, viewing and stacking                                                                            | 23/04/26 | VSODE     |
-| [5:41:15](https://www.youtube.com/watch?v=V_xro1bcAuA&t=20475s) 43. Training a model with PyTorch (intuition building) | 25/04/27 | Kaggle    |
-| [8:32:00](https://www.youtube.com/watch?v=V_xro1bcAuA&t=30720s) 60. Introduction to machine learning classification    | 26/04/27 | Kaggle    |
-|                                                                                                                        |          |           |
+| [5:41:15](https://www.youtube.com/watch?v=V_xro1bcAuA&t=20475s) 43. Training a model with PyTorch (intuition building) | 25/04/26 | Kaggle    |
+| [8:32:00](https://www.youtube.com/watch?v=V_xro1bcAuA&t=30720s) 60. Introduction to machine learning classification    | 26/04/26 | Kaggle    |
+| [9:09:41](https://www.youtube.com/watch?v=V_xro1bcAuA&t=32981s) 64. Turing our data into tensors                       | 26/04/26 | Kaggle    |

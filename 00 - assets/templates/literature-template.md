@@ -4,7 +4,7 @@ alias: [{% if shortTitle %}"{{shortTitle | safe}}"{% else %}"{{title | safe}}"{%
 ---
 
 > [!info]
-> - **Cite Key:** [[@{{citekey}}]]
+> - **Cite Key:** @{{citekey}}
 {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}
 > - **Link:** [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}})
 {%- endfor -%}

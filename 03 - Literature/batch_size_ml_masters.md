@@ -13,5 +13,7 @@ Masters, D. & Luschi, C. Revisiting Small Batch Training for Deep Neural Network
 > - **Tags:** #Computer-Science---Computer-Vision-and-Pattern-Recognition, #Computer-Science---Machine-Learning, #Statistics---Machine-Learning
 
 # Tags:
+[[machine learning]]
+[[pytorch]]
 
 # Article:

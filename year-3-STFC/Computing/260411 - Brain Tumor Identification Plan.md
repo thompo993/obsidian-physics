@@ -22,6 +22,7 @@
 - need a method of splitting the data fairly. 
 - **consider loss function **
 - **Consider optimizer**
+- Save and timestamp models to prevent overuse of GPUs
 
 ---
 

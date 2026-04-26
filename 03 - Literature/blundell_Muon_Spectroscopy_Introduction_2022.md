@@ -4,7 +4,7 @@ alias: ["Muon spectroscopy"]
 ---
 
 > [!info]
-> - **Cite Key:** @blundellMuonSpectroscopyIntroduction2022
+> - **Cite Key:** @blundell_Muon_Spectroscopy_Introduction_2022
 > - **Link:** [PDF](file://C:\Users\thomp\Zotero\storage\WTE49W8I\Blundell%20et%20al.%20-%202022%20-%20Muon%20spectroscopy%20an%20introduction.pdf)
 > - **Abstract:** Aimed at beginner graduate students, this book provides a comprehensive introduction to muon spectroscopy and its uses in, among other applications, the study of semiconductors, magnets, superconductors, chemical reactions, and battery materials
 > - **Bibliography:** 1.

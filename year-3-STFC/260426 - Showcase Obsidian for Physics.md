@@ -39,8 +39,9 @@ The other thing I did is hotkey "Git: Commit-and-sync and then close Obsidian" t
 Simply install this program and have it outside of the folder, add links and move it to the respective folder inside master when your finished writing the notes. This just functions as any other note inside obsidian, but handwritten. Lectures in Physics are hard to write in LaTeX or plain text, and I find I recall and learn better this way. 
 
 ### Tasks 
-Install Tasks and then create a file called "tasks" inside this task place the following code:
-```tasks
+Install Tasks and then create a file called "tasks" inside this task place the following code (please change the header backticks to (\`\`\`tasks):
+
+```
 group by function { \
     let cacheKey = 'filename-heading-normalised-urgency'; \
     let getTaskGroup = (t) => (t.file.filenameWithoutExtension || "") + (t.heading ? "#" + t.heading : ""); \

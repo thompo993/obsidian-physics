@@ -70,6 +70,17 @@ $\longrightarrow$
 what is a superconductor 
 $\longrightarrow$ 
 how do we see inside a superconductor 
+	$\longrightarrow$ production of muons 
+	$\longrightarrow$ precession 
+	$\longrightarrow$ magnetism at an atomic scale
+
+what does this tell us about superconductors 
+	$\longrightarrow$ the vortex lattice 
+	$\longrightarrow$ superfluid density
+	$\longrightarrow$ 
+
+
+
 
 
 ## Full Script

@@ -14,5 +14,5 @@ Griffiths, D. J. & Schroeter, D. F. _Introduction to Quantum Mechanics_. (Cambri
 [[quantum mechanics]]
 
 # Article:
-[[pdf-Griffith_Quantum_Mechanics.pdf]]
-![[pdf-Griffith_Quantum_Mechanics.pdf]]
+[[pdf-260427-Griffith_Quantum_Mechanics.pdf]]
+![[pdf-260427-Griffith_Quantum_Mechanics.pdf]]

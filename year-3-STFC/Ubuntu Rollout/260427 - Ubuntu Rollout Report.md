@@ -37,4 +37,4 @@ ClientIdentifier=mac
 UseDNS=yes
 UseDomains=yes
 ```
-`ClientIdentifier=mac` to the `.network` file.  Occasionally the file would be empty, but then just write the full config file into the empty file and this works.
+`ClientIdentifier=mac` to the `.network` file.  Occasionally the file would be empty, but then just write the full config file into the empty file instead. 

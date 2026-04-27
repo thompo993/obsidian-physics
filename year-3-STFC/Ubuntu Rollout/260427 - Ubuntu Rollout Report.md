@@ -103,10 +103,10 @@ verify and save
 
 STEP 4 - REMOVE DOULBE IP ISSUE
 --------------------------------------------------------------------------
-
-
+Navigate to the terminal on the sidebar of the online interface and enter:
+sudo nano /etc/systemd/network/20-end0.network
 	
-
+Make it such that the file is 
 
 than reboot the digitizer (left bar reboot button)
 first boot from network will require 10 minutes in order to install all packages!

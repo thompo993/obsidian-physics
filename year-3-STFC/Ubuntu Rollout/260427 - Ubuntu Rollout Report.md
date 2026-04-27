@@ -6,4 +6,4 @@ All Digitiser except the prototype digitiser in the R80 Server room have been up
 Due to an issue between Linux clients and Microsoft DHCP servers caused by Linux sending the DHCP server what's called a "Client ID" and not the MAC address, causing two IPs to be assigned to one machine. 
 
 ## Fix:
-Needed to edit the .network 
+Needed to edit the `.network` file to make sure it was using MAC Address and not

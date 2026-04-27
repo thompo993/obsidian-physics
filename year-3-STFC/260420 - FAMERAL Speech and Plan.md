@@ -77,8 +77,9 @@ how do we see inside a superconductor
 what does this tell us about superconductors 
 	$\longrightarrow$ the vortex lattice 
 	$\longrightarrow$ superfluid density
-	$\longrightarrow$ 
+	$\longrightarrow$ impurities, pinning
 
+Closing remarks
 
 
 

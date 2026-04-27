@@ -113,3 +113,4 @@ From this pattern, we can extract important properties such as the **superfluid 
 We can also see how ordered the vortex lattice is. If the pattern is distorted, it indicates defects in the material and something called **vortex pinning**.
 
 Pinning is actually crucial for real-world applications, because it prevents vortices from moving—allowing superconductors to carry large currents without energy loss.
+

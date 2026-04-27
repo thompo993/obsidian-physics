@@ -10,7 +10,20 @@ Needed to edit the `.network` file to make sure it was using MAC Address and not
 ```
 sudo nano /etc/systemd/network/20-end0.network
 ```
-And the file was changed from
+And the file was changed from:
+```
+[Match]
+Name=end0
+
+[Network]
+DHCP=yes
+DNSDefaultRoute=yes
+
+[DHCP]
+UseDNS=yes
+UseDomains=yes
+```
+To:
 ```
 [Match]
 Name=end0
@@ -24,3 +37,4 @@ ClientIdentifier=mac
 UseDNS=yes
 UseDomains=yes
 ```
+`ClientIdentifier=mac` to the `.network` file.  Occassionally

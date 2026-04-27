@@ -40,6 +40,7 @@ UseDomains=yes
 `ClientIdentifier=mac` to the `.network` file.  Occasionally the file would be empty, but then just write the full config file into the empty file instead. 
 
 ## Full Update Protocol:
+```
 Important: NOTE DOWN THE IP ADDRESS. DISPLAY WILL NOT WORK IN RECOVERY
 
 STEP 1 -- INSTALL RECOVERY IMAGE
@@ -99,10 +100,14 @@ enter url
 http://daqserver.isis.cclrc.ac.uk/new-ubuntu-24/netcfg/bootstrap.sh
 
 verify and save
+--------------------------------------------------------------------------
+	STEP 4 - REMOVE DOU
+
+
 than reboot the digitizer (left bar reboot button)
 first boot from network will require 10 minutes in order to install all packages!
 web interface will automatically reconnect as soon as the digitizer boot up
 
 login and wait in the homepage until the read flag on the right side of the homepage goes away and the web interfaces says "CONNECTED".
 That means that all packages have been install and digitizer is operating correctly
-
+```

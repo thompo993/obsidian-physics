@@ -44,7 +44,7 @@ UseDomains=yes
 Important: NOTE DOWN THE IP ADDRESS. DISPLAY WILL NOT WORK IN RECOVERY
 
 STEP 1 -- INSTALL RECOVERY IMAGE
---------------------------------
+--------------------------------------------------------------------------
 Login in ssh in the old digitizer
 
 remember. the username for old was ubuntu and password was temppwd
@@ -58,7 +58,7 @@ chmod +x daq1x1-bootpart-update.sh
 sudo ./daq1x1-bootpart-update.sh
 
 STEP 2 -- REBOOT DIGITIZER IN RECOVERY
---------------------------------------
+--------------------------------------------------------------------------
 sudo mkdir -p /mnt/bootpartition
 sudo mount /dev/mmcblk0p1 /mnt/bootpartition
 sudo touch /mnt/bootpartition/recovery.txt
@@ -100,8 +100,12 @@ enter url
 http://daqserver.isis.cclrc.ac.uk/new-ubuntu-24/netcfg/bootstrap.sh
 
 verify and save
+
+STEP 4 - REMOVE DOULBE IP ISSUE
 --------------------------------------------------------------------------
-	STEP 4 - REMOVE DOU
+
+
+	
 
 
 than reboot the digitizer (left bar reboot button)

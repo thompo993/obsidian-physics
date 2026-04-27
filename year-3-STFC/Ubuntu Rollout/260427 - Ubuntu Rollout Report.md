@@ -6,4 +6,21 @@ All Digitiser except the prototype digitiser in the R80 Server room have been up
 Due to an issue between Linux clients and Microsoft DHCP servers caused by Linux sending the DHCP server what's called a "Client ID" and not the MAC address, causing two IPs to be assigned to one machine. 
 
 ## Fix:
-Needed to edit the `.network` file to make sure it was using MAC Address and not
+Needed to edit the `.network` file to make sure it was using MAC Address and not Client ID. The following changes were made:
+```
+sudo nano /etc/systemd/network/20-end0.network
+```
+And the file was changed from
+```
+[Match]
+Name=end0
+
+[Network]
+DHCP=yes
+DNSDefaultRoute=yes
+
+[DHCP]
+ClientIdentifier=mac
+UseDNS=yes
+UseDomains=yes
+```

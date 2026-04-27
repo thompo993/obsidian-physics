@@ -3,4 +3,7 @@ All Digitiser except the prototype digitiser in the R80 Server room have been up
 
 # Double IP Address issue: 
 ## Cause: 
-Due to an issue between Linux clients and Microsoft DHCP servers caused by Linux sending the DHCP server what's called a "Client ID" and not the MAC address as it would have done historically.
+Due to an issue between Linux clients and Microsoft DHCP servers caused by Linux sending the DHCP server what's called a "Client ID" and not the MAC address, causing two IPs to be assigned to one machine. 
+
+## Fix:
+Needed to edit the .network 

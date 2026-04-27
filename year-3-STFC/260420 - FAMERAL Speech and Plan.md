@@ -87,4 +87,4 @@ We can also see how ordered the vortex lattice is. If the pattern is distorted, 
 
 Pinning is actually crucial for real-world applications, because it prevents vortices from moving—allowing superconductors to carry large currents without energy loss.
 
-Techniques like MuSR are helping scientists peer inside superconductors in unprecedented detail, bringing us ever closer to unlocking their full potential—and perhaps one day, revolutionising energy with a room temperature superconductor 
+Techniques like MuSR are helping scientists peer inside superconductors in unprecedented detail, bringing us ever closer to unlocking their full potential—and perhaps in the near future, revolutionising energy with a room temperature superconductor 

@@ -65,7 +65,11 @@ real-world applications because it stops vortices from moving, allowing supercon
 
 ## Pointers 
 
+what is in a superconductor, and room temp is a big deal
 $\longrightarrow$ 
+what is a superconductor 
+$\longrightarrow$ 
+how do we see inside a superconductor 
 
 
 ## Full Script

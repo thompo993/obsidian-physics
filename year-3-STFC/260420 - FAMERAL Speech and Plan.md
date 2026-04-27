@@ -63,6 +63,12 @@ real-world applications because it stops vortices from moving, allowing supercon
 
 # Chat GPT Smoothed Speech Version (no content changes)
 
+## Pointers 
+
+$\longrightarrow$ 
+
+
+## Full Script
 Nuclear fusion, MRI machines, quantum computing, and MagLev trains all rely on superconductors. But the real breakthrough would be a _room-temperature_ superconductor—something that could completely transform how we generate, transmit, and use energy.
 
 So, what _is_ a superconductor?

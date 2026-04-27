@@ -19,7 +19,7 @@ DHCP=yes
 DNSDefaultRoute=yes
 
 [DHCP]
-ClientIdentifier=mac
+sudo nano /etc/systemd/network/20-end0.network
 UseDNS=yes
 UseDomains=yes
 ```

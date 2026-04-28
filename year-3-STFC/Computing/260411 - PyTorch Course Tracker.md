@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 | [5:41:15](https://www.youtube.com/watch?v=V_xro1bcAuA&t=20475s) 43. Training a model with PyTorch (intuition building) | 25/04/26 | Kaggle    |
 | [8:32:00](https://www.youtube.com/watch?v=V_xro1bcAuA&t=30720s) 60. Introduction to machine learning classification    | 26/04/26 | Kaggle    |
 | [9:09:41](https://www.youtube.com/watch?v=V_xro1bcAuA&t=32981s) 64. Turing our data into tensors                       | 26/04/26 | Kaggle    |
+| 9:35:00                                                                                                                |          |           |

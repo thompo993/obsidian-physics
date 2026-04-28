@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 | [8:32:00](https://www.youtube.com/watch?v=V_xro1bcAuA&t=30720s) 60. Introduction to machine learning classification    | 26/04/26 | Kaggle    |
 | [9:09:41](https://www.youtube.com/watch?v=V_xro1bcAuA&t=32981s) 64. Turing our data into tensors                       | 26/04/26 | Kaggle    |
 | 9:45:00                                                                                                                | 28/04/26 | VSCODE    |
+| [10:57:55](https://www.youtube.com/watch?v=V_xro1bcAuA&t=39475s) 73. Discussing options to improve a model             | 28/04/26 | Kaggle    |

@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 | [9:09:41](https://www.youtube.com/watch?v=V_xro1bcAuA&t=32981s) 64. Turing our data into tensors                       | 26/04/26 | Kaggle    |
 | 9:45:00                                                                                                                | 28/04/26 | VSCODE    |
 | [10:57:55](https://www.youtube.com/watch?v=V_xro1bcAuA&t=39475s) 73. Discussing options to improve a model             | 28/04/26 | Kaggle    |
-| 11:22:00                                                                                                               | 19/04/16 | VSCODE    |
+| 11:43:30                                                                                                               | 19/04/16 | VSCODE    |

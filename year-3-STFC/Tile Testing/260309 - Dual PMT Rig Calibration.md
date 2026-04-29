@@ -8,7 +8,7 @@
 - The purpose of this is due to the height changing from changing geometry in the box.
 - Ideally, the 0.245 peak value will be recovered for tile 21, as the voltage has not changed.
 - Therefore a fresh calibration will need to be carried out.
-![[fig-260309-dual-pmt-rig-height-scan 1.png]]
+![[fig-260309-dual-pmt-rig-height-scan.png]]
 ### Setup - Voltage Scan
 - Voltage scan to recalibrate and gain match PMTS.
 - Height selected from the floor to the top of the source is 44.5cm

@@ -63,3 +63,6 @@ We see in this folder a CHANNEL MAP AND OPTION FOR PULSERS, THIS IS IMPORTANT
 [[fig-260429-ubuntu-emulation-default-conf-on-daq-2.png]]
 ![[fig-260429-ubuntu-emulation-default-conf-on-daq-2.png]]
 This is for http://130.246.84.104/terminal, which according to its serial number of 02:ab:ba:00:22:6e, should have the following channel map:
+![[fig-260429-ubuntu-emulation-default-conf-on-daq-check-chmap.png]]
+**IT MATCHES!
+**

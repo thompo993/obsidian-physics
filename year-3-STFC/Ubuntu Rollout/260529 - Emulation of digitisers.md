@@ -70,6 +70,8 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
 
 
 ### Double check
+
+#### Mac Address and channel mapping
 ```
     - mac: 02:ab:ba:00:22:37
 
@@ -84,4 +86,8 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
       firmware: fw
 
       channels : [536,537,538,539,540,541,542,543]
+```
+#### IP Address and terminal 
+```
+
 ```

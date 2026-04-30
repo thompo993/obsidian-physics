@@ -228,4 +228,4 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
 
 **on 30/04/2026, the master file was updated, and "true master" was renamed, this is the original one before I start tampering with it. 
 
-editing the master file did not help me either. The pulse settings are not working!
+editing the master file did not help me either. The pulse settings are not working! we know it takes the confi

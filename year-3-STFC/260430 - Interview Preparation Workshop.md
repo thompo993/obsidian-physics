@@ -18,3 +18,4 @@
 	- lots of projects running in parallel 
 	- meeting preparation 
 	- deadlines, very different from 
+- Teamwork 

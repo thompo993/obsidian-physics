@@ -244,7 +244,8 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
 
 `super_rt-1-1.json` and `sysconfig.json` are in the same location as the channels, which we **know** have been updated, so why have the configs not updated? 
 
-
+## Testing HiFi Settings
+To test if the config settings from Hi
 
 
 

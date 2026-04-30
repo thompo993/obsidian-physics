@@ -228,4 +228,21 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
 
 **on 30/04/2026, the master file was updated, and "true master" was renamed, this is the original one before I start tampering with it. 
 
-editing the master file did not help me either. The pulse settings are not working! we know it takes the confi
+editing the master file did not help me either. The pulse settings are not working! we know it takes the configs from the following locations: 
+```
+    - mac: 02:ab:ba:00:22:97
+
+      digitizer: 31
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [984,985,986,987,988,989,990,991]
+```
+`super_rt-1-1.json` 
+`      sysconfig : sysconfig.json`

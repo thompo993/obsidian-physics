@@ -245,5 +245,5 @@ editing the master file did not help me either. The pulse settings are not worki
       channels : [984,985,986,987,988,989,990,991]
 ```
 
-`super_rt-1-1.json` 
+`super_rt-1-1.json` - 
 `sysconfig.json`

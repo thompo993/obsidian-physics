@@ -89,5 +89,13 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
 ```
 #### IP Address and terminal 
 ```
+    digitizer_17:
 
+      - 130.246.84.130    # MAC: 02:ab:ba:00:22:34
+
+      - 130.246.84.131    # MAC: 02:ab:ba:00:22:35
+
+      - 130.246.84.132    # MAC: 02:ab:ba:00:22:36
+
+      - 130.246.84.133    # MAC: 02:ab:ba:00:22:37
 ```

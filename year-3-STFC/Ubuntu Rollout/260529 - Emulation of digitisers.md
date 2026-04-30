@@ -67,3 +67,6 @@ This is for http://130.246.84.104/terminal, which according to its serial number
 **IT MATCHES!**
 
 It seems that updating the `isis.daq121` and `content.yaml` has caused the digitiser to map properly. tomorrow, check for a few more random configurations, and then we can update this conf files so that it makes all of them pulse. (`"pulse_enable": false`)
+
+
+### Double check

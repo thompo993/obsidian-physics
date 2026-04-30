@@ -70,3 +70,18 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
 
 
 ### Double check
+```
+    - mac: 02:ab:ba:00:22:37
+
+      digitizer: 17
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [536,537,538,539,540,541,542,543]
+```

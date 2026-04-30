@@ -99,3 +99,48 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
 
       - 130.246.84.133    # MAC: 02:ab:ba:00:22:37
 ```
+
+#### Inside the terminal, under default config
+```
+  GNU nano 7.2                                                                             default.cfg                                                                                       
+            "value": "8.2",
+            "idx": 0
+        }
+    ],
+    "emulator": {
+        "ch": {
+            "amp_0": 1000,
+            "amp_1": 1000,
+            "amp_2": 1000,
+            "amp_3": 1000,
+            "amp_4": 1000,
+            "amp_5": 1000,
+            "amp_6": 1000,
+            "amp_7": 1000,
+            "period_0": 10000,
+            "period_1": 10000,
+            "period_2": 10000,
+            "period_3": 10000,
+            "period_4": 10000,
+            "period_5": 10000,
+            "period_6": 10000,
+            "period_7": 10000
+        },
+        "width": 10,
+        "offset": 50,
+        "noise_amp": 200,
+        "pulse_enable": false,
+        "enable": false
+    },
+    "channel_map": [
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543
+    ]
+}
+```

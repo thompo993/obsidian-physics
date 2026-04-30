@@ -176,7 +176,7 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
       channels : [536,537,538,539,540,541,542,543]
 ```
 
-Then for the same mac address, inside the terminal on the DAQ we get:
+Then for the same mac address, inside the terminal on `default.cfg` the DAQ we get:
 
 ```
   GNU nano 7.2                                                                             default.cfg                                                                                       
@@ -224,11 +224,7 @@ Then for the same mac address, inside the terminal on the DAQ we get:
 
 As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. This is true for digitisers that I added to the `super_rt` list long after it was last used, so it is not old channel mapping causing this effect, it really has updated them for all digitisers. 
 
-However, what we have not been able to do is get `"pulse_enable": false` or `enable": false` to be equal to `true`. I have tried updating  `super-rt-1-1`, and `sysconfig`. I have not touched the master file.
-
-**on 30/04/2026, the master file was updated, and "true master" was renamed, this is the original one before I start tampering with it. 
-
-editing the master file did not help me either. The pulse settings are not working! we know it takes the configs from the following locations: 
+However, what we have not been able to do is get `"pulse_enable": false` or `enable": false` to be equal to `true`. I have tried updating  `super-rt-1-1`, and `sysconfig`. We know that this is what the DAQs pull from as inside `content.yaml` we see the following:
 ```
     - mac: 02:ab:ba:00:22:97
 
@@ -245,4 +241,5 @@ editing the master file did not help me either. The pulse settings are not worki
       channels : [984,985,986,987,988,989,990,991]
 ```
 
-`super_rt-1-1.json` and `sysconfig.json` were both set to be the same as hifi, which i have been told has worked before. however this did not seem to fix our issues. ls
+`super_rt-1-1.json` and `sysconfig.json`
+were both set to be the same as hifi, which i have been told has worked before. however this did not seem to fix our issues. ls

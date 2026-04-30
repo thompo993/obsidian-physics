@@ -19,3 +19,25 @@
 	- meeting preparation 
 	- deadlines, very different from 
 - Teamwork 
+
+# structuring techniques 
+## STAR 
+- situation 
+- task 
+- action 
+- results
+
+## SBI 
+- describe the **situation** 
+	- where did the behavior occur 
+	- when did the behavior occur 
+	- set the context 
+- describe the **behavior** 
+	- be objective 
+	- be specific 
+	- speak to observable behavior 
+- discuss the **impact** 
+	- impact on the team 
+	- impact on outcomes 
+	- impact on career goals
+	- impact on relationships

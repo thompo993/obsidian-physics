@@ -1,4 +1,4 @@
-[[talks]]
+[[skills]]
 [[muon]]
 [[MuSR]]
 [[superconductivity]]

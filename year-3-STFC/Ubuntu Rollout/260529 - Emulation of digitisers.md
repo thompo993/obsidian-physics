@@ -159,4 +159,21 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
 
 
 #### Current Progress 
-- Inside the terminal of the DAQ121s the channel mapping is the same as inside `content.yaml` .
+- Inside the terminal of the DAQ121s the channel mapping is the same as inside `content.yaml`. For example, inside the `content.yaml` file we have: 
+```
+    - mac: 02:ab:ba:00:22:37
+
+      digitizer: 17
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [536,537,538,539,540,541,542,543]
+```
+
+Then for the same mac adresses

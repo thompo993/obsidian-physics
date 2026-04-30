@@ -241,5 +241,5 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
       channels : [984,985,986,987,988,989,990,991]
 ```
 
-`super_rt-1-1.json` and `sysconfig.json`
+`super_rt-1-1.json` and `sysconfig.json` are in the same location as the channels, which we **know** have been updated, so why hav
 were both set to be the same as hifi, which i have been told has worked before. however this did not seem to fix our issues. ls

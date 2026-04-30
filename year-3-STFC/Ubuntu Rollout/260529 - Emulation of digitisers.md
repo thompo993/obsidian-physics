@@ -226,3 +226,4 @@ As we can see `"channel_map:"` is getting pulled from the sever and updated onto
 
 However, what we have not been able to do is get `"pulse_enable": false` or `enable": false` to be equal to true. I have tried updating  `super-rt-1-1`, and `sysconfig`. I have not touched the master file.
 
+**on 30/04/2026, the master file was updated, and "true master" was renamed **

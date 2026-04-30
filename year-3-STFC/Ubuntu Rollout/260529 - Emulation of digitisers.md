@@ -270,4 +270,5 @@ daq_ips:
 ```
 
 The GUI boots, and the following steps and results were observed: 
-- Run was started - we see nothing 
+- Run was started $\longrightarrow$ we see nothing 
+- Reload $\longrightarrow$ apply $\longrightarrow$ run started $\longrightarrow$ 

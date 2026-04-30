@@ -158,7 +158,8 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
 	- mention of a start all and stop all python files, i cannot see these anywhere. 
 
 
-#### Current Progress 
+# Automatic Emulation Mode Current progress:
+
 - Inside the terminal of the DAQ121s the channel mapping is the same as inside `content.yaml`. For example, inside the `content.yaml` file we have: 
 ```
     - mac: 02:ab:ba:00:22:37
@@ -242,4 +243,6 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
 ```
 
 `super_rt-1-1.json` and `sysconfig.json` are in the same location as the channels, which we **know** have been updated, so why have the configs not updated? 
+
+
 

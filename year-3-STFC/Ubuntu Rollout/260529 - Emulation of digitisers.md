@@ -275,4 +275,6 @@ The GUI boots, and the following steps and results were observed:
  **trigger is changed to periodic, then above steps were retaken**
 - we see electrical noise, but no emulated traces. 
 - `emu.enable.pulse=true` $\longrightarrow$ `emu.enable=true` $\longrightarrow$ `emu_ch_map=true` $\longrightarrow$ We get emulated traces that are in order!
- 
+ [[fig-260429-ubuntu-emulation-sequential-ch-mappping-neg-pol.png]]
+ ![[fig-260429-ubuntu-emulation-sequential-ch-mappping-neg-pol.png]]
+ The expected channel mapping for these 32 channels are as follow

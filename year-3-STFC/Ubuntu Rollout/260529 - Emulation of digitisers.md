@@ -354,3 +354,5 @@ these mac addresses correspond to the following channel mapping:
 
       channels : [120,121,122,123,124,125,126,127]
 ```
+
+This does not match with our observed trace locations. However it is at least of merit that they are all sequential in our GUI. 

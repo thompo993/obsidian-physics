@@ -151,4 +151,4 @@ Now we just need to update this!
 
 ### This file has the correct channel mapping, how do i get this mode to enable on loading GUI/always be on??
 
-When you apply a setting 
+When you apply a setting in "configure all digitisers" and you boot a digitiser, it gets overidden by booting the GUI, however pressing reload changes this, showing us that we are infact b

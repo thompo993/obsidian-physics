@@ -144,3 +144,5 @@ It seems that updating the `isis.daq121` and `content.yaml` has caused the digit
     ]
 }
 ```
+
+This file is located in `root@niubuntu-arm:/ni/`

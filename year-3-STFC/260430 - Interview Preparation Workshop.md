@@ -1,7 +1,7 @@
 # Tags
 [[skills]]
 
-# Placement Writing Skills and Expereince
+# Placement Writing Skills and Experience
 ## Skills 
 - Computing skills 
 	- hands on experience with large codebases 
@@ -12,4 +12,7 @@
 - Experimental skills 
 	- tasked with measuring lots of materials and things 
 	- planning designing and managing large experimental projects 
-- 
+	- data analysis 
+- Time management 
+	- lots of projects running in parallel 
+	- meeting preparation 

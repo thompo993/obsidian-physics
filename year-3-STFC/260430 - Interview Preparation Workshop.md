@@ -28,6 +28,9 @@
 - results
 
 ## SBI 
+- used in feedback, work related impact 
+- used for talking about soft skills 
+
 - describe the **situation** 
 	- where did the behavior occur 
 	- when did the behavior occur 

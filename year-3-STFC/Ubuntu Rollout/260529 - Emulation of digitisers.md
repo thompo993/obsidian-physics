@@ -222,6 +222,6 @@ Then for the same mac address, inside the terminal we get:
 }
 ```
 
-As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. This is true for digitisers that i added to the super_rt list long after it was last used, so it is not old channel mapping being left over from last time the digitisers were used, the IPs were also all jumbled so this is not a possibility. **the channel map has been obtained from `content.yaml` and put into the digitisers**
+As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. This is true for digitisers that i added to the super_rt list long after it was last used, so it is not old channel mapping being left over from last time the digitisers were used, the IPs were also all jumbled so this is not a possibility. **the channel map has been obtained from `content.yaml` and put into the digitisers**. 
 
 However, what we have not been able to do is get `"pulse_enable": false` or `enable": false` to be equal to true. I have tried updating 

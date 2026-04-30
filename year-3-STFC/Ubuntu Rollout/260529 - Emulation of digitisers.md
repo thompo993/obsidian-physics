@@ -222,6 +222,6 @@ Then for the same mac address, inside the terminal we get:
 }
 ```
 
-As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. 
+As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. This is true for digitisers that i added to the super_rt list long after it was las
 
 However, what we have not been able to do is get `"pulse_enable": false` or `enable": false` to be equal to true. I have tried updating 

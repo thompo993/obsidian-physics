@@ -222,4 +222,6 @@ Then for the same mac address, inside the terminal we get:
 }
 ```
 
-As we can see `channel_map`
+As we can see `"channel_map:"` is getting pulled from the sever and updated onto our digitisers. 
+
+However, what we have not been able to do is get ""

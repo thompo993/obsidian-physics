@@ -158,4 +158,5 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
 	- mention of a start all and stop all python files, i cannot see these anywhere. 
 
 
-
+#### Current Progress 
+- Inside terminal the `ch_mapping`

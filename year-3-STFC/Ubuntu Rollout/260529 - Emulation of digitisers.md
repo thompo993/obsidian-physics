@@ -277,4 +277,16 @@ The GUI boots, and the following steps and results were observed:
 - `emu.enable.pulse=true` $\longrightarrow$ `emu.enable=true` $\longrightarrow$ `emu_ch_map=true` $\longrightarrow$ We get emulated traces that are in order!
  [[fig-260429-ubuntu-emulation-sequential-ch-mappping-neg-pol.png]]
  ![[fig-260429-ubuntu-emulation-sequential-ch-mappping-neg-pol.png]]
- The expected channel mapping for these 32 channels are as follows: 
+ The expected channel mapping for these 32 channels are as follows, we are using digitiser 4, with the corresponding IPs and mac addresses: 
+ ```
+ digitizer_4:
+
+      - 130.246.84.58        # MAC: 02:ab:ba:00:22:84
+
+      - 130.246.84.59        # MAC: 02:ab:ba:00:22:85
+
+      - 130.246.84.60        # MAC: 02:ab:ba:00:22:86
+
+      - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
+ ```
+ 

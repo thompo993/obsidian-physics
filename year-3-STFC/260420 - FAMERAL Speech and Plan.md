@@ -12,7 +12,7 @@ Infront of MuSR
 
 --- 
 
-# Chat GPT Smoothed Speech Version (no content changes)
+# Smoothed Speech Version (no content changes)
 
 ## Pointers 
 

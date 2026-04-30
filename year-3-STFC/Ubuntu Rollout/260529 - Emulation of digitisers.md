@@ -274,3 +274,4 @@ The GUI boots, and the following steps and results were observed:
 - Reload $\longrightarrow$ apply $\longrightarrow$ run started $\longrightarrow$ we see nothing 
  **trigger is changed to periodic, then above steps were retaken**
 - we see electrical noise, but no emulated traces. 
+- 

@@ -159,4 +159,4 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
 
 
 #### Current Progress 
-- Inside terminal the `ch_mapping`
+- Inside the terminal of the DAQ121s the channel mapping is the same as inside `content.yaml` .

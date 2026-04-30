@@ -269,4 +269,5 @@ daq_ips:
   daq3: "130.246.84.61"
 ```
 
-
+The GUI boots, and the following steps and results were observed: 
+- Run was started - we see nothing 

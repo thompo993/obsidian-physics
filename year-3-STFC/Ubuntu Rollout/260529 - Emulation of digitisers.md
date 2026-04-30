@@ -357,4 +357,5 @@ these mac addresses correspond to the following channel mapping:
 
 This does not match with our observed trace locations. However it is at least of merit that they are all sequential in our GUI. 
 ## What could be causing this:
+- The GUI does not get the correct config files from `$daqserver` this is possible, but very unusual as inside the terminal we see the correct channel mapping. 
 - 

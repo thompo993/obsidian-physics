@@ -176,4 +176,50 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
       channels : [536,537,538,539,540,541,542,543]
 ```
 
-Then for the same mac adresses
+Then for the same mac address, inside the terminal we get:
+
+```
+  GNU nano 7.2                                                                             default.cfg                                                                                       
+            "value": "8.2",
+            "idx": 0
+        }
+    ],
+    "emulator": {
+        "ch": {
+            "amp_0": 1000,
+            "amp_1": 1000,
+            "amp_2": 1000,
+            "amp_3": 1000,
+            "amp_4": 1000,
+            "amp_5": 1000,
+            "amp_6": 1000,
+            "amp_7": 1000,
+            "period_0": 10000,
+            "period_1": 10000,
+            "period_2": 10000,
+            "period_3": 10000,
+            "period_4": 10000,
+            "period_5": 10000,
+            "period_6": 10000,
+            "period_7": 10000
+        },
+        "width": 10,
+        "offset": 50,
+        "noise_amp": 200,
+        "pulse_enable": false,
+        "enable": false
+    },
+    "channel_map": [
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543
+    ]
+}
+```
+
+As we can see `channel_map`

@@ -149,4 +149,4 @@ This file is located in `root@niubuntu-arm:/ni/config/default.cfg `
 
 Now we just need to update this!
 
-This file has the correct channel mapping, how do i get this mode to enable on loading GUI/always be on.
+### This file has the correct channel mapping, how do i get this mode to enable on loading GUI/always be on??

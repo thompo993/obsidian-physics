@@ -156,3 +156,6 @@ When you apply a setting in "configure all digitisers" and you boot a digitiser,
 - why is reloading the hifi settings still not working. 
 - Dan did not use this 
 	- mention of a start all and stop all python files, i cannot see these anywhere. 
+
+
+

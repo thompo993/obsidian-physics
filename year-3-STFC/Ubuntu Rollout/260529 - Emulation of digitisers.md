@@ -289,4 +289,68 @@ The GUI boots, and the following steps and results were observed:
 
       - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
  ```
- 
+
+these mac addresses correspond to the following channel mapping: 
+```
+- mac: 02:ab:ba:00:22:84
+
+      digitizer: 4
+
+      daq : 0
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [96,97,98,99,100,101,102,103]
+
+  
+
+    - mac: 02:ab:ba:00:22:85
+
+      digitizer: 4
+
+      daq : 1
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [104,105,106,107,108,109,110,111]
+
+  
+
+    - mac: 02:ab:ba:00:22:86
+
+      digitizer: 4
+
+      daq : 2
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [112,113,114,115,116,117,118,119]
+
+  
+
+    - mac: 02:ab:ba:00:22:87
+
+      digitizer: 4
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [120,121,122,123,124,125,126,127]
+```

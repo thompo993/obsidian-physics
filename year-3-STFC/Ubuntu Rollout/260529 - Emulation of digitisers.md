@@ -245,4 +245,4 @@ editing the master file did not help me either. The pulse settings are not worki
       channels : [984,985,986,987,988,989,990,991]
 ```
 
-`super_rt-1-1.json` and `sysconfig.json` were both set to be
+`super_rt-1-1.json` and `sysconfig.json` were both set to be the same as hifi, which i have been told has worked before. however this did not seem to fix our issues. 

@@ -245,6 +245,28 @@ However, what we have not been able to do is get `"pulse_enable": false` or `ena
 `super_rt-1-1.json` and `sysconfig.json` are in the same location as the channels, which we **know** have been updated, so why have the configs not updated? 
 
 ## Testing HiFi Settings
-To test if the config settings from HiFi (know to have worked) will make the GUI do channel mapped pulses, the exact settings were copied from `hifi` too `super_rt`. We then boot a random GUI to prevent interference from previous experimentation confounding the results. 
+To test if the config settings from HiFi (know to have worked) will make the GUI do channel mapped pulses, the exact settings were copied from `hifi` too `super_rt`. We then boot a random GUI to prevent interference from previous experimentation confounding the results. The IPs selected were:
+
+```
+daq_ips:
+
+  # DAQ 0 - Master (controlla stave e base)
+
+  daq0: "130.246.84.58"
+
+  
+
+  # DAQ 1 - Slave
+
+  daq1: "130.246.84.59"
+
+  # DAQ 2 - Slave
+
+  daq2: "130.246.84.60"
+
+  # DAQ 3 - Slave
+
+  daq3: "130.246.84.61"
+```
 
 

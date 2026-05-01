@@ -815,4 +815,9 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 ## Workaround Method 
 - as this method is not working, I have made a workaround that does work, but is more laborious and not the desired outcome. 
 ### Use `configure_multiple_digitizers.py` instead
-- once again 
+- once again update `ips.yam1` to a single testing IP: 
+```
+available_ips:
+  - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
+```
+- Then inside the 

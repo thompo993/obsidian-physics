@@ -110,4 +110,5 @@ We execute the code using `automate.py`, a command-line automation tool that con
 - #### Commands: 
 	- `--start` begins waveform acquisition on the connected digitisers.
 	-  `--stop` stops the current waveform acquisition on the selected digitisers. 
-	- `--reset`: 
+	- `--reset`: Resets all histograms on the connected digitisers. Clears time spectra and dark count spectra 
+	- `--version`: 

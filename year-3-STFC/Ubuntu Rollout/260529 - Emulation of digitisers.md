@@ -365,7 +365,7 @@ This does not match with our observed trace locations. However it is at least of
 - This must not be the cause or the file that is being used for setting up emulation mode
 
 # `paramters.json` files
-****
+**IMPORTANT NOTE, THE PARAMATER FILES WERE SAWPPED BACK TO HOW THEY WERE ORGINALLY**
 ## Comparison Summary Table:
 | Feature                   | `multidaq_gui.py`                                                      | `configure_multiple_digitizers.py` | `supermusrgui.py`                                                      |
 | ------------------------- | ---------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------- |

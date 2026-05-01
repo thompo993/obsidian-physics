@@ -514,3 +514,5 @@ As we can see above, we have overwritten the default values to enable emulation,
 - as the values in time of the trace are not directly mapped numerically to the "`channels`" segment of `content.yaml`, we will investigate if channel mapping is true based on the amplitude of these signals 
 
 
+# discussion with dan 
+- we do **not** want to use 

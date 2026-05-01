@@ -836,7 +836,23 @@ available_ips:
         },
 ```
 
-#### Updated `parameters.json` File, for entering emulation mode.
+#### Updated `parameters.json` File, for entering emulation mode:
+```
+"emu": {
+            "amp": {"command":"dgtz.emu.amp", "count":8, "value": 1000, "type": "float"},
+            "delay": {"command":"dgtz.emu.delay",  "count":8, "value": 50, "type": "float"},
+            "noiseamp": {"command":"dgtz.emu.noiseamp",  "value": 1000, "type": "float"},
+            "offset": {"command":"dgtz.emu.offset",  "value": 2000, "type": "float"},
+            "n": {"command":"dgtz.emu.n",  "value": 20, "type": "float"},
+            "dn": {"command":"dgtz.emu.dn",  "value": 20, "type": "float"},
+            "enable_pulse": {"command":"dgtz.emu.enable_pulse", "value": "true", "type": "list", "values": ["true", "false"]},
+            "enable": {"command":"dgtz.emu.enable", "value": "true", "type": "list", "values": ["true", "false"]},
+            "ch_map_mode": {"command":"dgtz.emu.ch_map_mode", "value": "true", "type": "list", "values": ["true", "false"]}
+        },
+```
+
+The only changes we have made are directly inside of
+
 
 - Then booth the  `configure_multiple_digitizers.py` GUI: 
 `PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 

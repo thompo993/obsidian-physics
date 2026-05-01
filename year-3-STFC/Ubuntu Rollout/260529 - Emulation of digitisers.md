@@ -451,7 +451,7 @@ Boot → Load `parameters_multidaq.json`
      → Click "Start" → Acquisition begins
 
 ## Single GUI
-- this 
+- this GUI pulls from `parameters.json`
 
 
 

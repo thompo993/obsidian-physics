@@ -103,4 +103,5 @@ inside the codebase, you need to setup two files:
 
 
 ## Execution
-We execute the code using `automate.py`, his Python script is a **command-line automation tool** that connects to one or more digitizer devices
+We execute the code using `automate.py`, a command-line automation tool that connects to one or more digitiser devices. It works by initialising `ips.yaml` to know which devices to control. 
+### `automate.py` 

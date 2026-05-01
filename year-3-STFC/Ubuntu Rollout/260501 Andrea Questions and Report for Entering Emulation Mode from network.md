@@ -18,7 +18,7 @@
 ```
 - `super_rt-1-1`
 ```
-		  "dgtz.emu.noiseamp": 0.0,
+            "dgtz.emu.noiseamp": 0.0,
 
             "dgtz.emu.offset": 2000.0,
 
@@ -34,6 +34,13 @@
 
         },
 ```
+
+- `ips.yaml` and ''
+
+
+
+
+
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

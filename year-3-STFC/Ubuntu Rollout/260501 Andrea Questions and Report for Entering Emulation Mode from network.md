@@ -3,7 +3,9 @@
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
 ## Inital Setup
-- full configured all files on 
+- full configured all files on `$daqserver` so that  "pulse_enable":true,
+
+  "enable":true
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

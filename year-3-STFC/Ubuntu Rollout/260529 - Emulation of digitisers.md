@@ -696,4 +696,5 @@ even though it says its applied the settings, it has not updated, the file even 
 when booting the GUI, this did not update either. 
 
 # what to tell Andrea - notes:
+See the following report:
 [[260501 Andrea Questions and Report for Entering Emulation Mode from network]]

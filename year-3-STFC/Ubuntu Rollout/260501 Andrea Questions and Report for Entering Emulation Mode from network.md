@@ -1,4 +1,7 @@
 # Tags
+[[digitiser]]
+[[ubuntu]]
+[[Super MuSR]]
 # Questions
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 

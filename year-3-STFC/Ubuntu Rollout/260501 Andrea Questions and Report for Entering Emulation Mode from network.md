@@ -122,7 +122,7 @@ super_rt:
 
 ## What works: 
 - After this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with `mac: 02:ab:ba:00:22:37` and IP address `130.246.84.133`:
-#### Inside the  webterminal, under default config
+#### Inside the  web interface terminal:
 `root@niubuntu-arm: nano ./ni/config/default.cfg `
 ```
   GNU nano 7.2                                                                             default.cfg                                                                                       
@@ -184,6 +184,7 @@ super_rt:
       channels : [536,537,538,539,540,541,542,543]
 ```
 - So the channel mapping does successfully update, this is true for all digitisers. 
+## What does not work:
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

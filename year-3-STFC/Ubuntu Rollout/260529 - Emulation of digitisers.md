@@ -696,4 +696,5 @@ even though it says its applied the settings, it has not updated, the file even 
 when booting the GUI, this did not update either. 
 
 # what to tell Andrea - notes:
-- after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the 
+- after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
+## Example130.246.84.141   MAC: 02:ab:ba:00:22:53

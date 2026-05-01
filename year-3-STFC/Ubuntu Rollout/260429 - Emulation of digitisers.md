@@ -698,3 +698,10 @@ when booting the GUI, this did not update either.
 # what to tell Andrea - notes:
 See the following report:
 [[260501 Andrea Questions and Report for Entering Emulation Mode from network]]
+
+
+
+# fixed bug, wrong DAQ server i was putting the folders into 
+
+## to fix this:
+- update c

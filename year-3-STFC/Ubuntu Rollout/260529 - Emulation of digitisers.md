@@ -364,4 +364,5 @@ This does not match with our observed trace locations. However it is at least of
 - if this setting is restored, and set as the default conf, then why is the pulse and emu enabled mode staying as false?
 
 ## Paramters.json file
-- it is discovered that both `multidaq_gui.py` pulls from a config file called `parameter_multigui`
+- it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
+-

@@ -105,5 +105,4 @@ inside the codebase, you need to setup two files:
 ## Execution
 We execute the code using `automate.py`, a command-line automation tool that connects to one or more digitiser devices. It works by initialising `ips.yaml` to know which devices to control. 
 ### `automate.py` commands:
-- General usage: 
-	- 
+- General usage: `python automate.py config.yaml command\> arguments

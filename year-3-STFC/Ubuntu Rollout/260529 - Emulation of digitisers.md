@@ -391,6 +391,7 @@ This does not match with our observed trace locations. However it is at least of
 - it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
 
 #### parameter updates for emu mode - mutliGUI:
+##### `parameters_multidaq.json`
 ```
 "emu": {
 
@@ -414,7 +415,7 @@ This does not match with our observed trace locations. However it is at least of
 
         }
 ```
-**was changed too:**
+##### param
 ```
 "emu": {
 
@@ -453,7 +454,8 @@ Boot → Load `parameters_multidaq.json`
 ## Single GUI
 - this GUI pulls from `parameters.json` for emulation mode, the following code was changed inside this file 
 #### parameter updates for emu mode - single GUI:
-
+```
+```
 
 
 

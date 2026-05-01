@@ -36,8 +36,9 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
       firmware: fw
       channels : [80,81,82,83,84,85,86,87]
 ```
-- #### `super_rt-1-1`:
+- #### `super_rt-1-1.json`:
 	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder of the same name and find the configuration file in there. 
+	- This file is the same as any other configuration file you would load di
 ### Inside Codebase 
 
 

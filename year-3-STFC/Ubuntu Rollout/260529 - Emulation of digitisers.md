@@ -806,7 +806,7 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
             "dgtz.emu.enable_pulse": "false",
             "dgtz.emu.enable": "false"
         },
-                },
-        "dgtz.wavemode": "analog"
-    },
+"dgtz.wavemode": "analog"
+},
 ```
+- As we can see the `"dgtz.emu.enable_pulse": "false"` and `"dgtz.emu.enable": "false"`, not what we observed `automate.py` claiming to send to th

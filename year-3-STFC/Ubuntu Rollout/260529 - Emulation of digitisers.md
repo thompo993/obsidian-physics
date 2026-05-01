@@ -820,4 +820,8 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 available_ips:
   - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
 ```
-- Then inside the 
+- The next step
+- Then booth the  `configure_multiple_digitizers.py` GUI: 
+`PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 
+- this will launch the GUI, and from here 
+``

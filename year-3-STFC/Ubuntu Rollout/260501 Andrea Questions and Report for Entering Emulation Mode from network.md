@@ -166,8 +166,23 @@ super_rt:
     ]
 }
 ```
-- comparing this to what we e
+- comparing this to what we expect in `content.yaml`:
+```
+    - mac: 02:ab:ba:00:22:37
 
+      digitizer: 17
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [536,537,538,539,540,541,542,543]
+```
+- So the channel mapping does successfully update, this is true for all digitisers. 
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

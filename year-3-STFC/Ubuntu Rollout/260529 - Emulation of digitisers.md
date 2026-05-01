@@ -367,7 +367,7 @@ This does not match with our observed trace locations. However it is at least of
 ### Multi GUI
 - it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
 
-**from:**
+#### parameter updates for emu mode - mutliGUI:
 ```
 "emu": {
 
@@ -417,7 +417,15 @@ This does not match with our observed trace locations. However it is at least of
 ```
 
 As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse,  and a non emu version of the parameters file was saved to `parameters_multidaq-non-emu-mode-260501.json`. 
-
+#### workflow for multiGUI
+Boot → Load `parameters_multidaq.json` 
+     → Create 4 SDK instances (hardcoded IPs)
+     → Initialize parameter tree with default values
+     → User modifies GUI
+     → Click "Apply" → program_settings()
+     → Sends commands to ALL 4 DAQs
+	 → Execute: `configure_dgtz, configure_base, configure_hv, configure_staves
+     → Click "Start" → Acquisition begins
 
 
 

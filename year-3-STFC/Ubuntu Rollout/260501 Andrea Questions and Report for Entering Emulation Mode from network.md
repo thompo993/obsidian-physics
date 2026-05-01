@@ -5,7 +5,35 @@
 ## Inital Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 
-	- `super_rt-1-1`
+```
+                "width": 10,
+
+                "offset": 50,
+
+                "noise_amp":200,
+
+                "pulse_enable":true,
+
+                "enable":true
+```
+- `super_rt-1-1`
+```
+		  "dgtz.emu.noiseamp": 0.0,
+
+            "dgtz.emu.offset": 2000.0,
+
+            "dgtz.emu.n": 4.0,
+
+            "dgtz.emu.dn": 20,
+
+            "dgtz.emu.enable_pulse": "true",
+
+            "dgtz.emu.enable": "true",
+
+            "dgtz.emu.ch_map_mode": "true"
+
+        },
+```
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

@@ -363,12 +363,3 @@ This does not match with our observed trace locations. However it is at least of
 - when pressing `reload` on a file that never been tampered with, we extract "`ch_map_mode_on=true`"  This is interesting. . . 
 - if this setting is restored, and set as the default conf, then why is the pulse and emu enabled mode staying as false?
 
-
-
-
-
-
-
-## seeing if the booting of digitisers is overwriting the correct settings (view Grafana)
-- I am sceptical of this option as otherwise after booting, reload would restore the correct setting. 
-- 

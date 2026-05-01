@@ -66,9 +66,20 @@ UseDomains=yes
 - `ips.yaml`, `isis.daq121.yaml` and `content.yaml` have been updated to contain all of the new IP fixed addresses in super-R80. Below are the headers of these files:
 - for `ips.yaml`:
 ```
-
+available_ips:
+  - 130.246.84.54        # MAC: 02:ab:ba:00:22:18
+  - 130.246.84.55        # MAC: 02:ab:ba:00:22:19
+  - 130.246.84.56        # MAC: 02:ab:ba:00:22:20
+  - 130.246.84.57        # MAC: 02:ab:ba:00:22:21
+  - 130.246.84.58        # MAC: 02:ab:ba:00:22:84
+  - 130.246.84.59        # MAC: 02:ab:ba:00:22:85
+  - 130.246.84.60        # MAC: 02:ab:ba:00:22:86
+  - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
+  - 130.246.84.62        # MAC: 02:ab:ba:00:22:64
+  - 130.246.84.63        # MAC: 02:ab:ba:00:22:65
+  - 130.246.84.64        # MAC: 02:ab:ba:00:22:66
+  - 130.246.84.65        # MAC: 02:ab:ba:00:22:67
 ```
-  ```
 - for `isis.daq121.yaml`:
 ```
   super_rt:
@@ -107,6 +118,7 @@ super_rt:
       firmware: fw
       channels : [72,73,74,75,76,77,78,79]
 ```
+
 
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 

@@ -77,8 +77,8 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
             },
 ### REST OF THIS CONFIGURATION FILE REMOVED FOR BREVITY ###
 ```
-
 ### Inside Codebase 
+inside the codebase, you need to setup one file 
 
 
 ## Execution

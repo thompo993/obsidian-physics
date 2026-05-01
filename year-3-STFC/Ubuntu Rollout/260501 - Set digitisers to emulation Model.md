@@ -131,4 +131,4 @@ Phew, that was **a lot** of commands, luckily we only need to worry about two, a
 Using these two commands we can start and stop all of our selected digitisers from going into emulation mode. 
 
 ## Verification: 
-Verifying is the easiest step, simply boot any GUI (i recommend `multidaq_gui.py`. which you choose the IPs for in `ips_multidaq.yaml`, but you should be very familiar with this by now
+Verifying is the easiest step, simply boot any GUI (I recommend `multidaq_gui.py`, which you choose the IPs for in `ips_multidaq.yaml`, but you should be very familiar with this by now) and press "start" do **not** 

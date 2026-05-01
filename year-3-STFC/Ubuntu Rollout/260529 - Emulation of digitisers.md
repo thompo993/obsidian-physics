@@ -759,3 +759,5 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 - This means that `automate.py` thinks we have sent the digitiser the updated command, therefore, if we `shh` into the terminal, on digitizer `130.246.84.141`
 
 ## Verifying Inside DAQ121
+- firstly, we enter the web interface, and navigate to terminal. 
+- 

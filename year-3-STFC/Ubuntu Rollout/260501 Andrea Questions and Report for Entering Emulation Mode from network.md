@@ -359,4 +359,4 @@ The only changes we have made are:
 `PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 
 - this will launch the GUI, and from here, simply press apply. 
 - Now if we launch any GUI, and press start (not apply $\longrightarrow$ start) we observe traces. 
-- This is not what we want, we want it to get the correct c
+- This is not what we want, we want it to get the correct configuration from the **network** not from batch applying them in a GUI. 

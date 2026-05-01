@@ -120,35 +120,7 @@ super_rt:
 ```
 
 ## What works: 
-- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with
-
-```
-    - mac: 02:ab:ba:00:22:37
-
-      digitizer: 17
-
-      daq : 3
-
-      config: super_rt-1-1.json
-
-      sysconfig : sysconfig.json
-
-      firmware: fw
-
-      channels : [536,537,538,539,540,541,542,543]
-```
-#### IP Address and terminal 
-```
-    digitizer_17:
-
-      - 130.246.84.130    # MAC: 02:ab:ba:00:22:34
-
-      - 130.246.84.131    # MAC: 02:ab:ba:00:22:35
-
-      - 130.246.84.132    # MAC: 02:ab:ba:00:22:36
-
-      - 130.246.84.133    # MAC: 02:ab:ba:00:22:37
-```
+- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with `mac: 02:ab:ba:00:22:37` and IP address `130.246.84.133`:
 
 #### Inside the terminal, under default config
 ```

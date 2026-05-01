@@ -3,6 +3,8 @@
 [[Super MuSR]]
 
 # Procedure 
-## Pre Requisites 
 
-## 
+This document details how to setup any number of digitisers to emulation mode
+## Prerequisites 
+
+## Execution

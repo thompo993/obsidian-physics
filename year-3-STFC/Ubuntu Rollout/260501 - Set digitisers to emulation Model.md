@@ -38,7 +38,7 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
 ```
 - #### `super_rt-1-1.json`:
 	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder of the same name and find the configuration file in there. 
-	- This file is the same as any other configuration file you would load di
+	- This file is the same as any other configuration file you would load directly into the GUI, the difference is that this one will be automatically on the DAQ without any need to 
 ### Inside Codebase 
 
 

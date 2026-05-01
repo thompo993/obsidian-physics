@@ -440,6 +440,7 @@ This does not match with our observed trace locations. However it is at least of
         },
 ```
 
+#### summary 
 As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse,  and a non emu version of the parameters file was saved to `parameters_multidaq-non-emu-mode-260501.json`. 
 #### workflow for multiGUI
 Boot → Load `parameters_multidaq.json` 
@@ -479,7 +480,30 @@ Boot → Load `parameters_multidaq.json`
         },
 ```
 
-####
+#### `parameters-non-emu-mode-260501.json`
+```
+"emu": {
+
+            "amp": {"command":"dgtz.emu.amp", "count":8, "value": 1000, "type": "float"},
+
+            "delay": {"command":"dgtz.emu.delay",  "count":8, "value": 50, "type": "float"},
+
+            "noiseamp": {"command":"dgtz.emu.noiseamp",  "value": 1000, "type": "float"},
+
+            "offset": {"command":"dgtz.emu.offset",  "value": 2000, "type": "float"},
+
+            "n": {"command":"dgtz.emu.n",  "value": 20, "type": "float"},
+
+            "dn": {"command":"dgtz.emu.dn",  "value": 20, "type": "float"},
+
+            "enable_pulse": {"command":"dgtz.emu.enable_pulse", "value": "false", "type": "list", "values": ["true", "false"]},
+
+            "enable": {"command":"dgtz.emu.enable", "value": "false", "type": "list", "values": ["true", "false"]},
+
+            "ch_map_mode": {"command":"dgtz.emu.ch_map_mode", "value": "false", "type": "list", "values": ["true", "false"]}
+
+        },
+```
 
 
 

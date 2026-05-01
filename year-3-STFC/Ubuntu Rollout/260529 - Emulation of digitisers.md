@@ -699,8 +699,11 @@ when booting the GUI, this did not update either.
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
-- inside  `ips.yam1` we setup: 
+- inside  `ips.yam1` we setup a single testing IP: 
 ```
 available_ips:
   - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
 ```
+- Then inside the codebase, we enter 
+``
+`PS C:\supermusr-gui-main> python.exe .\automate.py ips.yaml --configure "\\daqserver.isis.cclrc.ac.uk\daqserver$\super_rt\config\super_rt-1-1.json"`

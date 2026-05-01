@@ -519,4 +519,5 @@ As we can see above, we have overwritten the default values to enable emulation,
 - although the way i have figured out above using configure all works, this is NOT what we want to do.  We want it too pull from the network. 
 ## Things too look into:
 - why we do not have the correct updated config in the RAM of the
-- what is the \_x that is used 
+- what is the \_x that is appended to `.json` used for
+	- ban

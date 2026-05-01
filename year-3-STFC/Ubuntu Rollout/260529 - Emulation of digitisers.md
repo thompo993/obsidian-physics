@@ -705,5 +705,53 @@ available_ips:
   - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
 ```
 - Then inside the codebase, we enter 
-``
-`PS C:\supermusr-gui-main> python.exe .\automate.py ips.yaml --configure "\\daqserver.isis.cclrc.ac.uk\daqserver$\super_rt\config\super_rt-1-1.json"`
+```
+PS C:\supermusr-gui-main> python.exe .\automate.py ips.yaml --configure "\\daqserver.isis.cclrc.ac.uk\daqserver$\super_rt\config\super_rt-1-1.json"
+```
+- The output in the terminal is as follows: 
+```
+Loaded IPs: ['130.246.84.141']
+Connecting to 130.246.84.141
+Unable to stop acquisition: {'code': -1, 'message': 'acquisition is not running'}
+set_parameter called with cmd='dgtz.send_delay', value=5000, index=0
+set_parameter called with cmd='dgtz.pre', value=0.1, index=0
+set_parameter called with cmd='dgtz.post', value=24, index=0
+set_parameter called with cmd='dgtz.trg_delay', value=0, index=0
+set_parameter called with cmd='dgtz.lemo.mode', value=in_50, index=0
+set_parameter called with cmd='dgtz.lemo.mode', value=in_50, index=1
+set_parameter called with cmd='dgtz.lemo.source', value=t0_out, index=0
+set_parameter called with cmd='dgtz.lemo.source', value=t0_out, index=1
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=0
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=1
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=2
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=3
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=4
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=5
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=6
+set_parameter called with cmd='dgtz.sync.outmode', value=gnd, index=7
+set_parameter called with cmd='dgtz.emu.amp', value=500.0, index=0
+set_parameter called with cmd='dgtz.emu.amp', value=600.0, index=1
+set_parameter called with cmd='dgtz.emu.amp', value=700.0, index=2
+set_parameter called with cmd='dgtz.emu.amp', value=800.0, index=3
+set_parameter called with cmd='dgtz.emu.amp', value=900.0, index=4
+set_parameter called with cmd='dgtz.emu.amp', value=1000.0, index=5
+set_parameter called with cmd='dgtz.emu.amp', value=1100.0, index=6
+set_parameter called with cmd='dgtz.emu.amp', value=1200.0, index=7
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=0
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=1
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=2
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=3
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=4
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=5
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=6
+set_parameter called with cmd='dgtz.emu.delay', value=50, index=7
+set_parameter called with cmd='dgtz.emu.noiseamp', value=0.0, index=0
+set_parameter called with cmd='dgtz.emu.offset', value=2000.0, index=0
+set_parameter called with cmd='dgtz.emu.n', value=4.0, index=0
+set_parameter called with cmd='dgtz.emu.dn', value=20, index=0
+set_parameter called with cmd='dgtz.emu.enable_pulse', value=true, index=0
+set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
+set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
+set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
+```
+As we can see, we have applied ``

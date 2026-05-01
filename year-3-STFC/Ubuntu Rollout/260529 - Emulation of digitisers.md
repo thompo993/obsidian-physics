@@ -595,7 +595,7 @@ python automate.py --save_spectrum_amplitude output.txt
 
 
 # Using `automate.py` to update the files 
-we used the above  commands in the example usage, adn unfortuantely found the following: 
+we used the above  commands in the example usage, and unfortunately found the following: 
 ```
 Loaded IPs: ['130.246.84.141']
 Connecting to 130.246.84.141
@@ -641,7 +641,9 @@ set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
 set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
 ```
 - so from this we can see that we have set: 
-```
-set_parameter called with cmd='dgtz.emu.enable_pulse', value=true, index=0
-set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
-set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
+	```
+	set_parameter called with cmd='dgtz.emu.enable_pulse', value=true, index=0
+	set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
+	set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
+	```
+so our digitiser terminal should re registering this. Inside the command line, post reboot: 

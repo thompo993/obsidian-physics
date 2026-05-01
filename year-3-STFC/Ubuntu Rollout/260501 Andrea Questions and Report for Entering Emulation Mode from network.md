@@ -357,4 +357,5 @@ The only changes we have made are:
 
 - Once this file has been updated boot the  `configure_multiple_digitizers.py` GUI: 
 `PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 
-- this will launch the GUI, and from here 
+- this will launch the GUI, and from here, simply press apply. 
+- Now if we launch any GUI

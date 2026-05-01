@@ -37,7 +37,7 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
       channels : [80,81,82,83,84,85,86,87]
 ```
 - #### `super_rt-1-1`:
-	- This 
+	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder named 
 ### Inside Codebase 
 
 

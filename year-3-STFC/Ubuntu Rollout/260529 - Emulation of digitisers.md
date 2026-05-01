@@ -505,9 +505,8 @@ Boot → Load `parameters_multidaq.json`
         },
 ```
 
-
-
-
+#### Summary 
+As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse,  and a non emu version of the parameters file was saved to `parameters-non-emu-mode-260501.json`. 
 
 
 ## varying different pulse height values in different locations to see if the mapping is correct. 

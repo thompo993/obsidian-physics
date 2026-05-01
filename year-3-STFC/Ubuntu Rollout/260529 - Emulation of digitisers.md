@@ -691,4 +691,5 @@ so our digitiser terminal should re registering this. Inside the command line, p
         },
 ```
 
-even though it says its applied the settings, it has not updated, the file even says it was updated today, so we know something happened in the reboot, it just did not 
+even though it says its applied the settings, it has not updated, the file even says it was updated today, so we know something happened in the reboot, it just did not  take the settings we wanted 
+when booting the GUI, this did not update either. 

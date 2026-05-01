@@ -63,7 +63,7 @@ UseDomains=yes
         },
 ```
 
-- `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the network configuration file, forcing it to use just MAC instead of any other method of identifying the DAQs. These are not included for brevity. 
+- `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the network configuration file, forcing it to use just MAC instead of any other method of identifying the DAQs. These are not included in code for brevity. 
 
 
 

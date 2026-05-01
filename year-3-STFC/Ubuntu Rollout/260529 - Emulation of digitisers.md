@@ -363,7 +363,7 @@ This does not match with our observed trace locations. However it is at least of
 - when pressing `reload` on a file that never been tampered with, we extract "`ch_map_mode_on=true`"  This is interesting. . . 
 - if this setting is restored, and set as the default conf, then why is the pulse and emu enabled mode staying as false?
 
-# Paramters.json file
+# `paramters.json` files
 ## Comparison Summary Table:
 | Feature                   | `multidaq_gui.py`                                                      | `configure_multiple_digitizers.py` | `supermusrgui.py`                                                      |
 | ------------------------- | ---------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------- |

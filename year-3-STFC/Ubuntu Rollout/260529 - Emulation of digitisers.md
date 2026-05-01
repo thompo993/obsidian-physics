@@ -700,6 +700,7 @@ when booting the GUI, this did not update either.
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Setup: 
 -  `ips.yam1`: 
--```available_ips:
-130.246.84.141        # MAC: 02:ab:ba:00:22:53
-  ```
+```
+available_ips:
+  - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
+```

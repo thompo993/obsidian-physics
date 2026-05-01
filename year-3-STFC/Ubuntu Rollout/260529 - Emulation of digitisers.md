@@ -454,7 +454,7 @@ Boot → Load `parameters_multidaq.json`
 
 ## Single GUI
 - this GUI pulls from `parameters.json` for emulation mode, the following code was changed inside this file 
-### parameter updates for emu mode - single GUI:
+### parameter updates for emu mode - `supermusrgui.py` and : `configure_multiple_digitizers.py`
 #### `parameters.json`
 ```
         "emu": {
@@ -509,5 +509,7 @@ Boot → Load `parameters_multidaq.json`
 As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse,  and a non emu version of the parameters file was saved to `parameters-non-emu-mode-260501.json`. 
 
 
-## varying different pulse height values in different locations to see if the mapping is correct. 
+# varying different pulse height values in different locations to see if the mapping is correct. 
 - as the values in time of the trace are not directly mapped numerically to the "`channels`" segment of `content.yaml`, we will investigate if channel mapping is true based on the amplitude of these signals 
+
+

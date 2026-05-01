@@ -366,6 +366,7 @@ This does not match with our observed trace locations. However it is at least of
 ## Paramters.json file
 ### Multi GUI
 - it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
+
 **from:**
 ```
 "emu": {
@@ -415,7 +416,8 @@ This does not match with our observed trace locations. However it is at least of
         },
 ```
 
-As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse. 
+As we can see above, we have overwritten the default values to enable emulation, ch mapping and the pulse,  and a non emu version of the parameters file was saved to `parameters_multidaq-non-emu-mode-260501.json`. 
+
 
 
 

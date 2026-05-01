@@ -359,6 +359,16 @@ This does not match with our observed trace locations. However it is at least of
 
 ## editing `default.conf` effect
 - overwritten "`default.conf`" inside of OP `130.246.84.62`
+- updating just one of these files does not help.
+- when pressing `reload` on a file that 
+- 
+
+
+
+
+
+
 
 ## seeing if the booting of digitisers is overwriting the correct settings (view Grafana)
 - i am sceptical of this option as otherwise after booting, reload would restore the correct setting. 
+-

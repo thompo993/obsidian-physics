@@ -363,7 +363,7 @@ This does not match with our observed trace locations. However it is at least of
 - when pressing `reload` on a file that never been tampered with, we extract "`ch_map_mode_on=true`"  This is interesting. . . 
 - if this setting is restored, and set as the default conf, then why is the pulse and emu enabled mode staying as false?
 
-## Paramters.json file
+# Paramters.json file
 ## Comparison Summary Table:
 | Feature                   | `multidaq_gui.py`                                                      | `configure_multiple_digitizers.py` | `supermusrgui.py`                                                      |
 | ------------------------- | ---------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------- |
@@ -387,11 +387,11 @@ This does not match with our observed trace locations. However it is at least of
 | Boot Parameter Groups     | `dgtz`, `in`, `trg`, `stave`, `base`, `mp`, `sw_process`               | All from `parameters.json`         | All from `parameters.json`                                             |
 | Thread Management         | Multi-threaded (4×DAQ × 3 threads)                                     | Single-threaded (config only)      | Single-threaded (1 DAQ)                                                |
 
-### Multi GUI
+## Multi GUI
 - it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
 
-#### parameter updates for emu mode - mutliGUI:
-##### `parameters_multidaq.json`
+### parameter updates for emu mode - mutliGUI:
+#### `parameters_multidaq.json`
 ```
 "emu": {
 
@@ -415,7 +415,7 @@ This does not match with our observed trace locations. However it is at least of
 
         }
 ```
-##### param
+#### `parameters_multidaq-non-emu-mode-260501.json`.
 ```
 "emu": {
 

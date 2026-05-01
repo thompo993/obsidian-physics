@@ -754,4 +754,6 @@ set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
 set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
 set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 ```
-As we can see, we have applied ``
+
+- As we can see, we have applied `cmd='dgtz.emu.enable_pulse', value=true, index=0`, `cmd='dgtz.emu.enable', value=true, index=0`, `cmd='dgtz.emu.ch_map_mode', value=true, index=0`. 
+- 

@@ -592,3 +592,7 @@ python automate.py ips.yaml --configure config.json
 python automate.py --start
 python automate.py --save_spectrum_amplitude output.txt
 ```
+
+
+# Using `automate.py` to update the files 
+we used the above 

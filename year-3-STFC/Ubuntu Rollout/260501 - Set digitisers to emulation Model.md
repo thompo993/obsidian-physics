@@ -118,4 +118,7 @@ We execute the code using `automate.py`, a command-line automation tool that con
 	- `--emulation-enable`:  Enables emulation mode on the connected digitisers Activates pulse generation and channel mapping emulation for testing without real detector input.
 	- `--emulation-disable`:  Disables emulation mode on the connected digitisers.
 
-Phew, that was **a lot** of commands, luckily we only need to worry about two, as all of the configuration and emulation is already setup in [[#Prerequisites]]. 
+Phew, that was **a lot** of commands, luckily we only need to worry about two, as all of the configuration and emulation is already setup in [[#Prerequisites]], so all we do is enter into the terminal: 
+- `PS C:\supermusr-gui-main> python .\automate.py --start`
+- `PS C:\supermusr-gui-main> python .\automate.py --stop `
+

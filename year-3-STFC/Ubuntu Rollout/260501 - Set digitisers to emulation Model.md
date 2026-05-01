@@ -70,6 +70,7 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
             },
 ### REST OF THIS CONFIGURATION FILE REMOVED FOR BREVITY ###
 ```
+- if you want to se
 ### Inside Codebase 
 inside the codebase, you need to setup two files: 
 - #### `ips.yaml`: 
@@ -121,4 +122,4 @@ We execute the code using `automate.py`, a command-line automation tool that con
 Phew, that was **a lot** of commands, luckily we only need to worry about two, as all of the configuration and emulation is already setup in [[#Prerequisites]], so all we do is enter into the terminal: 
 - `PS C:\supermusr-gui-main> python .\automate.py --start`
 - `PS C:\supermusr-gui-main> python .\automate.py --stop `
-
+Using these two commands we can start and stop all of our selected digitisers from going into emulation mode. 

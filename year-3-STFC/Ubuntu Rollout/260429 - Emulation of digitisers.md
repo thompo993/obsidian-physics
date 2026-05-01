@@ -703,5 +703,7 @@ See the following report:
 
 # fixed bug, wrong DAQ server i was putting the folders into 
 
+**correct folder location is `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg`**  
 ## to fix this:
-- update c
+- update `content.yaml` in correct folder location
+- update the super rt files to be correct. 

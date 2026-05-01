@@ -297,8 +297,15 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 },
 ```
 - As we can see the `"dgtz.emu.enable_pulse": "false"` and `"dgtz.emu.enable": "false"`, not what we observed `automate.py` claiming to send to this. 
-- Also inside "`sys"
-- When we boot `supermusrgui.py` and press start, we do not see the emulated traces, so this method does not work. 
+- Also inside `sysconfig.json` we also do not see any updates on the emulation settings:
+```
+        "width": 10,
+        "offset": 50,
+        "noise_amp": 200,
+        "pulse_enable": false,
+        "enable": false
+```
+- When we boot `supermusrgui.py` and press start, we do not see the emulated traces, i
 
 ## Workaround Method 
 - as this method is not working, I have made a workaround that does work, but is more laborious and not the desired outcome. 

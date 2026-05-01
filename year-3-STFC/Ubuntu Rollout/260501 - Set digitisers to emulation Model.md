@@ -81,7 +81,20 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
 inside the codebase, you need to setup two files: 
 - #### `ips.yaml`: 
 	- This is the file that contains all the IPs for each of the digitisers in `content.yaml` you should always assert that the number of IPs match the number of MAC addresses. 
-- #### `isis.daq121.yaml`
+	```
+	available_ips:
+  - 130.246.84.54        # MAC: 02:ab:ba:00:22:18
+  - 130.246.84.55        # MAC: 02:ab:ba:00:22:19
+  - 130.246.84.56        # MAC: 02:ab:ba:00:22:20
+  - 130.246.84.57        # MAC: 02:ab:ba:00:22:21
+  - 130.246.84.58        # MAC: 02:ab:ba:00:22:84
+  - 130.246.84.59        # MAC: 02:ab:ba:00:22:85
+  - 130.246.84.60        # MAC: 02:ab:ba:00:22:86
+  - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
+	```
+- #### `isis.daq121.yaml`:
+	- This file I do not know the purpose of, but it has teh same setup as 
+-
 
 
 ## Execution

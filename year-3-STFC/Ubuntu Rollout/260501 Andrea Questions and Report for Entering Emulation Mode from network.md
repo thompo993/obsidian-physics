@@ -6,7 +6,7 @@
 - How does `channels` inside `content.yaml` match to what we should observe in the GUI?
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
-## Update Procedure
+# Update Procedure
 - the update was done exactly as instructed by your documentation the following firmware and software was installed:
 	- Software Version: **9.5.9.1** 
 	- Firmware Version: **24.12.12.02** 
@@ -31,7 +31,7 @@ UseDomains=yes
 
 - `ClientIdentifier=mac` was added in, it was not included in the original `network/20-end0.network` file. 
 - This was applied to all digitiser and resolved the double IP address issue and also made them fixed.
-## Initial Setup
+# Initial Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 
 ```
@@ -120,7 +120,7 @@ super_rt:
       channels : [72,73,74,75,76,77,78,79]
 ```
 
-## What works: 
+# What works: 
 - After this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with `mac: 02:ab:ba:00:22:37` and IP address `130.246.84.133`:
 #### Inside the  web interface terminal:
 `root@niubuntu-arm: nano ./ni/config/default.cfg `
@@ -184,7 +184,7 @@ super_rt:
       channels : [536,537,538,539,540,541,542,543]
 ```
 - So the channel mapping does successfully update, this is true for all digitisers. 
-## What does not work:
+# What does not work:
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

@@ -358,3 +358,6 @@ these mac addresses correspond to the following channel mapping:
 This does not match with our observed trace locations. However it is at least of merit that they are all sequential in our GUI.  As a result I am stuck and unsure of where to proceed next. I have a strange mix of the digitiser terminal seeming like it has read something from `$daqserver` but, not the configuration files, maybe it is pulling these settings from a different experiment on the server, for example one of the `supermusr_experiment` runs? 
 
 ## editing `default.conf` effect
+
+
+## seeing if the booting of digitisers is preventing data 

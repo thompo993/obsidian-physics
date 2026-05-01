@@ -521,3 +521,5 @@ As we can see above, we have overwritten the default values to enable emulation,
 - why we do not have the correct updated config in the RAM of the
 - what is the \_x that is appended to `.json` used for
 	- **answered:** this for creating a copy 
+
+# `automate.py`

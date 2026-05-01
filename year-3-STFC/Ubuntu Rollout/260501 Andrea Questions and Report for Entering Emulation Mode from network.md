@@ -185,7 +185,8 @@ super_rt:
 ```
 - So the channel mapping does successfully update, this is true for all digitisers. 
 # What does not work:
-## Using `automate.py` w Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
+## Using `automate.py` to setup DAQ
+ **Example IP: 130.246.84.141,  Example MAC: 02:ab:ba:00:22:53**
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 
 ```

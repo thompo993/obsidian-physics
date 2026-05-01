@@ -2,6 +2,8 @@
 # Questions
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
+## Update Procedure
+- the update was done exactly as instruced by your documentation the folloing firmware and sofra
 ## Inital Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 
@@ -37,9 +39,22 @@
 
 - `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the network configuration file, forcing it to use just MAC instead of any other method of identifying the DAQs. 
 #### Changes made to the network file: 
+`root@nibuntu-arm:/ni/software/landapp# sudo nano /etc/systemd/network/20-end0.network`
 
+```
+  GNU nano 7.2                                                                 /etc/systemd/network/20-end0.network                                                                      
+[Match]
+Name=end0
 
+[Network]
+DHCP=yes
+DNSDefaultRoute=yes
 
+[DHCP]
+ClientIdentifier=mac
+UseDNS=yes
+UseDomains=yes
+```
 
 
 

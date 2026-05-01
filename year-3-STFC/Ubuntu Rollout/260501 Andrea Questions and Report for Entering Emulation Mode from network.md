@@ -120,7 +120,37 @@ super_rt:
 ```
 
 ## What works: 
-- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. 
+- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with
+
+```
+    - mac: 02:ab:ba:00:22:37
+
+      digitizer: 17
+
+      daq : 3
+
+      config: super_rt-1-1.json
+
+      sysconfig : sysconfig.json
+
+      firmware: fw
+
+      channels : [536,537,538,539,540,541,542,543]
+```
+#### IP Address and terminal 
+```
+    digitizer_17:
+
+      - 130.246.84.130    # MAC: 02:ab:ba:00:22:34
+
+      - 130.246.84.131    # MAC: 02:ab:ba:00:22:35
+
+      - 130.246.84.132    # MAC: 02:ab:ba:00:22:36
+
+      - 130.246.84.133    # MAC: 02:ab:ba:00:22:37
+```
+
+#### Inside the terminal, under default config
 ```
   GNU nano 7.2                                                                             default.cfg                                                                                       
             "value": "8.2",
@@ -164,6 +194,10 @@ super_rt:
     ]
 }
 ```
+
+This file is located in `root@niubuntu-arm:/ni/config/default.cfg `
+
+Now we just need to update this!
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

@@ -29,7 +29,7 @@ UseDomains=yes
 ```
 
 - `ClientIdentifier=mac` was added in, it was not included in the original `network/20-end0.network` file. 
-- This was applied to all digitiser and resolved the double IP address issue and the non 
+- This was applied to all digitiser and resolved the double IP address issue and also made them fixed.
 ## Initial Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 
@@ -63,7 +63,7 @@ UseDomains=yes
         },
 ```
 
-- `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the network configuration file, forcing it to use just MAC instead of any other method of identifying the DAQs. 
+- `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the network configuration file, forcing it to use just MAC instead of any other method of identifying the DAQs. These are not included for brevity. 
 
 
 

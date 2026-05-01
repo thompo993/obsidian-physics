@@ -70,7 +70,13 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
             },
 ### REST OF THIS CONFIGURATION FILE REMOVED FOR BREVITY ###
 ```
-- if you want to emulate some waves, the settings we are interested in are all settings under `dgtz.emu`, where we can vary all the characteristics of our emulated waveforms, however 
+- if you want to emulate some waves, the settings we are interested in are all settings under `dgtz.emu`, where we can vary all the characteristics of our emulated waveforms, however to simply turn on emulation mode, ensure the following settings are set to `true`:
+```
+            "dgtz.emu.enable_pulse": "true",
+            "dgtz.emu.enable": "true",
+            "dgtz.emu.ch_map_mode": "true"
+```
+
 ### Inside Codebase 
 inside the codebase, you need to setup two files: 
 - #### `ips.yaml`: 
@@ -123,3 +129,6 @@ Phew, that was **a lot** of commands, luckily we only need to worry about two, a
 - `PS C:\supermusr-gui-main> python .\automate.py --start`
 - `PS C:\supermusr-gui-main> python .\automate.py --stop `
 Using these two commands we can start and stop all of our selected digitisers from going into emulation mode. 
+
+## Verification: 
+Verifying is the easiest step, simply boot any GUI (i reco)

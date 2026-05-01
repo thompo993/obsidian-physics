@@ -364,6 +364,7 @@ This does not match with our observed trace locations. However it is at least of
 - if this setting is restored, and set as the default conf, then why is the pulse and emu enabled mode staying as false?
 
 ## Paramters.json file
+## Comparison Summary Table
 ### Multi GUI
 - it is discovered that. `multidaq_gui.py` pulls from a config file called `parameter_multidaq.json`, as a result the following code snippets were changed 
 
@@ -422,11 +423,12 @@ Boot → Load `parameters_multidaq.json`
      → Create 4 SDK instances (hardcoded IPs)
      → Initialize parameter tree with default values
      → User modifies GUI
-     → Click "Apply" → program_settings()
+     → Click "Apply" → `program_settings()`
      → Sends commands to ALL 4 DAQs
-	 → Execute: `configure_dgtz, configure_base, configure_hv, configure_staves
+	 → Execute: `configure_dgtz, configure_base, configure_hv, configure_staves`
      → Click "Start" → Acquisition begins
 
+## Single GUI
 
 
 

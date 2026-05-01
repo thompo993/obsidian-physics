@@ -418,4 +418,4 @@ As we can see above, we have overwitten the default value of
 
 
 ## varying different pulse height values in different locations to see if the mapping is correct. 
-- as the values in time of the trace are not directly mapped numerically to the "`channels`" segment of 
+- as the values in time of the trace are not directly mapped numerically to the "`channels`" segment of `content.yaml`, we will investigate if channel mapping is true based on the amplitude eof 

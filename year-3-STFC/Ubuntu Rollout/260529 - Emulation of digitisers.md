@@ -451,7 +451,8 @@ Boot → Load `parameters_multidaq.json`
      → Click "Start" → Acquisition begins
 
 ## Single GUI
-- this GUI pulls from `parameters.json`
+- this GUI pulls from `parameters.json` for emulation mode, the following code was changed inside this file 
+#### parameter updates for emu mode - singnle GUI:
 
 
 

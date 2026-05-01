@@ -851,7 +851,9 @@ available_ips:
         },
 ```
 
-The only changes we have made are directly inside of
+The only changes we have made are:
+- `"enable": {"command":"dgtz.emu.enable", "value": "true", "type": "list", "values": ["true", "false"]},`
+- 
 
 
 - Then booth the  `configure_multiple_digitizers.py` GUI: 

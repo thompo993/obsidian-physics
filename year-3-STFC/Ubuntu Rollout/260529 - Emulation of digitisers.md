@@ -810,4 +810,7 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 },
 ```
 - As we can see the `"dgtz.emu.enable_pulse": "false"` and `"dgtz.emu.enable": "false"`, not what we observed `automate.py` claiming to send to this. 
-- When we boot `supermusrgui.py` and press start, we do not see the emulated tr
+- When we boot `supermusrgui.py` and press start, we do not see the emulated traces, so this method does not work. 
+
+## Workaround Method 
+- as this method is not working, i have made a workaround that does work, but is not ex

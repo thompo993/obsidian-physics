@@ -9,7 +9,7 @@ This document details how to setup any number of digitisers to emulation mode
 
 ### On $daqserver
 Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There are two files that need to be updated: 
-- #### `content`: 
+- #### `content.yaml`: 
 	- This file contains the experiment name, the MAC address of the digitisers assigned to the experiment, and the channels for channel mapping. 
 ```
   super_rt:
@@ -37,7 +37,7 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
       channels : [80,81,82,83,84,85,86,87]
 ```
 - #### `super_rt-1-1`:
-	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder named 
+	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder of the same name and find the configuration file in there. 
 ### Inside Codebase 
 
 

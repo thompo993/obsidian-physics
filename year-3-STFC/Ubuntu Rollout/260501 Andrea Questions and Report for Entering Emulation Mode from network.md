@@ -64,6 +64,8 @@ UseDomains=yes
 ```
 
 - `ips.yaml`, `isis.daq121.yaml` and `content.yaml` have been updated to contain all of the new IP fixed addresses in super-R80. Below are the headers of these files:
+- for `ips.yaml`
+- for `isis.daq121.yaml`:
 ```
   super_rt:
     digitizer_3:
@@ -82,7 +84,7 @@ UseDomains=yes
       - 130.246.84.64        # MAC: 02:ab:ba:00:22:66
       - 130.246.84.65        # MAC: 02:ab:ba:00:22:67
 ```
-
+- for content.yaml
 
 
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53

@@ -370,5 +370,5 @@ This does not match with our observed trace locations. However it is at least of
 
 
 ## seeing if the booting of digitisers is overwriting the correct settings (view Grafana)
-- i am sceptical of this option as otherwise after booting, reload would restore the correct setting. 
--
+- I am sceptical of this option as otherwise after booting, reload would restore the correct setting. 
+- 

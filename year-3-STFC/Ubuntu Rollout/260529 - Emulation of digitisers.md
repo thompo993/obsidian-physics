@@ -360,8 +360,8 @@ This does not match with our observed trace locations. However it is at least of
 ## editing `default.conf` effect
 - overwritten "`default.conf`" inside of OP `130.246.84.62`
 - updating just one of these files does not help.
-- when pressing `reload` on a file that 
-- 
+- when pressing `reload` on a file that never been tampered with, we extract "`ch_map_mode_on=true`"  This is interesting. . . 
+- if this setting is restored, and set a 
 
 
 

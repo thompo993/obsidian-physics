@@ -9,8 +9,8 @@ This document details how to setup any number of digitisers to emulation mode
 
 ### On $daqserver
 Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There are two files that need to be updated: 
-#### `content`: 
-This file contains the experiment name, the MAC address of the digitisers assigned to the experiment dihgitisers
+- #### `content`: 
+	- This file contains the experiment name, the MAC address of the digitisers assigned to the experiment, and the channels for channel mapping. The header of th
 
 
 ### Inside Codebase 

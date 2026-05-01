@@ -35,7 +35,7 @@
         },
 ```
 
-- `ips.yaml` and `content.yaml` have been updated to contain 
+- `ips.yaml` and `content.yaml` have been updated to contain all of the new IP addresses in super-R80, what have been made fixed by editing the 
 
 
 

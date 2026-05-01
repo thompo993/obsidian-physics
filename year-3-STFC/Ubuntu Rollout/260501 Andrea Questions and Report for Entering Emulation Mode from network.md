@@ -185,7 +185,7 @@ super_rt:
 ```
 - So the channel mapping does successfully update, this is true for all digitisers. 
 # What does not work:
-## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
+## Using `automate.py` w Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 
 ```
@@ -305,9 +305,9 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
         "pulse_enable": false,
         "enable": false
 ```
-- When we boot `supermusrgui.py` and press start, we do not see the emulated traces, i
+- When we boot `supermusrgui.py` and press start, we do not see the emulated traces, in fact, we see nothing. so this method does not work. 
 
-## Workaround Method 
+# Workaround Method 
 - as this method is not working, I have made a workaround that does work, but is more laborious and not the desired outcome. 
 ### Use `configure_multiple_digitizers.py` instead
 - once again update `ips.yam1` to a single testing IP: 

@@ -70,7 +70,7 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
             },
 ### REST OF THIS CONFIGURATION FILE REMOVED FOR BREVITY ###
 ```
-- if you want to turn on emulation, the settings we are interested in are all settings under `dgtz.emu` 
+- if you want to emulate some waves, the settings we are interested in are all settings under `dgtz.emu`, where we can vary all the characteristics of our emulated waveforms, however 
 ### Inside Codebase 
 inside the codebase, you need to setup two files: 
 - #### `ips.yaml`: 

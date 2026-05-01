@@ -516,4 +516,4 @@ As we can see above, we have overwritten the default values to enable emulation,
 
 # discussion with dan 
 - we do **not** want to use the configure all to apply the settings, we want it to get it from the network boot. 
-- although the way i have figured out above using configure all works, this is NOT what we want to do. 
+- although the way i have figured out above using configure all works, this is NOT what we want to do.  We want it too

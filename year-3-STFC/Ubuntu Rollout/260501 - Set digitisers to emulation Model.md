@@ -86,7 +86,7 @@ inside the codebase, you need to setup two files:
   - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
 	```
 - #### `isis.daq121.yaml`:
-	- This file I do not know for certain the function of, but i belive it is for mapping the `content.yaml` file with the corresponding MAC addresses (as it has the same hierachy of id):
+	- This file I do not know for certain the function of, but I believe it is for mapping the `content.yaml` file with the corresponding MAC addresses (as it has the same hierarchy of experiment $\longrightarrow$ digitiser $\longrightarrow$ IP/MAC ). The structure of this file should look as follows:
 	```  
   super_rt:
     digitizer_3:

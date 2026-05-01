@@ -36,8 +36,8 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
       firmware: fw
       channels : [80,81,82,83,84,85,86,87]
 ```
-
-
+- #### `super_rt-1-1`:
+	- This 
 ### Inside Codebase 
 
 

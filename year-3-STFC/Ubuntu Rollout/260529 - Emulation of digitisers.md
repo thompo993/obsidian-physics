@@ -696,4 +696,4 @@ even though it says its applied the settings, it has not updated, the file even 
 when booting the GUI, this did not update either. 
 
 # what to tell Andrea - notes:
-- after ubuntu 24 update, when we use 
+- after ubuntu 24 update, when we use  ``

@@ -6,7 +6,26 @@
 - the update was done exactly as instructed by your documentation the following firmware and software was installed:
 	- Software Version: **9.5.9.1** 
 	- Firmware Version: **24.12.12.02** 
-- we encountered an issue with getting two IP addresses assigned to one machine, and despite having reserved IPs, they did not remain fixed when they were either power cycled or rebooted. The issue was that MAC was not set as the 
+- we encountered an issue with getting two IP addresses assigned to one machine, and despite having reserved IPs, they did not remain fixed when they were either power cycled or rebooted. The issue was that MAC was not set as the `Client Identifier` so we made some changes to the network file. 
+#### Changes made to the network file: 
+`root@nibuntu-arm:/ni/software/landapp# sudo nano /etc/systemd/network/20-end0.network`
+
+```
+  GNU nano 7.2                                                                 /etc/systemd/network/20-end0.network                                                                      
+[Match]
+Name=end0
+
+[Network]
+DHCP=yes
+DNSDefaultRoute=yes
+
+[DHCP]
+ClientIdentifier=mac
+UseDNS=yes
+UseDomains=yes
+```
+
+- `ClientIdentifier=mac` 
 ## Initial Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 

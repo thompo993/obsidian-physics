@@ -108,4 +108,6 @@ We execute the code using `automate.py`, a command-line automation tool that con
 - #### General usage:
 	- `python automate.py config.yaml <command> arguments`. If no YAML file is specified, the script defaults to `ips.yaml` 
 - #### Commands: 
-	- `--start` be
+	- `--start` begins waveform acquisition on the connected digitisers.
+	-  `--stop` stops the current waveform acquisition on the selected digitisers. 
+	- `--reset`: 

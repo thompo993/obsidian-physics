@@ -762,4 +762,4 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 - firstly, we enter the web interface, and navigate to terminal. 
 - Then we navigate to the terminal 
 `root@nibuntu-arm:/ni/software/landapp# cd ../../../tmp/`
-- now we check i
+-  now we check inside the config files:

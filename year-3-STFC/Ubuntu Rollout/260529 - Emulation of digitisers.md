@@ -821,6 +821,7 @@ available_ips:
   - 130.246.84.141        # MAC: 02:ab:ba:00:22:53
 ```
 - The next step is to update the file that loads the default configuration inside of this GUI, this file is `parameters.json` inside this file we make the following changes:
+#### The orgi
 
 
 

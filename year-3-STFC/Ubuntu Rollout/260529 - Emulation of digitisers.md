@@ -814,4 +814,5 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 
 ## Workaround Method 
 - as this method is not working, I have made a workaround that does work, but is more laborious and not the desired outcome. 
-### Use `configure_multiple_digitizers.py` to confifgure
+### Use `configure_multiple_digitizers.py` instead
+- once again 

@@ -35,7 +35,7 @@
         },
 ```
 
-- `ips.yaml` and ''
+- `ips.yaml` and `content.yaml` have been updated to contain 
 
 
 

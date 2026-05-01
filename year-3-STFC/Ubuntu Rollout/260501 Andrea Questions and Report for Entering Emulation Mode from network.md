@@ -6,6 +6,7 @@
 - the update was done exactly as instructed by your documentation the following firmware and software was installed:
 	- Software Version: **9.5.9.1** 
 	- Firmware Version: **24.12.12.02** 
+- we encountered an issue with getting two IP addresses assigned to one machine, and despite having reserved IPs, they did not remain fixed when they were either power cycled or rebooted. The issue was that MAC was not set as the 
 ## Initial Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 

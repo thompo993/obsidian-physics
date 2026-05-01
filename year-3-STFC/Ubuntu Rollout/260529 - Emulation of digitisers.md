@@ -524,3 +524,71 @@ As we can see above, we have overwritten the default values to enable emulation,
 
 # `automate.py`
 
+This Python script is a **command-line automation tool** that connects to one or more digitizer devices over **TCP/IP** and executes commands such as starting/stopping acquisition, configuring hardware, resetting devices, and reading version info.
+
+---
+
+## Main Flow
+
+### 1) Initialization
+- Loads a YAML file (e.g. `ips.yaml`) that contains the **IP addresses** of the digitizer devices to control.
+
+### 2) Command Processing
+- Accepts a **command-line option** (for example `--start`, `--configure`, etc.).
+- Some commands may also take **optional arguments** (such as a configuration file path).
+
+### 3) Device Loop
+- Iterates through each IP address from the YAML file.
+- For each device:
+  - Opens a TCP/IP connection
+  - Executes the requested command
+  - Moves to the next device
+
+---
+
+## Key Functions
+
+### `cmd_configure(sdk, json_file)`
+This is the main configuration entry point. It configures the digitizer by:
+
+- Stopping any active acquisition
+- Loading parameters from a JSON configuration file (via `load_json_and_process()`)
+- Executing the configuration sequence, typically including:
+  - `configure_dgtz`
+  - `configure_base`
+  - `configure_hv`
+  - `configure_staves`
+
+---
+
+### `set_parameter(sdk, cmd, value, index)`
+- Sends an individual parameter change to the device.
+- Typically used internally by the JSON-processing/config pipeline to apply settings one at a time.
+
+---
+
+### `process_json()`
+- Recursively parses the JSON configuration structure.
+- Extracts **command/value pairs** (and related metadata like indices if applicable).
+- Produces a set of device-setting actions that are later sent to the digitizer.
+
+---
+
+## Other Supported Commands / Features
+
+In addition to configuration, the script supports other automation actions such as:
+
+- `--start` / `--stop` acquisition
+- `--reset` device state
+- `--version` reporting
+- Spectrum saving / data capture modes
+- Emulation modes
+- Conversion utilities
+
+---
+## example usage 
+```
+python automate.py ips.yaml --configure config.json
+python automate.py --start
+python automate.py --save_spectrum_amplitude output.txt
+```

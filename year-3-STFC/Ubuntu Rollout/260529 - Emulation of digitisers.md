@@ -852,11 +852,14 @@ available_ips:
 ```
 
 The only changes we have made are:
-- `"enable": {"command":"dgtz.emu.enable", "value": "true", "type": "list", "values": ["true", "false"]},`
-- 
+```
+"enable_pulse": {"command":"dgtz.emu.enable_pulse", "value": "true", "type": "list", "values": ["true", "false"]},
+            "enable": {"command":"dgtz.emu.enable", "value": "true", "type": "list", "values": ["true", "false"]},
+            "ch_map_mode": {"command":"dgtz.emu.ch_map_mode", "value": "true", "type": "list", "values": ["true", "false"]}
+        },
+```
 
-
-- Then booth the  `configure_multiple_digitizers.py` GUI: 
+- Once this file has been updated boot the  `configure_multiple_digitizers.py` GUI: 
 `PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 
 - this will launch the GUI, and from here 
 ``

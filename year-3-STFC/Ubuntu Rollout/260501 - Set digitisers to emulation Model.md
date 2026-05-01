@@ -114,3 +114,5 @@ We execute the code using `automate.py`, a command-line automation tool that con
 	- `--version`: Displays firmware and software version information for the connected digitisers.
 	- `--configutr`: loads and applies a digtiser configuration from a json file. configures digitisers settings, base parameters, HV power supply and stave electronics. 
 	- `--save_spectrum_amplitude <file.txt>`: Reads the amplitude (energy) spectrum histogram from the digitizer and saves it to a CSV file.
+	- `--save_tof_histogram <file.txt>`: Reads the time-of-flight (TOF) histogram from the digitizer and saves it to a CSV file.
+	- `--emulation-enable`

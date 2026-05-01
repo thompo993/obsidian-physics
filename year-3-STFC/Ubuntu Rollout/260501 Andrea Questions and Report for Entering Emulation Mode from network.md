@@ -1,4 +1,4 @@
-
+# Tags
 # Questions
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
@@ -25,7 +25,8 @@ UseDNS=yes
 UseDomains=yes
 ```
 
-- `ClientIdentifier=mac` 
+- `ClientIdentifier=mac` was added in, it was not included in the original `network/20-end0.network` file. 
+- This was applied to all digitiser and resolved the double IP address issue and the non 
 ## Initial Setup
 - full configured all files on `$daqserver` so that  `"pulse_enable":true` and `"enable":true`, for both `super_rt-1-1` ands `sysconfig`
 	- `sysconfig`: 

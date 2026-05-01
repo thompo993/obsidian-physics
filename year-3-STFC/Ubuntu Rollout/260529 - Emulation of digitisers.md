@@ -453,7 +453,7 @@ Boot → Load `parameters_multidaq.json`
 
 ## Single GUI
 - this GUI pulls from `parameters.json` for emulation mode, the following code was changed inside this file 
-#### parameter updates for emu mode - single GUI:
+### parameter updates for emu mode - single GUI:
 ```
 ```
 

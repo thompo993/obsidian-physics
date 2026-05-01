@@ -647,3 +647,48 @@ set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
 	set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
 	```
 so our digitiser terminal should re registering this. Inside the command line, post reboot: 
+```
+{
+    "dgtz": {
+        "dgtz.send_delay": 5000,
+        "dgtz.pre": 0.1,
+        "dgtz.post": 32,
+        "dgtz.trg_delay": 0,
+        "lemo_mode": {
+            "dgtz.lemo.mode:0": "in_50",
+            "dgtz.lemo.mode:1": "in_50"
+        },
+        "lemo_source": {
+            "dgtz.lemo.source:0": "t0_out",
+            "dgtz.lemo.source:1": "t0_out"
+        },
+        "sync_outmode": {
+            "dgtz.sync.outmode:0": "gnd",
+            "dgtz.sync.outmode:1": "gnd",
+            "dgtz.sync.outmode:2": "gnd",
+            "dgtz.sync.outmode:3": "gnd",
+            "dgtz.sync.outmode:4": "gnd",
+            "dgtz.sync.outmode:5": "gnd",
+            "dgtz.sync.outmode:6": "gnd",
+            "dgtz.sync.outmode:7": "gnd"
+        },
+        "emu": {
+            "amp": {
+                "dgtz.emu.amp:0": 1000,
+                "dgtz.emu.amp:1": 1000,
+                "dgtz.emu.amp:2": 1000,
+                "dgtz.emu.amp:3": 1000,
+                "dgtz.emu.amp:4": 1000,
+                "dgtz.emu.amp:5": 1000,
+                "dgtz.emu.amp:6": 1000,
+                "dgtz.emu.amp:7": 1000
+            },
+            "dgtz.emu.period": 500,
+            "dgtz.emu.noiseamp": 1000,
+            "dgtz.emu.offset": 2000,
+            "dgtz.emu.enable_pulse": "false",
+            "dgtz.emu.enable": "false"
+        },
+```
+
+even thou

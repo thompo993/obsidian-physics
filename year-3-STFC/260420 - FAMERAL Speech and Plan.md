@@ -3,7 +3,7 @@
 [[MuSR]]
 [[superconductivity]]
 - [x] Write speech for FAMRAL ⏫ 📅 2026-04-22 ✅ 2026-04-23
-- [ ] Record Speech and Submit to Rosei 📅 2026-04-24
+- [x] Record Speech and Submit to Rosei 📅 2026-04-24 ✅ 2026-05-01
 
 
 [[script]]

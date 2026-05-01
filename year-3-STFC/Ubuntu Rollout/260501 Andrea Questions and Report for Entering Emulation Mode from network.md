@@ -358,4 +358,5 @@ The only changes we have made are:
 - Once this file has been updated boot the  `configure_multiple_digitizers.py` GUI: 
 `PS C:\supermusr-gui-main> python .\configure_multiple_digitizers.py ` 
 - this will launch the GUI, and from here, simply press apply. 
-- Now if we launch any GUI
+- Now if we launch any GUI, and press start (not apply $\longrightarrow$ start) we observe traces. 
+- This is not what we want, we want it to get the correct c

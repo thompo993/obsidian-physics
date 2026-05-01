@@ -640,4 +640,8 @@ set_parameter called with cmd='dgtz.emu.enable_pulse', value=true, index=0
 set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
 set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0
 ```
-- so from this we can see that we have set 
+- so from this we can see that we have set: 
+```
+set_parameter called with cmd='dgtz.emu.enable_pulse', value=true, index=0
+set_parameter called with cmd='dgtz.emu.enable', value=true, index=0
+set_parameter called with cmd='dgtz.emu.ch_map_mode', value=true, index=0

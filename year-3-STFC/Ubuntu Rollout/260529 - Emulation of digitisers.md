@@ -417,4 +417,5 @@ This does not match with our observed trace locations. However it is at least of
 As we can see above, we have overwitten the default value of 
 
 
-## vary
+## varying different pulse height values in different locations to see if the mapping is correct. 
+- as the values in time of the trace are not directly mapped numerically to the "`channels`" segment of 

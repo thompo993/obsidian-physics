@@ -3,6 +3,7 @@
 [[ubuntu]]
 [[Super MuSR]]
 # Questions
+- How does `channels` inside `content.yaml` match to what we should observe in the GUI?
 # what to tell Andrea - notes:
 - after ubuntu 24 update, when we use  `automate.py` we get conformation that we have sent the DAQ121 the updated settings, but when we enter the terminal the files have not been updated. 
 ## Update Procedure
@@ -120,8 +121,8 @@ super_rt:
 ```
 
 ## What works: 
-- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with `mac: 02:ab:ba:00:22:37` and IP address `130.246.84.133`:
-#### Inside the terminal, under default config
+- After this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. For the DAQ with `mac: 02:ab:ba:00:22:37` and IP address `130.246.84.133`:
+#### Inside the  webterminal, under default config
 `root@niubuntu-arm: nano ./ni/config/default.cfg `
 ```
   GNU nano 7.2                                                                             default.cfg                                                                                       

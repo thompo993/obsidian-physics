@@ -28,13 +28,6 @@ Inside of `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg` There a
       sysconfig : sysconfig.json
       firmware: fw
       channels : [72,73,74,75,76,77,78,79]
-    - mac: 02:ab:ba:00:22:20
-      digitizer: 3
-      daq : 2
-      config: super_rt-1-1.json
-      sysconfig : sysconfig.json
-      firmware: fw
-      channels : [80,81,82,83,84,85,86,87]
 ```
 - #### `super_rt-1-1.json`:
 	- This file is an example name of the general configuration you want to set all of your digitisers to. For example for the case of `super_rt-1-1` you navigate to the experiment folder of the same name and find the configuration file in there. 
@@ -93,29 +86,18 @@ inside the codebase, you need to setup two files:
   - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
 	```
 - #### `isis.daq121.yaml`:
-	- This file I do not know for certain the function of, but i belive it is for mapping the `content.yaml` file with the corresponding MAC addresses:
+	- This file I do not know for certain the function of, but i belive it is for mapping the `content.yaml` file with the corresponding MAC addresses (as it has the same hierachy of id):
 	```  
-
   super_rt:
-
     digitizer_3:
-
       - 130.246.84.54   # MAC: 02:ab:ba:00:22:18
-
       - 130.246.84.55   # MAC: 02:ab:ba:00:22:19
-
       - 130.246.84.56   # MAC: 02:ab:ba:00:22:20
-
       - 130.246.84.57   # MAC: 02:ab:ba:00:22:21
-
     digitizer_4:
-
       - 130.246.84.58        # MAC: 02:ab:ba:00:22:84
-
       - 130.246.84.59        # MAC: 02:ab:ba:00:22:85
-
       - 130.246.84.60        # MAC: 02:ab:ba:00:22:86
-
       - 130.246.84.61        # MAC: 02:ab:ba:00:22:87
 	```
 

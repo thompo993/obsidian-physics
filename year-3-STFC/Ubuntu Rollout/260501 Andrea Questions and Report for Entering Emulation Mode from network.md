@@ -244,11 +244,10 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 ```
 
 - As we can see, we have applied `cmd='dgtz.emu.enable_pulse', value=true, index=0`, `cmd='dgtz.emu.enable', value=true, index=0`, `cmd='dgtz.emu.ch_map_mode', value=true, index=0`. 
-- This means that `automate.py` thinks we have sent the digitiser the updated configuration, with emulation mode on. therefore, if we `shh` into the terminal, on digitizer `130.246.84.141`
+- This means that `automate.py` thinks we have sent the digitiser the updated configuration, with emulation mode on. therefore, if we `shh` into the terminal, on digitizer `130.246.84.141` we should get matching configuration files.
 
 ## Verifying Inside DAQ121
 - firstly, we enter the web interface, and navigate to terminal. 
-- Then we navigate to the terminal 
 `root@nibuntu-arm:/ni/software/landapp# cd ../../../tmp/`
 -  now we check inside the config files: 
 `nano daqconfig.json`
@@ -298,6 +297,7 @@ set_parameter called with cmd='dgtz.wavemode', value=analog, index=0
 },
 ```
 - As we can see the `"dgtz.emu.enable_pulse": "false"` and `"dgtz.emu.enable": "false"`, not what we observed `automate.py` claiming to send to this. 
+- Also inside "`sys"
 - When we boot `supermusrgui.py` and press start, we do not see the emulated traces, so this method does not work. 
 
 ## Workaround Method 

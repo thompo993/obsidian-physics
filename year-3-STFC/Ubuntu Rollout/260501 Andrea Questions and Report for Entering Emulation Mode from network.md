@@ -119,7 +119,8 @@ super_rt:
       channels : [72,73,74,75,76,77,78,79]
 ```
 
-
+## What works: 
+- after this, I remoted into a DAQ to verify that the correct settings had been updated onto the digitiser. 
 ## Example: 130.246.84.141   MAC: 02:ab:ba:00:22:53
 ### Sending Configuration to digitizer: 
 - inside  `ips.yam1` we setup a single testing IP: 

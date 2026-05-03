@@ -1,3 +1,9 @@
+[[pytorch]]
+[[python]]
+[[machine learning]]
+# Pytorch Computer Vision 
+## what are we going to cover
+
 |**Topic**|**Contents**|
 |---|---|
 |**0. Computer vision libraries in PyTorch**|PyTorch has a bunch of built-in helpful computer vision libraries, let's check them out.|

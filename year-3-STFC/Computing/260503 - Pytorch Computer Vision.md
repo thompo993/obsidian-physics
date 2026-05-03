@@ -22,4 +22,8 @@
 |                                                      |                                                                                                                                                                         |
 ## workflow
 ![[fig-260503-pytoch-computer-vision-workflow.png]]
+
+## architecture
 ![[fig-260503-pytoch-computer-cnn-arcitecture.png]]
+## batch processing 
+![[fig-260503-pytoch-computer-vision-batch-processing.png]]

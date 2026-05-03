@@ -19,4 +19,6 @@
 | **10. Making a confusion matrix**                    | A confusion matrix is a great way to evaluate a classification model, let's see how we can make one.                                                                    |
 | **11. Saving and loading the best performing model** | Since we might want to use our model for later, let's save it and make sure it loads back in correctly.                                                                 |
 |                                                      |                                                                                                                                                                         |
+|                                                      |                                                                                                                                                                         |
 ## workflow
+![[fig-260503-pytoch-computer-vision-workflow.png]]

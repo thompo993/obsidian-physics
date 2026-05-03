@@ -22,3 +22,4 @@
 |                                                      |                                                                                                                                                                         |
 ## workflow
 ![[fig-260503-pytoch-computer-vision-workflow.png]]
+![[fig-260503-pytoch-computer-cnn-arcitecture.png]]

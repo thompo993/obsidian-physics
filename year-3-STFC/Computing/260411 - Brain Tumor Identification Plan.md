@@ -6,8 +6,7 @@
 https://www.reddit.com/r/MachineLearning/comments/1ckrzq6/d_is_there_a_more_systematic_way_of_choosing_the/
 
 # CODING CONVENTIONs
-- scalars and vectors, lowercase 
-- matrix and tensors UPPERCASE
+
 
 
 

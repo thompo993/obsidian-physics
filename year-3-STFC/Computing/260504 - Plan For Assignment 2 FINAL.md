@@ -34,7 +34,30 @@ _Write modular functions here so the code is reusable as requested._
 - **DataLoaders:** Wrap your splits in PyTorch DataLoaders (batch_size=32).
 
 ###  Phase 4: Baseline CNN Architecture
+Mon May  4 11:16:32 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.105.08             Driver Version: 580.105.08     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Tesla T4                       Off |   00000000:00:04.0 Off |                    0 |
+| N/A   60C    P0             28W /   70W |     189MiB /  15360MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+|   1  Tesla T4                       Off |   00000000:00:05.0 Off |                    0 |
+| N/A   32C    P8             10W /   70W |       3MiB /  15360MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
 
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A              57      C   /usr/bin/python3                        186MiB |
++-----------------------------------------------------------------------------------------+
 _Create a simple, custom CNN from scratch. This serves as your benchmark to prove that Transfer Learning actually helps._
 
 - **Architecture:** 2 or 3 Convolutional layers + MaxPooling + ReLU activations -> Flatten -> Fully Connected layer.

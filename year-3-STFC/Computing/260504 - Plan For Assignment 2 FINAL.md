@@ -11,7 +11,7 @@
 _Since the brief explicitly states you must attribute AI-generated code, set this up right away. Furthermore, you want to maximize the use of your Kaggle Tesla T4 GPUs._
 
 - **AI Attribution Standard:** Decide on a comment format to use throughout your notebook.
-    - _Example:_ `# [AI-GEN] Prompt: "Write a PyTorch training loop with validation using tqdm" | Tool: GitHub Copilot`
+    - We are using the AI bibliography that has been implemented in the Kaggle notebook.
 - **Imports:** Gather all libraries at the top:
     - `torch`, `torchvision`, `torch.nn`, `torch.optim` (Core Deep Learning)
     - `sklearn.metrics`, `sklearn.model_selection` (Evaluation & Splitting)

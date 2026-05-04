@@ -117,6 +117,7 @@ _Evaluate BOTH models strictly on the 15% unseen **Test** set._
 **4. Code Reusability & Validation**
 
 - Briefly mention how you structured your code (modular DataLoaders, generic training loops, use of `tqdm` for UI) to make it reusable. Emphasize that hyperparameters were tuned on a Validation set, and final metrics were derived from an unseen Test set.
+- also need to add in a way of loading the model inside of the notebook? 
 
 **5. Use of Generative AI (Mandatory Section)**
 

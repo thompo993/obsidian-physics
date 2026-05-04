@@ -35,7 +35,7 @@ _Do not skip this—it shows the marker you understand the data before blindly f
 
 _Write modular functions here so the code is reusable as requested._
 
-- **Transformations (Matching ResNet expectations):**
+- **Transformations (Matching ResNet-50 expectations):**
     - As per PyTorch documentation, pre-trained models expect 3-channel RGB images loaded in a range of `[0, 1]` and normalized using `mean=[0.485, 0.456, 0.406]` and `std=[0.229, 0.224, 0.225]`.
     - **Train Transforms:** `Resize((224, 224))`, `RandomHorizontalFlip()`, `RandomRotation(10)` (Crucial for small datasets to prevent overfitting), `ToTensor()`, `Normalize(...)`.
     - **Val/Test Transforms:** Only `Resize((224,224))`, `ToTensor()`, and `Normalize(...)`. _(Never augment test data)._

@@ -10,6 +10,8 @@ _Since the brief explicitly states you must attribute AI generated code, set thi
     - _Example:_ `# [AI-GEN] Prompt: "Write a PyTorch training loop with validation" | Tool: GitHub Copilot`
 - **Imports:** Gather all libraries at the top (`torch`, `torchvision`, `sklearn`, `matplotlib`, `numpy`, `pandas`).
 - **Device Configuration:** Set up agnostic device code (`device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')`) to utilize your Kaggle Tesla T4s.
+- **TQDM** for progress bar 
+- **Timeit** for timing the training of the models
 
 ### Phase 2: Exploratory Data Analysis (EDA)
 

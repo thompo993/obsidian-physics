@@ -43,6 +43,33 @@ _Write modular functions here so the code is reusable as requested._
 - **Splitting the Data:** Stick to the **70/15/15** (Train/Val/Test) split using a seeded random split to ensure reproducibility.
 - **DataLoaders:** Wrap your splits in PyTorch DataLoaders (`batch_size=32`).
 
+- Claude recomened thse transforms, look into them later: 
+```
+from torchvision import transforms
+
+# Training — with augmentation
+train_transforms = transforms.Compose([
+    transforms.Resize((224, 224)),          # ResNet expects 224x224
+    transforms.RandomHorizontalFlip(),      # augmentation
+    transforms.RandomRotation(15),          # slight rotation for robustness
+    transforms.ColorJitter(brightness=0.2, contrast=0.2),  # lighting variation
+    transforms.ToTensor(),                  # [0,255] → [0.0,1.0]
+    transforms.Normalize(                   # ImageNet mean/std (mandatory for pretrained weights)
+        mean=[0.485, 0.456, 0.406],
+        std=[0.229, 0.224, 0.225]
+    )
+])
+
+# Validation/Test — no augmentation, just resize + normalize
+val_transforms = transforms.Compose([
+    transforms.Resize((224, 224)),
+    transforms.ToTensor(),
+    transforms.Normalize(
+        mean=[0.485, 0.456, 0.406],
+        std=[0.229, 0.224, 0.225]
+    )
+])
+```
 ### 🧠 Phase 4: Baseline CNN Architecture
 
 _Create a simple, custom CNN from scratch. This serves as your benchmark to prove that Transfer Learning actually improves performance and justifies the added computational cost._

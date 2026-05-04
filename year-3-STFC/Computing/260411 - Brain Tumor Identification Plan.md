@@ -178,4 +178,5 @@ weighted avg       0.96      0.96      0.96       459
 - Confusion matrix
 - Per-class F1, precision, recall
 - ROC-AUC (one-vs-rest)
-- **Not just accuracy**
+- **Not just accuracy** 
+- [ ] Ensure comments are updated inside assignment 2 jupyter notebook ⏫ 📅 2026-05-23

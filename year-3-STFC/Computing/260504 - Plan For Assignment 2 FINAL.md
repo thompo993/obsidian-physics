@@ -69,7 +69,80 @@ _Create a simple, custom CNN from scratch. This serves as your benchmark to prov
 - **Modifying the Classifier:** Freeze the base layers (optional, but good practice for the first few epochs), and replace the final fully connected layer (`model.fc = nn.Linear(model.fc.in_features, 4)` for your 4 classes).
 - **Loss Function:** `nn.CrossEntropyLoss()`. _If your EDA showed severe imbalance, pass `weight=` to this loss function to penalize misclassifications of minority classes._
 - **Optimizer:** Adam (`torch.optim.Adam`) with a learning rate of ~0.001.
+which resnet are we using?
+# ResNet
 
+![697](https://pytorch.org/wp-content/uploads/2025/01/resnet.png)
+
+```py
+import torch
+model = torch.hub.load('pytorch/vision:v0.10.0', 'resnet18', pretrained=True)
+# or any of these variants
+# model = torch.hub.load('pytorch/vision:v0.10.0', 'resnet34', pretrained=True)
+# model = torch.hub.load('pytorch/vision:v0.10.0', 'resnet50', pretrained=True)
+# model = torch.hub.load('pytorch/vision:v0.10.0', 'resnet101', pretrained=True)
+# model = torch.hub.load('pytorch/vision:v0.10.0', 'resnet152', pretrained=True)
+model.eval()
+```
+
+All pre-trained models expect input images normalized in the same way, i.e. mini-batches of 3-channel RGB images of shape `(3 x H x W)`, where `H` and `W` are expected to be at least `224`. The images have to be loaded in to a range of `[0, 1]` and then normalized using `mean = [0.485, 0.456, 0.406]` and `std = [0.229, 0.224, 0.225]`.
+
+Here’s a sample execution.
+
+```py
+# Download an example image from the pytorch website
+import urllib
+url, filename = ("https://github.com/pytorch/hub/raw/master/images/dog.jpg", "dog.jpg")
+try: urllib.URLopener().retrieve(url, filename)
+except: urllib.request.urlretrieve(url, filename)
+```
+
+```py
+# sample execution (requires torchvision)
+from PIL import Image
+from torchvision import transforms
+input_image = Image.open(filename)
+preprocess = transforms.Compose([
+    transforms.Resize(256),
+    transforms.CenterCrop(224),
+    transforms.ToTensor(),
+    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
+])
+input_tensor = preprocess(input_image)
+input_batch = input_tensor.unsqueeze(0) # create a mini-batch as expected by the model
+
+# move the input and model to GPU for speed if available
+if torch.cuda.is_available():
+    input_batch = input_batch.to('cuda')
+    model.to('cuda')
+
+with torch.no_grad():
+    output = model(input_batch)
+# Tensor of shape 1000, with confidence scores over ImageNet's 1000 classes
+print(output[0])
+# The output has unnormalized scores. To get probabilities, you can run a softmax on it.
+probabilities = torch.nn.functional.softmax(output[0], dim=0)
+print(probabilities)
+```
+
+```py
+# Download ImageNet labels
+!wget https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt
+```
+
+```py
+# Read the categories
+with open("imagenet_classes.txt", "r") as f:
+    categories = [s.strip() for s in f.readlines()]
+# Show top categories per image
+top5_prob, top5_catid = torch.topk(probabilities, 5)
+for i in range(top5_prob.size(0)):
+    print(categories[top5_catid[i]], top5_prob[i].item())
+```
+
+### Model Description[](https://pytorch.org/hub/pytorch_vision_resnet/#model-description)
+
+Resnet models were proposed in “Deep Residual Learning for Image Recognition”. Here we have the 5 versions of resnet models, which contains 18, 34, 50, 101, 152 layers respectively. Detailed model architectures can be found in Table 1. Their 1-crop error rates on ImageNet dataset with pretrained models are listed below.
 ###  Phase 6: The Training Loop
 
 _Write a single, reusable function: `def train_model(model, train_loader, val_loader, criterion, optimizer, epochs):`_
@@ -85,6 +158,7 @@ _Write a single, reusable function: `def train_model(model, train_loader, val_l
 _Evaluate BOTH models strictly on the 15% unseen **Test** set._
 
 - **Metrics:** Do not rely on Accuracy alone. Medical datasets require:
+	- time of training
     - **Precision & Recall** (Recall is critical for tumours—false negatives are dangerous).
     - **F1-Score**.
     - Use `sklearn.metrics.classification_report`.

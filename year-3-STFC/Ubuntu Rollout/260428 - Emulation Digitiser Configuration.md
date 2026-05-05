@@ -14,3 +14,7 @@ we have 92 mac adressess already setup.
 - For some reasons IP address http://130.246.84.54/ is not working, so i will recovery boot and find out what is happening
 - IT IS NOW WORKING!
 
+
+# Bug 
+Connecting to 130.246.84.101
+Error starting acquisition:  Resource temporarily unavailable 

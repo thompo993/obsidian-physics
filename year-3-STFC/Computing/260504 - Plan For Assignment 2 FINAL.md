@@ -1,12 +1,18 @@
-### 🏷️ Tags
+### Tags
 
 [[python]] 
 [[machine learning]] 
 [[pytorch]] 
 
 ---
+# Quick Notes: 
+- seems that we have only got one GPU working, how do we get two 
+- we increased in accuracy 
+- It is training!
 
-### 🛠️ Phase 1: Project Setup, Hardware, & AI Attribution Strategy
+
+
+###  Phase 1: Project Setup, Hardware, & AI Attribution Strategy
 
 _Since the brief explicitly states you must attribute AI-generated code, set this up right away. Furthermore, you want to maximize the use of your Kaggle Tesla T4 GPUs._
 
@@ -70,14 +76,14 @@ val_transforms = transforms.Compose([
     )
 ])
 ```
-### 🧠 Phase 4: Baseline CNN Architecture
+###  Phase 4: Baseline CNN Architecture
 
 _Create a simple, custom CNN from scratch. This serves as your benchmark to prove that Transfer Learning actually improves performance and justifies the added computational cost._
 
 - **Architecture:** 2 or 3 Convolutional layers + MaxPooling + ReLU activations -> Flatten -> Fully Connected layer.
 - **Factorisation:** Write it as a clean Python `nn.Module` class. Keep it lightweight.
 
-### 🚀 Phase 5: Transfer Learning CNN (ResNet)
+###  Phase 5: Transfer Learning CNN (ResNet)
 
 _Which ResNet should you use? For a dataset of ~3000 images, **ResNet18** is highly recommended. Models like ResNet50 or ResNet152 have too many parameters for this dataset size and will likely suffer from severe overfitting, while also wasting GPU time._
 
@@ -96,7 +102,7 @@ _Which ResNet should you use? For a dataset of ~3000 images, **ResNet18** is h
 - **Loss Function:** `nn.CrossEntropyLoss()`. _(Pass `weight=` if your EDA showed severe imbalance)._
 - **Optimizer:** Adam (`torch.optim.Adam`) with a smaller learning rate (e.g., `1e-4`) since the model is already pre-trained.
 
-### 🔄 Phase 6: The Training Loop (with Timing & Progress)
+###  Phase 6: The Training Loop (with Timing & Progress)
 
 _Write a single, reusable function: `def train_model(model, train_loader, val_loader, criterion, optimizer, epochs):`_
 
@@ -121,7 +127,7 @@ _Evaluate BOTH models strictly on the 15% unseen **Test** set._
 
 ---
 
-### 📝 Plan for the Report (Max 2500 words)
+###  Plan for the Report (Max 2500 words)
 
 **1. Introduction & Methodology**
 

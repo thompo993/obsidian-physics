@@ -1,3 +1,7 @@
+# tags
+[[260504 - Plan For Assignment 2 FINAL]]
+[[pytorch]]
+
 ### Optimizer choice 
 I have been experimenting with adam optimizer of SGD, this is becuase
 

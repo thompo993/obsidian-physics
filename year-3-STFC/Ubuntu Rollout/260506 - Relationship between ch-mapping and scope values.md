@@ -24,3 +24,6 @@ Connecting to DAQ 3 at IP 130.246.84.102...
 DAQ 3 - sn: 15057  section: 0
 SW-VER: 9.5.9.1 (Feb 19 2026)  -- FPGA-VER: 605164034
 ```
+
+
+Weirldy, 126 of the last section 0, is noted as being section 0, and has a unique 

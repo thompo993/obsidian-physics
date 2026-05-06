@@ -52,3 +52,5 @@ Traceback (most recent call last):
 zmq.error.ZMQError: Operation cannot be accomplished in current state
 PS C:\supermusr-gui-main> 
 ```
+
+Rebooting seems to fix this issue 

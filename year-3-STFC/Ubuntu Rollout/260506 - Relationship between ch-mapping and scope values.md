@@ -46,4 +46,5 @@ when we use data without the digitisers i added to super RT (double checked all 
 [[fig-260429-ubuntu-emulation-mappin-results-cleaned.png]]
 ![[fig-260429-ubuntu-emulation-mappin-results-cleaned.png]]
 
+[[fig-260429-ubuntu-emulation-mappin-results-total.png]]
 ![[fig-260429-ubuntu-emulation-mappin-results-total.png]]

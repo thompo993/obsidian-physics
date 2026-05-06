@@ -17,4 +17,4 @@ I have been experimenting with adam optimizer of SGD, this is becuase
 used this to help lower learning rate over time.
 
 ### model is getting stuck 
-we got stuck with a 46% accuracy, which was noted to be predictin
+we got stuck with a 46% accuracy, which was noted to be predicting glioma every time

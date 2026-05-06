@@ -41,4 +41,7 @@ This gives us a clear section that suddenly becomes out of line, some key differ
 - these 5 data points were digitisers that were NOT originally on the `super-rt` list **most likely!**
 - they occur after a gap in the data, caused by a digitiser not being on (in process of fixing this)
 
-when we use data
+when we use data without the digitisers i added to super RT (double checked all values btw) we get a different result: 
+
+[[fig-260429-ubuntu-emulation-mappin-results-cleaned.png]]
+![[fig-260429-ubuntu-emulation-mappin-results-cleaned.png]]

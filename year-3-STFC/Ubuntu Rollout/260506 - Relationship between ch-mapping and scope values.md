@@ -38,4 +38,6 @@ Weirdly, 126 of the last section 0, is noted as being section 0, and has a uniqu
 the results were interesting, using the whole dataset:
 ![[fig-260429-ubuntu-emulation-mappin-results-full.png]]
 This gives us a clear section that suddenly becomes out of line, some key differences between these mappings: 
+- these 5 data points were digitisers that were NOT originally on the `super-rt` list 
+- they occur after a gap in the data, caused by a digitiser not being on (in process of fixing this)
 

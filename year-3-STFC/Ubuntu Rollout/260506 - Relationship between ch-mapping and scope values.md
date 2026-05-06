@@ -26,4 +26,7 @@ SW-VER: 9.5.9.1 (Feb 19 2026)  -- FPGA-VER: 605164034
 ```
 
 
-Weirldy, 126 of the last section 0, is noted as being section 0, and has a unique 
+Weirdly, 126 of the last section 0, is noted as being section 0, and has a unique ch value, but it is completely out of the expected values. see this image of all evidence of the mapping: 
+- RHS terminal says all are section 0 (what we are aiming to do)
+- LHS terminal shows that all have been started ok 
+- 

@@ -12,7 +12,6 @@ we are using `super_rt-1-1.json`
 we have 92 mac adressess already setup. 
 
 - For some reasons IP address http://130.246.84.54/ is not working, so i will recovery boot and find out what is happening
-- IT IS NOW WORKING!
 
 
 # Bug

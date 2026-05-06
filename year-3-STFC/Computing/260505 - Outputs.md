@@ -11,3 +11,7 @@ I have been experimenting with adam optimizer of SGD, this is becuase
 
 - as i get a feel for the correct lr, i swap back to SGD. 
 	- need to look into `momentum` and `lr` 
+
+
+### Variable Learning rate
+used this to help lower learning rate over time. 

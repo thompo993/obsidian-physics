@@ -10,4 +10,4 @@ I have been experimenting with adam optimizer of SGD, this is becuase
  as a result i have decided to start with ADAM optimiser as i am not an expert 
 
 - as i get a feel for the correct lr, i swap back to SGD. 
-	- need to look into momentum, 
+	- need to look into `momentum` and `lr` 

@@ -30,3 +30,6 @@ Weirdly, 126 of the last section 0, is noted as being section 0, and has a uniqu
 - RHS terminal says all are section 0 (what we are aiming to do)
 - LHS terminal shows that all have been started ok 
 - top windows show that the mapping is correct, confirmed by the RHS
+- LHS of the screen we see very weird scope values, not matching what we expect
+[[fig-260429-ubuntu-emulation-mappin-weird values.png]]
+![[fig-260429-ubuntu-emulation-mappin-weird values.png]]

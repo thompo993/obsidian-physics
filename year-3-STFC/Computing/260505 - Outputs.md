@@ -154,3 +154,4 @@ used this to help lower learning rate over time.
 - brightness and contrast augmentations were not outside of transferring  to resent, as adjusting brightness contrast can erase important tumor/brain boundaries that are crucial for diagnosis. 
 - **FOR REPORT:** acknowledge these factors, but say why its fine and I chose these specific transforms. if we were doing a "tumor area" classification, then this would be very different. 
 - can also help learn better from the same patient 
+- Swapped too `scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=5, factor=0.5)` **learn more about this** 

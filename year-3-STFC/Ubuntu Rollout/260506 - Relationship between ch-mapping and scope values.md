@@ -33,3 +33,7 @@ Weirdly, 126 of the last section 0, is noted as being section 0, and has a uniqu
 - LHS of the screen we see very weird scope values, not matching what we expect
 [[fig-260429-ubuntu-emulation-mappin-weird values.png]]
 ![[fig-260429-ubuntu-emulation-mappin-weird values.png]]
+
+## Results 
+the results were interesting, using the whole dataset:
+![[]]

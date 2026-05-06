@@ -3,11 +3,11 @@
 [[pytorch]]
 
 ### Optimizer choice 
-I have been experimenting with adam optimizer of SGD, this is becuase
+I have been experimenting with Adam optimizer of SGD, this is because
 
 "As a rule of thumb ADAM is more robust to bad hyperparameters initialization and will often achieve convergence fast enough, but SGD can be much faster if you understand what you are doing." - bloke on reddit 
 
- as a result i have decided to start with ADAM optimiser as i am not an expert 
+ as a result i have decided to start with ADAM optimizer as i am not an expert 
 
 - as i get a feel for the correct lr, i swap back to SGD. 
 	- need to look into `momentum` and `lr` 
@@ -19,8 +19,6 @@ used this to help lower learning rate over time.
 ### model is getting stuck 
 - we got stuck with a 46% accuracy, which was noted to be predicting glioma every time so we need to have some changes
 - the solution is to weight the class counts.
-
-FIXED!
 ```
 0%|          | 0/30 [00:00<?, ?it/s]
 
@@ -146,3 +144,12 @@ FIXED!
  eval loss: 0.571 | eval accuracy: 75.657%
  train loss: 0.445 | train accuracy: 79.524%
 ```
+
+### Augmentations 
+- when looking for ways to optimize the pre trained model we decided to use augmentations,
+- initally decided not too, this is because we were worried about loosing the ability to diagnose
+	- doctor never sees the inverted and flipped images, just the labels 
+	- it helps prevent overfitting
+- flips and rotations were deemed valid 
+- brightness and contrast augmentations were not outside of transferring  to resent, as adjusting brightness contrast can erase important tumor/brain boundaries that are crucial for diagnosis. 
+- **FOR REPORT:** acknowledge these factors, but say why its fine and I chose these specific transforms. if we were doing a "tumor area" classification, then this would be very different. 

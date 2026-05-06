@@ -155,3 +155,7 @@ used this to help lower learning rate over time.
 - **FOR REPORT:** acknowledge these factors, but say why its fine and I chose these specific transforms. if we were doing a "tumor area" classification, then this would be very different. 
 - can also help learn better from the same patient 
 - Swapped too `scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=5, factor=0.5)` **learn more about this** 
+
+### baselinecnn training performance
+[[fig-260506-base-line-cnn-training-performance.png]]
+![[fig-260506-base-line-cnn-training-performance.png]]

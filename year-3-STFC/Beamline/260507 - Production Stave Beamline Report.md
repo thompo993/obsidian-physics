@@ -60,6 +60,7 @@ So for example as per the image above, we have:
 - Tile Configuration: 005
 To make the following configuration code: 20688A005. 
 
-### Module 
+### Full Stave Assembly 
+After you have assembled four modules, we are going to put them into the stave. 
 
 # Beamline Results 

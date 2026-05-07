@@ -16,7 +16,7 @@ From Ascending to descending order we have:
 - Module PCBs 
 - Alignment Plate 
 - Compression plates
-In between the aligment plate an
+In between the alignment plate and the
 
 ## Assembly 
 ### Alignment Board and PCBs

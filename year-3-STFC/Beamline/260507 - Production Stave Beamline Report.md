@@ -52,7 +52,7 @@ We then Label the Module with the tile arrangement, PID etc. ![[fig-260507-produ
 We typically follow the following convention:
 Convention:
 
-\<NI PID\>
+\<NI PID\>\<MODULE TYPE\>\<TILE CONFIGURATION\>
 
 NI PID
 

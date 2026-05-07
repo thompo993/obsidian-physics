@@ -22,6 +22,7 @@ From Ascending to descending order we have:
 Physical example of all of the mechanics except the scintillating tiles can be found below: 
 ![[fig-260507-nmsum-figs-stave mechanics no tiles.JPG]]
 ## Assembly 
+**Note:** Before you start, make sure
 ### Alignment Board and PCBs
 To begin, we select the module and corresponding PCB. We have 3 differing lengths, known as A, B and C, in order of shortest to longest. We place the alignment dowls into the module PCBs:
 ![[fig-260507-production-stave-testing-alignment.jpg | 300]] ![[fig-260507-production-stave-testing-moda.jpg| 300]] 
@@ -45,5 +46,5 @@ We then make a cross with the tape, and then wrap around the circumference.  and
 
 ![[fig-260507-production-stave-testing-tape-5.jpg | 300]] ![[fig-260507-production-stave-testing-tape-2.jpg | 300]]
 
-We then Label the Module with the tiles below it for tracking and
+We then Label the Module with the tile arrangement, PID etc. 
 # Beamline Results 

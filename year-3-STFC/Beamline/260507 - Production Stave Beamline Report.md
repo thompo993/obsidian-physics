@@ -36,7 +36,8 @@ The tile insertion procedure begins with selecting 8 tiles that are to be used i
 ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg | 300]] ![[fig-260507-nmsum-figs-mod_assembly.jpg | 300]]
 Above we have an example of a fully completed module (left) and a the process of applying the tiles onto the SiPMs. 
 
-Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to pure enough where the proportion of magnetic contaminants within the tape are negligible. For the stave overall, there also was 3M 431, which are the same, but with differing thickness (see \href{https://www.3m.co.uk/3M/en_GB/company-uk/}{here}) for more information (Note that purity of 431 has not been independently verified using a SQUID magnetometer).
+### Compression and Wrapping
+Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to pure enough where the proportion of magnetic contaminants within the tape are negligible. 3M 431 was also used for the test production staves, but has not been independently verified using a SQUID magnetometer).
 
 
 

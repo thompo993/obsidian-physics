@@ -9,7 +9,11 @@
 # Mechanics and Assembly 
 ## Mechanics
 No defects were found as a part of the mechanics, everything fit to tolerances and we had no issues with shorting or fouling. However we did have to file some solder down on the PCB, but this was expected. 
-![[]]
+![[fig-260507-nmsum-figs-stave mechanics no tiles.JPG]]
+From Ascending to descending order we have:
+- Cooling plate
+
+
 ## Assembly 
 ### Alignment Board and PCBs
 To begin, we select the module and corresponding PCB. We have 3 differing lengths, known as A,B and C, in order of shortest to longest. 

@@ -26,7 +26,10 @@ Physical example of all of the mechanics except the scintillating tiles can be f
 To begin, we select the module and corresponding PCB. We have 3 differing lengths, known as A, B and C, in order of shortest to longest. We place the alignment dowls into the module PCBs:
 ![[fig-260507-production-stave-testing-alignment.jpg | 300]] ![[fig-260507-production-stave-testing-moda.jpg| 300]] 
 
-We then insert the PCB into the aliment board and screw it into  into place, to the point that they are firmly in placed but not torqued up to the maximum as this could damage the PCB. Then the tiles are dabbed in optical grease and placed flush to the SiPMs.
+We then insert the PCB into the aliment board and screw it into  into place, to the point that they are firmly in placed but not torqued up to the maximum as this could damage the PCB
+
+### Cleaning 
+We also ensure to clean all times and 
 
 
 
@@ -35,7 +38,7 @@ We then insert the PCB into the aliment board and screw it into  into place, to 
 
 
 ### Scintillating Tiles
-The tile insertion procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. After all components have been cleaned using a mix of 30% deionised water and 70% isopropanol, dowels are inserted into the alignment boards 
+The tile insertion procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. 
 
 | ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg \| 500]] |       ![[fig-260507-nmsum-figs-mod_assembly.jpg \| 500]]        |
 | :---------------------------------------------------------: | :-------------------------------------------------------------: |

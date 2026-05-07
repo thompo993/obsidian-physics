@@ -30,7 +30,7 @@ We then insert the PCB into the aliment board and screw it into  into place, to 
 
 ### Cleaning 
 We also ensure to clean all Tiles and SiPMs after insertion, as any dust or debris can hinder the performance of the detector: 
-![[fig-260507-production-stave-testing-moda-aligment-pcb-assy-cleaning.jpg| 300]] ![[fig-260507-production-stave-testing-cle| 300]] 
+![[fig-260507-production-stave-testing-moda-aligment-pcb-assy-cleaning.jpg| 300]] ![[fig-260507-production-stave-testing-39]] 
 
 
 

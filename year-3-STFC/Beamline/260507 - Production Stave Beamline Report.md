@@ -13,9 +13,10 @@ No defects were found as a part of the mechanics, everything fit to tolerances a
 The module assembly procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. After all components have been cleaned using a mix of 30% deionised water and 70% isopropanol, dowels are inserted into the alignment boards 
 
 
-| Figure 1 |    Figure 2     |
-| :------: | :-------------: |
-|  ![[]]   | ![[image2.jpg]] |
+|                       Figure 1                       |                  Figure 2                   |
+| :--------------------------------------------------: | :-----------------------------------------: |
+| ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg]] | ![[fig-260507-nmsum-figs-mod_assembly.jpg]] |
+|                                                      |                                             |
 
 
 

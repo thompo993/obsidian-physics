@@ -29,7 +29,7 @@ To begin, we select the module and corresponding PCB. We have 3 differing length
 We then insert the PCB into the aliment board and screw it into  into place, to the point that they are firmly in placed but not torqued up to the maximum as this could damage the PCB
 
 ### Cleaning 
-We also ensure to clean all times and 
+We also ensure to clean all times and SiPMs after insertion, as any 
 
 
 

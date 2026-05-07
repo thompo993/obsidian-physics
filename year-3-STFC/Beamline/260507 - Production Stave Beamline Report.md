@@ -62,6 +62,7 @@ To make the following configuration code: 20688A005.
 
 ### Full Stave Assembly 
 After you have assembled four modules, we are going to put them into the stave. The stave PCB is screwed into the cooling plate, with a thermally conductive layer  over the PCB area. this is to ensure no shorts and sufficient cooling from the cooling pumps. 
-After plugging in all of the modules, Light tight with tape 
+After plugging in all of the modules, Light tight with tape and the result is a completed stave! 
+![[fig-260507-nmsum-figs-full_stave.JPG]]
 
 # Beamline Results 

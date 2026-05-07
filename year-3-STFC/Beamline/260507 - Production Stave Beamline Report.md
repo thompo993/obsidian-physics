@@ -9,14 +9,14 @@
 # Mechanics and Assembly 
 ## Mechanics
 No defects were found as a part of the mechanics, everything fit to tolerances and we had no issues with shorting or fouling. However we did have to file some solder down on the PCB, but this was expected. 
-![[fig-260507-nmsum-figs-stave mechanics no tiles.JPG]]
+
 From Ascending to descending order we have:
 - Cooling plate
 - Stave PCB
 - Module PCBs 
 - Alignment Plate 
 - Compression plates
-In between the alignment plate and the
+In between the alignment plate and the compression plate we have scintillating tiles, but these are omitted from the above picture. 
 
 ## Assembly 
 ### Alignment Board and PCBs

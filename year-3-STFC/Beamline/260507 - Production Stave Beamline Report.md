@@ -18,6 +18,7 @@ The module assembly procedure begins with selecting 8 tiles that are to be used 
 | ![[image1.jpg]] | ![[image2.jpg]] |
 
 
+
 then the PCB is inserted into the aliment board and screwed into place, to the point that they are firmly in placed but not torqued up to the maximum as this could damage the PCB. Then the tiles are dabbed in optical grease and placed flush to the SiPMs. Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to pure enough where the proportion of magnetic contaminants within the tape are negligible. For the stave overall, there also was 3M 431, which are the same, but with differing thickness (see \href{https://www.3m.co.uk/3M/en_GB/company-uk/}{here}) for more information (Note that purity of 431 has not been independently verified using a SQUID magnetometer).
 
 # Beamline Results 

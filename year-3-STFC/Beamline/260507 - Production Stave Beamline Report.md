@@ -61,6 +61,6 @@ So for example as per the image above, we have:
 To make the following configuration code: 20688A005. 
 
 ### Full Stave Assembly 
-After you have assembled four modules, we are going to put them into the stave. 
+After you have assembled four modules, we are going to put them into the stave. The stave PCB is screwed into the cooling plate, with thermal paste over the PCB area. this is to ensure no shorts an sufficient cooling from the cooling
 
 # Beamline Results 

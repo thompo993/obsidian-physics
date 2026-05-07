@@ -43,5 +43,7 @@ Once all of the tiles are in place a compression plate is laid over the top of t
 We then make a cross with the tape, and then wrap around the circumference.  and fold it down to light tight the modules. Note that the corners need to be done with lots of care, this is because you can get extra layers, so you may need to cut some off (ensuring to keep the module light tight).
 
 
-![[fig-260507-production-stave-testing-tape-5.jpg | 300]![[fig-260507-production-stave-testing-tape-2.jpg | 300]]]
+![[fig-260507-production-stave-testing-tape-5.jpg | 300]] ![[fig-260507-production-stave-testing-tape-2.jpg | 300]]
+
+We then Label the Module with the tiles below it for tracking and
 # Beamline Results 

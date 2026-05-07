@@ -9,11 +9,11 @@
 # Mechanics and Assembly 
 ## Mechanics
 No defects were found as a part of the mechanics, everything fit to tolerances and we had no issues with shorting or fouling. However we did have to file some solder down on the PCB, but this was expected. 
-# Assembly 
+## Assembly 
+### Alignment Board and PCBs
 
-
-
-The module assembly procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. After all components have been cleaned using a mix of 30% deionised water and 70% isopropanol, dowels are inserted into the alignment boards 
+### Scintillating Tiles
+The tile insertion procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. After all components have been cleaned using a mix of 30% deionised water and 70% isopropanol, dowels are inserted into the alignment boards 
 
 
 

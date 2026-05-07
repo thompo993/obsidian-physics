@@ -37,7 +37,7 @@ The tile insertion procedure begins with selecting 8 tiles that are to be used i
 Above we have an example of a fully completed module (left) and a the process of applying the tiles onto the SiPMs. 
 
 ### Compression and Wrapping
-Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to pure enough where the proportion of magnetic contaminants within the tape are negligible.(3M 431 was also used for the test production staves, but has not been independently verified using a SQUID magnetometer).
+Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to be pure enough where the proportion of magnetic contaminants within the tape have a negligible effect on MuSR.(3M 431 was also used for the test production staves, but has not been independently verified using a SQUID magnetometer).
 
 
 

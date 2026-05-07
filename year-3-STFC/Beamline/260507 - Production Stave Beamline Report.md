@@ -29,18 +29,11 @@ To begin, we select the module and corresponding PCB. We have 3 differing length
 We then insert the PCB into the aliment board and screw it into  into place, to the point that they are firmly in placed but not torqued up to the maximum as this could damage the PCB
 
 ### Cleaning 
-We also ensure to clean all Tiles and SiPMs after insertion, as any dust or debris can hinder the performance of the detector: 
+We also ensure to clean all Tiles and SiPMs before insertion, as any dust or debris can hinder the performance of the detector: 
 ![[fig-260507-production-stave-testing-moda-aligment-pcb-assy-cleaning.jpg | 300]] ![[fig-260507-production-stave-testing-30mm-tile3.jpg | 300]] 
-
-
-
-
-
-
-
-
 ### Scintillating Tiles
 The tile insertion procedure begins with selecting 8 tiles that are to be used in the module. The example images will detail the assembly of a module. 
+![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg | 500]] ![[fig-260507-nmsum-figs-mod_assembly.jpg | 300]]
 
 | ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg \| 500]] |       ![[fig-260507-nmsum-figs-mod_assembly.jpg \| 500]]        |
 | :---------------------------------------------------------: | :-------------------------------------------------------------: |

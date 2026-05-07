@@ -41,5 +41,5 @@ Once all of the tiles are in place a compression plate is laid over the top of t
 
 ![[fig-260507-production-stave-testing-30mm-tiles-compression-plate.jpg | 300]]![[fig-260507-production-stave-testing-tape-7.jpg | 300]]
 
-We then make a cross with the tape, and then wrap 
+We then make a cross with the tape, and then wrap around the circumference. Note that the corners need to be done with lots of care, this is because 
 # Beamline Results 

@@ -32,9 +32,9 @@ We then insert the PCB into the aliment board and screw it into  into place, to 
 We also ensure to clean all Tiles and SiPMs before insertion, as any dust or debris can hinder the performance of the detector: 
 ![[fig-260507-production-stave-testing-moda-aligment-pcb-assy-cleaning.jpg | 300]] ![[fig-260507-production-stave-testing-30mm-tile3.jpg | 300]] 
 ### Scintillating Tiles
-The tile insertion procedure begins with selecting 8 tiles that are to be used in the module.  Apply a dab of optical grease such that if forms an ice cream cone like shape. The example images will detail the assembly of a module. 
+The tile insertion procedure begins with selecting 8 tiles that are to be used in the module.  Apply a dab of optical grease such that if forms an ice cream cone like shape. on each stud of the tile. Then carefully insert into the alignment plate and onto the SiPM. 
 ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg | 300]] ![[fig-260507-nmsum-figs-mod_assembly.jpg | 300]]
-
+Above we have an example of a fully completed module (left) and a
 
 Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to pure enough where the proportion of magnetic contaminants within the tape are negligible. For the stave overall, there also was 3M 431, which are the same, but with differing thickness (see \href{https://www.3m.co.uk/3M/en_GB/company-uk/}{here}) for more information (Note that purity of 431 has not been independently verified using a SQUID magnetometer).
 

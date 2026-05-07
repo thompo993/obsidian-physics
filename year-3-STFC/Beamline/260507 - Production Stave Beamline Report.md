@@ -48,5 +48,7 @@ We then make a cross with the tape, and then wrap around the circumference.  and
 
 ![[fig-260507-production-stave-testing-tape-5.jpg | 300]] ![[fig-260507-production-stave-testing-tape-2.jpg | 300]]
 
-We then Label the Module with the tile arrangement, PID etc. 
+We then Label the Module with the tile arrangement, PID etc. ![[fig-260507-production-stave-testing-tape-labelled-3.jpg]]
+We typically follow the standa
+
 # Beamline Results 

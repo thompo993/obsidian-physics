@@ -55,9 +55,10 @@ Convention:
 \<NI PID\>\<MODULE TYPE\>\<TILE CONFIGURATION\>
 
 So for example as per the image above, we have:
-- NI PID: 20699 
-- Module Type 
-
+- NI PID: 20688 
+- Module Type: A 
+- Tile Configuration: 005
+To make the following configuration code: 20688A005. 
 
 
 # Beamline Results 

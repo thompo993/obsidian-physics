@@ -12,7 +12,11 @@ No defects were found as a part of the mechanics, everything fit to tolerances a
 ![[fig-260507-nmsum-figs-stave mechanics no tiles.JPG]]
 From Ascending to descending order we have:
 - Cooling plate
-
+- Stave PCB
+- Module PCBs 
+- Alignment Plate 
+- Compression plates
+In between the aligment plate an
 
 ## Assembly 
 ### Alignment Board and PCBs

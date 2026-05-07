@@ -17,8 +17,10 @@ From Ascending to descending order we have:
 - Alignment Plate 
 - Scintillating Tiles
 - Compression plates
+- Brass Degrader
 
-Physical
+Physical example of all of the mechanics except the scintillating tiles can be found below: 
+![[Pasted image 20260507094817.png]]
 ## Assembly 
 ### Alignment Board and PCBs
 To begin, we select the module and corresponding PCB. We have 3 differing lengths, known as A,B and C, in order of shortest to longest. 

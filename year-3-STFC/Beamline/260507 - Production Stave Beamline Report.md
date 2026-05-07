@@ -16,7 +16,7 @@ The module assembly procedure begins with selecting 8 tiles that are to be used 
 
 | ![[fig-260507-nmsum-figs-moda_tile_arrangement.jpg \| 500]] | ![[fig-260507-nmsum-figs-mod_assembly.jpg \| 500]] |
 | :---------------------------------------------------------: | :------------------------------------------------: |
-|                       **[Figure 1]:**                       |                                                    |
+|                           **[]:**                           |                                                    |
 |                                                             |                                                    |
 
 

@@ -9,7 +9,7 @@
 # Mechanics and Assembly 
 ## Mechanics
 No defects were found as a part of the mechanics, everything fit to tolerances and we had no issues with shorting or fouling. However we did have to file some solder down on the PCB, but this was expected. 
-![[fig-250506-nsum-figs-exploded-stave.png]]
+![[fig-250506-nmsumsum-figs-exploded-stave.png]]
 From Ascending to descending order we have:
 - Cooling plate
 - Stave PCB

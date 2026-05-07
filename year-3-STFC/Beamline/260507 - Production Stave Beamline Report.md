@@ -40,6 +40,5 @@ Above we have an example of a fully completed module (left) and a the process of
 Once all of the tiles are in place a compression plate is laid over the top of the tiles and secured using aluminium tape, in this case 3M 425 Tape, as this has been confirmed to be pure enough where the proportion of magnetic contaminants within the tape have a negligible effect on MuSR.(3M 431 was also used for the test production staves, but has not been independently verified using a SQUID magnetometer).
 
 ![[fig-260507-production-stave-testing-30mm-tiles-compression-plate.jpg | 300]]![[fig-260507-production-stave-testing-tape-7.jpg | 300]]
-
-We then make a cross with the tape, and then wrap around the circumference. Note that the corners need to be done with lots of care, this is because 
+We then make a cross with the tape, and then wrap around the circumference.  and fold it down to light tight the modules. Note that the corners need to be done with lots of care, this is because you can get extra layers, so you may need to cut some off 
 # Beamline Results 

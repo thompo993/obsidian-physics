@@ -54,10 +54,10 @@ Convention:
 
 \<NI PID\>\<MODULE TYPE\>\<TILE CONFIGURATION\>
 
-NI PID
+So for example as per the image above, we have:
+- NI PID: 20699 
+- Module Type 
 
-Module Type
 
-Tile Configuration
 
 # Beamline Results 

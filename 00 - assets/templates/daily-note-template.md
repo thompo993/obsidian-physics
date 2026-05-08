@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+# Tags
+#daily-note
+[daily]

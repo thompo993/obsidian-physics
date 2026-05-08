@@ -4,3 +4,6 @@
 
 ### 43mm Tiles 
 tile id19 is the benchmark tile. 
+
+### LHS CONVENTION
+orient the tile su

@@ -24,11 +24,12 @@
 > sort by due date
 > ```
 
+
 > [!tip]- Next two weeks
 > ```tasks
 > not done
-> happens after {{date:YYYY-MM-DD}}
-> happens before {{date+14d:YYYY-MM-DD}}
+> happens after 2026-05-06
+> happens before 2026-05-20
 > hide recurrence rule
 > hide due date
 > hide scheduled date

@@ -1,6 +1,6 @@
 [[Super MuSR]]
 [[scintillating tiles]]
-[[Small Batch Tile Testing and Stave Assebly]]
+[[Small Batch Tile Testing and Stave Assembly]]
 
 ### 43mm Tiles 
 tile id19 is the benchmark tile. 

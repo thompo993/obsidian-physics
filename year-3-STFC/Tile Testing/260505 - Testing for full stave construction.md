@@ -7,7 +7,10 @@ tile id19 is the benchmark tile.
 **NOT CERTAIN ABOUT LHS RHS OF BENCHMARK TILE**
 
 ### 63mm tiles 
-tile 019 use
+same as normal benchmark tile [[260313 - Setting Benchmark]]
+
+### 105mm tiles
+005 used as a benchmark tile
 
 
 ### LHS CONVENTION

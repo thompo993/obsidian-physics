@@ -2,7 +2,7 @@
 
 # Check Tasks
 [[Tasks]]
-```task
+```tasks
 
 ```
 # Notes:

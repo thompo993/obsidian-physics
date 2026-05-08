@@ -6,4 +6,4 @@
 tile id19 is the benchmark tile. 
 
 ### LHS CONVENTION
-orient the tile su
+orient the tile such that you can read the text the correct way up

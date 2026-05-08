@@ -10,4 +10,3 @@
 
 # Tags
 #daily-note
-[daily]

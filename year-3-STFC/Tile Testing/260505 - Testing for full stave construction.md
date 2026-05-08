@@ -13,7 +13,7 @@ same as normal benchmark tile [[260313 - Setting Benchmark]]
 005 used as a benchmark tile
 
 ### 210mm tiles 
-
+008 used as benchmark
 
 
 ### LHS CONVENTION

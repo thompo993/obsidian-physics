@@ -1,7 +1,8 @@
 # tags
 [[260504 - Plan For Assignment 2 FINAL]]
 [[pytorch]]
-
+# CODE CHANGES
+- need to rename the loss and validation code
 ### Optimizer choice 
 I have been experimenting with Adam optimizer of SGD, this is because
 

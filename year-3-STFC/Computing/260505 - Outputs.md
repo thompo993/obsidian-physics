@@ -269,3 +269,8 @@ For your **report**, the justification chain is:
 
 ### example acrhitecture of the baseline cnn
 ![[fig-260509-baselinecnn-architecture.png]]
+
+### resnet architecture 
+![[fig-260509-resnet18_flowchart.png]]
+### baseline architecture 
+![[fig-260509-baseline_cnn_20260509-093203_acc77.9.png]]

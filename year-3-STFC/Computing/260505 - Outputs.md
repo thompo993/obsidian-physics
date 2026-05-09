@@ -266,3 +266,6 @@ For your **report**, the justification chain is:
 3. ImageNet pretraining provides transferable low-level features
 4. Only the FC head requires training → fast convergence, low overfitting risk
 5. `lr=1e-4` chosen to avoid destroying pretrained weights with large gradient updates
+
+### example acrhitecture of the baseline cnn
+![[fig-260509-baselinecnn-architecture.png]]

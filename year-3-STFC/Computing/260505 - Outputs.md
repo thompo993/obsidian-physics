@@ -159,3 +159,110 @@ used this to help lower learning rate over time.
 ### baselinecnn training performance
 [[fig-260506-base-line-cnn-training-performance.png]]
 ![[fig-260506-base-line-cnn-training-performance.png]]
+
+
+# temporary notes to be put in the file stored on source room laptop on Monday 
+
+### why choose resnet 18?
+please help me get started on the resnet 18 model, why this transfer learning model, what is a baseline architecture for such a transfer learning model
+
+**The core problem with deeper ResNets on small datasets** is the parameter count:
+
+|Model|Parameters|Good for|
+|---|---|---|
+|ResNet18|11.7M|~1k–50k images|
+|ResNet50|25.6M|~50k–500k images|
+|ResNet152|60.2M|millions of images|
+
+Your dataset has ~3,064 images. ResNet50+ will memorise the training set rather than generalise — you'd see training accuracy hit ~99% while validation plateaus at 60–70%. ResNet18 has enough capacity to learn your 3-class problem without that risk.
+
+**The other reason** is that the ImageNet pretraining is already doing the heavy lifting. The early layers of any ResNet already know how to detect edges, textures, and shapes from 1.2 million images. For MRI scans, those low-level features transfer surprisingly well — tumour boundaries, tissue texture gradients, and structural asymmetries are all edge/texture phenomena at the feature level.
+
+---
+
+### What ResNet18 actually is — the architecture
+
+ResNet introduced **residual connections** (skip connections) to solve the vanishing gradient problem that made deep networks hard to train. The key idea:
+
+```
+Normal block:    x → [Conv → BN → ReLU → Conv → BN] → y
+
+Residual block:  x → [Conv → BN → ReLU → Conv → BN] → + x → ReLU → y
+                                                        ↑
+                                                   identity skip
+```
+
+Because the gradient can flow directly through the skip connection, you can stack many layers without the gradient vanishing to zero before it reaches the early layers.
+
+ResNet18's full structure:
+
+```
+Input (3×224×224)
+    ↓
+Conv1 (7×7, 64 filters, stride 2)  →  112×112×64
+MaxPool (3×3, stride 2)             →   56×56×64
+    ↓
+Layer1: 2× BasicBlock (64 filters)  →   56×56×64
+Layer2: 2× BasicBlock (128 filters) →   28×28×128   ← stride 2 downsamples
+Layer3: 2× BasicBlock (256 filters) →   14×14×256   ← stride 2 downsamples
+Layer4: 2× BasicBlock (512 filters) →    7×7×512    ← stride 2 downsamples
+    ↓
+AdaptiveAvgPool → 1×1×512 (global average pool)
+Flatten → 512
+FC → 1000  (ImageNet classes — THIS IS WHAT YOU REPLACE)
+```
+
+Each `BasicBlock` is:
+
+```
+Conv 3×3 → BatchNorm → ReLU → Conv 3×3 → BatchNorm → (+skip) → ReLU
+```
+
+---
+
+### Your fine-tuning strategy
+
+You have two valid approaches:
+
+**Option A — Freeze all, train only the head** (what the new cells do)
+
+- Fast, low overfitting risk, good if ImageNet features transfer well
+- Trains in a few minutes per epoch
+
+**Option B — Freeze early layers, unfreeze later layers** (more powerful)
+
+python
+
+```python
+# unfreeze layer4 and the FC head for fine-tuning
+for name, param in resnet_model.named_parameters():
+    param.requires_grad = name.startswith("layer4") or name.startswith("fc")
+```
+
+This lets the model adapt the high-level features (layer4 learns tumour-specific patterns) while keeping the stable low-level filters frozen. Often gives 2–5% better accuracy on medical imaging tasks.
+
+For your report, **Option A is perfectly justifiable** given the small dataset. You could mention Option B as a direction for future work.
+
+---
+
+### The FC replacement explained
+
+python
+
+```python
+# original: nn.Linear(512, 1000)  — ImageNet's 1000 classes
+# yours:
+resnet_model.fc = nn.Linear(512, 3)  # 512 is resnet18's penultimate feature size
+```
+
+When you replace the FC layer, PyTorch initialises it with random weights — so it's the only part that needs training from scratch. Everything before it is frozen pretrained weights. This is why you use `lr=1e-4` (ten times smaller than your baseline's `1e-3`) — you're nudging a mostly-trained network, not training from random initialisation.
+
+---
+
+For your **report**, the justification chain is:
+
+1. Dataset is small (~3k images) → deeper models overfit
+2. ResNet18's residual connections enable stable gradient flow across 18 layers
+3. ImageNet pretraining provides transferable low-level features
+4. Only the FC head requires training → fast convergence, low overfitting risk
+5. `lr=1e-4` chosen to avoid destroying pretrained weights with large gradient updates

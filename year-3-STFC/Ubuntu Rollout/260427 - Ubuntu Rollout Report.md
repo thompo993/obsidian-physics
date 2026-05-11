@@ -183,9 +183,10 @@ All Digitiser except the prototype digitiser in the R80 Server room have been up
 | 02:ab:ba:00:22:5f | 130.246.84.165     | **9.5.9.1**      | **24.12.12.02**  | YES          | 260427 |     |
 |                   |                    |                  |                  |              |        |     |
 | **Source Room**   |                    |                  |                  |              |        |     |
-|                   |                    |                  |                  |              |        |     |
-|                   |                    |                  |                  |              |        |     |
-|                   |                    |                  |                  |              |        |     |
+| 02:ab:ba:00:22:3c |                    |                  |                  |              |        |     |
+| 02:ab:ba:00:22:3d |                    |                  |                  |              |        |     |
+| 02:ab:ba:00:22:3e |                    |                  |                  |              |        |     |
+| 02:ab:ba:00:22:3f |                    |                  |                  |              |        |     |
 
 
 # Double IP Address issue: 

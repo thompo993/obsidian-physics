@@ -64,6 +64,7 @@ put into evaluation mode
 ## Model 1 - Baseline CNN
 https://stackoverflow.com/questions/52468956/how-do-i-visualize-a-net-in-pytorch 
 visualise using this
+better for generalisability (no data loader or transforms), easier to implemement
 
 we copied the structure from this paper 
 [[simonyanVERYDEEPCONVOLUTIONAL2015]]

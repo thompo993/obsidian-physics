@@ -30,3 +30,5 @@ Total ID: 20685A008
 
 
 # Module B
+PCB: 20689
+Total ID: 20689B003

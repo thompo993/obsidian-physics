@@ -8,6 +8,10 @@
 
 # Tile Arrangement 
 
+| Further from sample | Closer to sample |
+| ------------------- | ---------------- |
+|                     |                  |
+
 
 # Module A0 
 PCB: 20688

@@ -3,6 +3,7 @@
 [[scintillating tiles]]
 [[Small Batch Tile Testing and Stave Assembly]]
 
+
 # Key Findings:
 The 30mm, 43mm and 63mm tiles are all performing well, there is reason for concern regarding the 105mm tiles and the  210mm tiles. 
 
@@ -51,7 +52,7 @@ Tile ID 008 used as benchmark, and we obtain the following results from the PHS 
 
 [[fig-260512-210mm_tiles_both_studs.png]]
 ![[fig-260512-210mm_tiles_both_studs.png]]
-Once again we have worse performance for the 210mm tiles compared to the benchmark, this time, we have a percentage difference of 
+Once again we have worse performance for the 210mm tiles compared to the benchmark, this time, we have a percentage difference of **22.26** this is crazy. I need to look into this more.
 
 
 [[fig-260512-210mm_tiles_multi_ch.png]]

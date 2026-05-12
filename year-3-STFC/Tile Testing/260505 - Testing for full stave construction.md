@@ -41,7 +41,9 @@ As we can see above the benchmark tiles are performing better than the batch of 
 
 For the stud symmetry checks: 
 ![[fig-260512-105mm_tiles_multi_ch.png]]
-From this we see that stu
+From this we see that tile ID 041 stands out, checking this with the 2d plots confirms this: 
+![[fig-260512-63mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-63mm_id040_RHS_run1_BvsD.png| 300]] 
+
 
 ### 210mm tiles 
 008 used as benchmark

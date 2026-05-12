@@ -4,8 +4,10 @@
 [[Small Batch Tile Testing and Stave Assembly]]
 
 ## 30mm Tiles
-Here we used the original "tile21og"
-
+Here we used the original "tile21og", which is a historic benchmark tile that has always been used for 30mm tiles. The results for this tile are great: 
+[[fig-260512-30mm_tiles_comparison.png]]
+![[fig-260512-30mm_tiles_comparison.png]]
+As can be seen above, all tiles are significantly above benchmark, which is what we expect. Un
 
 ### 43mm Tiles 
 tile id19 is the benchmark tile. 

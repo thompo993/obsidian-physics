@@ -54,4 +54,4 @@ From this example here, we have a greater LHS stud output when it is on channel 
 
 **note: Often they will both be below the white line, this is either PMT or source alignment, this cannot be from the tile.**
 
-if you want to do further analysis, i recomend a LHS vs RHS scatter plot, as above here is the code i used to split the d
+if you want to do further analysis, i recommend a LHS vs RHS scatter plot, as above here is the code i used to split the data frame (using the same naming conventions as above)

@@ -44,7 +44,7 @@ For the code I wrote to work, we need a couple of things setup in the file names
 ```
 43mm_benchmark_LHS_run1
 ```
-The only thing that actually matters is the LHS, and this signifies which side of the tile is on **Ch_B** in the picoscope. 
+The only thing that actually matters is the LHS, and this signifies which side of the tile is on **Ch_B** in the Pico scope, assuming you have not changed the wiring since I left i
 
 
 

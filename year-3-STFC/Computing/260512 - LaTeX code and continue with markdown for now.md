@@ -57,3 +57,5 @@ Aside from the base transforms in order to the dataset into the correct format f
 
 Once the data had been split into 70\% training, and 15\% each split for evaluation and testing, the Data Loaders were applied to each of the splits. The Batch size was initially chosen as 32, as this is the upper limit for small batch training for ResNet models \cite{batch_size_ml_masters}. This allows the GPUs availbile to maximised.
 ```
+
+### Data loaders continued

@@ -20,7 +20,7 @@ For the stud differences:
 As can be seen by the above plot, the LHS vs RHS yielded no significant results, with the exception of tile 055, this can also be seen clearly inside of the 2D plots. 
 ![[fig-260512-43mm_id055_LHS_run1_BvsD.png| 300]] ![[fig-260512-43mm_id055_RHS_run1_BvsD.png | 300]] 
 ### 63mm tiles 
-same as normal benchmark tile [[260313 - Setting Benchmark]] (015)
+same as normal benchmark tile [[260313 - Setting Benchmark]] (ID: 015)
 
 ### 105mm tiles
 005 used as a benchmark tile,

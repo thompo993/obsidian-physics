@@ -30,11 +30,16 @@ need to do full testing on these tiles ASAP.
 
 
 ## Stud Difference Procedure
+### Defining LHS and RHS
 To determine if the studs are different, we first label the left and right hand sides of the tiles. To save on time I did not label these with the label maker, and instead used the following convention: 
 
 | **LHS** | ![[fig-260512-tile-ordering-convention.jpg \| 400]] | **RHS** |
 | ------- | --------------------------------------------------- | ------- |
 Such that if the text is the correct way up, as we read from left to right, we define the left hand side as the LHS of the tile. 
+
+### Measuring the Tiles 
+We then conduct two runs, so each stud gets 
+
 
 
 

@@ -40,6 +40,10 @@ Such that if the text is the correct way up, as we read from left to right, we d
 ### Measuring the Tiles 
 We then conduct two runs, so each stud gets a turn on each PMT, this way PMT differences will create the illusion of one stud being worse, when it may be that the PMT is lower gain (shouldn't be but better safe than sorry).
 
+For the code I wrote to work, we need a couple of things setup in the file names so the code parses it correctly. 
+
+
+
 
 
 

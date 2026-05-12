@@ -10,7 +10,8 @@ Here we used the original "tile21og", which is a historic benchmark tile that ha
 As can be seen above, all tiles are significantly above benchmark, which is what we expect. There are insufficient tile numbers to plot a histogram with this tile batch. 
 
 ## 43mm Tiles 
-The Results for the 43mm Tiles are also excellent. However now there is a stud difference implementation being added.
+The Results for the 43mm Tiles are also excellent. However now there is a stud difference implementation being added (see [[#Stud Difference Procedure]]). 
+![[fig-250]]
 
 
 
@@ -55,3 +56,58 @@ From this example here, we have a greater LHS stud output when it is on channel 
 **note: Often they will both be below the white line, this is either PMT or source alignment, this cannot be from the tile.**
 
 if you want to do further analysis, i recommend a LHS vs RHS scatter plot, as above here is the code i used to split the data frame (using the same naming conventions as above)
+```
+def select_studs(df):
+
+    """Select LHS and RHS studs based on file name and channel.
+
+    - If 'LHS' in filename: Channel B = LHS stud, Channel D = RHS stud
+
+    - If 'RHS' in filename: Channel D = LHS stud, Channel B = RHS stud
+
+    - If Channel is 'Ch_B+D': add to total_studs
+
+    Returns three dataframes: lhs, rhs, and total studs.
+
+    """
+
+    lhs_studs = []
+
+    rhs_studs = []
+
+    total_studs = []
+
+    for idx, row in df.iterrows():
+
+        if row["Channel"] == "Ch_B+D":
+
+            total_studs.append(row)
+
+        elif "LHS" in row["File"]:
+
+            if row["Channel"] == "Ch_B":
+
+                lhs_studs.append(row)
+
+            elif row["Channel"] == "Ch_D":
+
+                rhs_studs.append(row)
+
+        elif "RHS" in row["File"]:
+
+            if row["Channel"] == "Ch_D":
+
+                lhs_studs.append(row)
+
+            elif row["Channel"] == "Ch_B":
+
+                rhs_studs.append(row)
+
+    lhs_df = pd.DataFrame(lhs_studs)
+
+    rhs_df = pd.DataFrame(rhs_studs)
+
+    total_df = pd.DataFrame(total_studs)
+
+    return lhs_df, rhs_df, total_df
+```

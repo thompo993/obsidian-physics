@@ -17,7 +17,8 @@ The Results for the 43mm Tiles are also excellent. However now there is a stud d
 For the stud differences: 
 [[fig-260512-43mm_tiles_multi_channel_comparison.png]]
 ![[fig-260512-43mm_tiles_multi_channel_comparison.png]]
-As can be seen by the above plot, the LHS vs RHS yielded no significant results, with the exception of tile 055, this can also be seen clearly inside of the 2D 
+As can be seen by the above plot, the LHS vs RHS yielded no significant results, with the exception of tile 055, this can also be seen clearly inside of the 2D plots. 
+![[fig-260512-43mm_id055_LHS_run1_BvsD.png| 300]] ![[fig-260512-43mm_id055_RHS_run1_BvsD.png | 300]] 
 
 
 

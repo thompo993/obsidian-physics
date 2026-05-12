@@ -13,7 +13,8 @@ As can be seen above, all tiles are significantly above benchmark, which is what
 The Results for the 43mm Tiles are also excellent. However now there is a stud difference implementation being added (see [[#Stud Difference Procedure]]). 
 [[fig-260512-43mm_tiles_both_stud.png]]
 ![[fig-260512-43mm_tiles_both_stud.png]]
-The 2D analysis was not particular 
+
+For the stud 
 
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]]

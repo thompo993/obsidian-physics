@@ -48,6 +48,7 @@ The only thing that actually matters is the LHS, and this signifies which side o
 
 This code should help you tell if the tile has non symmetrical light output. 
 
+![[fig-260507-production-stave-testing-alignment.jpg | 300]] ![[fig-260512-43mm_id055_LHS_run1_BvsD.png | 300]] 
 
 
 

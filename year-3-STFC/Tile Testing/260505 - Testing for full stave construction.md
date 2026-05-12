@@ -46,7 +46,7 @@ For the code I wrote to work, we need a couple of things setup in the file names
 ```
 The only thing that actually matters is the LHS, and this signifies which side of the tile is on **Ch_B** in the Pico scope, assuming you have not changed the wiring since I left in 2026 (please check) this should be the leftmost PMT as you look at the box.
 
-This code should seperate 
+This code should help you tell if the tile has non symmetrical light output. 
 
 
 

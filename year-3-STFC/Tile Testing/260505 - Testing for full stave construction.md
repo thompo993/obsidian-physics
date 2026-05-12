@@ -34,9 +34,7 @@ For the multi channel analysis, we have one that stands out, tile ID 041, which 
 
 
 ### 105mm tiles
-005 used as a benchmark tile,
-we do not know if 105 is an exemplary tile 
-need to do full testing on these tiles ASAP. 
+ID 005 was used as a benchmark tile, so we must consider that this tile was simply excellent, however our tiles do appear to be worse than the benchmark. 
 
 
 

@@ -7,11 +7,10 @@
 Here we used the original "tile21og", which is a historic benchmark tile that has always been used for 30mm tiles. The results for this tile are great: 
 [[fig-260512-30mm_tiles_comparison.png]]
 ![[fig-260512-30mm_tiles_comparison.png]]
-As can be seen above, all tiles are significantly above benchmark, which is what we expect. Un
+As can be seen above, all tiles are significantly above benchmark, which is what we expect. There are insufficient tile numbers to plot a histogram with this tile batch. 
 
 ### 43mm Tiles 
-tile id19 is the benchmark tile. 
-**NOT CERTAIN ABOUT LHS RHS OF BENCHMARK TILE**
+The Results for the 
 
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]]

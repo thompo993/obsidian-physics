@@ -10,7 +10,9 @@ tile id19 is the benchmark tile.
 same as normal benchmark tile [[260313 - Setting Benchmark]]
 
 ### 105mm tiles
-005 used as a benchmark tile
+005 used as a benchmark tile,
+we do not know if 105 is an exemplary tile 
+need to do f
 
 ### 210mm tiles 
 008 used as benchmark

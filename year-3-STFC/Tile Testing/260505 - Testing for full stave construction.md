@@ -19,9 +19,6 @@ For the stud differences:
 ![[fig-260512-43mm_tiles_multi_channel_comparison.png]]
 As can be seen by the above plot, the LHS vs RHS yielded no significant results, with the exception of tile 055, this can also be seen clearly inside of the 2D plots. 
 ![[fig-260512-43mm_id055_LHS_run1_BvsD.png| 300]] ![[fig-260512-43mm_id055_RHS_run1_BvsD.png | 300]] 
-
-
-
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]]
 
@@ -32,6 +29,13 @@ need to do full testing on these tiles ASAP.
 
 ### 210mm tiles 
 008 used as benchmark
+
+
+
+
+
+
+
 
 
 
@@ -62,7 +66,7 @@ From this example here, we have a greater LHS stud output when it is on channel 
 
 **note: Often they will both be below the white line, this is either PMT or source alignment, this cannot be from the tile.**
 
-if you want to do further analysis, i recommend a LHS vs RHS scatter plot, as above here is the code i used to split the data frame (using the same naming conventions as above)
+if you want to do further analysis, I recommend a LHS vs RHS scatter plot, as above here is the code I used to split the data frame (using the same naming conventions as above)
 ```
 def select_studs(df):
 

@@ -3,6 +3,7 @@
 [[scintillating tiles]]
 [[Small Batch Tile Testing and Stave Assembly]]
 
+# Key Findings
 ## 30mm Tiles
 Here we used the original "tile21og", which is a historic benchmark tile that has always been used for 30mm tiles. The results for this tile are great: 
 [[fig-260512-30mm_tiles_comparison.png]]
@@ -27,6 +28,8 @@ same as normal benchmark tile [[260313 - Setting Benchmark]] (ID:015). These til
 [[fig-260512-63mm_tiles_multi_channel_comparison.png]]
 ![[fig-260512-63mm_tiles_multi_channel_comparison.png]]
 For the multi channel analysis, we have one that stands out, tile ID 041, which was also picked up on by the 2D plotting: 
+![[fig-260512-63mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-63mm_id040_RHS_run1_BvsD.png| 300]] 
+
 
 ### 105mm tiles
 005 used as a benchmark tile,

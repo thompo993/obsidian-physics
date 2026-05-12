@@ -33,6 +33,10 @@ need to do full testing on these tiles ASAP.
 To determine if the studs are different, we first label the left and right hand sides of the tiles. To save on time I did not label these with the label maker, and instead used the following convention: 
 As, the text is written on the tile, the correct way up for the text is considered the LHS. For example: 
 
+| **LHS** | ![[fig-260512-tile-ordering-convention.jpg]] |     |
+| ------- | -------------------------------------------- | --- |
+
+
 
 ### LHS CONVENTION
 orient the tile such that you can read the text the correct way up. then the LHS is considered the LHS of the tile as you look at it. 

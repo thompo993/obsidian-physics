@@ -26,7 +26,7 @@ same as normal benchmark tile [[260313 - Setting Benchmark]] (ID:015). These til
 
 [[fig-260512-63mm_tiles_multi_channel_comparison.png]]
 ![[fig-260512-63mm_tiles_multi_channel_comparison.png]]
-For the multi channel analysis, we have one that stands out, tile ID 
+For the multi channel analysis, we have one that stands out, tile ID 041. 
 ### 105mm tiles
 005 used as a benchmark tile,
 we do not know if 105 is an exemplary tile 

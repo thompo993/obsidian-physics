@@ -43,7 +43,7 @@ For the stud symmetry checks:
 ![[fig-260512-105mm_tiles_multi_ch.png]]
 From this we see that tile ID 041 stands out, checking this with the 2d plots shows
 ![[fig-260512-63mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-63mm_id040_RHS_run1_BvsD.png| 300]]
-This is not as clear as the others, but we see, a slight bias towards the RHS stud 
+This is not as clear as the others, but we see, a slight bias towards the RHS stud when it is placed on the Ch_D, and it is very dominant when placed on Ch_B, so we know the RHS stud has a greater output. 
 
 
 ### 210mm tiles 

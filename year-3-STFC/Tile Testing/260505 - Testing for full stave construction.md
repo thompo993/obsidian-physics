@@ -10,7 +10,7 @@ Here we used the original "tile21og", which is a historic benchmark tile that ha
 As can be seen above, all tiles are significantly above benchmark, which is what we expect. There are insufficient tile numbers to plot a histogram with this tile batch. 
 
 ### 43mm Tiles 
-The Results for the 
+The Results for the 43mm Tiles are also excellent. However now there is a stud difference implementation being added.
 
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]]

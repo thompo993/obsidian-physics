@@ -1,9 +1,11 @@
-# Tags:
+## Tags:
 [[Super MuSR]]
 [[scintillating tiles]]
 [[Small Batch Tile Testing and Stave Assembly]]
 
-# 30mm Tiles
+## 30mm Tiles
+Here we used the original "tile21og"
+
 
 ### 43mm Tiles 
 tile id19 is the benchmark tile. 

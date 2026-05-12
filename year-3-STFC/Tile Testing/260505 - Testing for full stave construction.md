@@ -21,10 +21,12 @@ As can be seen by the above plot, the LHS vs RHS yielded no significant results,
 ![[fig-260512-43mm_id055_LHS_run1_BvsD.png| 300]] ![[fig-260512-43mm_id055_RHS_run1_BvsD.png | 300]] 
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]] (ID:015). These tiles also performed exceptionally. 
-
+[[fig-260512-63mm_tiles_both_stud.png]]
 ![[fig-260512-63mm_tiles_both_stud.png]]
 
-
+[[fig-260512-63mm_tiles_multi_channel_comparison.png]]
+![[fig-260512-63mm_tiles_multi_channel_comparison.png]]
+For the multi channel analysis, we have one that stands out, tile ID 
 ### 105mm tiles
 005 used as a benchmark tile,
 we do not know if 105 is an exemplary tile 

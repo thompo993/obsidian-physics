@@ -47,7 +47,7 @@ This is not as clear as the others, but we see, a slight bias towards the RHS st
 
 
 ### 210mm tiles 
-008 used as benchmark
+Tile ID 008 used as benchmark, and we obtain the following results from the PHS Peaks. 
 
 
 

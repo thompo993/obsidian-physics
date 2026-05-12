@@ -52,5 +52,6 @@ This code should help you tell if the tile has non symmetrical light output.
 
 From this example here, we have a greater LHS stud output when it is on channel B (LHS on channel B run), and when we place the LHS stud on channel D, we get a greater light output on channel D, this means that the LHS stud has a greater light output than the RHS stud. 
 
-**note**
+**note: Often they will both be below the white line, this is either PMT or source alignment, this cannot be from the tile.**
 
+if you want to do further analysis, i recomend a LHS vs RHS scatter plot, as above here is the code i used to split the d

@@ -12,7 +12,7 @@ same as normal benchmark tile [[260313 - Setting Benchmark]]
 ### 105mm tiles
 005 used as a benchmark tile,
 we do not know if 105 is an exemplary tile 
-need to do f
+need to do full testing on these tiles ASAP. 
 
 ### 210mm tiles 
 008 used as benchmark

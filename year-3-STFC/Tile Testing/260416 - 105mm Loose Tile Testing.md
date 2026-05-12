@@ -11,7 +11,7 @@ The issue is that the peak values of each channel seem to be different, making a
 - **QE of the PMT, if LHS has greater counts, then this will cause the two peaks effect, LHS PMT seems to have much greater counts after 10 minutes**
 
 - [ ] R/L the tiles and do a clustering study 
-	- [ ] label all tiles
+	- [x] label all tiles ✅ 2026-05-12
 	- [x] Position scans of 105mm tiles, do we recover the twin peak issue? ✅ 2026-04-21
 	- [x] Flip source measurement after each tile, to get a LHS and RHS. ✅ 2026-04-21
 

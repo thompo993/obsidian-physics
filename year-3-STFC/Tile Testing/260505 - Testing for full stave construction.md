@@ -3,7 +3,9 @@
 [[scintillating tiles]]
 [[Small Batch Tile Testing and Stave Assembly]]
 
-# Key Findings
+# Key Findings:
+The 30mm, 43mm and 63mm tiles are all performing well, there is reason for concern regarding the 105mm tiles and the  210mm tiles. 
+
 ## 30mm Tiles
 Here we used the original "tile21og", which is a historic benchmark tile that has always been used for 30mm tiles. The results for this tile are great: 
 [[fig-260512-30mm_tiles_comparison.png]]
@@ -35,6 +37,9 @@ For the multi channel analysis, we have one that stands out, tile ID 041, which 
 005 used as a benchmark tile,
 we do not know if 105 is an exemplary tile 
 need to do full testing on these tiles ASAP. 
+
+
+
 
 ### 210mm tiles 
 008 used as benchmark

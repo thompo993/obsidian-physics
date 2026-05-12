@@ -37,7 +37,11 @@ For the multi channel analysis, we have one that stands out, tile ID 041, which 
 ID 005 was used as a benchmark tile, so we must consider that this tile was simply excellent, however our tiles do appear to be worse than the benchmark. 
 [[fig-260512-105mm_tiles_both_studs.png]]
 ![[fig-260512-105mm_tiles_both_studs.png]]
-As we can see above the benchmark tiles are performing better than the batch of tiles selected for the made up stave, they are **13.2%** worse on average. however, this could be attributed to the 210mm
+As we can see above the benchmark tiles are performing better than the batch of tiles selected for the made up stave, they are **13.2%** worse on average. however, this could be attributed to the benchmark being extremely good. 
+
+For the stud symmetry checks: 
+![[fig-260512-105mm_tiles_multi_ch.png]]
+
 
 
 ### 210mm tiles 

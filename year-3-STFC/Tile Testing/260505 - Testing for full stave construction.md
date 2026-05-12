@@ -14,8 +14,10 @@ The Results for the 43mm Tiles are also excellent. However now there is a stud d
 [[fig-260512-43mm_tiles_both_stud.png]]
 ![[fig-260512-43mm_tiles_both_stud.png]]
 
-For the stud 
-
+For the stud differences: 
+[[fig-260512-43mm_tiles_multi_channel_comparison.png]]
+![[fig-260512-43mm_tiles_multi_channel_comparison.png]]
+As can be seen by the above plot, the 
 ### 63mm tiles 
 same as normal benchmark tile [[260313 - Setting Benchmark]]
 

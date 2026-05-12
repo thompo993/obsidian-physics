@@ -50,5 +50,5 @@ This code should help you tell if the tile has non symmetrical light output.
 
 ![[fig-260512-43mm_id055_LHS_run1_BvsD.png| 300]] ![[fig-260512-43mm_id055_RHS_run1_BvsD.png | 300]] 
 
-From this example here, we have a greater LHS stud output
+From this example here, we have a greater LHS stud output when it is on channel B (LHS on channel B run), and when we place channel
 

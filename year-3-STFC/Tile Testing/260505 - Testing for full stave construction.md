@@ -38,7 +38,7 @@ To determine if the studs are different, we first label the left and right hand 
 Such that if the text is the correct way up, as we read from left to right, we define the left hand side as the LHS of the tile. 
 
 ### Measuring the Tiles 
-We then conduct two runs, so each stud gets 
+We then conduct two runs, so each stud gets a turn on each PMT, this way PMT differences will create the illusion of one stud being worse, when it may be that the PMT is lower gain (shouldn't be but better safe than sorry).
 
 
 

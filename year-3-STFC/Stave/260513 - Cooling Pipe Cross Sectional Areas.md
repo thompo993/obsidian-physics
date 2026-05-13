@@ -46,6 +46,8 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 | Supplier         | RS     |
 | Outside Diameter | 6mm    |
 | Thickness        | 0.8mm  |
+
+---
 ### Notes:
 
 Very Cleanly cut and uniform thickness around the edge  

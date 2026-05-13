@@ -52,7 +52,7 @@ Tile ID 008 used as benchmark, and we obtain the following results from the PHS 
 
 [[fig-260512-210mm_tiles_both_studs.png]]
 ![[fig-260512-210mm_tiles_both_studs.png]]
-Once again we have worse performance for the 210mm tiles compared to the benchmark, this time, we have a percentage difference of **22.26** this is crazy. I need to look into this more. (I look into it in this file [[]])
+Once again we have worse performance for the 210mm tiles compared to the benchmark, this time, we have a percentage difference of **22.26** this is crazy. I need to look into this more. (I look into it in this file [[260513 - 210mm Tile Poor Performance Investigation]])
 
 
 [[fig-260512-210mm_tiles_multi_ch.png]]

@@ -10,8 +10,10 @@ The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm 
 
 | Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
 | ------------- | -------------------- | -------------------- | ---------------------- |
-| 1 - Uncreased | 15.44                | 8.335249000000001    | 13.917510428644515     |
-| 2- Creased    | 15.48                | 9.37                 | 13.91                  |
+| 1 - Uncreased | 15.44                | 8.34                 | 13.92                  |
+| 1 - Creased   | 15.48                | 9.37                 | 13.91                  |
+| 2             | 12.39                | 6.69                 | 11.16                  |
+| 3             |                      |                      |                        |
 
 
 

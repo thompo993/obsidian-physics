@@ -41,4 +41,12 @@ where L is the full internal length of the  pipe. From here estimates were done 
 $$
 (L-y)\times y + \pi(\frac{y}{2})^2
 $$
-# Upper and Lower bounds:
+## Upper and Lower bounds:
+Upper bound was done using: 
+$$
+L \times y
+$$
+Lower bound was done using: 
+$$
+x \times y
+$$

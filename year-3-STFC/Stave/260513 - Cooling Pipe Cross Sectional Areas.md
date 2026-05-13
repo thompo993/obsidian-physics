@@ -14,7 +14,9 @@
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 # Tube 1 - Short Tube
-#
+## Specifications:
+Copper 
+
 ## Uncreased Side
 This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
 ## Creased Side

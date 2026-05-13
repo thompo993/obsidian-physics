@@ -7,4 +7,4 @@ Three deliberately deformed pipes have been investigated for their internal cros
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 
 # Baseline Pipe 
-The baseline pipe is 
+The baseline pipe is is a 

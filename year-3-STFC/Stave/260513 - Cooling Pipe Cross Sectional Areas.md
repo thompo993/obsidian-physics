@@ -15,6 +15,7 @@
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 
+---
 ## Baseline Tube
 
 | Material         | Copper |

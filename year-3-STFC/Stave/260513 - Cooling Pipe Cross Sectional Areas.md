@@ -39,5 +39,5 @@ x = L - y
 $$
 where L is the full internal length of the  pipe. From here estimates were done using 
 $$
-\times y + \pi(\frac{y}{2})^2
+(L-y)\times y + \pi(\frac{y}{2})^2
 $$

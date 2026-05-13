@@ -35,5 +35,9 @@ This was estimated using repeated averages of the internal height and width of t
 ![[fig-260513-stave-tubing-geom.jpg |]]
 Distance y was determined using the average height across the straight part of the tubing, and x was determined using the assumption that y is equal to the diameter of the circle on each end, therefore: 
 $$
-x = L - t
+x = L - y
+$$
+where L is the full internal length of the  pipe. From here estimates were done using 
+$$
+y
 $$

@@ -76,4 +76,4 @@ This functions purpose is to save functions for later analysis, it allows a cust
 These functions serve the ability to call a single function for both training and test steps within a training loop. The \texttt{step} function sets up device agnostic code, setups the context required for that particular stage of the step (for example \texttt{torch.inference_mode()}). The \texttt{loop} function then zeros the optimiser gradient if required, calculates batch loss and accuracy, and then backpropagates the loss and steps the optimizer accordingly, while printing and saving diagnostic information to track the models performance per epoch. 
 
 ## Stats Report 
-
+This function is for determining all descriptive statistics and plots on each of the models after they have been trained to their respective optimal levels. It places the chosen model into inference mode, works out the predicted probabilities, predicted labels, and true labels

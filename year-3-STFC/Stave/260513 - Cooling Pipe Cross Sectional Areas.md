@@ -22,5 +22,9 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
 | -------------------- | -------------------- | ---------------------- |
 | 15.48                | 9.37                 | 13.91                  |
-It appears that the crease has no effect on the surface area. **Disclamer:** These are estimates, to discern the difference between these two with a hig
+It appears that the crease has no effect on the surface area. **Disclaimer:** These are estimates, to discern the difference between these two with a higher degree of certainty, a  surface area, or position scan should be made with the microscope. 
+
+# Tube 2 - Long tube 
+This tube had only one end that could be investigated, the other had clearly been clamped/damaged, so was not a fair comparison. 
+
 # Error Estimation

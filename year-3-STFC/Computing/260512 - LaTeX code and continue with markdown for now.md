@@ -81,3 +81,5 @@ This function is for determining all descriptive statistics and plots on each of
 --- 
 
 # Model Architecture 
+
+## Baseline CNN

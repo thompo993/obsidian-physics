@@ -12,12 +12,12 @@ The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm 
 # Uncreased Side
 This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
 
-| Upper Bound | Lower Bound       | Best Estimate      |
-| ----------- | ----------------- | ------------------ |
-| 15.442805   | 8.335249000000001 | 13.917510428644515 |
-|             |                   |                    |
+| Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
+| -------------------- | -------------------- | ---------------------- |
+| 15.442805            | 8.335249000000001    | 13.917510428644515     |
+
 
 ## Creased Side
 
-
+This side of the tube had noticeable deformities, a result from bending the pipe using freeze spray at the joint 
 # Error Estimation

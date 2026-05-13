@@ -62,6 +62,8 @@ rom this we see that tile ID 041 and 56 stand out:
 ![[fig-260512-210mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-210mm_id041_RHS_run1_BvsD.png| 300]]
 
 #### 056
+![[fig-260512-210mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-210mm_id056_RHS_run1_BvsD.png]]
+
 
 
 

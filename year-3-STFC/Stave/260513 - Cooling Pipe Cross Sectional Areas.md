@@ -22,5 +22,5 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
 | -------------------- | -------------------- | ---------------------- |
 | 15.48                | 9.37                 | 13.91                  |
-It appears that
+It appears that the crease has no effect on 
 # Error Estimation

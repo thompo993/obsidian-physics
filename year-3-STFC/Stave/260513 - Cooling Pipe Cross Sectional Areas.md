@@ -21,6 +21,6 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 
 | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
 | -------------------- | -------------------- | ---------------------- |
-| 15.48                | 11.12                | 13.9                   |
-
+| 15.48                | 9.37                 | 13.91                  |
+It appears that
 # Error Estimation

@@ -1,5 +1,9 @@
+[[pytorch]]
+[[260411 - Brain Tumor Identification Plan]]
+
 ```
   
+
 
 \section{Setup}
 
@@ -77,3 +81,6 @@ These functions serve the ability to call a single function for both training an
 
 ## Stats Report 
 This function is for determining all descriptive statistics and plots on each of the models after they have been trained to their respective optimal levels. It places the chosen model into inference mode, works out the predicted probabilities, predicted labels, and true labels, timing each batch throughout.
+
+# Baseline CNN
+The chosen model architecture for the baseline model was a smaller version of a Very Deep Convolutional Network \cite{simonyanVERYDEEPCONVOLUTIONAL2015}. This model involves using many blocks that contain 3x3 Convolutional filters in order t

@@ -14,18 +14,22 @@
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 ## Tube 1 - Short Tube
-## Specifications:
+### Specifications:
 
 | Material         | Copper |
 | ---------------- | ------ |
 | Outside Diameter | 5mm    |
 | Thickness        | 0.5mm  |
-### Uncreased Side
+### 
+#### Uncreased Side
 This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
-### Creased Side
+#### Creased Side
 This side of the tube had noticeable deformities, a result from bending the pipe after cooling using freeze spray. The concern is that this crease will reduce cross sectional area and hence flow  rate. From the table above t appears that the crease has no effect on the surface area. **Disclaimer:** These are estimates, to discern the difference between these two with a higher degree of certainty, a  surface area, or position scan should be made with the microscope. 
 ## Tube 2 - Long Tube
+### specifications: 
 
+
+Very Cleanly cut and uniform thickness around the edge  
 ## Tube 3 - Long Tube
 
 

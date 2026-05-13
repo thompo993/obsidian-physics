@@ -57,7 +57,8 @@ Once again we have worse performance for the 210mm tiles compared to the benchma
 
 [[fig-260512-210mm_tiles_multi_ch.png]]
 ![[fig-260512-210mm_tiles_multi_ch.png]]
-rom this we see that tile ID 041 and  stands out, checking this with the 2d plots shows
+rom this we see that tile ID 041 and 56 stand out:
+#### id 041
 ![[fig-260512-63mm_id041_LHS_run1_BvsD.png | 300]] ![[fig-260512-63mm_id040_RHS_run1_BvsD.png| 300]]
 
 

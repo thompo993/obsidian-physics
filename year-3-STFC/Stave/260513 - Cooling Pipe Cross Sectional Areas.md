@@ -30,6 +30,7 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 
 
 #  Estimation
-The "best estimate" was estimated using repeated averages of the internal height and width of the tubes, for all regular shaped tubes. Then the assumption was made that the shape of the pipe was equivalent to a rectangle with a semi-circle attached either side, as per the figure below:
+### Best Estimate: 
+This was estimated using repeated averages of the internal height and width of the tubes, for all regular shaped tubes. Then the assumption was made that the shape of the pipe was equivalent to a rectangle with a semi-circle attached either side, as per the figure below:
 ![[fig-260513-stave-tubing-geom.jpg |]]
 Distance y was determined using the average height across the straight part of the tubing, and x was determined using the assumption that y is equal to the diameter of the circle on each end. From this, i wrote the following function to compute the 

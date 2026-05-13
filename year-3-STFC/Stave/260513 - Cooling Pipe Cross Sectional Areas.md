@@ -29,6 +29,7 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 
 | Material         | Copper |
 | ---------------- | ------ |
+| Supplier         | BES    |
 | Outside Diameter | 6mm    |
 | Thickness        | 0.6mm  |
 
@@ -42,7 +43,6 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 | Material         | Copper |
 | ---------------- | ------ |
 | Supplier         | RS     |
-| Thickness        | 0.8mm  |
 | Outside Diameter | 6mm    |
 | Thickness        | 0.8mm  |
 ### Notes:
@@ -52,6 +52,7 @@ Very Cleanly cut and uniform thickness around the edge
 ### specifications: 
 | Material         | Copper |
 | ---------------- | ------ |
+| Supplier         | RS     |
 | Outside Diameter | 6mm    |
 | Thickness        | 0.8mm  |
 ### Notes:

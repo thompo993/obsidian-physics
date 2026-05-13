@@ -8,9 +8,9 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 # Baseline Pipe 
 The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56mm$^2$**.  
 
-| Tube Name | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
-| --------- | -------------------- | -------------------- | ---------------------- |
-|           | 15.442805            | 8.335249000000001    | 13.917510428644515     |
+|     |     |
+| --- | --- |
+|     |     |
 
 
 

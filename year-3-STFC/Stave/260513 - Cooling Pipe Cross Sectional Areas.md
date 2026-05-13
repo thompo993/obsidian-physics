@@ -17,7 +17,7 @@ This side of the tube looked very promising, and had clean cut all the way aroun
 | 15.442805            | 8.335249000000001    | 13.917510428644515     |
 
 ## Creased Side
-This side of the tube had noticeable deformities, a result from bending the pipe after cooling using freeze spray. The concern is that this crease will reduce cross sectional area and hence flow  rate. 
+This side of the tube had noticeable deformities, a result from bending the pipe after cooling using freeze spray. The concern is that this crease will reduce cross sectional area and hence flow  rate.
 
 | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
 | -------------------- | -------------------- | ---------------------- |

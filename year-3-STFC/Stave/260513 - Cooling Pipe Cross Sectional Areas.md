@@ -17,9 +17,10 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 ## Baseline Tube
 ### specifications 
 
-| Material  | Copper |
-| --------- | ------ |
-| Outside D |        |
+| Material         | Copper |
+| ---------------- | ------ |
+| Outside Diameter | 5mm    |
+| Thickness        | 0.5mm  |
 
 
 ## Tube 1 - Short Tube
@@ -27,8 +28,8 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 
 | Material         | Copper |
 | ---------------- | ------ |
-| Outside Diameter | 5mm    |
-| Thickness        | 0.6mm  |
+| Outside Diameter | 6mm    |
+| Thickness        | 0.8mm  |
 
 ### Notes:
 #### Uncreased Side
@@ -40,7 +41,7 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 | Material         | Copper |
 | ---------------- | ------ |
 | Outside Diameter | 6mm    |
-| Thickness        | 0.5mm  |
+| Thickness        | 0.8mm  |
 ### Notes:
 
 Very Cleanly cut and uniform thickness around the edge  

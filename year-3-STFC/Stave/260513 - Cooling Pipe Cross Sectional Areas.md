@@ -7,4 +7,4 @@ Three deliberately deformed pipes have been investigated for their internal cros
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 
 # Baseline Pipe 
-The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56**
+The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56$mm^2$**

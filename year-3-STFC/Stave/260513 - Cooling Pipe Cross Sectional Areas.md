@@ -19,7 +19,7 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 
 | Material         | Copper |
 | ---------------- | ------ |
-| Outside Diameter |        |
+| Supplier         | Amazon |
 | Outside Diameter | 5mm    |
 | Thickness        | 0.5mm  |
 
@@ -41,6 +41,8 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 ### specifications: 
 | Material         | Copper |
 | ---------------- | ------ |
+| Supplier         | RS     |
+| Thickness        | 0.8mm  |
 | Outside Diameter | 6mm    |
 | Thickness        | 0.8mm  |
 ### Notes:

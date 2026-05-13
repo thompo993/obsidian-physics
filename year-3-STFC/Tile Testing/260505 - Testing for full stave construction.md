@@ -1,7 +1,7 @@
 ## Tags:
 [[Super MuSR]]
 [[scintillating tiles]]
-[[Small Batch Tile Testing and Stave Assembly]]
+[[260512 - Small Batch Tile Testing and Stave Assembly]]
 
 - [ ] Check all tiles with neil database ⏫ 📅 2026-05-13
 # Key Findings:

@@ -8,3 +8,9 @@ Three deliberately deformed pipes have been investigated for their internal cros
 
 # Baseline Pipe 
 The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56mm$^2$**.  
+
+# Tube 1 - Short Tube
+This tube has rh
+
+
+# Error Estimation

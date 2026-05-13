@@ -15,7 +15,6 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 ![[fig-260513-stave-tubing-types.jpg | 300]]
 
 ## Baseline Tube
-### specifications 
 
 | Material         | Copper |
 | ---------------- | ------ |
@@ -29,7 +28,7 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 | Material         | Copper |
 | ---------------- | ------ |
 | Outside Diameter | 6mm    |
-| Thickness        | 0.8mm  |
+| Thickness        | 0.6mm  |
 
 ### Notes:
 #### Uncreased Side
@@ -46,7 +45,7 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 
 Very Cleanly cut and uniform thickness around the edge  
 ## Tube 3 - Long Tube
-###specifications: 
+### specifications: 
 ### Notes:
 
 Very Cleanly cut and uniform thickness around the edge  

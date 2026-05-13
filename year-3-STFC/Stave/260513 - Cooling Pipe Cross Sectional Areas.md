@@ -3,13 +3,14 @@
 [[Super MuSR]]
 
 # Summary Table: 
-| Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
-| ------------- | -------------------- | -------------------- | ---------------------- |
-| 1 - Uncreased | 15.44                | 8.34                 | **13.92**              |
-| 1 - Creased   | 15.48                | 9.37                 | **13.91**              |
-| 2             | 12.39                | 6.69                 | **11.16**              |
-| 3             | 12.38                | 6.67                 | **11.15**              |
-| Baseline      |                      |                      | **12.56**              |
+| Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) | External diameter | Thickness |
+| ------------- | -------------------- | -------------------- | ---------------------- | ----------------- | --------- |
+| 1 - Uncreased | 15.44                | 8.34                 | **13.92**              | 6mm               |           |
+| 1 - Creased   | 15.48                | 9.37                 | **13.91**              | 6mm               |           |
+| 2             | 12.39                | 6.69                 | **11.16**              | 6mm               |           |
+| 3             | 12.38                | 6.67                 | **11.15**              | 6mm               |           |
+| Baseline      |                      |                      | **12.56**              | 5mm               |           |
+
 # Introduction 
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 
 ![[fig-260513-stave-tubing-types.jpg | 300]]
@@ -46,6 +47,10 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 Very Cleanly cut and uniform thickness around the edge  
 ## Tube 3 - Long Tube
 ### specifications: 
+| Material         | Copper |
+| ---------------- | ------ |
+| Outside Diameter | 6mm    |
+| Thickness        | 0.8mm  |
 ### Notes:
 
 Very Cleanly cut and uniform thickness around the edge  

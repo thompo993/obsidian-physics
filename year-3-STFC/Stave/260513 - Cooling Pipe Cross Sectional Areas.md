@@ -1,20 +1,18 @@
 # Tags 
 [[Stave]]
 [[Super MuSR]]
+
+# Summary Table: 
+| Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
+| ------------- | -------------------- | -------------------- | ---------------------- |
+| 1 - Uncreased | 15.44                | 8.34                 | **13.92**              |
+| 1 - Creased   | 15.48                | 9.37                 | **13.91**              |
+| 2             | 12.39                | 6.69                 | **11.16**              |
+| 3             | 12.38                | 6.67                 | **11.15**              |
+| Baseline      |                      |                      | **12.56**              |
 # Introduction 
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 
 ![[fig-260513-stave-tubing-types.jpg | 300]]
-
-# Baseline Pipe 
-The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56mm$^2$**.  
-
-| Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
-| ------------- | -------------------- | -------------------- | ---------------------- |
-| 1 - Uncreased | 15.44                | 8.34                 | 13.92                  |
-| 1 - Creased   | 15.48                | 9.37                 | 13.91                  |
-| 2             | 12.39                | 6.69                 | 11.16                  |
-| 3             |                      |                      |                        |
-
 
 
 # Tube 1 - Short Tube

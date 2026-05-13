@@ -30,4 +30,4 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 
 
 # Error Estimation
-Errors were estimated using repeated averages of the internal height and width of the tubes, for all regular shaped tubes. Then the assumption was made that the shape of the pipe was equix
+Errors were estimated using repeated averages of the internal height and width of the tubes, for all regular shaped tubes. Then the assumption was made that the shape of the pipe was equivalent to a rectangle with a semi-circle attached either side 

@@ -65,4 +65,13 @@ Once the data had been split into 70\% training, and 15\% each split for evaluat
 
 ## Functions
 ### Timer Function 
-The timer function takes advantage of the \texttt{timeit} library in order to have  
+The timer function takes advantage of the \texttt{timeit} library in order to have a simple timer available where desired, was not required for the  training loop as `tqdm` has a built in timer which serves the purpose of tracking time per epoch. 
+
+# Save Model
+This functions purpose is to save functions for later analysis, it allows a customisable name, and the option to prevent overwriting the model with a time stamp if desired. It also has the key function of unwrapping the model from \texttt{DataParrallel()} such that it can be easily called for evaluation
+
+**rename modle eval func to test func**
+
+## Loop and Step Functions
+These functions serve the ability to call a single function for both training and test steps within a training loop. The \texttt{step} function sets up device agnostic code, setups the context required for that particular stage of the step (for example \texttt{torch.inference_mode()}). The \texttt{loop} function then zeros the optimiser gradient if required, calculates batch loss and accuracy, and then backpropagates the loss and steps the optimizer accordingly, while printing and saving diagnostic information to track the models performance per epoch. 
+

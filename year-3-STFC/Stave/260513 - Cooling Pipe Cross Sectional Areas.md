@@ -20,7 +20,8 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 | ---------------- | ------ |
 | Outside Diameter | 5mm    |
 | Thickness        | 0.5mm  |
-### 
+|                  |        |
+### Notes:
 #### Uncreased Side
 This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
 #### Creased Side
@@ -28,11 +29,14 @@ This side of the tube had noticeable deformities, a result from bending the pipe
 ## Tube 2 - Long Tube
 ### specifications: 
 
+### Notes:
 
 Very Cleanly cut and uniform thickness around the edge  
 ## Tube 3 - Long Tube
+###specifications: 
+### Notes:
 
-
+Very Cleanly cut and uniform thickness around the edge  
 #  Estimation
 ### Best Estimate: 
 This was estimated using repeated averages of the internal height and width of the tubes, for all regular shaped tubes. Then the assumption was made that the shape of the pipe was equivalent to a rectangle with a semi-circle attached either side, as per the figure below:

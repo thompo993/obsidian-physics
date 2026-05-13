@@ -18,6 +18,5 @@ This side of the tube looked very promising, and had clean cut all the way aroun
 
 
 ## Creased Side
-
-This side of the tube had noticeable deformities, a result from bending the pipe using freeze spray at the joint 
+This side of the tube had noticeable deformities, a result from bending the pipe using freeze spray at the joint of the 
 # Error Estimation

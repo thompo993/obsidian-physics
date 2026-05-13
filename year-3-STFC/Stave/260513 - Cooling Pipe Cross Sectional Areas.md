@@ -3,4 +3,6 @@
 [[Super MuSR]]
 
 # Introduction 
-Three deliberately deformed pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. 
+Three deliberately deformed pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe the pipe has  
+
+![[fig-260513-stave-tubing-types.jpg | 300]]

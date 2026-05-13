@@ -77,3 +77,5 @@ These functions serve the ability to call a single function for both training an
 
 ## Stats Report 
 This function is for determining all descriptive statistics and plots on each of the models after they have been trained to their respective optimal levels. It places the chosen model into inference mode, works out the predicted probabilities, predicted labels, and true labels, timing each batch throughout.
+
+#

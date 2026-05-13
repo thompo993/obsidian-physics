@@ -8,6 +8,12 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 # Baseline Pipe 
 The baseline pipe is perfectly spherical with a 5mm external diameter and a 4mm internal diameter, this gives it a total cross sectional area of **12.56mm$^2$**.  
 
+| Tube Name | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) |
+| --------- | -------------------- | -------------------- | ---------------------- |
+|           | 15.442805            | 8.335249000000001    | 13.917510428644515     |
+
+
+
 # Tube 1 - Short Tube
 # Uncreased Side
 This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
@@ -31,4 +37,8 @@ This tube had only one end that could be investigated, the other had clearly bee
 | -------------------- | -------------------- | ---------------------- |
 | 12.39                | 6.69                 | 11.16                  |
 
+
+
+
+# Tube 3 - Long Tube
 # Error Estimation

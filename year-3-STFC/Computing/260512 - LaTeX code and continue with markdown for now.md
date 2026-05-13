@@ -63,4 +63,6 @@ Once the data had been split into 70\% training, and 15\% each split for evaluat
 Once the data had been split into 70\% training, and 15\% each split for evaluation and testing, the Data Loaders were applied to each of the splits. The Batch size was initially chosen as 32, as this is the upper limit for small batch training for ResNet models \cite{batch_size_ml_masters}. This allows the GPUs available to maximised. The training data loader is set to shuffle each batch, making it harder for the model to learn the ordering of the images.  The loaders are set to the correct number of workers and pins the memory, reducing the overhead of transferring from the  GPU to the CPU repeatedly if the GPU if available. 
 
 
-## Functions 
+## Functions
+### Timer Function 
+The timer function takes advantage of the \texttt{timeit} library in order to have  

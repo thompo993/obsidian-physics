@@ -92,9 +92,12 @@ This model typically involves using many blocks that contain 3x3 Convolutional f
 
 Each of the three layers increases in channels until the fourth block, which takes 128 channels then flattens, gets applied through one linear layer, one ReLU layer, before reaching the final classifier layer. Dropout randomly selects neurons to be  disabled at the end of each training loop, preventing any particular neuron from being memorised, subsequently helping prevent overfitting
 
+
+
+
+
 ### Loss and Optimizer function
 
-The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used function considers that the prediction probabilities of the model output from SoftMax, and penalises incorrect guesses that had larger probabilities attributed to them more strongly. The chosen optimizer, was a adaptize moment estimate algorithm, Adam. Adam is 
 =======
 --- 
 

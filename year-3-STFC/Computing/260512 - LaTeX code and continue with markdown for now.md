@@ -82,6 +82,7 @@ These functions serve the ability to call a single function for both training an
 ## Stats Report 
 This function is for determining all descriptive statistics and plots on each of the models after they have been trained to their respective optimal levels. It places the chosen model into inference mode, works out the predicted probabilities, predicted labels, and true labels, timing each batch throughout.
 
+<<<<<<< HEAD
 # Baseline CNN
 
 ### Model Architecture
@@ -94,3 +95,11 @@ Each of the three layers increases in channels until the fourth block, which tak
 ### Loss and Optimizer function
 
 The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used function considers that the prediction probabilities of the model output from SoftMax, and penalises incorrect guesses that had larger probabilities attributed to them more strongly. The chosen optimizer, was a adaptize moment estimate algorithm, Adam. Adam is 
+=======
+--- 
+
+# Model Architecture 
+
+## Baseline CNN
+The Baseline CNN architecture follows the standard pattern for 
+>>>>>>> origin/main

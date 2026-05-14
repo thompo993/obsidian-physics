@@ -36,7 +36,8 @@ Three deliberately deformed into a shape resembling a rectangle with two semi ci
 
 ### Notes:
 #### Uncreased Side
-This side of the tube looked very promising, and had clean cut all the way around this lead to the following upper bound, lower bound, and "best estimate" guesses: 
+This side of the tube looked very promising, and had clean cut all the way around.
+![[fig-260513-stave-tubing-types-tube1-uncreased.jpg | 300]]
 #### Creased Side
 This side of the tube had noticeable deformities, a result from bending the pipe after cooling using freeze spray. The concern is that this crease will reduce cross sectional area and hence flow  rate. From the table above t appears that the crease has no effect on the surface area. **Disclaimer:** These are estimates, to discern the difference between these two with a higher degree of certainty, a  surface area, or position scan should be made with the microscope. 
 ## Tube 2 - Long Tube

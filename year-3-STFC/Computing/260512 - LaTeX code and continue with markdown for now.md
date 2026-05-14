@@ -93,4 +93,4 @@ Each of the three layers increases in channels until the fourth block, which tak
 
 ### Loss and Optimizer function
 
-The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used function considers that the prediction probabilities of the model output from SoftMax, and penalises incorrect guesses that had larger probabilities attributed to them more strongly. The chosen optimizer
+The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used function considers that the prediction probabilities of the model output from SoftMax, and penalises incorrect guesses that had larger probabilities attributed to them more strongly. The chosen optimizer, was a adaptize moment estimate algorithm, Adam. Adam is 

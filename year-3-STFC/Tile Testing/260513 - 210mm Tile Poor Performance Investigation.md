@@ -3,4 +3,5 @@
 [[Super MuSR]]
 
 
-# N
+# Notes 
+the tiles are poorly performing

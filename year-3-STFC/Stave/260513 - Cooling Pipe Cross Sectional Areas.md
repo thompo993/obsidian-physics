@@ -3,13 +3,13 @@
 [[Super MuSR]]
 
 # Summary Table: 
-| Tube Name     | Upper Bound (mm$^2$) | Lower Bound (mm$^2$) | Best Estimate (mm$^2$) | External diameter | Thickness |
-| ------------- | -------------------- | -------------------- | ---------------------- | ----------------- | --------- |
-| 1 - Uncreased | 15.44                | 8.34                 | **13.92**              | 6mm               | 0.6mm     |
-| 1 - Creased   | 15.48                | 9.37                 | **13.91**              | 6mm               | 0.6mm     |
-| 2             | 12.39                | 6.69                 | **11.16**              | 6mm               | 0.8mm     |
-| 3             | 12.38                | 6.67                 | **11.15**              | 6mm               | 0.8mm     |
-| Baseline      |                      |                      | **12.56**              | 5mm               | 0.5mm     |
+| Tube Name     | External diameter | Thickness | Best Estimate (mm$^2$) |
+| ------------- | ----------------- | --------- | ---------------------- |
+| 1 - Uncreased | 6mm               | 0.6mm     | **13.92**              |
+| 1 - Creased   | 6mm               | 0.6mm     | **13.91**              |
+| 2             | 6mm               | 0.8mm     | **11.16**              |
+| 3             | 6mm               | 0.8mm     | **11.15**              |
+| Baseline      | 5mm               | 0.5mm     | **12.56**              |
 
 # Introduction 
 Three deliberately deformed into a shape resembling a rectangle with two semi circles attached either side. These pipes have been investigated for their internal cross sectional area and compared to a baseline spherical pipe. The three samples can be found below: 

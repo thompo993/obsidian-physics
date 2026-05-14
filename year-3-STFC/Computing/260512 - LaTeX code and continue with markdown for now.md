@@ -83,7 +83,12 @@ These functions serve the ability to call a single function for both training an
 This function is for determining all descriptive statistics and plots on each of the models after they have been trained to their respective optimal levels. It places the chosen model into inference mode, works out the predicted probabilities, predicted labels, and true labels, timing each batch throughout.
 
 # Baseline CNN
-## ADD WHAT A RELU IS
+
+### Model Architecture
 The chosen model architecture for the baseline model was a smaller version of a Very Deep Convolutional Network \cite{simonyanVERYDEEPCONVOLUTIONAL2015. This model was chosen due to the high levels of success attributed to such models such that it was deemed a suitable baseline architecture to use as a framework. 
 
-This model typically involves using many blocks that contain 3x3 Convolutional filters in order to learn the images. The architecture of this particular model involves 3 blocks, each applying two convolutional layers, two ReLU layers, and one Max Pooling layer. Each of the three layers increases in channels until the fourth block, which takes 128 channels then flattens, gets applied through one linear layer, one ReLU layer, before reaching the final classifier layer. Dropout is added to help prevent overfitting. 
+This model typically involves using many blocks that contain 3x3 Convolutional filters in order to learn the images. The architecture of this particular model involves 3 blocks, much less than a typical Very Deep Convolutional Network. Each block appliers two convolutional layers, which essentially "slide" across the image and identify patterns. After each convolutional layer, a the image goes through  Rectified Linear Unit (ReLU) layer. At the end of the block the image is passed through one Max Pooling layer, which reduces spatial and height dimensions by selecting the max from a 2x2 region of pixels. 
+
+Each of the three layers increases in channels until the fourth block, which takes 128 channels then flattens, gets applied through one linear layer, one ReLU layer, before reaching the final classifier layer. Dropout randomly selects neurons to be  disabled at the end of each training loop, preventing any particular neuron from being memorised, subsequently helping prevent overfitting
+
+### Loss and Optimizer function

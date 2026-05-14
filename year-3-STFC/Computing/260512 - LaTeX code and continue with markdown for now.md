@@ -93,4 +93,4 @@ Each of the three layers increases in channels until the fourth block, which tak
 
 ### Loss and Optimizer function
 
-The chosen loss formula was \texttt{CrossEntropyLoss()}, as this function considers 
+The chosen loss formula was \texttt{CrossEntropyLoss()}, as this function considers the prediction probabilities of the model, and penalises incorrect guesses that the model thought it got right strongly, and also considers the class imbalance in the dataset. **find academic source for this. **  

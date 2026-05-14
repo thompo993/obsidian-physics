@@ -6,7 +6,7 @@
 | Tube Name     | External diameter | Thickness | Best Estimate (mm$^2$) |
 | ------------- | ----------------- | --------- | ---------------------- |
 | 1 - Uncreased | 6mm               | 0.6mm     | **13.92**              |
-| 1 - Creased   | 6mm               | 0.6mm     | **9.48**               |
+| 1 - Creased   | 6mm               | 0.6mm     | **12.98**              |
 | 2             | 6mm               | 0.8mm     | **11.16**              |
 | 3             | 6mm               | 0.8mm     | **11.15**              |
 | Baseline      | 5mm               | 0.5mm     | **12.56**              |

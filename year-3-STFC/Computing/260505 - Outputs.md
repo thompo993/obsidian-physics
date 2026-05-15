@@ -1,6 +1,45 @@
 # tags
 [[260504 - Plan For Assignment 2 FINAL]]
 [[pytorch]]
+
+# final report f1 score etc 
+```
+----------------------------------------
+Base Line CNN
+----------------------------------------
+average time per batch: 2.07766 micro seconds | std deviation of 0.40724 micro seconds
+----------------------------------------
+              precision    recall  f1-score   support
+
+  Meningioma     0.6124    0.8316    0.7054        95
+      Glioma     0.9198    0.7890    0.8494       218
+   Pituitary     0.9441    0.9247    0.9343       146
+
+    accuracy                         0.8410       459
+   macro avg     0.8254    0.8484    0.8297       459
+weighted avg     0.8639    0.8410    0.8466       459
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CODE CHANGES
 - need to rename the loss and validation code
 ### Optimizer choice 

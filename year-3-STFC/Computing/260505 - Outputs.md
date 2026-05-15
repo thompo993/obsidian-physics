@@ -21,7 +21,192 @@ weighted avg     0.8639    0.8410    0.8466       459
 ```
 
 
+# resnet18 run @ 15/05/26 23:05
+```
+ 0%|          | 0/30 [00:00<?, ?it/s]
 
+ train loss: 0.617 | train accuracy: 73.041%
+
+  3%|▎         | 1/30 [00:24<11:43, 24.27s/it]
+
+ eval loss: 0.499 | eval accuracy: 83.462%
+lr: 0.0001
+ train loss: 0.321 | train accuracy: 88.060%
+
+  7%|▋         | 2/30 [00:48<11:22, 24.37s/it]
+
+ eval loss: 0.318 | eval accuracy: 88.349%
+lr: 0.0001
+ train loss: 0.262 | train accuracy: 89.879%
+
+ 10%|█         | 3/30 [01:13<11:07, 24.73s/it]
+
+ eval loss: 0.386 | eval accuracy: 83.141%
+lr: 0.0001
+ train loss: 0.226 | train accuracy: 91.604%
+
+ 13%|█▎        | 4/30 [01:38<10:43, 24.74s/it]
+
+ eval loss: 0.332 | eval accuracy: 90.112%
+lr: 0.0001
+ train loss: 0.173 | train accuracy: 93.237%
+
+ 17%|█▋        | 5/30 [02:02<10:07, 24.28s/it]
+
+ eval loss: 0.360 | eval accuracy: 90.224%
+lr: 0.0001
+ train loss: 0.153 | train accuracy: 94.496%
+
+ 20%|██        | 6/30 [02:25<09:32, 23.87s/it]
+
+ eval loss: 0.262 | eval accuracy: 92.500%
+lr: 0.0001
+ train loss: 0.133 | train accuracy: 95.056%
+
+ 23%|██▎       | 7/30 [02:48<09:08, 23.85s/it]
+
+ eval loss: 0.347 | eval accuracy: 90.321%
+lr: 0.0001
+ train loss: 0.116 | train accuracy: 95.522%
+
+ 27%|██▋       | 8/30 [03:13<08:48, 24.01s/it]
+
+ eval loss: 0.196 | eval accuracy: 91.875%
+lr: 0.0001
+ train loss: 0.127 | train accuracy: 95.382%
+
+ 30%|███       | 9/30 [03:37<08:23, 23.99s/it]
+
+ eval loss: 0.246 | eval accuracy: 92.404%
+lr: 0.0001
+ train loss: 0.097 | train accuracy: 96.409%
+
+ 33%|███▎      | 10/30 [04:01<07:58, 23.95s/it]
+
+ eval loss: 0.207 | eval accuracy: 92.724%
+lr: 0.0001
+ train loss: 0.087 | train accuracy: 97.155%
+
+ 37%|███▋      | 11/30 [04:25<07:34, 23.93s/it]
+
+ eval loss: 0.212 | eval accuracy: 93.542%
+lr: 0.0001
+ train loss: 0.070 | train accuracy: 97.341%
+
+ 40%|████      | 12/30 [04:49<07:11, 23.99s/it]
+
+ eval loss: 0.210 | eval accuracy: 93.542%
+lr: 0.0001
+ train loss: 0.078 | train accuracy: 97.295%
+
+ 43%|████▎     | 13/30 [05:13<06:49, 24.11s/it]
+
+ eval loss: 0.315 | eval accuracy: 93.558%
+lr: 0.0001
+ train loss: 0.060 | train accuracy: 97.668%
+
+ 47%|████▋     | 14/30 [05:37<06:23, 23.97s/it]
+
+ eval loss: 0.265 | eval accuracy: 91.250%
+lr: 5e-05
+ train loss: 0.045 | train accuracy: 98.507%
+
+ 50%|█████     | 15/30 [06:00<05:56, 23.75s/it]
+
+ eval loss: 0.278 | eval accuracy: 90.641%
+lr: 5e-05
+ train loss: 0.035 | train accuracy: 98.834%
+
+ 53%|█████▎    | 16/30 [06:24<05:32, 23.72s/it]
+
+ eval loss: 0.221 | eval accuracy: 94.167%
+lr: 5e-05
+ train loss: 0.023 | train accuracy: 99.067%
+
+ 57%|█████▋    | 17/30 [06:48<05:09, 23.82s/it]
+
+ eval loss: 0.329 | eval accuracy: 93.862%
+lr: 5e-05
+ train loss: 0.057 | train accuracy: 97.528%
+
+ 60%|██████    | 18/30 [07:11<04:45, 23.76s/it]
+
+ eval loss: 0.204 | eval accuracy: 94.696%
+lr: 5e-05
+ train loss: 0.031 | train accuracy: 98.974%
+
+ 63%|██████▎   | 19/30 [07:34<04:19, 23.60s/it]
+
+ eval loss: 0.221 | eval accuracy: 95.433%
+lr: 5e-05
+ train loss: 0.028 | train accuracy: 99.021%
+
+ 67%|██████▋   | 20/30 [07:59<03:57, 23.77s/it]
+
+ eval loss: 0.169 | eval accuracy: 95.833%
+lr: 5e-05
+ train loss: 0.021 | train accuracy: 99.487%
+
+ 70%|███████   | 21/30 [08:23<03:35, 23.93s/it]
+
+ eval loss: 0.598 | eval accuracy: 91.058%
+lr: 5e-05
+ train loss: 0.033 | train accuracy: 98.741%
+
+ 73%|███████▎  | 22/30 [08:47<03:11, 23.88s/it]
+
+ eval loss: 0.160 | eval accuracy: 95.737%
+lr: 5e-05
+ train loss: 0.018 | train accuracy: 99.347%
+
+ 77%|███████▋  | 23/30 [09:11<02:48, 24.11s/it]
+
+ eval loss: 0.183 | eval accuracy: 94.696%
+lr: 5e-05
+ train loss: 0.021 | train accuracy: 99.347%
+
+ 80%|████████  | 24/30 [09:36<02:25, 24.27s/it]
+
+ eval loss: 0.543 | eval accuracy: 91.571%
+lr: 5e-05
+ train loss: 0.023 | train accuracy: 99.394%
+
+ 83%|████████▎ | 25/30 [09:59<02:00, 24.00s/it]
+
+ eval loss: 0.163 | eval accuracy: 95.833%
+lr: 5e-05
+ train loss: 0.016 | train accuracy: 99.394%
+
+ 87%|████████▋ | 26/30 [10:23<01:35, 23.90s/it]
+
+ eval loss: 0.247 | eval accuracy: 94.904%
+lr: 5e-05
+ train loss: 0.007 | train accuracy: 99.813%
+
+ 90%|█████████ | 27/30 [10:47<01:11, 23.92s/it]
+
+ eval loss: 0.272 | eval accuracy: 95.737%
+lr: 5e-05
+ train loss: 0.041 | train accuracy: 98.554%
+
+ 93%|█████████▎| 28/30 [11:11<00:47, 23.82s/it]
+
+ eval loss: 0.230 | eval accuracy: 94.487%
+lr: 2.5e-05
+ train loss: 0.014 | train accuracy: 99.627%
+
+ 97%|█████████▋| 29/30 [11:34<00:23, 23.75s/it]
+
+ eval loss: 0.220 | eval accuracy: 94.904%
+lr: 2.5e-05
+ train loss: 0.015 | train accuracy: 99.580%
+
+100%|██████████| 30/30 [11:58<00:00, 23.94s/it]
+
+ eval loss: 0.186 | eval accuracy: 95.112%
+lr: 2.5e-05
+718.2316377609995
+```
 
 
 

@@ -115,5 +115,5 @@ Once again \textttt{CrossEntropyLoss} and \texttt{ReduceLROnPlateau} were chosen
 
 
 
-### FIND ACADEMIC SOURCE 
+### FIX RESNET 18 MODEL ARCHITECTURE SECITON
 

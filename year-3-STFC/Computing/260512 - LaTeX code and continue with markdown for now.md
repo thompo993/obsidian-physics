@@ -111,7 +111,7 @@ ResNet 18 uses residual blocks (**more on this**), and is relatively small compa
 For Resnet 18, the standard input image is identical to that defined above in section \ref{CORRECT SECTION HERE}. This allowed the same data loaders to be used. Resnet 18 has 17 convolutional layers, and to tune it to this specific model the classifier head was adjusted to accommodate tumor classification. The classifier head was adjusted to take the output of the final residual layer, and then apply a linear layer, followed by a ReLU layer and a final layer to make the models outputs 3 logits associated with the tumor class. Dropout was set to 0.5, which is higher than the baseline CNN as this model was more prone to overfitting. This yielded strong results, but eventually the decision was made to unfreeze the last residual layer, as this gives the model more opportunity to further specialise the model without retraining the whole model. 
 
 ### loss and optimizer functions 
-Once again \textttt{CrossEntropyLoss} was chosen, although the otpimiser chosen was \texttt{AdamW}. This is simply the Adam optimiser with \cite{Decoupledweight decay}, this allows it to
+Once again \textttt{CrossEntropyLoss} was chosen, although the otpimiser chosen was \texttt{AdamW}. This is simply the Adam optimiser with \cite{Decoupledweight decay}, this allows it to decay in a very stable fashion and you want to utilise weight decay and smaller weights without hindering Adams p
 
 
 ### FIND ACADEMIC SOURCE 

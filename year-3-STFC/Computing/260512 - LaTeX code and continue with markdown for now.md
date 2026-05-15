@@ -104,6 +104,6 @@ The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used f
 One method of solving this issue is using transfer learning, where we can use millions of images images that a model has already been trained on and adjust the last few layers to tune the model to the tumor classification dataset. 
 #### Architecture 
 
-Resnet is a Residual Network that further optimises the model 
+ResNet is a residual network that introduces skip connections to more easily optimize larger and deeper model. The purpose of ResNET was to solve the vanishing gradient problem, where some training gradients become extremely small, making it hard to optize subsequent layers CHECK THISA skip connections bypass some connections within the model, which helps 
 ### FIND ACADEMIC SOURCE 
 

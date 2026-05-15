@@ -96,8 +96,11 @@ The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used f
 
 
 ### Resnet 18 
+### Notes:
+- resnet 50 overtrained rapidly 
+- different lrs 
+- treined cosine annealing 
 One method of solving this issue is using transfer learning, where we can use millions of images images that a model has already been trained on and adjust the last few layers to tune the model to the tumor classification dataset. 
 #### Architecture 
 ### FIND ACADEMIC SOURCE 
 
-ResNEt 

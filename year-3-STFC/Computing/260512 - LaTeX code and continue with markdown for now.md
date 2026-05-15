@@ -92,4 +92,12 @@ Each of the three layers increases in channels until the fourth block, which tak
 
 ### Loss and Optimizer function
 The chosen loss formula was \texttt{CrossEntropyLoss()}, as this a widely used function considers that the prediction probabilities of the model output from SoftMax, and penalises incorrect guesses that had larger probabilities attributed to them more strongly. The chosen optimizer, was a adaptive moment estimate algorithm, Adam is a versatile optimizer geared towards machine learning problems with large datasets and high dimension parameter spaces, making it idea for computer vision problems. It has shown success in models containing similar architecture of convolutional layers, max pool and ReLU units (although in the cited paper by Kingma et al, 2014 use 5x5 convolutional filters and 3x3 max pooling, slightly larger than the baseline CNN)
-CONTINUE THIS
+
+
+
+### Resnet 18 
+One method of solving this issue is using transfer learning, where we can use millions of images images that a model has already been trained on and adjust the last few layers to tune the model to the tumor classification dataset. 
+#### Architecture 
+### FIND ACADEMIC SOURCE 
+
+ResNEt 

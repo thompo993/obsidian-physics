@@ -223,7 +223,7 @@ average time per batch: 1.04249 micro seconds | std deviation of 0.23203 micro s
 ----------------------------------------
               precision    recall  f1-score   support
 
-  Meningioma     0.9667    0.9158    0.9405        95
+  Meningioma     0.9667    0.9158    0.9158        95
       Glioma     0.9817    0.9817    0.9817       218
    Pituitary     0.9669    1.0000    0.9832       146
 

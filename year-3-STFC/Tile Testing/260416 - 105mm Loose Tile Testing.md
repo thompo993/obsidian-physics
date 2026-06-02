@@ -10,7 +10,7 @@ The issue is that the peak values of each channel seem to be different, making a
 - mismatched gain due to slow HV drift
 - **QE of the PMT, if LHS has greater counts, then this will cause the two peaks effect, LHS PMT seems to have much greater counts after 10 minutes**
 
-- [ ] R/L the tiles and do a clustering study 
+- [x] R/L the tiles and do a clustering study ✅ 2026-06-02
 	- [x] label all tiles ✅ 2026-05-12
 	- [x] Position scans of 105mm tiles, do we recover the twin peak issue? ✅ 2026-04-21
 	- [x] Flip source measurement after each tile, to get a LHS and RHS. ✅ 2026-04-21

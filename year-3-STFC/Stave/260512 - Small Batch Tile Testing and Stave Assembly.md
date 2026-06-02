@@ -2,6 +2,7 @@
 # Tags 
 [[Super MuSR]]
 [[260505 - Testing for full stave construction]]
+[[Stave]]
 
 - [x] Construct Stave of fully tested tiles ⏫ 📅 2026-12-05 ✅ 2026-06-02
 	- [x] Measure 32 tiles such that I can make up a full stave, we want this to all be one dataset ✅ 2026-06-02

@@ -2,6 +2,8 @@
 [[Stave]]
 [[Super MuSR]]
 
+**Note:** Lucy's report is much more accurate and can be found in [[260602 - Cooling Pipe Cross Sectional Areas Lucy Re]]
+
 # Summary Table: 
 | Tube Name     | Outer Diameter | Thickness | Best Estimate (mm$^2$) |
 | ------------- | -------------- | --------- | ---------------------- |

@@ -11,7 +11,7 @@ https://www.reddit.com/r/MachineLearning/comments/1ckrzq6/d_is_there_a_more_syst
 
 
 
-- [ ] Complete Coding Assignment and report 📅 2026-05-23
+- [x] Complete Coding Assignment and report 📅 2026-05-23 ✅ 2026-06-02
 ### Rough Plan
 - get a way to use machine learning hardware using Kaggle
 - how do i get GPU hours etc 
@@ -179,4 +179,4 @@ weighted avg       0.96      0.96      0.96       459
 - Per-class F1, precision, recall
 - ROC-AUC (one-vs-rest)
 - **Not just accuracy** 
-- [ ] Ensure comments are updated inside assignment 2 jupyter notebook ⏫ 📅 2026-05-23
+- [x] Ensure comments are updated inside assignment 2 jupyter notebook ⏫ 📅 2026-05-23 ✅ 2026-06-02

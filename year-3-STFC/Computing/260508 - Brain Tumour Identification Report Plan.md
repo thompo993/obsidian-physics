@@ -1,5 +1,5 @@
 
-- [ ] Fully comment and clean up all code 📅 2026-05-15
+- [x] Fully comment and clean up all code 📅 2026-05-15 ✅ 2026-06-02
 # Tags
 [[pytorch]]
 [[260504 - Plan For Assignment 2 FINAL]]

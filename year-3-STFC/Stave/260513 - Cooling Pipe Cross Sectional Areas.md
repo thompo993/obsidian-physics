@@ -1,8 +1,9 @@
 # Tags 
 [[Stave]]
 [[Super MuSR]]
+[[cooling]]
 
-**Note:** Lucy's report is much more accurate and can be found in [[260602 - Cooling Pipe Cross Sectional Areas Lucy Re]]
+**Note:** Lucy's report is much more accurate and can be found in [[260602 - Cooling Pipe Cross Sectional Areas Lucy Microscope report]]
 
 # Summary Table: 
 | Tube Name     | Outer Diameter | Thickness | Best Estimate (mm$^2$) |

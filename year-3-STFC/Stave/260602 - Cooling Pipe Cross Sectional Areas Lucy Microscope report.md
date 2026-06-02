@@ -11,4 +11,4 @@ Lucy used a microscope and a built in numerical integration post in order to det
 | Baseline  | 5mm            | 0.5mm     | **12.56**                 |
 
 # Further work 
-need to test the new pipe, will report back when lucy or i have estimated the area. 
+need to test the new pipe, will report back when lucy or I have estimated the area. 

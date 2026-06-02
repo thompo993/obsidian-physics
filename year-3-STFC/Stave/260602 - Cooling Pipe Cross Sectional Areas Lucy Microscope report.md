@@ -1,5 +1,5 @@
 # Method 
-Lucy used a microscope and a built in numerical integration post in order to determine the cross sectional area of the copper tubes. each of the upper end of the measurements was selected from lucy's full report, which has additional images and can be found here. 
+Lucy used a microscope and a built in numerical integration post in order to determine the cross sectional area of the copper tubes. each of the upper end of the measurements was selected from lucy's full report, which has additional images and can be found here. [[pdf-260206-lucy-microscope-copper-pip-bending-report.pdf]]
 
 
 | Tube Name | Outer Diameter | Thickness | Lucy Measurement (mm$^2$) |

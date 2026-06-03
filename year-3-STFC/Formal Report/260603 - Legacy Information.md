@@ -124,3 +124,25 @@ Easier to think about it is that for neutrons you don’t want to measure gamma,
 
 - Why do some muons lose polarisation between their production and being implanted in the sample. We are tuning for those ones, also a acceptance threshold of muons on the surface, plus interactions of the bunch, plus the thin films the muons interact with on the way there
 - Can I use the tile 21 data and generalise this to the whole PMT? Or is it fair to only use counting stats (eg poission) so can I use Standard mean error on all data points? DONE ERROR PROPAGATION
+
+# Feedback from interim report and presentation 
+
+
+## Presentation
+
+- Need a MUCH stronger theoretical knowledge:
+- Lamor Precession
+- Better at phrasing reponses
+- e.g "that was taken into consideration but …
+
+## Report
+
+- Ensure it is not technical internal report, and is scientific and understandable to the people on the outside
+- More Science cases - eg batteries
+- Mechanisms of the experiment
+- Reliability of measurements
+- Production of Tiles and the procedure in much more detail
+- Error significant figures seem much to high
+- More pictures of actual experiments in my report.
+- Find RAL resin paper
+- "this is the issue, and this is how we solved, and this was the result" more explcitily

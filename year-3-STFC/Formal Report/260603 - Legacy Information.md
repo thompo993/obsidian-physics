@@ -146,3 +146,23 @@ Easier to think about it is that for neutrons you don’t want to measure gamma,
 - More pictures of actual experiments in my report.
 - Find RAL resin paper
 - "this is the issue, and this is how we solved, and this was the result" more explcitily
+
+## General
+
+- Better theoretical understanding of theory
+
+- Larmor precession
+
+- Larmor frequency
+
+- Why WLSF is used for our muon tile
+- Why Sipm
+
+- Fast allow quicker Larmor frequency to be observed (<----- fact check)
+
+- Think "WHY"
+- Ask yourself "what am I trying to explain"
+
+- Is something helping, or confusing
+
+- All resin plots

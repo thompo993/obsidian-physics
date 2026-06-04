@@ -32,7 +32,7 @@ Then the traces were confirmed to be running when the beamline was on. this can 
 Then two screenshots were taken of the histograms in order to verify that the PHS has not changed.
 
 ## Before Reset 
-
+![[fig-260604-long-stave-install-phs-pre-reset.png]]
 ## After Reset 
 
 

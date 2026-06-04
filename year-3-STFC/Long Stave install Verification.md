@@ -21,4 +21,15 @@ libGL error: glx: failed to create dri3 screen
 libGL error: failed to load driver: virtio_gpu
 ```
 
-Then the traces were confirmed to be running when the beamline was on.
+Then the traces were confirmed to be running when the beamline was on. this can be seen below: 
+![[fig-260604-long-stave-install-traces.png]]
+
+# PHS
+Then two screenshots were taken of the histograms in order to verify that the PHS has not changed.
+
+## Before Reset 
+
+## After Reset 
+
+
+

@@ -1,0 +1,1 @@
+The long stave was booted by navigating to the beamline gui files held within idaaas. 

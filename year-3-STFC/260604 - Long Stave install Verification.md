@@ -34,6 +34,6 @@ Then two screenshots were taken of the histograms in order to verify that the PH
 ## Before Reset 
 ![[fig-260604-long-stave-install-phs-pre-reset.png]]
 ## After Reset 
-
+![[fig-260604-long-stave-install-phs-post-reset.png]]
 
 

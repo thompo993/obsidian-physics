@@ -2,6 +2,8 @@
 [[scintillating tiles]]
 [[Super MuSR]]
 
+**Note:** This is written by Claude. I have read the documentation to check it is correct, but AI can make mistakes. 
+
 # PHS Analysis Code — Full Documentation
 
 **File:** `phs_analysis.py`  

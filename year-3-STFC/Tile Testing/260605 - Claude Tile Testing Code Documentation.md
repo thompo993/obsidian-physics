@@ -1,6 +1,6 @@
 # Tags: 
 [[scintillating tiles]]
-
+[[Super MuSR]]
 
 # PHS Analysis Code — Full Documentation
 
@@ -91,7 +91,7 @@ Tab-separated. The first row is a header.
 
 **Multi-channel mode** (`multi_channel=True`):
 
-The header row is expected to follow this pattern, with channel pairs separated by tabs:
+The header row is expected to follow this pattern, with channel pairs separated by tabs **this is the exact format input by **:
 
 ```
 Volts:Ch_A    Counts:Ch_A    Volts:Ch_C    Counts:Ch_C    Volts:Ch_A+C    Counts:Ch_A+C

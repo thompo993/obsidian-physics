@@ -10,7 +10,8 @@
 --- 
 # Introduction 
 
-The ISIS Neutron and Muon source is a world-class research facility which conducts 1200 experiments yearly pushing the forefront of physical and life sciences, resulting in 600 publications in fields such as, material science, life sciences, and Quantum Materials and energy technolo
+The ISIS Neutron and Muon source is a world-class research facility which conducts 1200 experiments yearly pushing the forefront of physical and life sciences, resulting in 600 publications in fields such as, material science, life sciences, and Quantum Materials and energy technologie 
+\cite{science-at-isis}
 
 The Detector Systems Group (DSG) is the department dedicated to the development and maintenance of the array of current and future detectors at the ISIS Neutron and Muon Source \cite{dsg_web}. MuSR is a Muon Spectrometer focussing on research in magnetism, superconductivity, battery technology, and further applications \cite{musr_web}. 
 

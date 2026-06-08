@@ -3,7 +3,7 @@
 
 --- 
 # Abstract 
-The Detector Systems Group (DSG) is the department dedeicated to the 
+The Detector Systems Group (DSG) is the department dedicated to the development and maintenance of the array of curre
 
 
 

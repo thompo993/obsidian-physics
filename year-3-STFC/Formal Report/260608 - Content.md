@@ -15,8 +15,7 @@ The ISIS Neutron and Muon source is a world-class research facility which conduc
 
 The Detector Systems Group (DSG) is the department dedicated to the maintenance and development of the array of current and future detectors at ISIS \cite{dsg_web}, and is playing a key role in the development of the four new instruments being developed as part of ISIS's Endeavour programme. 
 
-The Endeavour programme is the scheme for the next decade that ISIS aims to follow in order to drive development towards materials of the future, clean growth, and life sciences \cite{2026_endeavour_programme}.
-One of these instruments is  Super MuSR, which is replacing the current MuSR instrument.
+The Endeavour programme is plan the for the next decade that ISIS aims to follow in order to drive development towards key research areas: materials of the future, clean growth, and life sciences \cite{2026_endeavour_programme}. One of these instruments that is a part of this programme is  Super MuSR, which is replacing the current MuSR instrument.
 
 
 

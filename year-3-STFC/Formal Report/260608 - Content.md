@@ -10,8 +10,8 @@
 --- 
 # Introduction 
 
-The ISIS Neutron and Muon source is a world-class research facility which conducts 1200 experiments yearly fields such as, material science, life sciences, quantum materials and energy technologies. This generates  600 publications 
-\cite{science-at-isis}. 
+The ISIS Neutron and Muon source is a world-class research facility which conducts 1200 experiments yearly in fields such as, material science, life sciences, quantum materials and energy technologies. This generates 600 publications, pushing the forefront of physical and life sciences. 
+\cite{science-at-isis}  \cite{find-referece-for-600pubs-on-isis-website}. 
 
 The Detector Systems Group (DSG) is the department dedicated to the maintenance and development of the array of current and future detectors at ISIS \cite{dsg_web}, and is playing a key role in the development of the four new instruments being developed as part of ISIS's Endeavour programme. 
 

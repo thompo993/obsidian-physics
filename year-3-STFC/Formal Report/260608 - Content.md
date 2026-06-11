@@ -1,0 +1,44 @@
+# Tags: 
+[[Super MuSR]]
+
+--- 
+# Abstract 
+ 
+
+
+
+--- 
+# Introduction 
+
+The ISIS Neutron and Muon source is a world-class research facility which conducts 1200 experiments yearly in fields such as, material science, life sciences, quantum materials and energy technologies. This generates 600 publications, pushing the forefront of physical and life sciences. 
+\cite{science-at-isis}  \cite{find-referece-for-600pubs-on-isis-website}. 
+
+The Detector Systems Group (DSG) is the department dedicated to the maintenance and development of the array of current and future detectors at ISIS \cite{dsg_web}, and is playing a key role in the development of the four new instruments being developed as part of ISIS's Endeavour programme. 
+
+The Endeavour programme is plan the for the next decade that ISIS aims to follow in order to drive development towards key research areas: materials of the future, clean growth, and life sciences \cite{2026_endeavour_programme}. One of these instruments that is a part of this programme is  Super MuSR, which is replacing the current MuSR instrument.
+
+
+
+
+This upgrade plans to increase count rate by a factor of 20, in addition to a factor of 6-10 increase in temporal resolution. This is to be done by using significantly faster readout electronics, and increasing the number of detector elements from 64 to 960, as well as a beam splitter to be added upstream of the detector. Further functionality for Super MuSR includes the ability to apply greater magnetic fields to the sample.  
+
+
+
+
+--- 
+# Theory 
+
+
+
+
+--- 
+# Experimental 
+
+
+
+
+--- 
+# Conclusion 
+
+---
+# Appendix 

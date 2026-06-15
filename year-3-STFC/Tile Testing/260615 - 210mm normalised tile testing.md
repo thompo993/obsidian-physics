@@ -13,3 +13,5 @@ Overall, both of these results suggest that overfilling resin is crucial for til
 
 
 new normalisation method of using a per batch normalisation of 1.
+![[fig-260615-210mm-tile-testing-batch-benchmark.png]]
+each batch was normalised to the corresponding batch of that timeframe. 

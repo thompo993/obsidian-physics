@@ -8,3 +8,7 @@ We see on average of 18% improvement in tile performance when we overfill the re
 The latest tile we measured is Tile 78, (also in red) has improved by 9% from the previous batch, and is a top performer. 
 Overall, both of these results suggest that overfilling resin is crucial for tile performance.
 
+[[fig-260615-210mm-tile-testing-batch.png]]
+![[fig-260615-210mm-tile-testing-batch.png]]
+
+

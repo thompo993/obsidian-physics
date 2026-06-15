@@ -24,8 +24,11 @@ This report aims to outline part of the research and development process of Supe
 --- 
 # Theory 
 
-#
 
+## Super MuSR Design 
+Super MuSR is a twin barrelled muon spectrometer, that is made of 960 detector elements made of wavelength shifting fibre
+## Scintillating Tiles
+## Readout Electronics and det
 
 --- 
 # Experimental 

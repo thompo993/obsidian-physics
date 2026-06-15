@@ -26,7 +26,7 @@ This report aims to outline part of the research and development process of Supe
 
 
 ## Super MuSR Design 
-Super MuSR is a twin barrelled muon spectrometer, that is made of 960 detector elements made of wavelength shifting fibre and scintillating
+Super MuSR is a twin barrelled muon spectrometer, that is made of 960 detector elements made of wavelength shifting fibre and scintillating plastic. This reads into
 ### Scintillating Tiles
 ### Readout Electronics and Detection
 

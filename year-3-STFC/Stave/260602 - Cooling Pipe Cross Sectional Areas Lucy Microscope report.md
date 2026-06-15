@@ -12,11 +12,7 @@ Lucy used a microscope and a built in numerical integration post in order to det
 | 2         | 6mm            | 0.8mm     | 12.255                    |
 | 3         | 6mm            | 0.8mm     | 12.259                    |
 | Baseline  | 5mm            | 0.5mm     | **12.56**                 |
-<<<<<<< HEAD
-- [x] book tour for family on 19th of June 📅 2026-06-03 ✅ 2026-06-07
-=======
-- [x] book tour for family on 19th of June 📅 2026-06-03 ✅ 2026-06-08
->>>>>>> origin/main
+
 # Further work 
 need to test the new pipe, will report back when lucy or I have estimated the area. 
 result was that the new pipe is acceptable, but I do not have the full details 

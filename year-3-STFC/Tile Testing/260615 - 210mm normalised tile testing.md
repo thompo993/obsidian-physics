@@ -11,6 +11,8 @@ Overall, both of these results suggest that overfilling resin is crucial for til
 [[fig-260615-210mm-tile-testing-batch.png]]
 ![[fig-260615-210mm-tile-testing-batch.png]]
 
+--- 
+
 
 new normalisation method of using a per batch normalisation of 1.
 ![[fig-260615-210mm-tile-testing-batch-benchmark.png]]

@@ -25,8 +25,9 @@ $$
 $$
 Where S is the spin angular momentum for a particle of mass m and charge q the gyromagnetic ratio is given by: 
 $$
-
+\gamma=\frac{gq}{2m}
 $$
-
-
-
+where g is  a constant known as the g-factor and for which the electron and muon is essentially 2. putting in the numbers gives us a interesting number 
+$$
+\frac{\gamma_{\mu}}{2\pi} = 135.5MHzT^{-1}
+$$

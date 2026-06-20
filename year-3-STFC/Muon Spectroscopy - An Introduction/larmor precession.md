@@ -31,3 +31,9 @@ where g is  a constant known as the g-factor and for which the electron and muon
 $$
 \frac{\gamma_{\mu}}{2\pi} = 135.5MHzT^{-1}
 $$
+## classical treatment 
+
+mangetic moment $\mu$ in an applied feild $\vec{B}$ has enegy E given by 
+$$
+E = -\mu \cdot
+$$

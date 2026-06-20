@@ -33,15 +33,17 @@ $$
 $$
 ## classical treatment 
 
-mangetic moment $\mu$ in an applied feild $\vec{B}$ has enegy E given by 
+magnetic moment $\mu$ in an applied field $\vec{B}$ has energy E given by 
 $$
 	E = -\vec{\mu} \cdot \vec{B} 
 $$
-Thus we might think that the magnetic field would cuase the amgnetic moment to line up with it, to minimise its enegy. 
+Thus we might think that the magnetic field would cause the magnetic moment to line up with it, to minimise its energy. 
 
-because the magnetic moment is assocated with ganular momentum, ther is an torque $\mathbf{G}$ given by 
+because the magnetic moment is associated with granular momentum, ther is an torque $\mathbf{G}$ given by 
 $$
  G = \mu \times B
 $$
-Note this is still in vector format etc 
+Note this is still in vector format
+since toque is equal to the rate of change of angular momentum, e can rewrite the above equation 
+
 

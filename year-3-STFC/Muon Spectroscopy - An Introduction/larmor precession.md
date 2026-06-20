@@ -48,5 +48,23 @@ since toque is equal to the rate of change of angular momentum, we can rewrite t
 $$
 	\frac{d \mu }{dt} = \gamma \mu \times \mathbf{B}
 $$
-This means that change in $\mu$ is perpendicular to both $\mu$ and $\mathbf{B}$
+This means that change in $\mu$ is perpendicular to both $\mu$ and $\mathbf{B}$ the magnetic field causes the direction of $\mu$ to precess around $\mathbf{B}$ 
+ 
+consider the case where b is along the z direction and $\mu$ is initially and angle of $\theta$ to $\mathbf{B}$ 
+and in the xz-plane then: 
+$$
+	\dot{\mu}_{x} = \gamma B \mu_{y}
+$$
+$$
+	\dot{\mu}_{y} = - \gamma B \mu_{x}
+$$
 
+$$
+	\dot{\mu}_{z} = 0
+$$
+
+So that $\mu_{z}$ is constant with time and $\mu_{x}$ and $\mu_{y}$ both oscillate Solving the differential equations leads to:
+
+$$
+	\mu_{x}(t) =|\mu| \sin \theta \cos \omega t
+$$

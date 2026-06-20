@@ -77,6 +77,4 @@ $$
 where $\omega = \gamma B$ 
 this is called the Larmor precession frequency 
 
-$$
-	\ket{} 
-$$
+## quantum mechanical treatment 

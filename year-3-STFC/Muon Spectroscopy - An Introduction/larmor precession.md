@@ -39,11 +39,14 @@ $$
 $$
 Thus we might think that the magnetic field would cause the magnetic moment to line up with it, to minimise its energy. 
 
-because the magnetic moment is associated with granular momentum, ther is an torque $\mathbf{G}$ given by 
+because the magnetic moment is associated with angular momentum, there is an torque $\mathbf{G}$ given by 
 $$
  G = \mu \times B
 $$
 Note this is still in vector format
-since toque is equal to the rate of change of angular momentum, e can rewrite the above equation 
-
+since toque is equal to the rate of change of angular momentum, we can rewrite the above equation as: 
+$$
+	\frac{d \mu }{dt} = \gamma \mu \times \mathbf{B}
+$$
+This means that change in $\mu$ is perpendicualr to both 
 

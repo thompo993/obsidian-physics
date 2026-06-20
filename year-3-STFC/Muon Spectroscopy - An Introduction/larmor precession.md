@@ -48,5 +48,5 @@ since toque is equal to the rate of change of angular momentum, we can rewrite t
 $$
 	\frac{d \mu }{dt} = \gamma \mu \times \mathbf{B}
 $$
-This means that change in $\mu$ is perpendicualr to both 
+This means that change in $\mu$ is perpendicular to both $\mu$ and $\mathbf{B}$
 

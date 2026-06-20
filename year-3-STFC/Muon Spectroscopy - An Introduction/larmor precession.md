@@ -35,5 +35,13 @@ $$
 
 mangetic moment $\mu$ in an applied feild $\vec{B}$ has enegy E given by 
 $$
-E = -\mu \cdot
+	E = -\vec{\mu} \cdot \vec{B} 
 $$
+Thus we might think that the magnetic field would cuase the amgnetic moment to line up with it, to minimise its enegy. 
+
+because the magnetic moment is assocated with ganular momentum, ther is an torque $\mathbf{G}$ given by 
+$$
+ G = \mu \times B
+$$
+Note this is still in vector format etc 
+

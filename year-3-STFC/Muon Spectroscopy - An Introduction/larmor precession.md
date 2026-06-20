@@ -68,3 +68,15 @@ So that $\mu_{z}$ is constant with time and $\mu_{x}$ and $\mu_{y}$ both oscilla
 $$
 	\mu_{x}(t) =|\mu| \sin \theta \cos \omega t
 $$
+$$
+	\mu_{y}(t) = - |\mu|\sin\theta \sin \omega t
+$$
+$$
+	\mu_{z} = | \mu| \cos \theta
+$$
+where $\omega = \gamma B$ 
+this is called the Larmor precession frequency 
+
+$$
+	\ket{} 
+$$

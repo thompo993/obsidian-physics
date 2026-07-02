@@ -2,6 +2,7 @@
 [[Super MuSR]]
 
 **NOTE FOR BEN: YOUR MOST UPDATED VERSION THAT ISNT BACKED UP ON NET DRIVE IS IN YOUR WINDOWs `C:` FOLDER**
+`C:\supermusr-gui-main`
 # Goal:
 To setting up all of the digitisers such that from `multigui.py` it is possible to setup all square, emulated pulses at a sepcific point in time, current progress is that `content.yaml` is configured, and square waves have been observed in the `multigui.py` but the mapping is not correct.
 [[fig-260429-ubuntu-emulation-prog1.png]]

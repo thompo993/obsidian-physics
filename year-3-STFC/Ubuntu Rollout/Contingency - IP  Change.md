@@ -5,6 +5,9 @@
 [[Super MuSR]]
 [[Progress Table]]
 
+PASSWORD ONCE IP HAS SETUP 
+USER: zynq 
+PASSWORD: zynq
 ## Protocol
 When you sudo reboot, this should be the terminal screen:
 ![[fig-260421-ubuntu24-rollout-terminal-post-sudo-rbt.png]]

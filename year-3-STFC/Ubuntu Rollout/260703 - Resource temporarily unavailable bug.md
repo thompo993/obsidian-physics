@@ -1,4 +1,7 @@
-## Notes
+# Tags 
+[[ubu]]
+
+# Notes
 error with connecting to the digitisers on the web, this is for all digitisers 
 
 
@@ -39,4 +42,4 @@ does it now
 It now works. 
 
 # solution 
-power cycle the DAQ that is at fault and esnure all ethernet cables are p
+power cycle the DAQ that is at fault and esnure all ethernet cables are properly connected 

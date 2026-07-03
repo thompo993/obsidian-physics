@@ -29,5 +29,5 @@ zmq.error.Again: Resource temporarily unavailable
 Connecting to 130.246.84.112
 ```
 
-Error is much more widespread than i initially thought, i am going to power cycle all of them. 
+Error is much more widespread than i initially thought, 
 

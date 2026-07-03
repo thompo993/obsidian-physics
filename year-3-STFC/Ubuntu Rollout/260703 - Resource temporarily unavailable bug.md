@@ -33,4 +33,4 @@ Error is much more widespread than i initially thought,
 
 The IPS are **missing** from Grafana, i think a power cycle may fix this. 
 no duplicates, no dulpicate mac 
- 
+power cylce caused the 130.246.84.84 to come back online on grafana

@@ -31,3 +31,5 @@ Connecting to 130.246.84.112
 
 Error is much more widespread than i initially thought, 
 
+The IPS are **missing** from grafana, i think a power cycle 
+ 

@@ -32,4 +32,5 @@ Connecting to 130.246.84.112
 Error is much more widespread than i initially thought, 
 
 The IPS are **missing** from Grafana, i think a power cycle may fix this. 
+no duplicates, no dulpicate mac 
  

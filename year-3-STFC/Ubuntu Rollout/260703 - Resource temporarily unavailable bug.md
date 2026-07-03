@@ -1,5 +1,9 @@
 # Tags 
-[[ubu]]
+[[ubuntu]]
+[[digitiser]]
+
+# GRAFANA DASHBOARD FOR SUPER-RT
+http://te7gull.te.rl.ac.uk:3000/d/c9529eb7-a525-4e95-9f61-f49adb2ebef5/dev-dash-dev-daq121-monitoring?orgId=1&from=now-1h&to=now&timezone=browser&var-Instrument=SUPER-RT&refresh=5s
 
 # Notes
 error with connecting to the digitisers on the web, this is for all digitisers 

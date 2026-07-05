@@ -1,6 +1,7 @@
 # Tags:
 [[Super MuSR]]
 [[beamline]]
+[[year in industry report]]
 
 During the beamline production stave testing. Simulated real geometry and angle with brass degrader.
 The results are as follows

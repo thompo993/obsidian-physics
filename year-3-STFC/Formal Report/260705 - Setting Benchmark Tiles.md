@@ -44,4 +44,4 @@ The determination of the 30mm benchmark has been established in earlier work, th
 	- cant test all tiles on beamline 
 	- need to determine acceptable light output to test tiles as they come off production 
 	- peak to valley is the chosen metric, as it gives an idea of both tiles brightness and signal to noise 
-		- 
+		- super MuSR needs to set  noise threshold, basically need to cut the noise and true positron data, so a deep or wide peak to valley ratio must be chosen. 

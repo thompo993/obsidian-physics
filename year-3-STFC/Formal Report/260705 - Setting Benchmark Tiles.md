@@ -45,8 +45,12 @@ The determination of the 30mm benchmark has been established in earlier work, th
 	- need to determine acceptable light output to test tiles as they come off production 
 	- peak to valley is the chosen metric, as it gives an idea of both tiles brightness and signal to noise 
 		- super MuSR needs to set  noise threshold, basically need to cut the noise and true positron data, so a deep or wide peak to valley ratio must be chosen. 
-- two separate criteria
-	- whole detector over the musr PtV 
-		- 
-	- individual tile lengths being over PtV
 
+#### ensemble detector 
+- whole detector over the musr PtV on average 
+- therefore all the tiles can be used as benchmark, this is the key result 
+- **write this but confirm with dan**
+
+#### individual tiles
+all rings passed except 210mm
+why 

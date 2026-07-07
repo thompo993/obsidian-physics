@@ -1,2 +1,3 @@
-ubuntu is a debian based linux dis
+ubuntu is a Debian based Linux distro.
+
 https://en.wikipedia.org/wiki/Ubuntu

@@ -1,0 +1,1 @@
+The digitiser is a method of turning an analogue voltage into a digital signal 

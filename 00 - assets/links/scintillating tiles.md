@@ -1,3 +1,7 @@
+# Tags 
+[[scintillating tiles]]
+[[Super MuSR]]
+# excerpt from overleaf report 
 Scintillation is the production of light as a result of excitation from ionising radiation \cite{beaulieuScintillationDosimetry2016}, in this case positrons emitted as a result of muon decay. To collect information about the positrons, a series of novel scintillating tiles have been designed and assembled for Super MuSR. They come in 30mm, 43mm, 63mm, 105mm and 210mm sizes in order to conserve solid angle irrespective of distance from the sample. The tiles are made of a base of Eljen 204 scintillator which has a long optical attenuation length and fast timing, ideal for the high rates of data collection \cite{EJ200EJ204EJ208}. 
 
 
@@ -8,3 +12,4 @@ The fibre and scintillator are held in place by a gluing/curing jig seen in Figu
 The stud and WLSF will be of different lengths, and are set to deliberately be longer than necessary to allow for them to be lapped down using high grit micro-fine silicone carbide sandpaper, such that they have a polished finish. Each tile is placed into a lapping jig shown in Figure \ref{fig:lapping_jig}. The tile is fixed in place and polished down to the level of the bottom stainless steel plate.
 
 The final stage of assembly is the wrapping state, this involves placing an Excellent Specular Reflector (ESR) is wrapped around the tile in order to minimise light loss, it is kept tightly wrapped by thin layers of aluminium tape, providing maximum reflection from the ESR.
+

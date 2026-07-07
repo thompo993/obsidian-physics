@@ -166,7 +166,6 @@ precision    recall  f1-score   support
    macro avg       0.96      0.95      0.96       459
 weighted avg       0.96      0.96      0.96       459
 ```
-![[fgi-260419-confsusion-matrix-baseline-model-brain.png]]
 ### Stage 3 — Improved Model
 
 - Pretrained backbone (e.g. ResNet-18)

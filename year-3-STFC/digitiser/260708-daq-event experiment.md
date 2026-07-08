@@ -19,3 +19,6 @@ Trace topic: daq-trace
 Event topic (if used): daq-event
 
 I'm not sure if the config for the DAQ allows specifying more than one broker address, if not then just use the first one, if it does then use all three.
+
+# First steps 
+- some digitisers were not working 

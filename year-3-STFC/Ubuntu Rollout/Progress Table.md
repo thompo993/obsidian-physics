@@ -1,5 +1,5 @@
 ### Tags
-[[Instructions]]
+[[260222 - Instructions]]
 [[ubuntu]]
 [[digitiser]]
 [[firmware]]
@@ -283,7 +283,7 @@ PS C:\Users\fzy12567>
 ## digitiser 6 SN14895:
 
 - DAQ 1 had the same error with the Man in the middle attack being suggested.  (see [[#Man in the Middle Example]]) 
-- **FIX FOUND: [[Contingency - Remote Host Identification Has Changed]]**
+- **FIX FOUND: [[260429 - Contingency - Remote Host Identification Has Changed]]**
 - proceeded as normal with digitiser 6, DAQ1
 
 

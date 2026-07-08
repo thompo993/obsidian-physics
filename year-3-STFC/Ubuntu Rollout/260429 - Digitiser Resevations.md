@@ -1,3 +1,9 @@
+---
+tags:
+  - note
+created: 2026-04-29
+--- 
+
 Reservations
 [130.246.84.50] NI DAQ121 Digitiser SN15214 #1
 [130.246.84.51] NI DAQ121 Digitiser SN15214 #2

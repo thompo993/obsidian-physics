@@ -16,7 +16,7 @@ PASSWORD: zynq
 ## Protocol
 When you sudo reboot, this should be the terminal screen:
 ![[fig-260421-ubuntu24-rollout-terminal-post-sudo-rbt.png]]
-however, this will not work when you enter the IP into google chrome as per [[Instructions]]. This means that the IP has likely changed, and this means the display IP is now wrong. 
+however, this will not work when you enter the IP into google chrome as per [[260222 - Instructions]]. This means that the IP has likely changed, and this means the display IP is now wrong. 
 
 Firstly, make sure you install PuTTY: 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html

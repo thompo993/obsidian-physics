@@ -10,3 +10,5 @@ d:
 
 # Notes
 ## daq-event experiment
+
+### Mission breifing: 

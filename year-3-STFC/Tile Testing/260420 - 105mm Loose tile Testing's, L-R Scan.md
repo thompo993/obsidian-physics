@@ -2,7 +2,7 @@
 - **Convention:** "LHS", marked as in the run names, refers too which stud side aligns with the LHS PMT (left hand side as you are looking at it. )
 - measure difference relative to the LHS wall and near side of the source boom arm
 - label tiles on each side, convention is LR  corresponds to the tile id and length such that it corresponds too how you would read the tiles ** for example:
-- [ ] 2D plots on analysis 🔽 📅 2026-06-30
+- [x] 2D plots on analysis 🔽 📅 2026-06-30 ✅ 2026-07-08
 	- [ ] add real scale size based of the integration time 
 	- [ ] ask eric how we get the best results for 2D results
 	- [ ] look into why we choose int and diff time on phs? chose at start of placement on what "looked" best but need better reasoning

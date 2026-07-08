@@ -1,4 +1,8 @@
-
+---
+tags:
+  - note
+created: 2026-04-25
+---
 [[pytorch]]
 
 ![[fig-260425-pytroch-worfklow.png]]

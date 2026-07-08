@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-05-03
+---
 [[pytorch]]
 [[python]]
 [[machine learning]]

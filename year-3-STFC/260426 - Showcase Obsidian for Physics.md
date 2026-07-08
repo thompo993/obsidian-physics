@@ -1,3 +1,10 @@
+**THIS IS VERY OUT OF DATE**
+
+---
+tags:
+  - note
+created: 2026-04-26
+---
 # [[Stem Workflow for Physics in obsidian ]]
 **NOTE THIS IS A WORK IN PROGRESS ANY FEEDBACK IS MUCH APPRCIATED**
 This workflow and vault is designed for seamless work for a physics based stem degree, the idea is to allow for:

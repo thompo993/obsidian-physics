@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-05-01
+---
 [[Super MuSR]]
 ## Testing HiFi Settings
 To test if the config settings from HiFi (know to have worked) will make the GUI do channel mapped pulses, the exact settings were copied from `hifi` too `super_rt`. We then boot a random GUI to prevent interference from previous experimentation confounding the results. The IPs selected were:

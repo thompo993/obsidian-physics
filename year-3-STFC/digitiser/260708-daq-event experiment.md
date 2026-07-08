@@ -24,5 +24,11 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 - some digitisers were not working these were commented out of `ips.yaml` 
 - list of effected IPS:
 ```
-
+# - 130.246.84.148        # MAC: 02:ab:ba:00:22:4e
+# - 130.246.84.115        # MAC: 02:ab:ba:00:22:69
+# - 130.246.84.116        # MAC: 02:ab:ba:00:22:6a
+# - 130.246.84.118        # MAC: 02:ab:ba:00:22:38
+# - 130.246.84.122        # MAC: 02:ab:ba:00:22:26
+# - 130.246.84.123        # MAC: 02:ab:ba:00:22:27
+# - 130.246.84.124        # MAC: 02:ab:ba:00:22:28
 ```

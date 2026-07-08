@@ -36,7 +36,7 @@ maybe its CRTL+SHIFT+R to reload the page if you already login in the web interf
 **There is the possibly the digitizer take another IP (SHOULD NOT BUT POSSIBLE)**
 **in that case you will not able to connect to the recovery interface.** 
 **you must connect with the USB, locate the com port on your pc and the configuration is 115200 no parity 8,n,1**
-**enter IP a to see the IP and log to the web interface please see [[Contingency - IP  Change]]
+**enter IP a to see the IP and log to the web interface please see [[260429 - Contingency - IP  Change]]
 
 
 under Network update paste the update url

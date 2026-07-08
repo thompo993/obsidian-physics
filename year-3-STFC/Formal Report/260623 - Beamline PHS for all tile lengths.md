@@ -1,3 +1,9 @@
+---
+tags:
+  - note
+created: 2026-06-23
+---
+
 # Tags:
 [[Super MuSR]]
 [[beamline]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-03-09
+---
 ### Tags
 [[scintillating tiles]]
 [[Super MuSR]]

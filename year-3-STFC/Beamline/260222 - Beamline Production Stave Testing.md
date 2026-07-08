@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-07-08
+---
 ### Tags: 
 [[Super MuSR]]
 [[260313 - Setting Benchmark]]

@@ -1,5 +1,6 @@
 ---
-created: 2026-07-08
+created:
+  "{ date }":
 tags:
   - note
 ---

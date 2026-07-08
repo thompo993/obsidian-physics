@@ -1,4 +1,8 @@
-
+---
+tags:
+  - note
+created: 2026-04-13
+---
 # Session 1. Chair: George Phillips 
 ### Tags: 
 [[muon]]

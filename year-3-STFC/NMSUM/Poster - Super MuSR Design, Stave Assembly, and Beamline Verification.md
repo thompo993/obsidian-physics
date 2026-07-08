@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-04-14
+---
 ### Info:
 Date: 09/04/2026
 Subject: Poster for NMSUM

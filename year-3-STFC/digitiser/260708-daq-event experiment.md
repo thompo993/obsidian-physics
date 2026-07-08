@@ -22,3 +22,7 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 # First steps 
 - some digitisers were not working these were commented out of `ips.yaml` 
+- list of effected IPS:
+```
+
+```

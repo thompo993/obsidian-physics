@@ -1,7 +1,9 @@
 ---
 tags:
   - daily-notes
-  - {{date:dddd, MMMM Do, YYYY}}
+  - created:
+      "{ date }":
+created:
 ---
 
 << [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>

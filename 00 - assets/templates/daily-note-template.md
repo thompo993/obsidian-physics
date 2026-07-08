@@ -1,9 +1,7 @@
 ---
-
 created: {{date:YYYY-MM-DD}}
-
 tags:
-  - daily-notes
+- daily-notes
 ---
 
 << [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>

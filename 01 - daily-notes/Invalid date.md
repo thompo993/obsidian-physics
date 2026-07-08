@@ -1,20 +1,19 @@
 ---
-created: {{date:YYYY-MM-DD}}
-tags:
-  - daily-notes
+created: today
 ---
 
-<< [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>
-# {{date:dddd, MMMM Do, YYYY}}
+<< [[{{yesterday}}|yesterday]] || [[2026-07|month]] || [[{{tomorrow}}|tomorrow]] >>
+# Wednesday, July 8th, 2026
 
-<% tp.web.daily_quote() %>
+> [!quote] The winner ain't the one with the fastest car it's the one who refuses to lose.
+> — Dale Earnhardt
 
 ## Agenda
 
 > [!todo]+ Today
 > ```tasks
 > not done
-> happens {{date:YYYY-MM-DD}}
+> happens 2026-07-08
 > hide recurrence rule
 > hide due date
 > hide scheduled date
@@ -24,7 +23,7 @@ tags:
 > [!danger]+ Overdue 
 > ```tasks
 > not done
-> (due before {{date:YYYY-MM-DD}}) OR ((happens before {{date:YYYY-MM-DD}}) AND (priority is above none))
+> (due before 2026-07-08) OR ((happens before 2026-07-08) AND (priority is above none))
 > hide recurrence rule
 > sort by due date
 > ```

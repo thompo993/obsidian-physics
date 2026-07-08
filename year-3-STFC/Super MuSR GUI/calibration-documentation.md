@@ -1,4 +1,8 @@
-
+---
+tags:
+  - note
+created: 2026-05-01
+---
 # Tags
 [[Super MuSR]]
 [[GUI]]

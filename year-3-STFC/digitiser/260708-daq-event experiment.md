@@ -32,3 +32,5 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 # - 130.246.84.123        # MAC: 02:ab:ba:00:22:27
 # - 130.246.84.124        # MAC: 02:ab:ba:00:22:28
 ```
+
+- updated sysconfig file to take correct ip etc. 

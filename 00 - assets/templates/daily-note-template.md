@@ -1,5 +1,9 @@
+---
+tags:
+  - daily-notes
+---
+
 << [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>
-#daily-notes
 # {{date:dddd, MMMM Do, YYYY}}
 
 <% tp.web.daily_quote() %>

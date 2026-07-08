@@ -1,3 +1,9 @@
+---
+tags:
+  - note
+created: 2026-04-20
+---
+
 [[skills]]
 [[muon]]
 [[MuSR]]

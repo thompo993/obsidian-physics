@@ -3,7 +3,7 @@
 [[digitiser]]
 [[firmware]]
 [[Super MuSR]]
-[[Progress Table]]
+[[260429 - Progress Table]]
 
 Important: NOTE DOWN THE IP ADDRESS. DISPLAY WILL NOT WORK IN RECOVERY
 ### STEP 1 -- INSTALL RECOVERY IMAGE

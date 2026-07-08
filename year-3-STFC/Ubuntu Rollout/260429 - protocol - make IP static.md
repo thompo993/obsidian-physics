@@ -1,8 +1,17 @@
+
+---
+tags:
+  - note
+created: 2026-04-29
+---
+
+
 [[ubuntu]]
+
 [[digitiser]]
 [[firmware]]
 [[Super MuSR]]
-[[Progress Table]]
+[[260429 - Progress Table]]
 
 Enter the terminal, and enter:
 ```

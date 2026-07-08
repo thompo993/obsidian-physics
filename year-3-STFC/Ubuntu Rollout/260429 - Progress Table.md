@@ -1,3 +1,9 @@
+---
+tags:
+  - note
+created: 2026-04-29
+---
+
 ### Tags
 [[260222 - Instructions]]
 [[ubuntu]]

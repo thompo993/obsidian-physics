@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-04-29
+---
 
 | MAC               | Display IP         | Interface IP       | Software Version | Firmware Version | Static | Date   |     |
 | ----------------- | ------------------ | ------------------ | ---------------- | ---------------- | ------ | ------ | --- |

@@ -1,4 +1,8 @@
-
+---
+tags:
+  - note
+created: 2026-05-14
+---
 
 ## 1) High-level goal and transfer-learning strategy
 

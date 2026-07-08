@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-05-12
+---
 [[pytorch]]
 [[260411 - Brain Tumor Identification Plan]]
 

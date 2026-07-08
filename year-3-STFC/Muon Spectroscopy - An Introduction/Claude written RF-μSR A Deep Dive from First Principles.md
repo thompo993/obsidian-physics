@@ -1,4 +1,8 @@
-
+---
+tags:
+  - note
+created: 2026-06-25
+---
 
 ## Part 1: The Muon and Its Properties
 

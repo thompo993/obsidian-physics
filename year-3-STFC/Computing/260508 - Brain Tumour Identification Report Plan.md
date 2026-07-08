@@ -1,3 +1,8 @@
+---
+tags:
+  - note
+created: 2026-05-08
+---
 
 - [x] Fully comment and clean up all code 📅 2026-05-15 ✅ 2026-06-02
 # Tags

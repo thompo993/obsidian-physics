@@ -36,3 +36,7 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 - updated sysconfig file to take correct ip etc. 
 - update content.yaml to say the correct config file. 
 - updated daq.isiss
+
+
+- the gui is showing events 
+- inside the terminal the 

@@ -1,8 +1,7 @@
 ---
 tags:
   - note
-created: {{date:YYYY-MM-DD}}
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
-
 
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - daily-notes
-created: 
+created: "{{date:YYYY-MM-DD}}"
 ---
 
 

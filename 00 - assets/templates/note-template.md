@@ -1,6 +1,5 @@
 ---
-created: {{date:YYYY-MM-DD}}
+created: {{date}}
 tags:
 - note
 ---
-FIX THIS

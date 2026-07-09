@@ -1,8 +1,9 @@
 ---
-created: "{{date:YYYY-MM-DD}}"
-tags:
-  - daily-notes
+
 ---
+
+
+
 
 << [[{{yesterday}}|yesterday]] || [[{{date:YYYY-MM}}|month]] || [[{{tomorrow}}|tomorrow]] >>
 # {{date:dddd, MMMM Do, YYYY}}

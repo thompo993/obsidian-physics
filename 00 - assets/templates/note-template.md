@@ -1,5 +1,5 @@
 ---
-created: {{date}}
 tags:
-- note
+  - note
+created: {{date}}
 ---

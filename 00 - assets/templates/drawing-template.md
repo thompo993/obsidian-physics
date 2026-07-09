@@ -2,7 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-07-09
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
@@ -10,7 +10,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 # Excalidraw Data
 
 ## Text Elements
- Date: <% tp.date.now("YYYY-MM-DD") %>
+ Date: 2026-07-09
 
 
 Title:  ^NTkXcIqK

@@ -40,3 +40,4 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 - the gui is showing events 
 - inside the terminal the configuration files are correct
+- Two most recent digitisers are not working, they dont seem to have the same `tmp` contents, suggests different software or firmware? probably need to ask Ni about this. 

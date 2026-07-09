@@ -39,4 +39,4 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 
 - the gui is showing events 
-- inside the terminal the confiruation files are corect
+- inside the terminal the configuration files are correct

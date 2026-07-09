@@ -1,5 +1,5 @@
 ---
-created: "{{date:YYMMDD}}"
+created: <%+ tp.file.creation\_date() %>
 tags:
 - daily-notes
 ---

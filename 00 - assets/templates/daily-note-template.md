@@ -1,5 +1,5 @@
 ---
-created: {{date:YYYY-MM-DD}}
+created: "{{date:YYMMDD HH:mm}}"
 tags:
 - daily-notes
 ---

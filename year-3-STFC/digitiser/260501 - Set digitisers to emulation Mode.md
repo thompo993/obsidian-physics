@@ -138,5 +138,6 @@ Using these two commands we can start and stop all of our selected digitisers fr
 ## Verification: 
 Verifying is the easiest step, simply boot any GUI (I recommend `multidaq_gui.py`, which you choose the IPs for in `ips_multidaq.yaml`, but you should be very familiar with this by now) and press "start" do **not** press apply or anything else, as this may overwrite you perfect settings with the settings inside of `parameters_multidaq.json` (the GUIs default settings overwrite the selection menu in the GUI sidebar, but does not actually apply them). If all was done correctly, you should see similar to the following: 
 [[fig-260429-ubuntu-emulation-default-proof-of-emulation.png]]
+
 ![[fig-260429-ubuntu-emulation-default-proof-of-emulation.png]]
 **Well Done!**

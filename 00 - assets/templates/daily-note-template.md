@@ -1,5 +1,7 @@
 ---
-
+tags:
+  - daily-notes
+created: 
 ---
 
 

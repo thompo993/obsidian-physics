@@ -1,5 +1,5 @@
 ---
-created: <%+ tp.file.creation\_date() %>
+created: 
 tags:
 - daily-notes
 ---

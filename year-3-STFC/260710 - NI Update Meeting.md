@@ -15,3 +15,60 @@ created: 2026-07-10
 -  September beam tests - Andrea come RAL?
 -  Support and maintenance of system. NI knowledge transfer to ISIS DSG.
 # Minutes:
+
+## Delivery and testing
+### Timescales 
+
+| Cylce          | Start |
+| -------------- | ----- |
+| ADD TABLE HERE |       |
+- 4 days to test everything 
+	- we are going to do PHS 
+	- Pulsers 
+- 2 staves fixed, switch modules on the same stave.
+- does this need to be pre calibrated we need to assign have of modules to one each module 
+- 3.5hrs per stave 
+- for 32 modules this is 16 days work according to andrea
+
+
+## how to benchmark the processes 
+- tests on a server 
+- for gain stabilization
+- benchmark the amount of compute required for this 
+- can this compute live on NDX? 
+- haven't got round to it yet 
+- look at this in September
+- andrea says for this we need the final software. 
+- feburary software version needs an updated, should be part of the system to control all the experiments 
+- start work on this now. 
+- need one stave to determine how much compute it uses up. 
+- when we do a full set of channel fittings of the HV scan it takes on a standard i5 computer takes 20s. we should expect that this procedure fits 7x the number of spectra compare to what we need in real time. to fit the 32 channels we currently take 5-10s 
+- this is an decrease in time from last discussion 
+- dan states we need to meet requirements of an HV update every 5 or so minutes.
+- if you can adjust every 5 minutes, it is difficult to stabilise a PID 
+- if we want loop control that has a time constant of minutes, as it is easy to make it accidentally make it oscillatory. need to determine the timescale of temperature changes 
+- could this be done during cooling tests
+- Andrea thinks this is a complex issue 
+- PI vs lookup table, PI is better choice? this is becuase as can account for age of SiPMs
+- do we need a more powerful NDX machine do we go through dan Nixon or Freddie
+- very definitely this is a set of control parameters, therefore the control group is the correct group to this. we don't want to go to a different group
+- Andrea suggesting keeping the stave to develop C++ code for updating this to maximise speed and efficiency 
+- **when Andrea is next here, we are going to setup a stave to test this**
+- this experiment are on the timescales of day 
+
+
+
+## How to benchmark the processes that need to run on server to know if that server can be NDX machine.
+
+
+
+
+
+
+
+
+
+
+
+
+

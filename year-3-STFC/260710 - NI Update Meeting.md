@@ -35,6 +35,7 @@ created: 2026-07-10
 - 4 days of beamtime in total 
 - need real muon data for PHS etc
 -  dan estimates 4 staves per day on beam assuming they are fully calibrated
+- delivery issues potentially with the short staves, high lead time $\to$ will not arrive in time 
 
 
 ## how to benchmark the processes 

@@ -81,6 +81,7 @@ created: 2026-07-10
 	- also testing firmware and python scripts, very comprehensive according to Andrea
 	- ISIS needs a board that is used for this, NI will give for free.
 	- how will this be shared? $\to$ sent in a format that can be downloaded, or renew git expiry. 
+	- for dan only: i have the DAQ setup instructions noted, and a comprehsnive guide for various bugs, but cannot 
 
 
 

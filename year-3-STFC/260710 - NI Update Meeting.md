@@ -76,7 +76,11 @@ created: 2026-07-10
 - Alberto will share this 
 - this is what josh wants, and ideally in hand ASAP. 
 - this is what R8 wants. 
-- peirs and R8 want some test firmware that 
+- peirs and R8 want some test firmware. 
+	- NI has this for the digitizer 
+	- also testing firmware and python scripts, very comprehensive according to Andrea
+	- ISIS needs a board that is used for this, NI will 
+
 
 
 

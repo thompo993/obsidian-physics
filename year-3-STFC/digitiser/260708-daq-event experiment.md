@@ -49,3 +49,4 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 ![[fig-260710-kafka-experiments-datetime.png]]
 - however, despite this the onboard and Grafana status packets monitors are stating that there are no packets  being sent out. **this is the current issue**
 *![[fig-260710-kafka-experiments-status-packet-status.png]]*
+

@@ -2,7 +2,6 @@
 created: 2026-07-08
 tags:
   - note
-d:
 ---
 # Links 
 [[digitiser]]
@@ -51,3 +50,5 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 *![[fig-260710-kafka-experiments-status-packet-status.png]]*
 
 ![[fig-260710-kafka-experiments-onboard-status-packets.png]]
+
+### current next steps ideas 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - note
+  - document
 created: 2026-04-13
 ---
 ### Tags: 

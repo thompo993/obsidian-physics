@@ -1,6 +1,6 @@
 ---
 tags:
-  - note
+  - poster
 created: 2026-04-14
 ---
 ### Info:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - note
+  - "#document"
 created: 2026-05-07
 ---
 # Tags 

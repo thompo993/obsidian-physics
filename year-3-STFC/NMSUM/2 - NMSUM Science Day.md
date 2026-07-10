@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - lecture
 created: 2026-04-14
 ---
 ### Tags

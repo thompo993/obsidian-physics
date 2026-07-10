@@ -8,6 +8,8 @@ tags:
 [[ubuntu]]
 
 # Notes
+### server  link
+`\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24` 
 ## daq-event experiment
 
 ### Mission briefing: 

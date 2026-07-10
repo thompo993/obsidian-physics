@@ -66,4 +66,5 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 
 ### daq onboard terminal details 
-![[fig-260710-kafka-experiments-terminal-logs1.png]]
+
+[[fig-260710-kafka-experiments-terminal-logs1.png]]![[fig-260710-kafka-experiments-terminal-logs1.png]]![[fig-260710-kafka-experiments-terminal-logs2.png]]

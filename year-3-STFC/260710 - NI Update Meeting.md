@@ -82,7 +82,10 @@ created: 2026-07-10
 	- ISIS needs a board that is used for this, NI will give for free.
 	- how will this be shared? $\to$ sent in a format that can be downloaded, or renew git expiry. 
 	- for dan only: i have the DAQ setup instructions noted, and a comprehensive guide for various bugs, but cannot hurt to have one from NI. 
-- when do we 
+- when is ISIS going to receive the documentation? 
+	- 1 week for everything - Alberto 
+	- Andrea says it will take him 1 hour, lol 
+	- 
 
 
 

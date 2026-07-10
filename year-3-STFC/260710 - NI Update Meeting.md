@@ -74,6 +74,9 @@ created: 2026-07-10
 ## support and maintenance
 - NI will share a schematic of all of the components and associated documentation to assist with maintenance and support 
 - Alberto will share this 
+- this is what josh wants, and ideally in hand ASAP. 
+- this is what R8 wants. 
+- peirs and R8 want some test firmware that 
 
 
 

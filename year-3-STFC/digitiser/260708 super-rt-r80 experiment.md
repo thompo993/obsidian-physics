@@ -62,3 +62,7 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 - [ ] ask anthony to update the reserved ID addresses for the new digitisers. 
 
+
+
+
+### daq onboard terminal details 

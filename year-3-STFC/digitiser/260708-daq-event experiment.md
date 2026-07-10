@@ -45,7 +45,10 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 --- 
 ## 2026-07-10 Progress 
 
-- the datetime monitor are no working, we can see this is the case as it starts working yesterday after jack and dave updated 
+- the datetime monitor are no working, we can see this is the case as it starts working yesterday after jack and dave updated the status packet stuff firmware etc 
+![[fig-260710-kafka-experiments-datetime.png]]
+
+
 
 
 *![[fig-260710-kafka-experiments-status-packet-status.png]]*

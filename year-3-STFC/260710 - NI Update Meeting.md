@@ -79,7 +79,8 @@ created: 2026-07-10
 - peirs and R8 want some test firmware. 
 	- NI has this for the digitizer 
 	- also testing firmware and python scripts, very comprehensive according to Andrea
-	- ISIS needs a board that is used for this, NI will 
+	- ISIS needs a board that is used for this, NI will give for free.
+	- 
 
 
 

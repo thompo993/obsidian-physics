@@ -32,9 +32,9 @@ created: 2026-07-10
 - to run in parallel we need new chiller and maybe a new light box (can we fit two in the current one?
 - everything is being made sept-nov 
 - everything is nicely spread out
-- 4 days of beam
-
-
+- 4 days of beamtime in total 
+- need real muon data for PHS etc
+- 
 
 
 ## how to benchmark the processes 

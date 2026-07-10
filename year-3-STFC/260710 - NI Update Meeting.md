@@ -85,7 +85,9 @@ created: 2026-07-10
 - when is ISIS going to receive the documentation? 
 	- 1 week for everything - Alberto 
 	- Andrea says it will take him 1 hour, lol 
-	- test firmware already on the new digitisers, Dave wants it in sci compiler 
+	- test firmware already on the new digitizers, Dave wants it in sci compiler 
+	- Dave wants to be able to test a whole one, just for the sake of learning and understanding
+	- Andrea says this takes half a day. we can call and show this!
 
 
 

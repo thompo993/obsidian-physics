@@ -28,7 +28,11 @@ created: 2026-07-10
 - 2 staves fixed, switch modules on the same stave.
 - does this need to be pre calibrated we need to assign have of modules to one each module 
 - 3.5hrs per stave 
-- for 32 modules this is 16 days work according to andrea
+- for 32 modules this is 16 days work according to Andrea
+- to run in parallel we need new chiller and maybe a new light box (can we fit two in the current one?
+- everything is being made th
+
+
 
 
 ## how to benchmark the processes 

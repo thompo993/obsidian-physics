@@ -72,7 +72,8 @@ created: 2026-07-10
 - last two DAQs have they been sent? NO, they are finalizing tests 
 
 ## support and maintenance
-- NI will share a schematic of all of the components and associated documentation 
+- NI will share a schematic of all of the components and associated documentation to assist with maintenance and support 
+- Alberto will share this 
 
 
 

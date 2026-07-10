@@ -90,8 +90,11 @@ created: 2026-07-10
 	- Andrea says this takes half a day. we can call and show this!
 
 
+## other
 
-
+- fuse on one DAQ the digitizer says its over temperature check the fuse. 
+- ben to check the fuse this afternoon. 
+- dan nixon wants to share kafka load over different brokers, and different IPs
 
 
 

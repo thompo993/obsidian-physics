@@ -4,7 +4,9 @@ tags:
 created: 2026-07-10
 ---
 # Links: 
-[[]]
+[[Super MuSR]]
+[[digitiser]]
+[[260708 super-rt-r80 experiment]]
 # Agenda: 
 - How the delivery and testing is going 
  - How to benchmark the processes that need to run on server to know if that server can be NDX machine.

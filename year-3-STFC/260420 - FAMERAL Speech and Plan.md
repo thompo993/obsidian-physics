@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - speech
 created: 2026-04-20
 ---
 

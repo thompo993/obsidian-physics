@@ -30,7 +30,9 @@ created: 2026-07-10
 - 3.5hrs per stave 
 - for 32 modules this is 16 days work according to Andrea
 - to run in parallel we need new chiller and maybe a new light box (can we fit two in the current one?
-- everything is being made th
+- everything is being made sept-nov 
+- everything is nicely spread out
+- 4 days of beam
 
 
 

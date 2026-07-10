@@ -19,9 +19,14 @@ created: 2026-07-10
 ## Delivery and testing
 ### Timescales 
 
-| Cylce          | Start | End |     |     |
-| -------------- | ----- | --- | --- | --- |
-| ADD TABLE HERE |       |     |     |     |
+| Cylce         | Start         | End           |     |
+| ------------- | ------------- | ------------- | --- |
+| 2026/02       |               |               |     |
+| 2026/03       |               |               |     |
+| 2026/04       |               |               |     |
+| 2026/05       |               |               |     |
+| long shutdown | long shutdown | long shutdown |     |
+| 2027/01       | 2027-11-16    |               |     |
 - 4 days to test everything 
 	- we are going to do PHS 
 	- Pulsers 

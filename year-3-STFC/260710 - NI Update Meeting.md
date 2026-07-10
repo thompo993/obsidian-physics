@@ -36,10 +36,11 @@ created: 2026-07-10
 - need real muon data for PHS etc
 -  dan estimates 4 staves per day on beam assuming they are fully calibrated
 - delivery issues potentially with the short staves, high lead time $\to$ will not arrive in time 
-- lots of 
+- lots of uncertainty 
+- dan to circulate plan when he knows it 
 
 
-## how to benchmark the processes 
+## How to benchmark the processes that need to run on server to know if that server can be NDX machine.
 - tests on a server 
 - for gain stabilization
 - benchmark the amount of compute required for this 
@@ -66,7 +67,9 @@ created: 2026-07-10
 
 
 
-## How to benchmark the processes that need to run on server to know if that server can be NDX machine.
+## alberto update 
+- modules and staves, 16 shipped 
+- everything shipped by NI by the end of July
 
 
 

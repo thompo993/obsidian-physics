@@ -2,4 +2,4 @@ views:
   - type: table
     name: Table
     order:
-      - tags
+      - created

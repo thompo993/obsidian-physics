@@ -57,4 +57,4 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 	- unlikely but worth a try 
 - dan and jack need to install UDP control to the board 
 	- unsure of what this actually does
-	- jack asks about forcing them to run, i think i 
+	- jack asks about forcing them to run, i think i can do this by setting tiles to emulation mode [[260501 - Set digitisers to emulation Mode]]

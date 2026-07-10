@@ -3,7 +3,7 @@ tags:
   - note
 created: 2026-06-04
 ---
-# Tags
+# Links
 [[Super MuSR]]
 [[beamline]]
 # Code

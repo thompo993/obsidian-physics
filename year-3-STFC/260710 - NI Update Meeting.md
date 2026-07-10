@@ -65,11 +65,11 @@ created: 2026-07-10
 - **when Andrea is next here, we are going to setup a stave to test this**
 - this experiment are on the timescales of day 
 
-
-
-## alberto update 
+## Alberto update 
 - modules and staves, 16 shipped 
 - everything shipped by NI by the end of July
+- this is plenty delivered ISIS will not catch up 
+- last two DAQs have they been sent? NO, they are finalizing tests 
 
 
 

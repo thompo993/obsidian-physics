@@ -4,7 +4,7 @@ tags:
 created: 2026-04-29
 ---
 [[digitiser]]
-[[Super MuSR]]
+[[super-musr]]
 
 **NOTE FOR BEN: YOUR MOST UPDATED VERSION THAT ISNT BACKED UP ON NET DRIVE IS IN YOUR WINDOWs `C:` FOLDER**
 `C:\supermusr-gui-main`

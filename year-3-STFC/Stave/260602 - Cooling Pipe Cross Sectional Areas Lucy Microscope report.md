@@ -4,7 +4,7 @@ tags:
 created: 2026-06-02
 ---
 # tags
-[[Super MuSR]]
+[[super-musr]]
 [[stave]]
 # Method 
 Lucy used a microscope and a built in numerical integration post in order to determine the cross sectional area of the copper tubes. each of the upper end of the measurements was selected from lucy's full report, which has additional images and can be found here:

@@ -5,7 +5,7 @@ created: 2026-05-06
 ---
 # Tags: 
 [[digitiser]]
-[[Super MuSR]]
+[[super-musr]]
 
 # procedure:
 ![[fig-260429-ubuntu-emulation-mapping-scope-example.png]]

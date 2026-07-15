@@ -9,7 +9,7 @@ created: 2026-04-29
 [[ubuntu]]
 [[digitiser]]
 [[firmware]]
-[[Super MuSR]]
+[[super-musr]]
 
 
 - **DOUBLE IP ISSUE IS RUNNING RAMPANT**

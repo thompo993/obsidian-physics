@@ -4,7 +4,7 @@ tags:
 created: 2026-05-05
 ---
 ## Tags:
-[[Super MuSR]]
+[[super-musr]]
 [[scintillating tiles]]
 [[260512 - Small Batch Tile Testing and Stave Assembly]]
 

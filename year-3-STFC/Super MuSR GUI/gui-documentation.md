@@ -5,7 +5,7 @@ created: 2026-05-01
 ---
 # SuperMUSR GUI
 # Tags
-[[Super MuSR]]
+[[super-musr]]
 [[GUI]]
 ## Parameters
 

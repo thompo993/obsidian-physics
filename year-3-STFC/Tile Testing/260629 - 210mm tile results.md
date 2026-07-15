@@ -4,7 +4,7 @@ tags:
 created: 2026-06-29
 ---
 # Tags
-[[Super MuSR]]
+[[super-musr]]
 [[scintillating tiles]]
 
 210mm Tiles testing

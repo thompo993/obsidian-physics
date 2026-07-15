@@ -5,7 +5,7 @@ created: 2026-05-01
 ---
 # Stave User Guide
 # Tags
-[[Super MuSR]]
+[[super-musr]]
 [[GUI]]
 ## Sensor module 
 The sensor map is the following

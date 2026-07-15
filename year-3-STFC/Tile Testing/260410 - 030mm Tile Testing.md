@@ -6,7 +6,7 @@ created: 2026-04-10
 
 ### Tags
 [[scintillating tiles]]
-[[Super MuSR]]
+[[super-musr]]
 ### Notes
 71 Tiles were tested, the results were good, with only three failures, stability tests showing that the PMT rig maintained its stability of the course of the measurements. 
 ![[fig-260410-30mm-tile-testing-rig-stability.png]]

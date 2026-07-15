@@ -7,7 +7,7 @@ created: 2026-04-29
 [[ubuntu]]
 [[digitiser]]
 [[firmware]]
-[[Super MuSR]]
+[[super-musr]]
 [[260429 - Progress Table]]
 
 PASSWORD ONCE IP HAS SETUP 

@@ -5,7 +5,7 @@ created: 2026-05-01
 ---
 # Tags: 
 [[digitiser]]
-[[Super MuSR]]
+[[super-musr]]
 
 # Procedure 
 

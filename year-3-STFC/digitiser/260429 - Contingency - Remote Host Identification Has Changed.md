@@ -6,7 +6,7 @@ created: 2026-04-29
 ### Tags
 [[ubuntu]]
 [[ubuntu rollout]]
-[[Super MuSR]]
+[[super-musr]]
 
 
 

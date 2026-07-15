@@ -5,7 +5,7 @@ created: 2026-05-12
 ---
 
 # Tags 
-[[Super MuSR]]
+[[super-musr]]
 [[260505 - Testing for full stave construction]]
 [[Stave]]
 

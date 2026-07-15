@@ -4,7 +4,7 @@ tags:
 created: 2026-05-07
 ---
 # Tags 
-[[Super MuSR]]
+[[super-musr]]
 [[260222 - Beamline Production Stave Testing]]
 [[Poster - Super MuSR Design, Stave Assembly, and Beamline Verification]]
 [[Stave]]

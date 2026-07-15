@@ -4,7 +4,7 @@ tags:
 created: 2026-06-04
 ---
 # Links
-[[Super MuSR]]
+[[super-musr]]
 [[beamline]]
 # Code
 The long stave was booted by navigating to the beamline gui files held within idaaas. then botted using the following command. 

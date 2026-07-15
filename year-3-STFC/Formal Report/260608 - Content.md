@@ -4,7 +4,7 @@ tags:
 created: 2026-06-08
 ---
 # Tags: 
-[[Super MuSR]]
+[[super-musr]]
 [[year in industry report]]
 
 --- 

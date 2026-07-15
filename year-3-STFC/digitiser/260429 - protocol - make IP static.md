@@ -10,7 +10,7 @@ created: 2026-04-29
 
 [[digitiser]]
 [[firmware]]
-[[Super MuSR]]
+[[super-musr]]
 [[260429 - Progress Table]]
 
 Enter the terminal, and enter:

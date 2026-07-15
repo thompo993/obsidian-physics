@@ -5,7 +5,7 @@ tags:
 created: 2026-07-08
 ---
 ### Tags
-[[Super MuSR]]
+[[super-musr]]
 [[superconductivity]]
 [[Elements of Muon Spectroscopy]]
 ### Definition

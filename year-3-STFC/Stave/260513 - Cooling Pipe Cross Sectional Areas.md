@@ -5,7 +5,7 @@ created: 2026-05-13
 ---
 # Tags 
 [[Stave]]
-[[Super MuSR]]
+[[super-musr]]
 [[cooling]]
 
 **Note:** Lucy's report is much more accurate and can be found in [[260602 - Cooling Pipe Cross Sectional Areas Lucy Microscope report]]

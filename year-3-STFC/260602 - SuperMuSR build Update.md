@@ -5,7 +5,7 @@ tags:
 created: 2026-06-02
 ---
 # tags
-[[Super MuSR]]
+[[super-musr]]
 [[scintillating tiles]]
 [[Stave]]
 

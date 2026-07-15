@@ -4,7 +4,7 @@ tags:
 created: 2026-05-01
 ---
 # Tags
-[[Super MuSR]]
+[[super-musr]]
 [[GUI]]
 
 # Documentation for calibraiton of SiPM boards for scintillator tiles in SuperMuSR

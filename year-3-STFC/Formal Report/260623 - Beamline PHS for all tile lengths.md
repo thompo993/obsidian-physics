@@ -5,7 +5,7 @@ created: 2026-06-23
 ---
 
 # Tags:
-[[Super MuSR]]
+[[super-musr]]
 [[beamline]]
 [[year in industry report]]
 

@@ -6,7 +6,7 @@ created: 2026-07-08
 ---
 # Tags 
 [[scintillating tiles]]
-[[Super MuSR]]
+[[super-musr]]
 # excerpt from overleaf report 
 Scintillation is the production of light as a result of excitation from ionising radiation \cite{beaulieuScintillationDosimetry2016}, in this case positrons emitted as a result of muon decay. To collect information about the positrons, a series of novel scintillating tiles have been designed and assembled for Super MuSR. They come in 30mm, 43mm, 63mm, 105mm and 210mm sizes in order to conserve solid angle irrespective of distance from the sample. The tiles are made of a base of Eljen 204 scintillator which has a long optical attenuation length and fast timing, ideal for the high rates of data collection \cite{EJ200EJ204EJ208}. 
 

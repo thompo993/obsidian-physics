@@ -8,7 +8,7 @@ created: 2026-04-24
 [[ubuntu]]
 [[digitiser]]
 [[firmware]]
-[[Super MuSR]]
+[[super-musr]]
 
 
 | MAC               | Display IP     | Interface IP   | Software Version | Firmware Version | Static | Date   |

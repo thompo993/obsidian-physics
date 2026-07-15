@@ -2,7 +2,7 @@
 [[ubuntu]]
 [[digitiser]]
 [[firmware]]
-[[Super MuSR]]
+[[super-musr]]
 [[260429 - Progress Table]]
 
 Important: NOTE DOWN THE IP ADDRESS. DISPLAY WILL NOT WORK IN RECOVERY

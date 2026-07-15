@@ -4,7 +4,7 @@ tags:
 created: 2026-02-22
 ---
 ### Links: 
-[[Super MuSR]]
+[[super-musr]]
 [[260313 - Setting Benchmark]]
 [[beamline]]
 ### Tags 

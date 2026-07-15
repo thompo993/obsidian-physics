@@ -4,7 +4,7 @@ tags:
 created: 2026-07-10
 ---
 # Links: 
-[[Super MuSR]]
+[[super-musr]]
 [[digitiser]]
 [[260708 super-rt-r80 experiment]]
 # Agenda: 

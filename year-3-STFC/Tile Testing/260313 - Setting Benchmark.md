@@ -4,7 +4,7 @@ tags:
 created: 2026-03-13
 ---
 ### Tags
-[[Super MuSR]]
+[[super-musr]]
 [[scintillating tiles]]
 [[260222 - Beamline Production Stave Testing]]
 

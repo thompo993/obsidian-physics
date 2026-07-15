@@ -4,7 +4,7 @@ tags:
 created: 2026-04-10
 ---
 ### Tags:
-[[Super MuSR]]
+[[super-musr]]
 [[scintillating tiles]]
 
 ### Notes:

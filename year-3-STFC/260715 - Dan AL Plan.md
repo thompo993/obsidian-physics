@@ -5,7 +5,8 @@ created: 2026-07-15
 ---
 # Links: 
 [[super-musr]]
-[[digitiser]]
+[[260715 - Riken Test Stand Development]]
+
 # Agenda: 
 - discuss what ben is to do on dans AL 
 - meetings, any new roles, who is no responsible for decisions 

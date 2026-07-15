@@ -13,3 +13,5 @@ created: 2026-07-15
 - I still have 
 - dan Nixon on AL until 18/07, i will try and keep this ticking along
 # Minutes:
+### bending of copper cooling pipes 
+- we want to remove a chain clamp that

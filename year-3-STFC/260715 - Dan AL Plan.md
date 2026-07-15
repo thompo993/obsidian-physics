@@ -51,10 +51,11 @@ created: 2026-07-15
 - leave approved for the days after my report, Monday Tuesday WORK OUT HOW MUCH LEAVE I HAVE TO TAKE BETWEEN NOW AND THE REPORT
 ### Riken Test port 
 - we want 2 staves 
-- click in an dout modules 
+- click in an doubt modules 
 - 2 digitisers 
 - chiller - hopefully borrowed 1 chiller doing two staves
 	- new creative plumbing 
 	- ordering pieces and PTFE 
 - ensure to take minutes of all meetings when possible
 	- in the morning of it send an email about the stuff 
+	- least amount of time wasting 

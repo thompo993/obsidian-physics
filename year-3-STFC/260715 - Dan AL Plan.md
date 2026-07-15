@@ -41,3 +41,4 @@ created: 2026-07-15
 - manage my own AL for this time 
 - OUT OF OFFICE make sure to enable it 
 - kafka testing and stuff 
+- once it is confirmed to be working go and make sure all of the digitse

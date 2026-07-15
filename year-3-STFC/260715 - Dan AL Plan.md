@@ -27,6 +27,7 @@ created: 2026-07-15
 - we want 20 modules by September, 120 by December? 
 - tile making and logging 
 - we need to buy the material
-- cut with gentle R2
+- cut with gentle R2, get push up to "mould"
 
-## Dan disucssion in r4
+## Dan discussion in r4
+- do i make documentation and tile arrangement on the 

@@ -47,3 +47,6 @@ created: 2026-07-15
 - make sure all of the DAQs on grafana can be targeted THIS IS A PRIORITY for before dan nixon is back 
 - test if the digitiser one changes on stop start run TEST THIS
 - data pipeline meeting while dan is away. turn up to that 
+- we start to do in august that is very important, MAKE THE RIKEN TEST STAND 
+- leave approved for the days after my report, Monday Tuesday WORK OUT HOW MUCH LEAVE I HAVE TO TAKE BETWEEN NOW AND THE REPORT
+### Riken Test port 

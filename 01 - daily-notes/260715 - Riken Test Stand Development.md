@@ -13,7 +13,9 @@ created: 2026-07-15
 - creative plumbing required if we only have one chiller 
 
 ## Procurement 
-- PTFE
-- push fits 
-- 
+- [ ] Order Pieces for Riken Test Stand Development
+	- [ ] PTFE 
+	- [ ] Plumbing Bits 
+	- [ ] Mechanics 
+	- [ ] Throlabs peices 
 

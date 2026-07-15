@@ -22,7 +22,11 @@ created: 2026-07-15
 - review in a couple of weeks time with some test bits (more like 3??)
 - o ring and piston steel 3d printed 
 
-### making up staves - Neil 
+## making up staves - Neil 
 - late august the dowls arrive, 4-6 weeks time 
 - we want 20 modules by September, 120 by December? 
 - tile making and logging 
+- we need to buy the material
+- cut with gentle R2
+
+## Dan disucssion in r4

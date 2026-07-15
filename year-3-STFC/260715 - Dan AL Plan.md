@@ -30,4 +30,5 @@ created: 2026-07-15
 - cut with gentle R2, get push up to "mould"
 
 ## Dan discussion in r4
-- do i make documentation and tile arrangement on the 
+- do I make documentation and tile arrangement on the detector 
+- what to 

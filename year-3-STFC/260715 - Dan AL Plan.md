@@ -25,4 +25,4 @@ created: 2026-07-15
 ### making up staves - Neil 
 - late august the dowls arrive, 4-6 weeks time 
 - we want 20 modules by September, 120 by December? 
-- 
+- tile making and logging 

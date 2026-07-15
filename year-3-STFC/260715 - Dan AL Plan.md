@@ -23,4 +23,5 @@ created: 2026-07-15
 - o ring and piston steel 3d printed 
 
 ### making up staves - Neil 
-- late august the dowls arrive 
+- late august the dowls arrive, 4-6 weeks time 
+- we want 20 modules by September 

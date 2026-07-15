@@ -18,4 +18,4 @@ created: 2026-07-15
 - where are we allowed to start bending, how much distance from the back of the stave to the bend do we have. 
 - we prefer swept bend
 - will prefers soldering 
-- potentially s astraight compression onto a wi
+- potentially a straight compression onto a wider elbow

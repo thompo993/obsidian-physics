@@ -44,4 +44,4 @@ created: 2026-07-15
 - once it is confirmed to be working go and make sure all of the digitsers are actually on and working 
 -  chase up anthrony shuttle at end of week 
 - if the other digitiser arrives make sure they are wired up 
-- make sure all of the 
+- make sure all of the DAQs on grafana can be targeted THIS IS A PRIORITY

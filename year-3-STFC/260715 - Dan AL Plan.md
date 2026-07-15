@@ -32,4 +32,4 @@ created: 2026-07-15
 ## Dan discussion in r4
 - do I make documentation and tile arrangement on the detector 
 - what to do regarding making a "tile onto detector blueprint" i can pre do the naming and stuff 
-- neil chucks tiles in 
+- Neil chucks tiles in and takes a pic

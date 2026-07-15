@@ -18,4 +18,5 @@ created: 2026-07-15
 - make 3 sysconfig files under super-rt experiment 
 - make them send to the corresponding ip addresses seen above. 
 - update content.yaml 
-- power cycle/reset all digitisers, might be wor
+- power cycle/reset all digitisers, might be worth power cycling and trying to get as many digitisers as possible 
+- verify that they are all online 

@@ -11,7 +11,7 @@ created: 2026-04-20
 	- [ ] add real scale size based of the integration time 
 	- [ ] ask eric how we get the best results for 2D results
 	- [ ] look into why we choose int and diff time on phs? chose at start of placement on what "looked" best but need better reasoning
-- [ ] add in functionality to allow for automatic LHS, RHS encoding
+- [x] add in functionality to allow for automatic LHS, RHS encoding ✅ 2026-07-15
 
 | 30MM | ID001 |
 | ---- | ----- |

@@ -16,4 +16,5 @@ created: 2026-07-15
 ### bending of copper cooling pipes - Chris guy
 - we want to remove a chain clamp for space reasons 
 - where are we allowed to start bending, how much distance from the back of the stave to the bend do we have. 
-- 
+- we prefer swept bend
+- will prefers soldering 

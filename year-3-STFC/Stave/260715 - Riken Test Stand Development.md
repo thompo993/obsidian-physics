@@ -4,11 +4,11 @@ tags:
 created: 2026-07-15
 ---
 # Links: 
-
+[[super-musr]]
 # Notes:
 ## Design Criteria: 
 - want space for 2 staves, ability to click in modules 
-- 2 digitisers 
+- 2 digitisers
 - chillers, hopefully one powerful one but potentially able to get two chillers one from MuSR and Source room 
 - creative plumbing required if we only have one chiller 
 

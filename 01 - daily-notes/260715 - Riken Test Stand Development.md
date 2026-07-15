@@ -17,5 +17,7 @@ created: 2026-07-15
 	- [ ] PTFE 
 	- [ ] Plumbing Bits 
 	- [ ] Mechanics 
-	- [ ] Throlabs peices 
+	- [ ] Thorlabs pieces 
+	- [ ] 📅 2026-09-01
+
 

@@ -76,3 +76,31 @@ also when trying to searh for files related to kafka:
 ```
 grep -rnw '.' -e 'kafka'
 ```
+
+we get the following, then a bunch of invalid searches 
+```
+root@nibuntu-arm:/# grep -rnw '.' -e 'kafka'
+./var/lib/dpkg/status-old:5812: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/lib/dpkg/status-old:5836: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/lib/dpkg/status-old:5860: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/lib/dpkg/status:5812: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/lib/dpkg/status:5836: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/lib/dpkg/status:5860: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/backups/dpkg.status.0:5812: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/backups/dpkg.status.0:5836: More information about Apache Kafka can be found at http://kafka.apache.org/
+./var/backups/dpkg.status.0:5860: More information about Apache Kafka can be found at http://kafka.apache.org/
+./usr/include/librdkafka/rdkafkacpp.h:141: * @returns 0 if all kafka objects are now destroyed, or -1 if the
+./usr/include/librdkafka/rdkafkacpp.h:552: * @brief Returns a human readable representation of a kafka error.
+./usr/include/librdkafka/rdkafkacpp.h:1533:   * @brief Polls the provided kafka handle for events.
+./usr/include/librdkafka/rdkafkacpp.h:3077:   * to consume messages from the local queue, each kafka message being
+./usr/include/librdkafka/rdkafka.h:661: * @brief Returns a human readable representation of a kafka error.
+./usr/include/librdkafka/rdkafka.h:3201: * @brief Polls the provided kafka handle for events.
+./usr/include/librdkafka/rdkafka.h:3665:            *   kafka partition queue: oldest msg */
+./usr/include/librdkafka/rdkafka.h:3667:        -1 /**< Start consuming from end of kafka                              \
+./usr/include/librdkafka/rdkafka.h:3700: * to consume messages from the local queue, each kafka message being
+./usr/include/librdkafka/rdkafka.h:5205: * @brief Adds one or more brokers to the kafka handle's list of initial
+./usr/include/librdkafka/rdkafka.h:5263: *        internal kafka logging and debugging.
+./usr/include/librdkafka/rdkafka.h:5360: * Returns 0 if all kafka objects are now destroyed, or -1 if the
+./usr/include/librdkafka/rdkafka.h:7292: * @sa http://kafka.apache.org/documentation.html#topicconfigs
+./usr/include/librdkafka/rdkafka.h:9533: * @param principal A principal, following the kafka specification.
+```

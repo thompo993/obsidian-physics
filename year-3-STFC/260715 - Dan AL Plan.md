@@ -38,4 +38,5 @@ created: 2026-07-15
 - bring back loose studs etc (tile ID 10)
 - dipstick testing plus bias towards the most recently produced tiles 
 	- this is the priority 
-- 
+- manage my own AL for this time 
+- OUT OF OFFICE make sure to enable it 

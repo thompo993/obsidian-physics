@@ -12,4 +12,5 @@ created: 2026-07-15
 - can I take next Monday off (potential world cup final)
 - I still have 
 - dan Nixon on AL until 18/07, I will try and keep this ticking along
+- 37hrs (5 days ) AL remaining 
 # Minutes:

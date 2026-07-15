@@ -71,3 +71,5 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 
 [[fig-260710-kafka-experiments-terminal-logs1.png]]![[fig-260710-kafka-experiments-terminal-logs1.png]]![[fig-260710-kafka-experiments-terminal-logs2.png]]
 This suggests that 
+
+also when trying to searh for files related to kafka

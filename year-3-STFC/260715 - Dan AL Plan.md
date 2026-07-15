@@ -11,5 +11,5 @@ created: 2026-07-15
 - meetings, any new roles, who is no responsible for decisions 
 - can I take next Monday off (potential world cup final)
 - I still have 
-- dan nixion on AL until 18/07, i will 
+- dan Nixon on AL until 18/07, I will try and keep this ticking along
 # Minutes:

@@ -56,3 +56,5 @@ created: 2026-07-15
 - chiller - hopefully borrowed 1 chiller doing two staves
 	- new creative plumbing 
 	- ordering pieces and PTFE 
+- ensure to take minutes of all meetings when possible
+	- in the morning of it send an email about the stuff 

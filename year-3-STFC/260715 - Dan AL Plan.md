@@ -36,3 +36,5 @@ created: 2026-07-15
 - what to do regarding making a "tile onto detector blueprint" i can pre do the naming and stuff
 - my main thing is to measure a million tiles 
 - bring back loose studs etc (tile ID 10)
+- dipstick testing plus bias towards the most recently produced tiles 
+	- this is the priority 

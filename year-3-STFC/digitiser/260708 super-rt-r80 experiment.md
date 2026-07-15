@@ -104,3 +104,5 @@ root@nibuntu-arm:/# grep -rnw '.' -e 'kafka'
 ./usr/include/librdkafka/rdkafka.h:7292: * @sa http://kafka.apache.org/documentation.html#topicconfigs
 ./usr/include/librdkafka/rdkafka.h:9533: * @param principal A principal, following the kafka specification.
 ```
+
+### split brokers and ip adressess

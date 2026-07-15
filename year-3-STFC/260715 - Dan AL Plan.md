@@ -31,6 +31,6 @@ created: 2026-07-15
 - Neil chucks tiles in and takes a picture, we log this. 
 - ben to make a spreadsheet
 
-## Dan discussion in r4
+## Dan discussion in r2
 - do I make documentation and tile arrangement on the detector 
 - what to do regarding making a "tile onto detector blueprint" i can pre do the naming and stuff 

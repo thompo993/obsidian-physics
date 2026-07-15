@@ -33,4 +33,6 @@ created: 2026-07-15
 
 ## Dan discussion in r2
 - do I make documentation and tile arrangement on the detector 
-- what to do regarding making a "tile onto detector blueprint" i can pre do the naming and stuff 
+- what to do regarding making a "tile onto detector blueprint" i can pre do the naming and stuff
+- my main thing is to measure a million tiles 
+- bring back loose studs etc (tile ID 10)

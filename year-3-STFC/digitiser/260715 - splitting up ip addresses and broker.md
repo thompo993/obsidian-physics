@@ -15,4 +15,7 @@ created: 2026-07-15
 
 ## process 
 - go onto daqserver 
-- make 3 sysconfig files under super-rt e
+- make 3 sysconfig files under super-rt experiment 
+- make them send to the corresponding ip addresses seen above. 
+- update content.yaml 
+- power cycle/reset all digitisers, might be wor

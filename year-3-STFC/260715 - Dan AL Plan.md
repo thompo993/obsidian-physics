@@ -19,3 +19,4 @@ created: 2026-07-15
 - we prefer swept bend
 - will prefers soldering 
 - potentially a straight compression onto a wider elbow
+- review in a couple of weeks time with some test bits (more like 3??)

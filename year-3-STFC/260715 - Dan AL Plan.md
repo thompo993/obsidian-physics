@@ -55,4 +55,4 @@ created: 2026-07-15
 - 2 digitisers 
 - chiller - hopefully borrowed 1 chiller doing two staves
 	- new creative plumbing 
-	- ordering pieces and PTF
+	- ordering pieces and PTFE 

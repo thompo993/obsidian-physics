@@ -2,12 +2,12 @@
 tags:
   - document
   - "#super-musr"
+  - daq121
 created: 2026-02-22
 ---
 ### Tags: 
 [[ubuntu]]
 [[digitiser]]
-[[firmware]]
 [[super-musr]]
 [[260429 - Progress Table]]
 

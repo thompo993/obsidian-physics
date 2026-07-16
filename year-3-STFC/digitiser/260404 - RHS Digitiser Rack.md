@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - daq121
 created: 2026-04-24
 ---
 ### Tags

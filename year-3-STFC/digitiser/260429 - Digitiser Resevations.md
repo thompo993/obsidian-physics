@@ -1,8 +1,10 @@
 ---
 tags:
   - note
+  - daq121
 created: 2026-04-29
---- 
+---
+
 
 Reservations
 [130.246.84.50] NI DAQ121 Digitiser SN15214 #1

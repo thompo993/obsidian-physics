@@ -7,6 +7,7 @@ created: 2026-05-12
 ---
 
 [[260411 - Brain Tumor Identification Plan]]
+[[260504 - Plan For Assignment 2 FINAL]]
 
 ```
   

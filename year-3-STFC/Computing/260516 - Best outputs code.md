@@ -6,7 +6,7 @@ tags:
 created: 2026-05-16
 ---
 
-this is to be used in [[]]
+this is to be used in [[260504 - Plan For Assignment 2 FINAL]]
 **ALL FIGURES STORED TOO:** "C:\Physics\y3\ml_assignment_2"
 
 # Baseline CNN All outputs:

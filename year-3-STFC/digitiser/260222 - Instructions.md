@@ -1,6 +1,8 @@
 ---
 tags:
   - document
+  - "#super-musr"
+created: 2026-02-22
 ---
 ### Tags: 
 [[ubuntu]]

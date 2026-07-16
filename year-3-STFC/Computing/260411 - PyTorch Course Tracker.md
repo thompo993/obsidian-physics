@@ -6,7 +6,7 @@ tags:
 created: 2026-04-1
 ---
 ## Tags
-[[pytorch]]
+
 ## Link
 https://www.youtube.com/watch?v=V_xro1bcAuA&t=1070s
 

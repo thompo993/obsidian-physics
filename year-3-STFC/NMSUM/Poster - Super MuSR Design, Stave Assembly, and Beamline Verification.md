@@ -1,6 +1,7 @@
 ---
 tags:
   - poster
+  - super-musr
 created: 2026-04-14
 ---
 ### Info:

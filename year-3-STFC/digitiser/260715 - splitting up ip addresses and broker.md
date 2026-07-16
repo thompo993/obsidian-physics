@@ -2,7 +2,6 @@
 tags:
   - note
   - daq121
-  - kafka
 created: 2026-07-15
 ---
 # Links: 

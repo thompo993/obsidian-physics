@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - coding
 created: 2026-05-14
 ---
 

@@ -5,7 +5,7 @@ tags:
   - machine-learning
 created: 2026-04-25
 ---
-
+[[260411 - PyTorch Course Tracker]]
 
 ![[fig-260425-pytroch-worfklow.png]]
 

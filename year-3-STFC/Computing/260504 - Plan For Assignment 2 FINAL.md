@@ -12,7 +12,7 @@ created: 2026-05-04
 - seems that we have only got one GPU working, how do we get two 
 - we increased in accuracy 
 - It is training!
--  NN was wriusing [[pytorch]] code 
+-  NN was written using [[pytorch]] code 
 
 
 

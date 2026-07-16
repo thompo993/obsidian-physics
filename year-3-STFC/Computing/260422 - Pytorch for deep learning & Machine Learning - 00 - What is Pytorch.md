@@ -5,7 +5,7 @@ tags:
   - machine-learning
 created: 2026-04-22
 ---
-
+[[260411 - PyTorch Course Tracker]]
 
 ### What is PyTorch? 
 - most popular research deep learning framework

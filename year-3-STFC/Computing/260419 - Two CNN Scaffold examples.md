@@ -5,7 +5,7 @@ tags:
   - machine-learning
 created: 2026-04-19
 ---
-
+[[260411 - PyTorch Course Tracker]]
 ### Week 13 CNN example
 class MNIST_CNN(nn.Module):
 

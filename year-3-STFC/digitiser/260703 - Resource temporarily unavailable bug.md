@@ -2,6 +2,7 @@
 tags:
   - note
   - daq121
+  - super-musr
 created: 2026-07-03
 ---
 # Tags 

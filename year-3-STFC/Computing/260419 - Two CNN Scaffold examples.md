@@ -2,6 +2,7 @@
 tags:
   - note
   - coding
+  - machine-learning
 created: 2026-04-19
 ---
 [[python]]

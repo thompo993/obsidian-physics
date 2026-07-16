@@ -2,13 +2,10 @@
 tags:
   - note
   - "#coding"
+  - machine-learning
 created: 2026-04-11
 ---
 
-### Links 
-[[python]]
-[[machine learning]]
-[[pytorch]]
 
 https://www.reddit.com/r/MachineLearning/comments/1ckrzq6/d_is_there_a_more_systematic_way_of_choosing_the/
 

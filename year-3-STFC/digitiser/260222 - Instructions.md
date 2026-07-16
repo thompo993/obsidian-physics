@@ -1,3 +1,7 @@
+---
+tags:
+  - document
+---
 ### Tags: 
 [[ubuntu]]
 [[digitiser]]

@@ -7,7 +7,7 @@ created: 2026-05-05
 ---
 # tags
 [[260504 - Plan For Assignment 2 FINAL]]
-[[pytorch]]
+
 
 # final report f1 score etc 
 ```

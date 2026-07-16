@@ -5,9 +5,7 @@ tags:
   - machine-learning
 created: 2026-05-03
 ---
-[[pytorch]]
-[[python]]
-[[machine learning]]
+
 # Pytorch Computer Vision 
 ## what are we going to cover
 

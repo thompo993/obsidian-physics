@@ -2,11 +2,10 @@
 tags:
   - note
   - coding
+  - machine-learning
 created: 2026-05-16
 ---
-# Tags: 
-[[pytorch]]
-[[machine learning]]
+
 
 **ALL FIGURES STORED TOO:** "C:\Physics\y3\ml_assignment_2"
 

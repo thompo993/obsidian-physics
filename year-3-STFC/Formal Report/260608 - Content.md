@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - super-musr
 created: 2026-06-08
 ---
 # Tags: 

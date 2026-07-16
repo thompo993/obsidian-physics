@@ -184,4 +184,4 @@ weighted avg       0.96      0.96      0.96       459
 - **Not just accuracy** 
 - [x] Ensure comments are updated inside assignment 2 jupyter notebook ⏫ 📅 2026-05-23 ✅ 2026-06-02
 
-The full plan can be found [[]]
+The full plan can be found [[260504 - Plan For Assignment 2 FINAL]]

@@ -13,3 +13,8 @@ i am unsure what has changed.
 link still works 
 key information is switching from local to remote breaks and returns "invalid firmware"
 
+we have two different types of firmware 
+- SUPERMUSR.NIU
+- DIGITIZER.NIU
+
+This is interesting, do both work? Test this soon. 

@@ -145,12 +145,12 @@ combined "averaged" plot per tile:
 So the swap-corrected combination is:
 
 ```
-averaged_2D = ( normalize(data_LHSrun) + normalize(data_RHSrun.T) ) / 2
+averaged_2D = ( normalise(data_LHSrun) + normalise(data_RHSrun.T) ) / 2
 ```
 
 with columns = LHS stud, rows = RHS stud throughout.
 
-### Why normalize first
+### Why normalise first
 
 The two runs are not guaranteed to contain the same total number of events —
 run time, trigger rate, and live time can all differ between them. If you
@@ -159,7 +159,7 @@ dominates the combined histogram, which quietly reintroduces a run-dependent
 bias into a quantity that's supposed to represent two equally-weighted
 measurements.
 
-`normalize_histogram(data)` divides a histogram by its own total count,
+`normalise_histogram(data)` divides a histogram by its own total count,
 turning it into a probability distribution (bins sum to 1) before the
 average is taken. This guarantees each run contributes exactly 50% of the
 combined distribution's weight, regardless of its raw statistics.
@@ -283,7 +283,7 @@ its statistical spread.
 | `plot_2d_files(folder_path, save_path)` | Plots every raw `.2D` file individually as a heatmap with a `y=x` reference line. |
 | `compute_weighted_means(data)` | Counts-weighted centroid of a 2D histogram along each axis. |
 | `compute_diagonal_asymmetry(data)` | Splits a 2D histogram's counts across the `y=x` line and returns the diagonal-split asymmetry metric. |
-| `normalize_histogram(data)` | Normalises a 2D histogram to sum to 1 (probability distribution). |
+| `normalise_histogram(data)` | Normalises a 2D histogram to sum to 1 (probability distribution). |
 | `parse_2d_filename(file_name)` | Parses `{tile_length}_{tileID}_{side}_{run}_BvsD.2D` into its components. |
 | `plot_averaged_heatmap(...)` | Plots the swap-corrected, normalised, averaged 2D distribution for one tile/run pair. |
 | `plot_asymmetry_difference_map(...)` | Plots `averaged - averaged.T`, showing where any asymmetry is concentrated. |

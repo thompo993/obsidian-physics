@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - "#scintillating-tiles"
 created: 2026-03-09
 ---
 ### Tags

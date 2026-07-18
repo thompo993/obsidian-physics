@@ -45,7 +45,7 @@ The script does three things:
 - Filenames follow the convention:
 
   ```
-  {distance}_{tileID}_{LHS|RHS}_{run}_BvsD.2D
+  {tile_length}_{tileID}_{LHS|RHS}_{run}_BvsD.2D
   ```
 
   e.g. `105mm_id005_LHS_run001_BvsD.2D`
@@ -284,7 +284,7 @@ its statistical spread.
 | `compute_weighted_means(data)` | Counts-weighted centroid of a 2D histogram along each axis. |
 | `compute_diagonal_asymmetry(data)` | Splits a 2D histogram's counts across the `y=x` line and returns the diagonal-split asymmetry metric. |
 | `normalize_histogram(data)` | Normalises a 2D histogram to sum to 1 (probability distribution). |
-| `parse_2d_filename(file_name)` | Parses `{distance}_{tileID}_{side}_{run}_BvsD.2D` into its components. |
+| `parse_2d_filename(file_name)` | Parses `{tile_length}_{tileID}_{side}_{run}_BvsD.2D` into its components. |
 | `plot_averaged_heatmap(...)` | Plots the swap-corrected, normalised, averaged 2D distribution for one tile/run pair. |
 | `plot_asymmetry_difference_map(...)` | Plots `averaged - averaged.T`, showing where any asymmetry is concentrated. |
 | `quantify_stud_asymmetry(folder_path, save_path)` | Top-level driver: pairs up LHS/RHS files per tile/run, applies the swap correction, and writes all outputs. |
@@ -294,9 +294,9 @@ its statistical spread.
 | File | Contents |
 |---|---|
 | `{file_stem}.png` | Raw per-file heatmap (one per `.2D` file), from `plot_2d_files`. |
-| `stud_asymmetry_summary.csv` | One row per `(distance, tile_id, run)`: `LHS_stud_response`, `RHS_stud_response`, `asymmetry_centroid`, `pmt_gain_effect_estimate`, `total_counts_LHSrun`, `total_counts_RHSrun`, `counts_lhs_brighter`, `counts_rhs_brighter`, `counts_on_diagonal`, `asymmetry_diagonal`. |
-| `{distance}_{tile_id}_{run}_averaged.png` | Swap-corrected, normalised averaged 2D heatmap. |
-| `{distance}_{tile_id}_{run}_asymmetry_map.png` | `averaged - averaged.T` difference map. |
+| `stud_asymmetry_summary.csv` | One row per `(tile_length, tile_id, run)`: `LHS_stud_response`, `RHS_stud_response`, `asymmetry_centroid`, `pmt_gain_effect_estimate`, `total_counts_LHSrun`, `total_counts_RHSrun`, `counts_lhs_brighter`, `counts_rhs_brighter`, `counts_on_diagonal`, `asymmetry_diagonal`. |
+| `{tile_length}_{tile_id}_{run}_averaged.png` | Swap-corrected, normalised averaged 2D heatmap. |
+| `{tile_length}_{tile_id}_{run}_asymmetry_map.png` | `averaged - averaged.T` difference map. |
 
 ---
 
@@ -312,7 +312,7 @@ quantify_stud_asymmetry(folder_path, save_path)
 
 Requirements:
 
-- `.2D` files must follow the `{distance}_{tileID}_{LHS|RHS}_{run}_BvsD.2D`
+- `.2D` files must follow the `{tile_length}_{tileID}_{LHS|RHS}_{run}_BvsD.2D`
   naming convention exactly, or `quantify_stud_asymmetry` will skip them.
 - Every tile/run needs **both** an LHS and an RHS file present to be
   included in the averaged/asymmetry outputs — an unpaired file is skipped

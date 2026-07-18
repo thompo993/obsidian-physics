@@ -2,6 +2,7 @@
 tags:
   - note
   - "#scintillating-tiles"
+  - super-musr
 created: 2026-04-20
 ---
 #### procedure 

@@ -40,4 +40,30 @@ For the 105mm tiles, 41 tiles that were tested. The tiles on average performed 2
 Each of these tiles was noted to have an issue in a single stud, however so did the comparison tile that has performed above the acceptance threshold. A Tile Stud analysis was conducted in order to determine if there was any clear difference betweens stud performance. Figure \ref{fig:2x2_105mm_stud_analysis} outlines all four of the tiles in Table \ref{tab:105mm_tile_technician_notes}. All three of the poorly performing tile, and tile ID 34 exhibit asymmetry across one of the studs. It cannot be justified that one stud is at fault for any of the tiles. Another feature of note is "Chilled Resin" this refers to refrigerating the resin before using it, a process technicas integrated into the production process to improve the ease of handling of RT152 resin. Overall the tiles were noted to have 7.3\% failure rate, with no clear indication of the cause of the drop-in performance. It must also be noted that accounting for error these tiles may still have an acceptable degree of light output. Therefore future work will involve re-testing these tiles in order to determine if they are suitable for the final detector.
 
 ```
+## Inside the appendix
+```
 
+\subsection{105mm 2D Stud Analysis}
+\begin{figure}[htbp]
+    \centering
+    % First row
+    \subcaptionbox{Tile ID 18.\label{fig:2x2_id018_210mm}}%
+        {\includegraphics[width=0.45\textwidth]{105mm_id018_LHS_run001_BvsD.png}}%
+    \hfill
+    \subcaptionbox{Tile ID 28.\label{fig:2x2_id028_210mm}}%
+        {\includegraphics[width=0.45\textwidth]{105mm_id028_LHS_run001_BvsD.png}}%
+    
+    \vspace{\baselineskip} % vertical space between rows
+    
+    % Second row
+    \subcaptionbox{Tile ID 76.\label{fig:2x2_id076_210mm}}%
+        {\includegraphics[width=0.45\textwidth]{105mm_id076_LHS_run001_BvsD.png}}%
+    \hfill
+    \subcaptionbox{Tile ID 34.\label{fig:2x2_id034_210mm}}%
+        {\includegraphics[width=0.45\textwidth]{105mm_id034_LHS_run001_BvsD.png}}%
+    
+    \caption{2D stud analysis for all of the investigated tiles, plus a comparison tile.}
+    \label{fig:2x2_105mm_stud_analysis}
+\end{figure}
+
+```

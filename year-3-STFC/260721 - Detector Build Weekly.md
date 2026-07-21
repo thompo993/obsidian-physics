@@ -39,4 +39,4 @@ created: 2026-07-21
 - cutting out foam and thermal paste
 	- with the Zund possibly, this should be tested
 	- Zund cuts thermal paste well 
-	- 
+	- order loads of thermal paste specifically a big sheet 

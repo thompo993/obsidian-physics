@@ -1726,49 +1726,24 @@ Incorrect timestamps can place data outside the Grafana dashboard time range.
 ## Phase 8: Check the Downstream Consumer  
 
   
-
 If Kafka contains current messages but Grafana still shows no data, inspect the consumer or ingestion layer.  
-
-  
-
-Check:  
-
-  
-
+Check: 
 - Consumer service state  
-
 - Consumer group lag  
-
 - Database connection  
-
 - Schema errors  
-
 - Deserialisation errors  
-
 - Rejected messages  
-
 - Timestamp conversions  
-
 - Instrument-name mapping  
-
 - Retention settings  
-
 - Development versus production environment selection  
-
-  
-
 Example service checks:  
-
-  
-
 ```bash  
 
 systemctl --failed  
 
 ```  
-
-  
-
 ```bash  
 
 systemctl list-units --type=service --all | \  
@@ -1776,20 +1751,10 @@ systemctl list-units --type=service --all | \
 grep -Ei 'consumer|ingest|kafka|metrics|monitor'  
 
 ```  
-
-  
-
 ```bash  
-
 journalctl -u <consumer-service> -b --no-pager -n 300  
-
 ```  
-
-  
-
 Search for relevant errors:  
-
-  
 
 ```bash  
 
@@ -1798,67 +1763,27 @@ journalctl -b --no-pager | \
 grep -Ei 'kafka|consumer|schema|deserialize|SUPER-RT|database|timeout|failed'  
 
 ```  
-
-  
-
 ---  
-
-  
-
 ## Phase 9: Inspect Grafana  
-
-  
-
 Only investigate Grafana after confirming whether data reaches the configured data source.  
-
-  
-
-### Dashboard Variable  
-
-  
-
-The dashboard URL includes:  
-
-  
-
+### Dashboard Variable 
+The dashboard URL includes: 
 ```text  
-
 var-Instrument=SUPER-RT  
-
 ```  
-
-  
-
 The fact that `SUPER-RT` must be forced through a historical URL suggests that the dashboard variable query is no longer returning the instrument.  
-
   
-
 In Grafana:  
-
-  
-
 1. Open **Dashboard settings**.  
-
 2. Open **Variables**.  
-
 3. Select the `Instrument` variable.  
-
 4. Inspect the variable query.  
-
 5. Preview the returned values.  
-
 6. Check which data source supplies the values.  
-
 7. Determine whether only instruments with recent data are returned.  
-
 8. Check the selected time range.  
-
 9. Check whether `SUPER-RT` is stored under a different label.  
-
-  
-
 Possible alternative labels include:  
-
 ```text  
 SUPER-RT  
 SUPER_RT  

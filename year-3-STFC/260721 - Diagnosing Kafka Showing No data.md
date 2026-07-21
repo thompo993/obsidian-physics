@@ -23,4 +23,5 @@ created: 2026-07-21
 - Experiment is not visible on Grafana 
 - DAQ is not taking the config from DAQSERVER. 
 ![[fig-260721-kafka-no-data-screenshot-of-daq-terminal-tmp-folder.png | 500]]
-- This is concerning, when we try and take the 
+- This is concerning, when we try and reboot the firmware, we get an invalid firmware error. 
+- This is out of my leuge of knowledge 

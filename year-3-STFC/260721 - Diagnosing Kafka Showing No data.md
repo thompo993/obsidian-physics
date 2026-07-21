@@ -52,6 +52,24 @@ created: 2026-07-21
 I am not familiar with this kind of work, so asked co-pilot (GPT 5.6) for a a report on debugging steps [[260721 - Diagnosing Kafka copilot ideas]]
 
 #### 4.4 software and firmware may be incompatible 
-
+The DAQ management interface reports on a working digitiser: 
+The DAQ management interface reports:
+- **Software version:** `9.5.9.1`
+- **Build date:** `Feb 19 2026 20:35:06`
+- **Ethernet:** Up
+- **IP address:** `130.246.53.161`
+- **Fabric MAC:** `02:ab:ba:00:22:59`
+- **EEPROM:** Valid
+- **Landpage version:** `2026.2.19.1/2026.2.19.1`
+- **FPGA firmware version:** `26.02.19.01`
+- **FPGA firmware model:** `00.00.01.21`
+- **Digitizer firmware version:** `26.02.19.01`
+- **Digitizer model:** `00.00.01.21`
+- **FPGA firmware status:** Loaded
+- **Digitizer status:** Running
+- **Clock source:** Internal, OK
+- **FPGA temperature:** `41.8 °C`
+- **CPU core temperature:** `38.5 °C`
+- **Rack temperature:** `41.1 °C`
 
 

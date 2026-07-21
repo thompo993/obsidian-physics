@@ -68,8 +68,9 @@ The DAQ management interface reports:
 - **FPGA firmware status:** Loaded
 - **Digitizer status:** Running
 - **Clock source:** Internal, OK
-- **FPGA temperature:** `38.8 °C`
+- **FPGA temperature:** `48.2°C`
 - **CPU core temperature:** `42.6 °C`
-- **Rack temperature:** `41.1 °C`
+- **Rack temperature:** `38.8°C`
 
+- we have a different 
 

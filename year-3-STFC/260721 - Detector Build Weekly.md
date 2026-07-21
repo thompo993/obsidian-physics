@@ -20,4 +20,4 @@ created: 2026-07-21
 
 ![[fig-260721-det-meeitng-63mm_tiles_scatter.png]]
 # Minutes:
-
+- neil as 

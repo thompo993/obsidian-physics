@@ -8,7 +8,7 @@ tags:
 
 # SUPER-RT DAQ121 Packet-Streaming Investigation
 
-**Incident date:** 21 July 2026  
+**Incident date:** 17 July 2026  
 **Instrument:** SUPER-RT  
 **Device model:** DAQ121  
 **Device serial number:** 14949  

@@ -1556,101 +1556,48 @@ If the packet destination is known, perform a short packet capture:
 ```bash  
 
 tcpdump -ni any host <destination-ip>  
-
 ```  
-
-  
-
 If the expected destination port is known:  
-
-  
-
 ```bash  
-
 tcpdump -ni any port <stream-port>  
-
 ```  
-
-  
-
 The purpose of the capture is to determine whether packets leave the DAQ. Avoid retaining payloads containing experiment data unless authorised.  
 
-  
-
----  
-
-  
-
+---    
 ## Phase 7: Verify Kafka Independently of Grafana  
 
   
 
-Use a host with Kafka command-line tools.  
-
-  
-
-List broker and topic metadata:  
-
-  
-
+Use a host with Kafka command-line tools. 
+List broker and topic metadata: 
 ```bash  
 
 kcat -b <broker-list> -L  
 
 ```  
-
-  
-
-Consume a small sample from the expected topic:  
-
-  
-
+Consume a small sample from the expected topic: 
 ```bash  
-
 kcat \  
-
 -b <broker-list> \  
-
 -t <topic-name> \  
-
 -C \  
-
 -o -10 \  
-
 -e \  
-
 -c 10  
 
 ```  
-
-  
-
 Check:  
-
-  
-
 - Whether the expected topic exists  
-
-- Whether the topic name changed  
-
+- Whether the topic name changed
 - Whether the DAQ is publishing to a development topic  
-
 - Whether new offsets are being created  
-
 - Whether messages contain the expected instrument name  
-
 - Whether producer authentication is failing  
-
 - Whether TLS settings changed  
-
 - Whether Kafka ACLs changed  
-
 - Whether broker addresses changed  
-
 - Whether Schema Registry compatibility changed  
-
-- Whether downstream consumers are rejecting messages  
-
+- Whether downstream consumers are rejecting messages 
 - Whether consumer lag is increasing  
 - Whether the instrument field changed in spelling, case, or formatting 
 Compare:  

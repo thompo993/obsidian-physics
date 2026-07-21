@@ -23,3 +23,4 @@ created: 2026-07-21
 ## Diagnosis: 
 - Experiment is not visible on Grafana 
 - DAQ is not taking the config from DAQSERVER. 
+![[fig-260721-kafka-no-data-screenshot-of-daq-terminal-tmp-folder.png | 300]]

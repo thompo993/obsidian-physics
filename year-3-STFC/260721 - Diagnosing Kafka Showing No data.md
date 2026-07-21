@@ -49,4 +49,8 @@ created: 2026-07-21
 ```
 
 ### AI Consultation 
-I am not familiar with this kind of work, so asked copilot (GPT 5.6 Ext)
+I am not familiar with this kind of work, so asked co-pilot (GPT 5.6) for a a report on debugging steps [[260721 - Diagnosing Kafka copilot ideas]]
+
+
+
+

@@ -7,6 +7,8 @@ tags:
 
 # Links 
 [[260721 - Diagnosing Kafka Showing No data]]
+
+- *Italics represent my added notes*
 # SUPER-RT DAQ121 Packet-Streaming Investigation
 
 **Incident date:**  Thursday 16 July 2026  
@@ -29,6 +31,7 @@ The issue began after one or more of the following changes:
 - The DAQ units were power-cycled to obtain new `sysconfig.json` files.
 - The DAQ units failed to download firmware or configuration from the network.
 - Firmware was subsequently installed manually.
+- ** 
 
 The DAQ management interface currently reports the device as connected. However:
 

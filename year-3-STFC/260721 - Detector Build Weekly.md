@@ -25,3 +25,5 @@ created: 2026-07-21
 - does it all need de-burring 
 - are they both to be flow tested 
 - zoie tam to do bending tests when? - we do not want a clash here
+
+- why cannot will and Neil see the minutes? 

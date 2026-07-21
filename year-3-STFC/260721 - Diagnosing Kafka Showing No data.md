@@ -14,4 +14,5 @@ created: 2026-07-21
 	- Jack and Dave installing some new things 
 	- Anthony tuning on the server 
 	- Freddie tuning the server
-- What happened is that when i power cycled them to get a new 
+- What happened is that when i power cycled them to get a new `sysconfig.json` file, and they all effectively failed to get the firmware from the network, 
+- I then installed a lot of the firmware manually. 

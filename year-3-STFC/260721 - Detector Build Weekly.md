@@ -20,4 +20,8 @@ created: 2026-07-21
 
 ![[fig-260721-det-meeitng-63mm_tiles_scatter.png]]
 # Minutes:
-- neil as 
+### Neil has questions: 
+- do the barrels go to R80 as they are 
+- does it all need de-burring 
+- are they both to be flow tested 
+- zoie tam to do ben

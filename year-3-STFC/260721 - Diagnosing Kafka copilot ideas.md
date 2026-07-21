@@ -144,11 +144,9 @@ dial tcp 127.0.0.1:5557: connect: connection refused
 ```
 
 A connection refusal normally means:
-
 - The operating system is reachable.
 - The TCP stack is responding.
 - No process is listening on the specified address and port.
-
 This places the immediate fault between `landapp` and the local bridge, before Kafka and Grafana.
 
 ### 4.2 “Connected” Does Not Prove Packet Streaming

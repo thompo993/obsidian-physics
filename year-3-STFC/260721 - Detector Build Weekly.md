@@ -13,4 +13,11 @@ created: 2026-07-21
 - should acceptance threshold become "investigation threshold"
 - 3D printed bends where are we? 
 - can will order some experimental parts
+
+# To show: 
+
+![[fig-260721-det-meeitng-63mm_tiles_histogram.png]]
+
+![[fig-260721-det-meeitng-63mm_tiles_scatter.png]]
 # Minutes:
+

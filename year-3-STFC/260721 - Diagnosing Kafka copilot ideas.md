@@ -180,6 +180,7 @@ The expected directory should be verified against a working DAQ121 because some 
 - `/var/lib/...`
 - Another persistent configuration directory
 
+*this is not the case, it is definitely stored in /tmp*
 ### 4.4 Software and Firmware May Be Incompatible
 
 The device contains several independently versioned components:

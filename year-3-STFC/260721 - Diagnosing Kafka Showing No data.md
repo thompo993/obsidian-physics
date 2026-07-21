@@ -24,4 +24,5 @@ created: 2026-07-21
 - DAQ is not taking the config from DAQSERVER. 
 ![[fig-260721-kafka-no-data-screenshot-of-daq-terminal-tmp-folder.png | 500]]
 - This is concerning, when we try and reboot the firmware, we get an invalid firmware error. 
+- Inside the terminal, we get the following text: 
 - This is out of my leuge of knowledge 

@@ -30,4 +30,4 @@ created: 2026-07-21
 	- actioned by sending will and Neil the link, they will request access
 - Are we waiting on Andy church? For cooling tests 
 - How are engineering getting on with various pipe bend prototypes? - Francesco 
-- with regards to the 63mm tiles 
+- with regards to the 63mm tiles, all are within 10% of the mean, 2 fall below 2 std dev of the 

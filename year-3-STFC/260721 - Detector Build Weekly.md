@@ -38,4 +38,4 @@ created: 2026-07-21
 - alternatives involve trying waterjet 
 - cutting out foam and thermal paste
 	- with the Zund possibly, this should be tested
-	- waterj
+	- Zund 

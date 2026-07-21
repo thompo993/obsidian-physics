@@ -72,5 +72,5 @@ The DAQ management interface reports:
 - **CPU core temperature:** `42.6 °C`
 - **Rack temperature:** `38.8°C`
 
-- we have a different 
+- we have a different firmware and software version so we want is 2026.02.22.1 
 

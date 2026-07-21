@@ -26,8 +26,8 @@ created: 2026-07-21
 - are they both to be flow tested 
 - Zoie tam to do deflection tests when? - we do not want a clash between the thermal and mechanical testing 
 
-- why cannot will and Neil see the minutes?
+- why cant will and Neil see the minutes?
 	- actioned by sending will and Neil the link, they will request access
 - Are we waiting on Andy church? For cooling tests 
 - How are engineering getting on with various pipe bend prototypes? - Francesco 
-- with regards to the 63mm tiles, all are within 10% of the mean, 2 fall below 2 std dev of the 
+- with regards to the 63mm tiles, all are within 10% of the mean, 5 fall below 2 std dev of the of the mean and so were investigated. No key factor that makes the tiles perform badly, at least nothing in the notes. 

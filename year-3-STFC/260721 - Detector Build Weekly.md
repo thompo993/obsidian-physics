@@ -26,4 +26,5 @@ created: 2026-07-21
 - are they both to be flow tested 
 - zoie tam to do bending tests when? - we do not want a clash here
 
-- why cannot will and Neil see the minutes? 
+- why cannot will and Neil see the minutes?
+	- actioned by sending will and Niel 

@@ -45,4 +45,4 @@ created: 2026-07-21
 	- order loads of thermal paste specifically a big sheet 
 - Custom cutting jig for foam, paste, and aluminium? 
 - get zund cutting underlay replacement part, it is currently uneven, and causing trouble https://www.zund.com/en/cutting-systems/accessories
-- maybe need to discuss wi
+- maybe need to discuss with the Zund representative. 

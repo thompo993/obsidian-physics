@@ -1652,80 +1652,28 @@ Check:
 - Whether downstream consumers are rejecting messages  
 
 - Whether consumer lag is increasing  
-
-- Whether the instrument field changed in spelling, case, or formatting  
-
-  
-
+- Whether the instrument field changed in spelling, case, or formatting 
 Compare:  
-
-  
-
 1. `SUPER-RT`  
-
 2. A working instrument  
-
 3. Historical `SUPER-RT` data from before 17 July 2026  
-
-  
-
 ### Interpretation  
-
-  
-
 #### No DAQ messages in Kafka  
-
-  
-
 Continue investigating the DAQ, bridge, network publisher, producer configuration, authentication, and network path.  
-
-  
-
 #### Messages are present in Kafka  
-
-  
-
 Investigate the component that consumes Kafka data and writes to the monitoring database or Grafana data source.  
-
-  
-
 #### Messages exist but use a different instrument label  
-
-  
-
 Correct the DAQ configuration or update the relevant mapping.  
-
-  
-
-#### Messages exist but timestamps are incorrect  
-
-  
-
+#### messages exist but timestamps are incorrect  
 Check:  
-
-  
-
 ```bash  
-
 date -u  
-
 timedatectl  
-
 ```  
-
-  
-
 Incorrect timestamps can place data outside the Grafana dashboard time range.  
 
-  
-
 ---  
-
-  
-
 ## Phase 8: Check the Downstream Consumer  
-
-  
 If Kafka contains current messages but Grafana still shows no data, inspect the consumer or ingestion layer.  
 Check: 
 - Consumer service state  

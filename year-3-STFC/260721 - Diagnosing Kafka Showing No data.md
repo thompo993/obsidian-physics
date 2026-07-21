@@ -16,3 +16,4 @@ created: 2026-07-21
 	- Freddie tuning the server
 - What happened is that when i power cycled them to get a new `sysconfig.json` file, and they all effectively failed to get the firmware from the network, 
 - I then installed a lot of the firmware manually, the all read as "connected" but when we load kafka we see no data. 
+- In fact, it is not even showing as 

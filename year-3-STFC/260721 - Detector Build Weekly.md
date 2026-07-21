@@ -22,10 +22,10 @@ created: 2026-07-21
 # Minutes:
 ### Neil has questions: 
 - do the barrels go to R80 as they are 
-- does it all need de-burring 
+- does it all need de-burring, one has been de-burred already 
 - are they both to be flow tested 
-- zoie tam to do bending tests when? - we do not want a clash here
+- zoie tam to do delfection tests when? - we do not want a clash between 
 
 - why cannot will and Neil see the minutes?
 	- actioned by sending will and Neil the link, they will request access
-	- 
+- 

@@ -76,6 +76,19 @@ The DAQ management interface reports:
 - but we cannot get this version, as when we reboot it doesn't work. 
 
 #### Attempting to download bootstrap 
+##### CLI command 
+```
+mkdir -p /tmp/daq-debug  
+
+curl -v \  
+--connect-timeout 10 \  
+--max-time 30 \  
+-o /tmp/daq-debug/bootstrap.sh \  
+http://daqserver.isis.cclrc.ac.uk/new-ubuntu-24/netcfg/bootstrap.sh \  
+2>&1 | tee /tmp/daq-debug/bootstrap-download.log  
+
+echo "curl exit status: ${PIPESTATUS[0]}"
+```
 
 ##### result 
 ```

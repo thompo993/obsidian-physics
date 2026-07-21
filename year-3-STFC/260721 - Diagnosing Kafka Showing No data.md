@@ -10,4 +10,4 @@ created: 2026-07-21
 # Notes:
 ## Problem
 - When loading Grafana, we are seeing a "no data screen"
-- This has started occuring 
+- This has started occurring 

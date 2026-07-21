@@ -24,6 +24,7 @@ created: 2026-07-21
 - DAQ is not taking the config from DAQSERVER. 
 ![[fig-260721-kafka-no-data-screenshot-of-daq-terminal-tmp-folder.png | 500]]
 - This is concerning, when we try and reboot the firmware, we get an invalid firmware error. 
+- we usually see the sysconfig and daqconfig in this folder. 
 - Inside the terminal, we get the following text: 
 ```
 2026-07-17T13:42:51+00:00 nibuntu-arm landapp[426]: 2026/07/17 13:42:51 Device Model: DAQ121

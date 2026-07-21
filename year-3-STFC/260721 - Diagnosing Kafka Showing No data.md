@@ -58,12 +58,12 @@ The DAQ management interface reports:
 - **Build date:** `Feb 19 2026 20:35:06`
 - **Ethernet:** Up
 - **IP address:** `130.246.53.161`
-- **Fabric MAC:** `02:ab:ba:00:22:59`
+- **Fabric MAC:** `02abba002244`
 - **EEPROM:** Valid
 - **Landpage version:** `2026.2.19.1/2026.2.19.1`
-- **FPGA firmware version:** `26.02.19.01`
-- **FPGA firmware model:** `00.00.01.21`
-- **Digitizer firmware version:** `26.02.19.01`
+- **FPGA firmware version:** `24.12.12.02`
+- **FPGA firmware model:** `00.00.01.20`
+- **Digitizer firmware version:** `24.12.12.0`
 - **Digitizer model:** `00.00.01.21`
 - **FPGA firmware status:** Loaded
 - **Digitizer status:** Running

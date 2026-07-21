@@ -24,8 +24,9 @@ created: 2026-07-21
 - do the barrels go to R80 as they are 
 - does it all need de-burring, one has been de-burred already 
 - are they both to be flow tested 
-- zoie tam to do delfection tests when? - we do not want a clash between 
+- Zoie tam to do deflection tests when? - we do not want a clash between the thermal and mechanical testing 
 
 - why cannot will and Neil see the minutes?
 	- actioned by sending will and Neil the link, they will request access
-- 
+- Are we waiting on andy church? For cooling tests 
+- How are engineering gettin on with various 

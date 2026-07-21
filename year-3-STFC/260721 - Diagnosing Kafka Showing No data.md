@@ -75,3 +75,96 @@ The DAQ management interface reports:
 - we have a different firmware and software version so we want is 2026.02.22.1 
 - but we cannot get this version, as when we reboot it doesn't work. 
 
+#### Attempting to download bootstrap 
+
+##### result 
+```
+root@nibuntu-arm:/# curl -v \4  --connect-timeout 10 \5  --max-time 30 \6  -o /tmp/daq-debug/bootstrap.sh \7  http://daqserver.isis.cclrc.ac.uk/new-ubuntu-24/netcfg/bootstrap.sh \8  2>&1 | tee /tmp/daq-debug/bootstrap-download.log
+tee: /tmp/daq-debug/bootstrap-download.log: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 0.0.0.4:80...
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0* ipv4 connect timeout after 10000ms, move on!
+* Failed to connect to 0.0.0.4 port 80 after 10002 ms: Timeout was reached
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+* Closing connection
+curl: (28) Failed to connect to 0.0.0.4 port 80 after 10002 ms: Timeout was reached
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 0.0.0.5:80...
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0* ipv4 connect timeout after 10000ms, move on!
+* Failed to connect to 0.0.0.5 port 80 after 10002 ms: Timeout was reached
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+* Closing connection
+curl: (28) Failed to connect to 0.0.0.5 port 80 after 10002 ms: Timeout was reached
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 0.0.0.6:80...
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0* ipv4 connect timeout after 10000ms, move on!
+* Failed to connect to 0.0.0.6 port 80 after 10002 ms: Timeout was reached
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+* Closing connection
+curl: (28) Failed to connect to 0.0.0.6 port 80 after 10002 ms: Timeout was reached
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 0.0.0.7:80...
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0* ipv4 connect timeout after 10000ms, move on!
+* Failed to connect to 0.0.0.7 port 80 after 10002 ms: Timeout was reached
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+* Closing connection
+curl: (28) Failed to connect to 0.0.0.7 port 80 after 10002 ms: Timeout was reached
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Host daqserver.isis.cclrc.ac.uk:80 was resolved.
+* IPv6: (none)
+* IPv4: 130.246.39.152
+*   Trying 130.246.39.152:80...
+* Connected to daqserver.isis.cclrc.ac.uk (130.246.39.152) port 80
+> GET /new-ubuntu-24/netcfg/bootstrap.sh HTTP/1.1
+> Host: daqserver.isis.cclrc.ac.uk
+> User-Agent: curl/8.5.0
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Date: Tue, 21 Jul 2026 14:47:35 GMT
+< Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/5.4.16 SVN/1.7.14 mod_wsgi/3.4 Python/2.7.5
+< Last-Modified: Sun, 22 Feb 2026 18:24:03 GMT
+< ETag: "20d-64b6dc24e7402"
+< Accept-Ranges: bytes
+< Content-Length: 525
+< Content-Type: application/x-sh
+< 
+{ [525 bytes data]
+100   525  100   525    0     0  98167      0 --:--:-- --:--:-- --:--:--  102k
+* Connection #4 to host daqserver.isis.cclrc.ac.uk left intact
+#!/bin/sh
+
+SERVER="http://daqserver.isis.cclrc.ac.uk/new-ubuntu-24/netcfg/"
+
+# Download requirements.txt
+wget -O /tmp/requirements.txt ${SERVER}requirements.txt
+
+# Create virtual environment if it doesn't exist
+if [ ! -d /ni/venv/bin/activate ]; then
+    python3 -m venv /ni/venv
+fi
+
+# Activate virtual environment
+. /ni/venv/bin/activate
+
+# Install requirements
+pip install -r /tmp/requirements.txt
+
+# Download and run intelliboot
+wget -O /tmp/intelliboot.py ${SERVER}intelliboot.py
+cd /tmp/
+python3 intelliboot.py "$SERVER"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 0.0.0.8:80...
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0* ipv4 connect timeout after 10000ms, move on!
+* Failed to connect to 0.0.0.8 port 80 after 10002 ms: Timeout was reached
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+* Closing connection
+curl: (28) Failed to connect to 0.0.0.8 port 80 after 10002 ms: Timeout was reached
+```
+

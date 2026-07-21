@@ -27,4 +27,4 @@ created: 2026-07-21
 - zoie tam to do bending tests when? - we do not want a clash here
 
 - why cannot will and Neil see the minutes?
-	- actioned by sending will and Niel 
+	- actioned by sending will and Neil the link, they 

@@ -36,4 +36,6 @@ created: 2026-07-21
 ### head start on module assembly
 - cutting aluminium sheet on Stefan's backstop guillotine
 - alternatives involve trying waterjet 
-- cutting out foam and thermal paste with the 
+- cutting out foam and thermal paste
+	- with the Zund possibly, this should be tested
+	- waterj

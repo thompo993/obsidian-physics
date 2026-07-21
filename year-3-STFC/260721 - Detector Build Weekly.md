@@ -44,4 +44,4 @@ created: 2026-07-21
 	- Zund cuts thermal paste well 
 	- order loads of thermal paste specifically a big sheet 
 - Custom cutting jig for foam, paste, and aluminium? 
-- get zund bed cover replacement part, it is currently uneven, and causing trouble 
+- get zund cutting underlay replacement part, it is currently uneven, and causing trouble 

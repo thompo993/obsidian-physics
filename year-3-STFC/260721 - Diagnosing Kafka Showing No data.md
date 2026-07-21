@@ -12,4 +12,6 @@ created: 2026-07-21
 - When loading Grafana, we are seeing a "no data screen"
 - This has started occurring after one of three things 
 	- Jack and Dave installing some new things 
-	- 
+	- Anthony tuning on the server 
+	- Freddie tuning the server
+- What happened is that when i power cycled them to get a new 

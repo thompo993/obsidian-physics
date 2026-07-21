@@ -51,18 +51,3 @@ created: 2026-07-21
 ### AI Consultation 
 **I am not familiar with this kind of work, so asked AI:**
 
-This looks much more like an upstream DAQ configuration and local bridge failure than a Grafana problem. Grafana is successfully loading the dashboard, but the DAQ appears not to be producing or forwarding the status packets that eventually feed Kafka and the dashboard.
-
-## Most likely failure chain
-
-Based on the logs and screenshots, the probable sequence is:
-
-1. The DAQ devices were power-cycled.
-2. The DAQs failed to download `sysconfig.json`, `daqconfig.json`, or the expected firmware from DAQSERVER.
-3. Firmware was installed manually, potentially leaving an incomplete or mismatched software/firmware set.
-4. The local ZeroMQ bridge expected on `127.0.0.1:5557` did not start, crashed, or rejected the installed configuration.
-5. `landapp` remained available, so the management page reported the DAQ as connected.
-6. No housekeeping/status packets were forwarded into Kafka.
-7. The experiment metadata was not registered or refreshed, so `SUPER-RT` did not appear normally in the Grafana experiment selector.
-8. Grafana queries completed but returned no rows, producing the visible **No data** panels
-

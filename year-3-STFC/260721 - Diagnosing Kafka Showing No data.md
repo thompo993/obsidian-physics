@@ -20,4 +20,6 @@ created: 2026-07-21
 ![[fig-260721-kafka-no-data-screenshot-of-grafana.png]]
 ![[fig-260721-kafka-no-data-screenshot-of-daq.png]]
 
-## Diagnosis 
+## Diagnosis: 
+- Experiment is not visible on Grafana 
+- 

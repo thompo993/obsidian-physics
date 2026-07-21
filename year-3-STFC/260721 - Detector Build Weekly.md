@@ -32,3 +32,4 @@ created: 2026-07-21
 - How are engineering getting on with various pipe bend prototypes? - Francesco 
 - with regards to the 63mm tiles, all are within 10% of the mean, 5 fall below 2 std dev of the of the mean and so were investigated. No key factor that makes the tiles perform badly, at least nothing in the notes. 
 - we need to know how much worse tiles need to be to be rejected, within 2 std dev of the mean seems to be about 5%, therefore is this to harsh of an acceptable 
+- cutting aluminium sheet so that 

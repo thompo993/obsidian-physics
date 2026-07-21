@@ -73,4 +73,5 @@ The DAQ management interface reports:
 - **Rack temperature:** `38.8°C`
 
 - we have a different firmware and software version so we want is 2026.02.22.1 
+- but we cannot get this version, as when we reboot it doesn't work. 
 

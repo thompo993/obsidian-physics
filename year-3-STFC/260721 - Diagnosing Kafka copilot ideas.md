@@ -1,5 +1,10 @@
+---
+created: 2026-07-21
+tags:
+  - document
+---
 
-#
+
 # SUPER-RT DAQ121 Packet-Streaming Investigation
 
 **Incident date:** 21 July 2026  

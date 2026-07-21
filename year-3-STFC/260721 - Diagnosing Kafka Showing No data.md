@@ -63,13 +63,13 @@ The DAQ management interface reports:
 - **Landpage version:** `2026.2.19.1/2026.2.19.1`
 - **FPGA firmware version:** `24.12.12.02`
 - **FPGA firmware model:** `00.00.01.20`
-- **Digitizer firmware version:** `24.12.12.0`
-- **Digitizer model:** `00.00.01.21`
+- **Digitizer firmware version:** `24.12.12.02`
+- **Digitizer model:** `00.00.01.20`
 - **FPGA firmware status:** Loaded
 - **Digitizer status:** Running
 - **Clock source:** Internal, OK
-- **FPGA temperature:** `41.8 °C`
-- **CPU core temperature:** `38.5 °C`
+- **FPGA temperature:** `38.8 °C`
+- **CPU core temperature:** `42.6 °C`
 - **Rack temperature:** `41.1 °C`
 
 

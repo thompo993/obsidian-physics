@@ -5,10 +5,11 @@ tags:
   - daq121
 ---
 
-
+# Links 
+[[260721 - Diagnosing Kafka Showing No data]]
 # SUPER-RT DAQ121 Packet-Streaming Investigation
 
-**Incident date:** 17 July 2026  
+**Incident date:**  Thursday 16 July 2026  
 **Instrument:** SUPER-RT  
 **Device model:** DAQ121  
 **Device serial number:** 14949  

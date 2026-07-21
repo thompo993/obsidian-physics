@@ -49,4 +49,4 @@ created: 2026-07-21
 ```
 
 ### AI Consultation 
-**I am not familiar with this kind of work, so asked AI:**
+I am not familiar with this kind of work, so asked copilot (GPT 5.6 Ext)

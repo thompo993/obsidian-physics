@@ -24,4 +24,4 @@ created: 2026-07-21
 - do the barrels go to R80 as they are 
 - does it all need de-burring 
 - are they both to be flow tested 
-- zoie tam to do ben
+- zoie tam to do bending tests when? - we do not want a clash here

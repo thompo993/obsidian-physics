@@ -28,5 +28,5 @@ created: 2026-07-21
 
 - why cannot will and Neil see the minutes?
 	- actioned by sending will and Neil the link, they will request access
-- Are we waiting on andy church? For cooling tests 
-- How are engineering gettin on with various 
+- Are we waiting on Andy church? For cooling tests 
+- How are engineering getting on with various 

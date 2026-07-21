@@ -34,5 +34,6 @@ created: 2026-07-21
 - we need to know how much worse tiles need to be to be rejected, within 2 std dev of the mean seems to be about 5%, therefore is this to harsh of an acceptable 
 
 ### head start on module assembly
-- cutting aluminium sheet on Stefan's backstop guilloutine
-- alternatives 
+- cutting aluminium sheet on Stefan's backstop guillotine
+- alternatives involve trying waterjet 
+- cutting out foam and thermal paste with the 

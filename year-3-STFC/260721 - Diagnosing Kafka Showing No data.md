@@ -181,3 +181,6 @@ python3 intelliboot.py "$SERVER"  % Total    % Received % Xferd  Average Speed  
 curl: (28) Failed to connect to 0.0.0.8 port 80 after 10002 ms: Timeout was reached
 ```
 
+
+### Debug - 260722
+the correct 

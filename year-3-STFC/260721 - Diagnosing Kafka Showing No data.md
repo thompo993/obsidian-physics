@@ -183,4 +183,5 @@ curl: (28) Failed to connect to 0.0.0.8 port 80 after 10002 ms: Timeout was reac
 
 
 ### Debug - 260722
-the correct content.yaml file is  not correct. 
+the correct `content.yaml` file is  not correct. 
+when this is updated and the broker IP was corrected, we have super RT back online

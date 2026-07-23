@@ -14,6 +14,9 @@ created: 2026-07-21
 - 3D printed bends where are we? 
 - can will order some experimental parts
 
+## next time we have a meeting 
+- discuss order more 210mm 
+
 # To show: 
 
 ![[fig-260721-det-meeitng-63mm_tiles_histogram.png]]

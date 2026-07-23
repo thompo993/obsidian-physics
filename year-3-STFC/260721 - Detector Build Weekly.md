@@ -15,7 +15,7 @@ created: 2026-07-21
 - can will order some experimental parts
 
 ## next time we have a meeting 
-- discuss order more 210mm 
+- discuss order more 210mm tiles.
 
 # To show: 
 

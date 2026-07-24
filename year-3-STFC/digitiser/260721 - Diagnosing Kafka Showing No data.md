@@ -187,7 +187,7 @@ the correct `content.yaml` file is  not correct.
 when this is updated and the broker IP was corrected, we have super RT back online
 
 # Solution 
-There was a typo in both the `content.yaml` and corresponding system configuration files were not correct.  we how have the fact that almost all of the daqs running an acquisition and now we are square on again, the data packets are not showing that they are streaming on grafana. [[260722 - Diagnosing Grafana not showing status packets]]
+There was a typo in both the `content.yaml` and corresponding system configuration files were not correct.  we how have the fact that almost all of the daqs running an acquisition and now we are square on again, the data packets are not showing that they are streaming on grafana. [[260722 - Diagnosing Dan Nixon not seeing traces]]
 
 
 the network was not connected to  the same VLAN so i re routed this 

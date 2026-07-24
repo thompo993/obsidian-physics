@@ -9,4 +9,5 @@ created: 2026-07-22
 [[260708 super-rt-r80 experiment]]
 # Notes:
 ## Problem
+Dan Nixon is not seeing traces on his end. The current hypothesis is that the 
 

@@ -193,4 +193,3 @@ There was a typo in both the `content.yaml` and corresponding system configurati
 the network was not connected to  the same VLAN so i re routed this 
 the IPS that aren't ticked off on the spreadsheet should work now
 
-capitalize

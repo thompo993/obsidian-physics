@@ -114,3 +114,4 @@ this is in first person.
 - future work, smaller PMT rig, or switch to SiPMs, 
 - what is a Geiger mode detector 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
+- what are poission statistics

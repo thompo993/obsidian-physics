@@ -115,3 +115,7 @@ this is in first person.
 - what is a Geiger mode detector 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poission statistics
+
+
+### Error propagation update 
+- chat written code is not very good for int count error, it probably works, but i cant understand and write about it, so i cannot include it. 

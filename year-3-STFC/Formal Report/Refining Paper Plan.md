@@ -20,6 +20,7 @@ created: 2026-07-27
 - proofing of text too many inconsistencies, and even missing words
 - less notebook style of wrting, write more like a scientific report/paper
 - ensure there is data to back everything up
+- **ensure latex formatting is good and that there are no typos**
 ### Less relevant
 - for future plans review waht ahs been done on the epoxy and search for other examples of epoxy cracking **in this case look at creation of similar tiles and see if they discussed any issues**
 

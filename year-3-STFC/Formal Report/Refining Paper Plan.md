@@ -91,6 +91,11 @@ You've got roughly 400 words of margin. **Tier 1 alone gets you two-thirds of th
 - Typos: "posotive" (§2.1) → positive; "thse" (§1) → these; "witht" (§3.2.2) → with; "aliment" (§3.1) → alignment; "front he" (§4.3) → from the; "Til.e" (Fig. A1 caption) → Tile; "63mmmm" (Abstract) → 63mm.
 
 ## Additional Sections to include 
+
+### Decleration
+#### What is it
+The “Declaration” is an important part of your report. It should be on a blank page of its own, after the title page and before the Table of Contents. It should set out very clearly what YOUR contribution has been to the project (as distinct from your partner, supervisor, some helpful post-doc, technician or whoever else). It should take the form of a short paragraph which sets out what role you took in the project, and specifically which results you were responsible for. For dissertations, you should indicate the level of guidance you received from your supervisor in terms of the development of your work. An example declaration is attached to the end of this document
 ### Acknowledgements 
+Whole team in the acknowledgements
 who was involved technicians notes need to be credited 
-MuSR
+

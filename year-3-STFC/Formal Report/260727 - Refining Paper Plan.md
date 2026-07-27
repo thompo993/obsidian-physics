@@ -8,6 +8,8 @@ created: 2026-07-27
 # Links: 
 [[260603 - Plan]]
 
+
+**GET RID OF ALL TYPOS YOU  IDIOT**
 # Previous paper and feedback
 [[pdf-260727_Industrial_Placement_Report.pdf]]
 ![[pdf-260727_Industrial_Placement_Report.pdf]]
@@ -92,9 +94,13 @@ You've got roughly 400 words of margin. **Tier 1 alone gets you two-thirds of th
 
 ## Additional Sections to include 
 
-### Decleration
+### Declaration
 #### What is it
-The “Declaration” is an important part of your report. It should be on a blank page of its own, after the title page and before the Table of Contents. It should set out very clearly what YOUR contribution has been to the project (as distinct from your partner, supervisor, some helpful post-doc, technician or whoever else). It should take the form of a short paragraph which sets out what role you took in the project, and specifically which results you were responsible for. For dissertations, you should indicate the level of guidance you received from your supervisor in terms of the development of your work. An example declaration is attached to the end of this document
+The “Declaration” is an important part of your report. It should be on a blank page of its own, after the title page and before the Table of Contents. It should set out very clearly what YOUR contribution has been to the project (as distinct from your partner, supervisor, some helpful post-doc, technician or whoever else). It should take the form of a short paragraph which sets out what role you took in the project, and specifically which results you were responsible for. For dissertations, you should indicate the level of guidance you received from your supervisor in terms of the development of your work. An example declaration is attached to the end of this document 
+
+### Example provided by UoB
+Example Project: Measurement of the Fermi surface of transition metals Declaration We did not collect all of the data presented in this project. Specifically, we gathered the data on vanadium ourselves, but the section on Cr uses data was provided to us. The analysis used computer programs which we had to modify, sometimes quite substantially. The program called DataFit, we wrote ourselves from scratch, and another, FitData, was given to us and did not need changing at all. We had some assistance from a Ph.D. student (A.N. Other) both in collecting the data and beginning the data analysis. We also had some expert help from Mr. Smith in the electronics workshop in designing the electronic circuit for measuring the temperatures. Our supervisor helped us in the interpretation of our data, specifically suggesting the rigid band analysis. However, it was our idea to attempt the analysis presented in Chapter 3. In terms of how work was divided between my partner and myself, I wrote most of the computer code whilst my partner worked on deriving the equations and algorithms which I needed to code. We both played an equal role in data collection, analysis, and interpretation.
+
 ### Acknowledgements 
 Whole team in the acknowledgements
 who was involved technicians notes need to be credited 

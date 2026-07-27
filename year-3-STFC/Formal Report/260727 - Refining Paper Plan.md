@@ -117,5 +117,8 @@ this is in first person.
 - what are poission statistics
 
 
-### Error propagation update 
-- chat written code is not very good for int count error, it probably works, but i cant understand and write about it, so i cannot include it. 
+## Error propagation update 
+- I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 
+- So we are going to acknowledge that i couldn't estimate error on the integrated counts, and just used the standard deviation. surely the error cant be much on np.trapz
+- as we do not know the exact function this partuclar experimental setup contains, we cannot approximate error for integrated counts 
+-

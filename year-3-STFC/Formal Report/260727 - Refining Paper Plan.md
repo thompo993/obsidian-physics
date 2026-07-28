@@ -10,15 +10,31 @@ created: 2026-07-27
 
 
 **GET RID OF ALL TYPOS YOU  IDIOT**
-
+- 
 
 #  Proof Read Table 
 ## Proofread #1
 
-| Section          | Proofread? |
-| ---------------- | ---------- |
-| Acknowledgements |            |
-|                  |            |
+| Section                     | Proofread? |
+| --------------------------- | ---------- |
+| Acknowledgements            |            |
+| Introduction                |            |
+| Theory                      |            |
+| Experimental                |            |
+| Discussion and analysis     |            |
+| conclusions and future work |            |
+| appendix                    |            |
+
+## Proofread #2 
+| Section                     | Proofread? |
+| --------------------------- | ---------- |
+| Acknowledgements            |            |
+| Introduction                |            |
+| Theory                      |            |
+| Experimental                |            |
+| Discussion and analysis     |            |
+| conclusions and future work |            |
+| appendix                    |            |
 
 
 # Previous paper and feedback

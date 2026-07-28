@@ -18,8 +18,8 @@ created: 2026-07-27
 | Section                     | Proofread? |
 | --------------------------- | ---------- |
 | Abstract                    | y          |
-| Acknowledgements            |            |
-| Introduction                |            |
+| Acknowledgements            | y          |
+| Introduction                | y          |
 | Theory                      |            |
 | Experimental                |            |
 | Discussion and analysis     |            |

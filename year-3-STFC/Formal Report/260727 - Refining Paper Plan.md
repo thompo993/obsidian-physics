@@ -136,7 +136,6 @@ this is in first person.
 
 
 ## Additional feedback (self insert)
-- removal of 3mm tiles
 - why did we re lap tiles for the 30mm tiles 
 - all /refs work (proofing)
 - future work, smaller PMT rig, or switch to SiPMs, 

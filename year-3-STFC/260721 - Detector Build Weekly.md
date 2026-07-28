@@ -20,7 +20,11 @@ created: 2026-07-21
 - we still don't have titanium screws in one of the detector barrels 
 ## Flow and Deflection tests
 - what are the the progress on these two
-- 
+- do we chase up Andy church 
+	- sleeve for preventing copper pipes being bent
+	- do they know it is fully ready
+	- all manifold parts ordered? 
+	- what chiller 
 
 
 # Agenda: 

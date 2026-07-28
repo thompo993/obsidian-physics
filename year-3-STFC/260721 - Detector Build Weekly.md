@@ -13,6 +13,7 @@ created: 2026-07-21
 - should acceptance threshold become "investigation threshold"
 - 3D printed bends where are we? 
 - can will order some experimental parts
+- 
 
 ## next time we have a meeting 
 - discuss order more 210mm tiles. **THIS IS DEFINETLY NEEDED**

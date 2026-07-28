@@ -30,6 +30,7 @@ created: 2026-07-21
 	- all manifold parts ordered? 
 	- what chiller do we order
 ### Neil lids of staves and the cutting of thermal stuff 
+- Neil hasn't ordered or got anything, think graham was ordering stuff, ben to chase up 
 - 
 
 # Agenda: 

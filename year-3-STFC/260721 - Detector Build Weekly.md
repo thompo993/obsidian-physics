@@ -9,6 +9,7 @@ created: 2026-07-21
 
 
 # 260728 - detector build weekly
+- what consitutes failure? 
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

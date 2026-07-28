@@ -116,6 +116,7 @@ this is in first person.
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poission statistics
 - ensure that the 210 and 105 scatter are acceptable
+- add about better integrated counts error for the longer tiles
 
 
 ## Error propagation update 

@@ -18,6 +18,9 @@ created: 2026-07-21
 - cracks resin and not the fibre - interesting 
 - **ALL THREE SMALLER SIZES ARE FULLY GLUED**
 - we still don't have titanium screws in one of the detector barrels 
+## Flow and Deflection tests
+- what are the the progress on these two
+- 
 
 
 # Agenda: 

@@ -14,7 +14,8 @@ created: 2026-07-21
 - need to determine absolute failure criteria for each tile length. 2std dev not suitable for discarding tiles, but does function well for flagging tiles that are performing worse than expected. 
 - 2 month lead time on tile ordering tiles, does this effect how readily we want to order them?
 - consult dan on this 
-- when are the full barrel tests? 
+- when are the full barrel test? February 2027 
+- aluminium sheet has it arrived? 
 ## inside workshop 
 - cracks resin and not the fibre - interesting 
 - **ALL THREE SMALLER SIZES ARE FULLY GLUED**

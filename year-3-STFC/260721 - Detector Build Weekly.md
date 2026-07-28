@@ -33,7 +33,7 @@ created: 2026-07-21
 - Neil hasn't ordered or got anything, think graham was ordering stuff, ben to chase up 
 - how is thermal cutting getting on 
 	- Neil needs files to cut out thermal paste on the zund 
-	- have we ordered the thermal paste 
+	- have we ordered the thermal paste, biggest one is 200x100mm
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

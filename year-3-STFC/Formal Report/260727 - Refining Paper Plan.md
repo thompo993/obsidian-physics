@@ -115,7 +115,7 @@ this is in first person.
 - what is a Geiger mode detector 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poission statistics
-- ensure that the 210 and 105 scatter are acc
+- ensure that the 210 and 105 scatter are acceptable
 
 
 ## Error propagation update 

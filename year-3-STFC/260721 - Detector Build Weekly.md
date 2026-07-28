@@ -19,12 +19,14 @@ created: 2026-07-21
 - **ALL THREE SMALLER SIZES ARE FULLY GLUED**
 - we still don't have titanium screws in one of the detector barrels 
 ## Flow and Deflection tests
-- what are the the progress on these two
+- what is the progress on the deflection tests
+	- how long is this going to take
+	- 
 - do we chase up Andy church 
 	- sleeve for preventing copper pipes being bent
 	- do they know it is fully ready
 	- all manifold parts ordered? 
-	- what chiller 
+	- what chiller do we order
 
 
 # Agenda: 

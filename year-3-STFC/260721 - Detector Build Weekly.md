@@ -14,6 +14,7 @@ created: 2026-07-21
 - need to determine absolute failure criteria for each tile length. 2std dev not suitable for discarding tiles, but does function well for flagging tiles that are performing worse than expected. 
 - 2 month lead time on tile ordering tiles, does this effect how readily we want to order them?
 - consult dan on this 
+- when are the full barrel tests? 
 ## inside workshop 
 - cracks resin and not the fibre - interesting 
 - **ALL THREE SMALLER SIZES ARE FULLY GLUED**
@@ -27,7 +28,8 @@ created: 2026-07-21
 	- do they know it is fully ready
 	- all manifold parts ordered? 
 	- what chiller do we order
-### Neil lids of st
+### Neil lids of staves and the cutting of thermal stuff 
+- 
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

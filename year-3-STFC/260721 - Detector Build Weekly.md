@@ -31,7 +31,9 @@ created: 2026-07-21
 	- what chiller do we order
 ### Neil lids of staves and the cutting of thermal stuff 
 - Neil hasn't ordered or got anything, think graham was ordering stuff, ben to chase up 
-- how is thermal cutting 
+- how is thermal cutting getting on 
+	- Neil needs files to cut out thermal paste on the zund 
+	- have we ordered the thermal paste 
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

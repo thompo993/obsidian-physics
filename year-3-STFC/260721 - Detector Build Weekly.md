@@ -9,10 +9,10 @@ created: 2026-07-21
 
 
 # 260728 - detector build weekly
-- what constitutes failure? do we need to order more tiels
+- what constitutes failure? do we need to order more tiles
 - FIX THE TABLE ONE OF THEM IS RUBBISH
 - need to determine a failure criteria for each tile 
-- 
+- 2 month lead time on tile ordering tiles, does this effect how readily we want to order them?
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

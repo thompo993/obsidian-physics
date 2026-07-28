@@ -117,7 +117,7 @@ this is in first person.
 - what are poission statistics
 - ensure that the 210 and 105 scatter are acceptable
 - add about better integrated counts error for the longer tiles
-
+- [[260727 - Claude Proofread and suggestions]]
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 

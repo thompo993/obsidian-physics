@@ -145,6 +145,7 @@ this is in first person.
 - ensure that the 210 and 105 scatter are acceptable
 - add about better integrated counts error for the longer tiles
 - [[260727 - Claude Proofread and suggestions]]
+- add about tiles in 30mm not falling below threshold, but were low so investigated anway, e.g bc their 30mm and benchmark is super high
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 

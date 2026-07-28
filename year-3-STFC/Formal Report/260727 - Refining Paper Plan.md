@@ -13,15 +13,12 @@ created: 2026-07-27
 
 
 #  Proof Read Table 
+## Proofread #1
 
-- [ ]
--
-
-
-| Section |     |
-| ------- | --- |
-|         |     |
-|         |     |
+| Section          | Proofread? |
+| ---------------- | ---------- |
+| Acknowledgements |            |
+|                  |            |
 
 
 # Previous paper and feedback

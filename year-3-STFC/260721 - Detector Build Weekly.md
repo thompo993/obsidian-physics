@@ -14,7 +14,8 @@ created: 2026-07-21
 - need to determine absolute failure criteria for each tile length. 2std dev not suitable for discarding tiles, but does function well for flagging tiles that are performing worse than expected. 
 - 2 month lead time on tile ordering tiles, does this effect how readily we want to order them?
 - consult dan on this 
-## 
+## inside workshop 
+
 
 
 # Agenda: 

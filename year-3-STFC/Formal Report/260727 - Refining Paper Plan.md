@@ -10,6 +10,14 @@ created: 2026-07-27
 
 
 **GET RID OF ALL TYPOS YOU  IDIOT**
+
+
+#  Proof Read Table 
+
+| Read iteration | Date |
+| -------------- | ---- |
+| 1              | 27   |
+
 # Previous paper and feedback
 [[pdf-260727_Industrial_Placement_Report.pdf]]
 ![[pdf-260727_Industrial_Placement_Report.pdf]]

@@ -21,13 +21,13 @@ created: 2026-07-21
 ## Flow and Deflection tests
 - what is the progress on the deflection tests
 	- how long is this going to take
-	- 
+	- can we squeeze this in at some point
 - do we chase up Andy church 
 	- sleeve for preventing copper pipes being bent
 	- do they know it is fully ready
 	- all manifold parts ordered? 
 	- what chiller do we order
-
+### Neil lids of st
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

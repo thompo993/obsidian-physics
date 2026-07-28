@@ -14,9 +14,15 @@ created: 2026-07-27
 
 #  Proof Read Table 
 
-| Read iteration | Date |
-| -------------- | ---- |
-| 1              | 27   |
+- [ ]
+-
+
+
+| Section |     |
+| ------- | --- |
+|         |     |
+|         |     |
+
 
 # Previous paper and feedback
 [[pdf-260727_Industrial_Placement_Report.pdf]]

@@ -17,9 +17,9 @@ created: 2026-07-27
 
 | Section                     | Proofread? |
 | --------------------------- | ---------- |
-| Abstract                    | y          |
-| Acknowledgements            | y          |
-| Introduction                | y          |
+| Abstract                    |            |
+| Acknowledgements            |            |
+| Introduction                |            |
 | Theory                      |            |
 | Experimental                |            |
 | Discussion and analysis     |            |
@@ -136,7 +136,7 @@ this is in first person.
 
 
 ## Additional feedback (self insert)
-- removal of 43mm tiles
+- removal of 3mm tiles
 - why did we re lap tiles for the 30mm tiles 
 - all /refs work (proofing)
 - future work, smaller PMT rig, or switch to SiPMs, 

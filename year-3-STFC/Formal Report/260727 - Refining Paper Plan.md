@@ -17,7 +17,7 @@ created: 2026-07-27
 
 | Section                     | Proofread? |
 | --------------------------- | ---------- |
-| Absteac                     | Proofread? |
+| Abstract                    |            |
 | Acknowledgements            |            |
 | Introduction                |            |
 | Theory                      |            |

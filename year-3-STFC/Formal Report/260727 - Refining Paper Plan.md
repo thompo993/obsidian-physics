@@ -10,7 +10,7 @@ created: 2026-07-27
 
 
 **GET RID OF ALL TYPOS YOU  IDIOT**
-- 
+
 
 #  Proof Read Table 
 ## Proofread #1

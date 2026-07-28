@@ -147,8 +147,8 @@ this is in first person.
 - add about better integrated counts error for the longer tiles
 - [[260727 - Claude Proofread and suggestions]]
 - add about tiles in 30mm not falling below threshold, but were low so investigated anway, e.g bc their 30mm and benchmark is super high
-- **are tiles really failing, future work invovles determining absaloute failure rate, and if it will be used on the detector**
-- mention the
+- **are tiles really failing, future work involves determining absolute failure rate, and if it will be used on the detector**
+- mention the 2D analysis wasn't helpful in the 210mm tiles
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 

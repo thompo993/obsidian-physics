@@ -10,6 +10,34 @@ created: 2026-07-27
 
 
 **GET RID OF ALL TYPOS YOU  IDIOT**
+
+
+#  Proof Read Table 
+## Proofread #1
+
+| Section                     | Proofread? |
+| --------------------------- | ---------- |
+| Abstract                    | y          |
+| Acknowledgements            | y          |
+| Introduction                | y          |
+| Theory                      |            |
+| Experimental                |            |
+| Discussion and analysis     |            |
+| conclusions and future work |            |
+| appendix                    |            |
+
+## Proofread #2 
+| Section                     | Proofread? |
+| --------------------------- | ---------- |
+| Acknowledgements            |            |
+| Introduction                |            |
+| Theory                      |            |
+| Experimental                |            |
+| Discussion and analysis     |            |
+| conclusions and future work |            |
+| appendix                    |            |
+
+
 # Previous paper and feedback
 [[pdf-260727_Industrial_Placement_Report.pdf]]
 ![[pdf-260727_Industrial_Placement_Report.pdf]]
@@ -20,11 +48,11 @@ created: 2026-07-27
 - Andre says it is a good start, structure was good and had technical details, main things to look for 
 - better explanation of the physics of super MuSR, especially what field it measures, where and what for. you can give some graphs from papers with typical results and ideally correlate the proposed improvements with science 
 - proofing of text too many inconsistencies, and even missing words
-- less notebook style of wrting, write more like a scientific report/paper
+- less notebook style of writing, write more like a scientific report/paper
 - ensure there is data to back everything up
 - **ensure latex formatting is good and that there are no typos**
 ### Less relevant
-- for future plans review waht ahs been done on the epoxy and search for other examples of epoxy cracking **in this case look at creation of similar tiles and see if they discussed any issues**
+- for future plans review what ahs been done on the epoxy and search for other examples of epoxy cracking **in this case look at creation of similar tiles and see if they discussed any issues**
 
 ## Claude cutting down plan 
 #### Tier 1 — Cut Theory background wholesale (~950 words, lowest risk)
@@ -115,10 +143,14 @@ this is in first person.
 - what is a Geiger mode detector 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poission statistics
-
+- ensure that the 210 and 105 scatter are acceptable
+- add about better integrated counts error for the longer tiles
+- [[260727 - Claude Proofread and suggestions]]
+- add about tiles in 30mm not falling below threshold, but were low so investigated anway, e.g bc their 30mm and benchmark is super high
+- **are tiles really failing, future work involves determining absolute failure rate, and if it will be used on the detector**
+- mention the 2D analysis wasn't helpful in the 210mm tiles
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 
 - So we are going to acknowledge that i couldn't estimate error on the integrated counts, and just used the standard deviation. surely the error cant be much on np.trapz
 - as we do not know the exact function this partuclar experimental setup contains, we cannot approximate error for integrated counts 
--

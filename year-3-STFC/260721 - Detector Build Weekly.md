@@ -7,12 +7,40 @@ created: 2026-07-21
 ---
 # Links: 
 
+
+# 260728 - detector build weekly
+- what constitutes failure? do we need to order more tiles
+
+- 2 month lead time on tile ordering tiles, does this effect how readily we want to order them?
+- consult dan on this 
+- when are the full barrel test? February 2027 
+- aluminium sheet has it arrived? 
+## inside workshop 
+- cracks resin and not the fibre - interesting 
+- **ALL THREE SMALLER SIZES ARE FULLY GLUED**
+- we still don't have titanium screws in one of the detector barrels 
+## Flow and Deflection tests
+- what is the progress on the deflection tests
+	- how long is this going to take
+	- can we squeeze this in at some point
+- do we chase up Andy church 
+	- sleeve for preventing copper pipes being bent
+	- do they know it is fully ready
+	- all manifold parts ordered? 
+	- what chiller do we order
+### Neil lids of staves and the cutting of thermal stuff 
+- Neil hasn't ordered or got anything, think graham was ordering stuff, ben to chase up 
+- how is thermal cutting getting on 
+	- Neil needs files to cut out thermal paste on the zund 
+	- have we ordered the thermal paste, biggest one is 200x100mm
+
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct
 - what happens to the 5 tiles that are close to being accepted 
 - should acceptance threshold become "investigation threshold"
 - 3D printed bends where are we? 
 - can will order some experimental parts
+- 
 
 ## next time we have a meeting 
 - discuss order more 210mm tiles. **THIS IS DEFINETLY NEEDED**

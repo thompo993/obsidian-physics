@@ -31,7 +31,7 @@ created: 2026-07-21
 	- what chiller do we order
 ### Neil lids of staves and the cutting of thermal stuff 
 - Neil hasn't ordered or got anything, think graham was ordering stuff, ben to chase up 
-- 
+- how is thermal cutting 
 
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct

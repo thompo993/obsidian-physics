@@ -7,6 +7,9 @@ created: 2026-07-21
 ---
 # Links: 
 
+
+# 260728 - detector build weekly
+
 # Agenda: 
 - I want to ask about what resins we used an when, this is to be sure that my report is correct
 - what happens to the 5 tiles that are close to being accepted 

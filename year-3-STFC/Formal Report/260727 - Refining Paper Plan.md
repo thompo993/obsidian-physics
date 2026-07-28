@@ -115,10 +115,10 @@ this is in first person.
 - what is a Geiger mode detector 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poission statistics
+- ensure that the 210 and 105 scatter are acc
 
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 
 - So we are going to acknowledge that i couldn't estimate error on the integrated counts, and just used the standard deviation. surely the error cant be much on np.trapz
 - as we do not know the exact function this partuclar experimental setup contains, we cannot approximate error for integrated counts 
--

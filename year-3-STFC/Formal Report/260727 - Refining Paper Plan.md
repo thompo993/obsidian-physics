@@ -154,3 +154,36 @@ this is in first person.
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 
 - So we are going to acknowledge that i couldn't estimate error on the integrated counts, and just used the standard deviation. surely the error cant be much on np.trapz
 - as we do not know the exact function this partuclar experimental setup contains, we cannot approximate error for integrated counts 
+
+
+## Procedure section 
+Looking at the document, there are two distinct error sources being handled with two different strategies:
+
+**1. Run-to-run error (timescale: minutes, within a single measurement session)**
+
+This comes from the physical act of setting up a measurement — specifically the optical coupling and alignment of a tile to a PMT. It was isolated using a single 30mm tile as a test case:
+
+- **Without disturbing the setup** (repeated PHS taken back-to-back, same grease/alignment): variation was **1.2%**. This is essentially the "floor" — electronic/statistical noise of the PMT + Picoscope readout itself.
+- **With full disturbance** (removing tile, re-greasing, re-aligning, then re-measuring): variation rose to **6.2%**. This isolates the _human/mechanical_ contribution — how reproducibly the grease coupling and physical alignment can be redone each time.
+
+Since this error can only ever _degrade_ the apparent light output (bad coupling never makes light output look artificially better), the paper's mitigation is to **take the highest-light-output run per tile** as the representative measurement — treating the rest as coupling losses rather than true tile variation.
+
+**2. Long-term drift (timescale: weeks/across a measurement campaign)**
+
+This is a separate, slower-acting error source — it isn't about how well any single tile is coupled, but about the _stability of the whole rig_ (PMT gain, HV supply, ambient temperature) drifting between measurement sessions taken days or weeks apart.
+
+- This was quantified using the **benchmark tile**, which is re-measured at the start and end of every day's batch of measurements.
+- Figure `peakfinder_stability` shows drift of **up to 9.8%** between these benchmark measurements across batches.
+- Mitigation: every tile measurement in a batch is **normalised to the mean of that batch's benchmark measurements**, so the drift is calibrated out rather than treated as tile-to-tile difference.
+
+**Summary of the distinction**
+
+||Run-to-run error|Long-term drift|
+|---|---|---|
+|Timescale|Minutes (within a session)|Days–weeks (between sessions/batches)|
+|Cause|Coupling/alignment reproducibility|PMT gain drift, HV drift, ambient temperature|
+|Measured via|Repeated 30mm tile runs (with/without redoing coupling)|Repeated benchmark tile runs at start/end of each day|
+|Magnitude|1.2% (setup unchanged) → 6.2% (setup redone)|up to 9.8%|
+|Correction strategy|Take best (highest) run per tile|Normalise batch to its own benchmark mean|
+
+One thing worth flagging: these two corrections are somewhat independent and applied at different stages — the "take the best run" correction handles the _within-session_ coupling variability for an individual tile, while the _batch normalisation_ handles the _across-session_ rig drift using the benchmark tile as a transfer standard. It might be worth stating explicitly in the write-up whether these two error contributions are assumed independent (and if you ever combine them into a total systematic uncertainty, e.g. by quadrature).

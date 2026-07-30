@@ -221,3 +221,13 @@ Here are a few minimal-edit options, each targeting the same one or two sentence
 > (inserted in place of "This was confirmed by using a single 30mm tile.")
 
 If you want, I can also do the same light-touch treatment for the drift paragraph so both sides use matching language (e.g. "long-timescale" mirroring whichever "short-timescale" phrasing you pick from above) — just say which option(s) you're leaning toward.
+
+Here are two standalone sentences, one for each section, written to slot in with minimal disruption:
+
+**For the optical coupling paragraph** (after "...variation between measurement increased to 6.2%."):
+
+> This confirms that coupling and alignment reproducibility is a short-timescale error, acting within a single measurement session, which justifies selecting the highest light output run per tile rather than averaging across runs.
+
+**For the calibration/stability paragraph** (after "...up to 9.8% variation between measurements of batches of the benchmark tile..."):
+
+> This demonstrates a separate, long-timescale drift acting across the measurement campaign, which is instead corrected for directly through batch normalisation to the benchmark tile.

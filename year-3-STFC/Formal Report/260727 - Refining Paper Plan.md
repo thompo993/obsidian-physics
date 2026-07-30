@@ -21,7 +21,7 @@ created: 2026-07-27
 | Acknowledgements            | yes        |
 | Introduction                | yes        |
 | Theory                      | yes        |
-| Experimental                |            |
+| Experimental                | yes        |
 | Discussion and analysis     |            |
 | conclusions and future work |            |
 | appendix                    |            |

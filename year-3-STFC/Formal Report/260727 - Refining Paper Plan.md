@@ -24,7 +24,7 @@ created: 2026-07-27
 | Experimental                | yes        |
 | 30                          | yes        |
 | 63                          | yes        |
-| 105                         |            |
+| 105                         | yes        |
 | 210                         |            |
 | conclusions and future work |            |
 | appendix                    |            |

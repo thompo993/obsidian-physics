@@ -193,3 +193,31 @@ It is important to distinguish between two independent sources of error present 
 The first is a short-timescale error, arising from the reproducibility of the optical coupling and physical alignment of a tile to its PMT, evaluated over a timescale of minutes. This was isolated using a single 30mm tile: when a series of PHS were taken without altering the optical coupling or alignment, the maximum variation between runs was 1.2\%, representing the intrinsic statistical/electronic floor of the measurement. When the coupling was instead removed, re-greased, and re-aligned between each measurement, this variation increased to 6.2\%, isolating the contribution from coupling and alignment reproducibility specifically. Since imperfect coupling can only ever suppress the apparent light output of a tile, never enhance it, this result is used purely to justify the selection of the highest light output run as the best representation of a given tile's true performance, rather than as a correction to be applied numerically.
 
 The second is a long-timescale error, arising from drift in the experimental rig itself -- including PMT gain drift, HV power supply drift, and ambient temperature changes -- evaluated over a timescale of days to weeks across a measurement campaign. This was quantified using repeated measurements of the benchmark tile taken at the start and end of each day's batch of measurements, which showed variation of up to 9.8\% between batches (Figure \ref{fig:peakfinder_stability}). Unlike the short-timescale coupling error, this drift is corrected for directly, by normalising all tile measurements within a batch to the mean of that batch's own benchmark measurements.
+
+
+
+
+Here are a few minimal-edit options, each targeting the same one or two sentences so you can mix and match. I've kept everything else in the extract untouched.
+
+**Option A — small clause inserted into the existing sentence**
+
+> These dominant sources of error can only degrade the light output, and since they act on the timescale of a single measurement rather than across the campaign, the highest light output run for each tile was selected to get the best representation of tile performance.
+
+**Option B — split into two sentences, explicit "justify" language**
+
+> These dominant sources of error can only degrade the light output. This justifies the selection of the highest light output run for each tile as the best representation of tile performance, rather than an average across runs.
+
+**Option C — minimal, just adds "short-timescale" as a label**
+
+> This short-timescale coupling and alignment error can only degrade the light output, therefore the highest light output run for each tile was selected to get the best representation of tile performance.
+
+**Option D — ties it forward to the drift paragraph without adding much**
+
+> These dominant sources of error can only degrade the light output, therefore the highest light output run for each tile was selected to get the best representation of tile performance (see below for the separate, longer-timescale drift correction applied via batch normalisation).
+
+**Option E — tiny addition, just one word for clarity on "confirmed"**
+
+> This was confirmed on a shorter timescale of minutes using a single 30mm tile.  
+> (inserted in place of "This was confirmed by using a single 30mm tile.")
+
+If you want, I can also do the same light-touch treatment for the drift paragraph so both sides use matching language (e.g. "long-timescale" mirroring whichever "short-timescale" phrasing you pick from above) — just say which option(s) you're leaning toward.

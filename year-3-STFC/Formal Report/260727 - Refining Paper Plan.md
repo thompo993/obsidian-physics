@@ -11,7 +11,7 @@ created: 2026-07-27
 
 **GET RID OF ALL TYPOS YOU  IDIOT**
 
-- consider the fact that mis alignment in the longer tiles is worse becuase you are not just shortening the path le
+- consider the fact that mis alignment in the longer tiles is worse because you are not just shortening the path length in one side, you are simultaneously increasing the path length in the other
 #  Proof Read Table 
 ## Proofread #1
 

@@ -17,8 +17,8 @@ created: 2026-07-27
 
 | Section                     | Proofread? |
 | --------------------------- | ---------- |
-| Abstract                    |            |
-| Acknowledgements            |            |
+| Abstract                    | yes        |
+| Acknowledgements            | yes        |
 | Introduction                |            |
 | Theory                      |            |
 | Experimental                |            |

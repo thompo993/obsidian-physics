@@ -22,7 +22,10 @@ created: 2026-07-27
 | Introduction                | yes        |
 | Theory                      | yes        |
 | Experimental                | yes        |
-| Discussion and analysis     |            |
+| 30                          | yes        |
+| 63                          | yes        |
+| 105                         |            |
+| 210                         |            |
 | conclusions and future work |            |
 | appendix                    |            |
 

@@ -26,8 +26,8 @@ created: 2026-07-27
 | 63                          | yes        |
 | 105                         | yes        |
 | 210                         | yes        |
-| conclusions and future work |            |
-| appendix                    |            |
+| conclusions and future work | yes        |
+| appendix                    | yes        |
 
 ## Proofread #2 
 | Section                     | Proofread? |

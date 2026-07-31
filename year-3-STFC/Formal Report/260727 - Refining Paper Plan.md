@@ -159,6 +159,7 @@ this is in first person.
 - why do longer tiles get effected worse by the defects
 	- scrates are the same size, as the cuase (human error)
 	- remains the same, so for a dimmer and more sensitive tile, the same mistake will have a more significant effect. 
+- temperature effects breakdown voltage of SiPMs what is the observed effect
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 

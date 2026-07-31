@@ -15,5 +15,22 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
 - we have got `automate.py` to work and successfully start and stop all digitisers [[260429 - Emulation of digitisers]]
 - All digitisers are collecting the correct file from the DAQ Sever `\\daqserver.isis.cclrc.ac.uk\daqserver$\new-ubuntu-24\netcfg`
 	with the following parameters: 
+	```
+	"kafka": {
+        "enabled": true,
+        "brokers": "130.246.84.15:9092",
+        "topic": "daq-trace",
+        "acls": false,
+        "username": "user",
+        "password": "user",
+        "properties": {
+            "compression.type": "none"
+        }
+    },
+    "kafka_events": {
+        "enabled": true,
+        "brokers": "130.246.84.15:9092",
+        "topic": "daq-event"
+	```
 
 

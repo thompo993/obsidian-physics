@@ -51,9 +51,9 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
         "topic": "daq-event"
 	```
 
-- On Grafana, all digitisers have:
+- On [Grafan][[Grafana](http://te7gull.te.rl.ac.uk:3000/d/c9529eb7-a525-4e95-9f61-f49adb2ebef5/dev-dash-dev-daq121-monitoring?orgId=1&from=now-6h&to=now&timezone=browser&var-Instrument=MUSR&refresh=30s)], most digitisers have:
 	- working timestamp 
 	- working acquisition running 
 	- working status packets 
 	- average count rate is on for most digitiser
-
+-

@@ -32,5 +32,26 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
         "brokers": "130.246.84.15:9092",
         "topic": "daq-event"
 	```
+	and 
+	```
+	kafka": {
+        "enabled": true,
+        "brokers": "130.246.84.15:9092",
+        "topic": "daq-trace",
+        "acls": false,
+        "username": "user",
+        "password": "user",
+        "properties": {
+            "compression.type": "none"
+        }
+    },
+    "kafka_events": {
+        "enabled": true,
+        "brokers": "130.246.84.15:9092",
+        "topic": "daq-event"
+	```
 
+- On Grafana, all digitisers have:
+	- working timestamp 
+	- working acquisiton ru
 

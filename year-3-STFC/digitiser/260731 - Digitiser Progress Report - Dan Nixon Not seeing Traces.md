@@ -63,15 +63,15 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
 	DAQ ID is obtained by: 
 	
      ``` 
-	_experiments:_
-  _hifi:_
-    _- mac: 02:ab:ba:00:22:22_
-      _digitizer: 1_
-      _daq : 0_
-      _config: hifi-daq1.json_
-      _sysconfig : sysconfig.json
-      _firmware: fw_
-      _channels : [0,1,2,3,4,5,6,7]
+	experiments:
+  hifi:
+    - mac: 02:ab:ba:00:22:22
+      digitizer: 1
+      daq : 0
+      config: hifi-daq1.json
+      sysconfig : sysconfig.json
+      firmware: fw_
+      channels : [0,1,2,3,4,5,6,7]
      ```
 The DAQ_ID  is then made as (digitizer _ ID * 4) + daq_number. 
       _digitizer: 1_

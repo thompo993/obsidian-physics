@@ -53,5 +53,7 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
 
 - On Grafana, all digitisers have:
 	- working timestamp 
-	- working acquisiton ru
+	- working acquisition running 
+	- working status packets 
+	- average count rate is on for most digitiser
 

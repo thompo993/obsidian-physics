@@ -34,8 +34,8 @@ created: 2026-07-27
 | --------------------------- | ---------- |
 | Abstract                    | yes        |
 | Acknowledgements            | yes        |
-| Introduction                |            |
-| Theory                      |            |
+| Introduction                | yes        |
+| Theory                      | yes        |
 | Experimental                |            |
 | 30                          |            |
 | 63                          |            |

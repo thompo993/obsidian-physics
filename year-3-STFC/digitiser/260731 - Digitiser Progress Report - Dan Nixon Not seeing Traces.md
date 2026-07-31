@@ -60,3 +60,19 @@ Dan Nixon is not seeing traces on his end.  He is only seeing `DAQ_ID: 33` sendi
 - Dave, Piers and I have been monitoring network on Wireshark, nothing showing up from IPs we think are working 
 - All digitisers are labelled and given `DAQ_ID` between 0 and 127.
 	despite the DAQ that Dan Nixon has seen as working having its `DAQ_ID` changed, it is still only DAQ_ID 33 that is showing up
+	DAQ ID is obtained by: 
+	
+     ``` 
+	_experiments:_
+  _hifi:_
+    _- mac: 02:ab:ba:00:22:22_
+      _digitizer: 1_
+      _daq : 0_
+      _config: hifi-daq1.json_
+      _sysconfig : sysconfig.json
+      _firmware: fw_
+      _channels : [0,1,2,3,4,5,6,7]
+     ```
+The DAQ_ID  is then made as (digitizer _ ID * 4) + daq_number. 
+      _digitizer: 1_
+      _daq : 0_

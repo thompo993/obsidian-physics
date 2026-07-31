@@ -155,8 +155,10 @@ this is in first person.
 
 ### presentation 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
-- what are poission statistics
-- why do longer tiles get effected worse by the
+- what are poisson statistics
+- why do longer tiles get effected worse by the defects
+	- scrates are the same size, as the cuase (human error)
+	- remains the same, so for a dimmer and more senestaive tile, t
 
 ## Error propagation update 
 - I'm sure the code that Claude has written is good for estimating error, but for the sake of the report i am unsure of how to properly include it without plagiarizing. 

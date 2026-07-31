@@ -32,11 +32,15 @@ created: 2026-07-27
 ## Proofread #2 
 | Section                     | Proofread? |
 | --------------------------- | ---------- |
-| Acknowledgements            |            |
+| Abstract                    | yes        |
+| Acknowledgements            | yes        |
 | Introduction                |            |
 | Theory                      |            |
 | Experimental                |            |
-| Discussion and analysis     |            |
+| 30                          |            |
+| 63                          |            |
+| 105                         |            |
+| 210                         |            |
 | conclusions and future work |            |
 | appendix                    |            |
 

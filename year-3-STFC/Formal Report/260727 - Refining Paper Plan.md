@@ -38,11 +38,11 @@ created: 2026-07-27
 | Theory                      | yes        |
 | Experimental                | yes        |
 | 30                          | yes        |
-| 63                          |            |
-| 105                         |            |
-| 210                         |            |
-| conclusions and future work |            |
-| appendix                    |            |
+| 63                          | yes        |
+| 105                         | yes        |
+| 210                         | yes        |
+| conclusions and future work | yes        |
+| appendix                    | yes        |
 
 
 # Previous paper and feedback

@@ -1,7 +1,7 @@
 ---
-created:
-  "{ date }":
+created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
+  - daily-notes
 ---
 
 # {{date:dddd, MMMM Do, YYYY}}

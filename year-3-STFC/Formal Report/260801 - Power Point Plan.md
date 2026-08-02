@@ -26,3 +26,8 @@ created: 2026-08-01
 	> short timeframe errors 
 	> how we account for both of these 
 	> why repeating benchmark measurements solves both of these issues 
+
+
+### potential changes to strucutre 
+collapse 105 and 63mm tiles into one, nothing clear showing issues between the tiles as message for both of them is the same
+maybe get rid of 2D stud analysis sections?

@@ -7,6 +7,10 @@ created: 2026-08-01
 ---
 # Links: 
 [[260603 - Plan]]
+
+# Media 
+ 
+![[pp-260803-presentation_with_erik_feedback.pdf]]
 # Notes:
 # V1
 ### presentation 
@@ -68,5 +72,4 @@ cut theory section down if required
 # V2 Erik Feedback
 ## General Feedback
 - way less bullet points data is overwhelming 
-- better narrative and flow, a few things are not quite right. 
-- ![[presentation_with_erik_feedback.pptx]]
+- better narrative and flow, a few things are not quite right.

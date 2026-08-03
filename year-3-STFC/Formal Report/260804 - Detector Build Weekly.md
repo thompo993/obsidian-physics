@@ -13,5 +13,7 @@ created: 2026-08-03
 	- thermal paste
 	- aluminium sheet 
 - Deflection tests, should be in progress
+- Cooling tests, is there an update?
 - Determination of tests regarding absolute acceptance threshold
+- Aside: sanity check presentation with muon guys for 10 mins, another date. 
 # Minutes:

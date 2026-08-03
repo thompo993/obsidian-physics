@@ -38,7 +38,6 @@ cut theory section down if required
 
 
 ## Likely questions 
-### Likely questions from supervisors/colleagues
 
 **On the acceptance threshold (slides 12–13)**
 

@@ -32,7 +32,7 @@ created: 2026-07-28
 - 60mm tiles, 13.9% seem to be a lot, but they are all within 10% of the benchmark, so are these really failures? will be determined by absolute accept/reject threshold **don't need to order more**
 - 105mmmm tiles 7.3%, they are all within 5% of the benchmark mean, so these are **don't need to order more**
 - 210mm tiles, 12/45 (26.7%) fall below 10%. we have recovered performance after tile 078. **should order more (approx 20?)**
-![[fig-260728-tile-testing-210mm-tile-id-measured-on-260629.png]]
+![[fig-260728-tile-testing-210mm-tile-id-measured-on-260629.png|433]]
 
 
 ### Workshop discussion 

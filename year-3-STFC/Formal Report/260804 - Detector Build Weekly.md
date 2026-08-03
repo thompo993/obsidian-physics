@@ -13,5 +13,5 @@ created: 2026-08-03
 	- thermal paste
 	- aluminium sheet 
 - Deflection tests, should be in progress
-- 
+- Determination of tests 
 # Minutes:

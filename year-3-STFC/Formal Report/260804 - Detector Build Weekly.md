@@ -14,7 +14,7 @@ created: 2026-08-03
 - Do the "bad" 43mm tiles perform above threshold?
 
 
-
+## Other
 - Discuss if to order more 210mm tiles 
 - catch eve up to speed 
 - procurement 

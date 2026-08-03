@@ -8,7 +8,7 @@ created: 2026-08-01
 # Links: 
 [[260603 - Plan]]
 # Notes:
-
+# V1
 ### presentation 
 - IN PRESENTATION EXPLAIN ERROR MORE, WHAT IF ANDRE ASKS ABOUT IT
 - what are poisson statistics
@@ -64,3 +64,5 @@ cut theory section down if required
 **Likely quick clarifying question**
 
 - Slide 18 mentions a new LHS/RHS correlation diagnostic — has this been validated on tiles with known defects, or is it applied for the first time in this dataset?
+
+# V2 Erik Feedback

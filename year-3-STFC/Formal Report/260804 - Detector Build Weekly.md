@@ -7,6 +7,8 @@ created: 2026-08-03
 # Links: 
 [[260728 - Detector Build Weekly]]
 # Agenda: 
+- 43mm tiles, all look good. 
+- Do the "bad" 43mm tiles perform above threshold?
 - Discuss if to order more 210mm tiles 
 - catch eve up to speed 
 - procurement 

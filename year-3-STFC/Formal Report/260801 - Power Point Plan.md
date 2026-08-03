@@ -72,4 +72,4 @@ cut theory section down if required
 # V2 Erik Feedback
 - way less bullet points data is overwhelming 
 - better narrative and flow, a few things are not quite right.
-- slide specific feedback is 
+- slide specific feedback is found in the above pdf, or in UoB OneDrive 

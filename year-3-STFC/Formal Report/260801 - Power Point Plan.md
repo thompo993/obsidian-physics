@@ -66,4 +66,7 @@ cut theory section down if required
 - Slide 18 mentions a new LHS/RHS correlation diagnostic — has this been validated on tiles with known defects, or is it applied for the first time in this dataset?
 
 # V2 Erik Feedback
-## General Feed
+## General Feedback
+- way less bullet points data is overwhelming 
+- better narrative and flow, a few things are not quite right. 
+- ![[presentation_with_erik_feedback.pptx]]

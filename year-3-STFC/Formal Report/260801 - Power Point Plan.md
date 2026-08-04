@@ -78,3 +78,5 @@ cut theory section down if required
 
 ## V3 Erik Feedback 
 - not mentioning all text on outline = good
+- slide 9, mention why we are comparing them, Super MuSR is the replacement 
+- 

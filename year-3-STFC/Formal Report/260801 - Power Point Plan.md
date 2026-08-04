@@ -80,3 +80,4 @@ cut theory section down if required
 - not mentioning all text on outline = good
 - slide 9, mention why we are comparing them, Super MuSR is the replacement 
 - slide 10, never said that SiPMs are light detectors 
+- slide 11, don't point, describe where on the slides everything is the points

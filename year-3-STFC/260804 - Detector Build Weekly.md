@@ -47,8 +47,7 @@ created: 2026-08-04
 ## Scintillating Tile Updates
 - 43mm tiles are performing well 
 - requested quote for 20 210mm tiles, have not heard back
-- Tiles that Neil initially rejected are 
-
+- Tiles that Neil initially rejected are performing above acceptance threshold
 ## Procurement 
 - Aluminium sheet ordered and arrived (should be enough for all staves)
 - thermal pad for four staves is due to arrive today 
@@ -56,3 +55,5 @@ created: 2026-08-04
 - What are we going to purchase for the thermal insulation that goes on the outside of the barrel
 - anti static mat for stave assembly 
 - anti static bracelets for stave assembly 
+
+# T

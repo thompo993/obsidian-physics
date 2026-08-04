@@ -44,3 +44,4 @@ created: 2026-08-04
 - personal, email will about talk. i can just send the slides. 
 
 # Minutes written up
+## Scintillating Tile Updates

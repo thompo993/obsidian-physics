@@ -32,7 +32,7 @@ created: 2026-08-01
 	> why repeating benchmark measurements solves both of these issues 
 
 
-### potential changes to strucutre 
+### potential changes to structure 
 collapse 105 and 63mm tiles into one, nothing clear showing issues between the tiles as message for both of them is the same
 maybe get rid of 2D stud analysis sections?
 cut theory section down if required

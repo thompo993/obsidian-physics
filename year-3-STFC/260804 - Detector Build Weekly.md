@@ -31,4 +31,5 @@ created: 2026-08-04
 - four staves worth of thermal pad, we want to check how we can cut it. 
 	- is this with waterjet or zund
 - neil now has everything he requires. 
-- Francesco contacted Andy church, we sent the drawings. 
+- Francesco contacted Andy church, we sent the drawings 
+- they need the internal diameter of the pipes and stuff 

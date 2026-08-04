@@ -2,7 +2,7 @@
 tags:
   - meeting
   - super-musr
-created: 2026-08-03
+created: 2026-08-04
 ---
 # Links: 
 [[260728 - Detector Build Weekly]]

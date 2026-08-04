@@ -74,3 +74,7 @@ cut theory section down if required
 - better narrative and flow, a few things are not quite right.
 - slide specific feedback is found in the above pdf, or in UoB OneDrive 
 - **Much more to do, continue updating this feedback**
+
+
+## V3 Erik Feedback 
+- 

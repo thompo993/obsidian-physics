@@ -41,33 +41,6 @@ cut theory section down if required
 
 
 
-## Likely questions 
-
-**On the acceptance threshold (slides 12–13)**
-
-- Why is the threshold defined as "average detector P/V exceeds MuSR's" rather than a fixed absolute number? What happens to a stave where 90% of tiles pass but the average barely clears the line?
-- The MuSR benchmark P/V (1.653±0.016) was measured "parasitically" — how confident are you that conditions during that parasitic measurement matched your bench-rig conditions?
-
-**On the 210mm tile / resin story (slides 20–22)**
-
-- This is your most detailed failure investigation, so expect the most digging here: was the "poor resin application" root-caused to a process step (technician, batch, timing), or could it recur unpredictably?
-- You mention pooling fixed it but "did not fully recover performance" and cite "contamination between resin surfaces" — what's the mechanism there, and is it solved or just mitigated?
-- Why did this defect only show up at 210mm and not at shorter lengths — is it purely handling/gravity during curing, or something else?
-
-**On statistics generally**
-
-- Several slides give a single tile-length distribution and one skew statement (e.g. "negatively skewed gaussian recovered") — will you be asked for the actual test statistic, or is "the shape looks skewed" sufficient at this stage?
-- Your fractional error of ~6% is described as "really an estimate because the rig was different" — expect someone to ask whether this uncertainty was propagated into the pass/fail calls, or just used as context.
-
-**On scope/next steps**
-
-- Slide 23 mentions 43mm tiles now in production — is that a new geometry outside anything shown here, and do the same acceptance criteria apply?
-- What's the actual plan for the 210mm tiles that still don't recover fully — are they excluded from the final build, or is further rework planned?
-- "Develop absolute test of brightness" is listed as future work — do you have a proposed method already, or is this open?
-
-**Likely quick clarifying question**
-
-- Slide 18 mentions a new LHS/RHS correlation diagnostic — has this been validated on tiles with known defects, or is it applied for the first time in this dataset?
 
 # V2 Erik Feedback
 - way less bullet points data is overwhelming 

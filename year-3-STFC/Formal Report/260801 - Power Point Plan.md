@@ -77,4 +77,4 @@ cut theory section down if required
 
 
 ## V3 Erik Feedback 
-- 
+- not mentioning all text on outline = good

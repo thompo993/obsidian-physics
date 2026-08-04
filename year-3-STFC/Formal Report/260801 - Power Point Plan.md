@@ -83,3 +83,4 @@ cut theory section down if required
 - slide 11, don't point, describe where on the slides everything is, andre cannot see!
 	- say where it is so that we can make it obvious the flow of the slide
 	- CONSIDER ONLINE PEOPLE!!!
+- sl

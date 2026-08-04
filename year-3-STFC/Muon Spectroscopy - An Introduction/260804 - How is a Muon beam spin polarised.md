@@ -7,6 +7,7 @@ created: 2026-08-04
 # Links: 
 [[MuSR]]
 # Notes:
-When pions decay, it is at two body decay and therefore simple. for pions at rest in the laboratory frame, the muon and neutrino must have eqaul and opposite momentumm. 
-the pion has 
+When pions decay, it is at two body decay and therefore simple. for pions at rest in the laboratory frame, the muon and neutrino must have equal and opposite momentum. 
+the pion has zero spin and so the muon and neutrino spin must add to zero. 
+a neutrino has negative helicity and so its spin is antiparallel with its momentum, so the same is true for the muon. 
 

@@ -86,3 +86,4 @@ cut theory section down if required
 - slide 16: and later, the parastic measurements are not easily understood 
 - it reads that the 210mm PHS spectrum is the parastic measurement image, images are being tested
 - remove it for the stave picture only.  see how it looks 
+- slide 20: took a long time to explain about the positive skew, try and make it shorter. expect to be asked about it

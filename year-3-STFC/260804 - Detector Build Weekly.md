@@ -42,3 +42,5 @@ created: 2026-08-04
 - anti static mat 
 - Francesco to add eve to all SharePoint things
 - personal, email will about talk. i can just send the slides. 
+
+# Minutes written up

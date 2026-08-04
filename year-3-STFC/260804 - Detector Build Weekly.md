@@ -33,3 +33,5 @@ created: 2026-08-04
 - neil now has everything he requires. 
 - Francesco contacted Andy church, we sent the drawings 
 - they need the internal diameter of the pipes and stuff 
+- **we need to determine what thermal covering for the outside of the barrel**
+	- what thickenss is required we have little space

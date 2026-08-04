@@ -26,3 +26,8 @@ created: 2026-08-04
 - Aside: sanity check presentation with muon guys for 10 mins, another date. 
 # Minutes:
 - no quotation for 20 210mm tiles 
+- aluminium sheet ordered and with neil 
+- thermal pad supposed to arrive today 
+- four staves worth of thermal pad, we want to check how we can cut it. 
+	- is this with waterjet or zund
+- neil now has everything he requires. 

@@ -56,4 +56,10 @@ created: 2026-08-04
 - anti static mat for stave assembly 
 - anti static bracelets for stave assembly 
 
-# T
+# Tests
+## Deflection tests
+- in progress! 
+
+## Cooling tests 
+- all information given to Andy church 
+- should we invite him to the next meeting? 

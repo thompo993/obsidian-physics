@@ -35,3 +35,5 @@ created: 2026-08-04
 - they need the internal diameter of the pipes and stuff 
 - **we need to determine what thermal covering for the outside of the barrel**
 	- what thickness is required we have little space
+- neil rejected some tiles that are 43mm, these are tiles 137 and 138, and the result is that they are performing fine!
+- get photgraphs of this. 

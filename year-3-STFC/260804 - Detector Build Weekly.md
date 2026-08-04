@@ -40,3 +40,4 @@ created: 2026-08-04
 - deflection tests are in progress!
 - anti static bracelet 
 - anti static mat 
+- francesco to add eve to all sharepoint things

@@ -88,4 +88,4 @@ cut theory section down if required
 - remove it for the stave picture only.  see how it looks 
 - slide 20: took a long time to explain about the positive skew, try and make it shorter. expect to be asked about it
 - slide 23, make the bullet points more clear, why is pooling good etc. but don't write too many words
-- dont mention tile 78 specifically, just saw we saw the light output return 
+- dont mention tile 78 specifically, just saw we saw the light output return that we are expecting. 

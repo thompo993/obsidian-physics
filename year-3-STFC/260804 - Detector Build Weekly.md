@@ -46,4 +46,7 @@ created: 2026-08-04
 # Minutes written up
 ## Scintillating Tile Updates
 - 43mm tiles are performing well 
-- requested quote for 
+- requested quote for 20 210mm tiles, have not heard back
+
+## Procurement 
+- Aluminium sheeet ordered and arrived 

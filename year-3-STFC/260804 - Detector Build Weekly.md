@@ -51,5 +51,7 @@ created: 2026-08-04
 
 ## Procurement 
 - Aluminium sheet ordered and arrived (should be enough for all staves)
-- thermal pad for four staves as arrived 
-- 
+- thermal pad for four staves is due to arrive today 
+- ordering and looking into wills 3D printed fittings 
+- What are we going to purchase for the thermal insulation that goes on the outside of the barrel
+- anti static 

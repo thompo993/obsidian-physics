@@ -38,3 +38,5 @@ created: 2026-08-04
 - neil rejected some tiles that are 43mm, these are tiles 137 and 138, and the result is that they are performing fine!
 - get photographs of this. 
 - deflection tests are in progress!
+- anti static bracelet 
+- anti static mat 

@@ -53,7 +53,7 @@ created: 2026-08-04
 - thermal pad for four staves is due to arrive today 
 - ordering and looking into wills 3D printed fittings 
 - What are we going to purchase for the thermal insulation that goes on the outside of the barrel
-- anti static mat for stave assembly, also need to consider thickenss
+- anti static mat for stave assembly, also need to consider thickness
 - anti static bracelets for stave assembly 
 
 # Tests

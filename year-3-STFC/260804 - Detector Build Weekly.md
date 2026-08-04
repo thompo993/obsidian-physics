@@ -25,4 +25,4 @@ created: 2026-08-04
 - Determination of tests regarding absolute acceptance threshold
 - Aside: sanity check presentation with muon guys for 10 mins, another date. 
 # Minutes:
-- no quotation for 20
+- no quotation for 20 210mm tiles 

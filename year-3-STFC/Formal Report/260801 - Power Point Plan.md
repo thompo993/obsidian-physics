@@ -83,4 +83,6 @@ cut theory section down if required
 - slide 11, don't point, describe where on the slides everything is, andre cannot see!
 	- say where it is so that we can make it obvious the flow of the slide
 	- CONSIDER ONLINE PEOPLE!!!
-- sl
+- slide 16: and later, the parastic measurements are not easily understood 
+- it reads that the 210mm PHS spectrum is the parastic measurement image, images are being tested
+- remove it for the stave picture only. 

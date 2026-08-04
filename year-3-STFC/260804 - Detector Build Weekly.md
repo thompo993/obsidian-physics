@@ -47,6 +47,9 @@ created: 2026-08-04
 ## Scintillating Tile Updates
 - 43mm tiles are performing well 
 - requested quote for 20 210mm tiles, have not heard back
+- Tiles that Neil initially rejected are 
 
 ## Procurement 
-- Aluminium sheeet ordered and arrived 
+- Aluminium sheet ordered and arrived (should be enough for all staves)
+- thermal pad for four staves as arrived 
+- 

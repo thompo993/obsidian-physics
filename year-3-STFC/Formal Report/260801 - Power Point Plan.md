@@ -83,7 +83,7 @@ ISIS is a pulsed spallation neutron and muon source with 30+ instruments, ~1200 
 
 - What is a "pulsed" source, and how does that differ from a continuous source (e.g. PSI)?
 - Where does ISIS sit relative to other major muon facilities worldwide (PSI, TRIUMF, J-PARC)?
-- Why do materials scientists specifically care about muon techniques rather than just neutrons or X-rays?
+- Why do materials scientists specifically care about muon techniques rather than just neutrons or X-rays? ==study's dynamics, better at measuring magnetic fields== 
 
 ### Production of Muons (Slides 5–6)
 

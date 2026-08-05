@@ -293,4 +293,5 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - ISIS is a neutron and muon source, mention both 
 -  why carbon target? 
 	- we need a pion decay chain 
-	- musr sepcailises in muonium samples 
+	- musr specialises in muonium samples, so we need positive 
+- ask if each bullet point is contributing anything 

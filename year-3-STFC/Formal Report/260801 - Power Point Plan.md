@@ -295,3 +295,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 	- we need a pion decay chain 
 	- musr specialises in muonium samples, so we need positive 
 - ask if each bullet point is contributing anything 
+- noy very clear on what data collection is
+	- more tiles mean we cover more solid angle 
+	- what is the solid angle we have on each tile 
+- Make rehea

@@ -298,4 +298,6 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - noy very clear on what data collection is
 	- more tiles mean we cover more solid angle 
 	- what is the solid angle we have on each tile 
-- Make rehea
+- Make rehearsed response on how a tile works 
+- learn mechanism for the WLSF andd scintillator, this is florence 
+- weekly time managed process

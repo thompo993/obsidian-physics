@@ -323,3 +323,16 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - make link between beamline, to tile, to sr90 and why this is hard, as we limited beamlime 
 - peak finding is bad in lomger counts 
 - assuming the same shape integrated counts shifts left and right. 
+- -Felt like a list of everything ive done, should link more things
+-Spoke through production process, foreshadow that we find issues
+-Highlight issues in production
+-“this could be an issue later”
+-MORE LINKING
+-More of a story less of a diary
+-Seems like the process is already set, doestn come throught that we optimized this.
+-Need to say that I have done this more
+-Steering and critical decisions
+-Not enough of my impact comes through.
+-Proactively steering
+-Mentioned after each length, I was reporting weekly etc, what of the steps is causing the reduction in light output.
+-Remphasis the cyclic nature.

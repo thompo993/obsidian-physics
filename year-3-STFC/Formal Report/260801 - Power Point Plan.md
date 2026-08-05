@@ -299,5 +299,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 	- more tiles mean we cover more solid angle 
 	- what is the solid angle we have on each tile 
 - Make rehearsed response on how a tile works 
-- learn mechanism for the WLSF andd scintillator, this is florence 
-- weekly time managed process
+- learn mechanism for the WLSF and scintillator, this is Florescence  
+- weekly time managed process had to be repoerted on weekly, its a real time production 
+- added data analysis tools and steered production 
+- 

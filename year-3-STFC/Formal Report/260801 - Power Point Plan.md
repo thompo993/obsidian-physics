@@ -290,7 +290,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 |210 mm underperformers before/after refill|32.1% worse → 20.3% worse than benchmark|
 |Overall tiles flagged|8.3%|
 # V3 Changes to make - Jeff Sarah, Dan
-- ISIS is a neutron and muon source, mention both 
+- ~~ISIS is a neutron and muon source, mention both~~ 
 -  why carbon target? 
 	- we need a pion decay chain 
 	- musr specialises in muonium samples, so we need positive 

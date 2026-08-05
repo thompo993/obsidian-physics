@@ -64,7 +64,7 @@ cut theory section down if required
 - dont mention tile 78 specifically, just saw we saw the light output return that we are expecting. 
 
 
-# Potential Questions 
+## Potential Questions 
 
 
 **Presenter:** Ben Thompson
@@ -289,3 +289,4 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 |210 mm tiles tested|37 (7 flagged, 3 after excluding refilled)|
 |210 mm underperformers before/after refill|32.1% worse → 20.3% worse than benchmark|
 |Overall tiles flagged|8.3%|
+# V3 Changes to make - 

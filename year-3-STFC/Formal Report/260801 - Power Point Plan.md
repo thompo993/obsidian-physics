@@ -319,4 +319,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - expalme of how we saw drop, cuaght the error and could continue onwards
 - we do not want to recover a negative skew 
 - wax lyrical about why this is not intuitve and it was a good thing to spot 
-- integratec ounts means that the tile has to shift to the left hand 
+- integratec ounts means that the tile has to shift to the left hand side 
+- make link between beamline, to tile, to sr90 and why this is hard, as we limited beamlime 
+- peak finding is bad in lomger counts 
+- assuming the same shape integrated counts shifts left and right. 

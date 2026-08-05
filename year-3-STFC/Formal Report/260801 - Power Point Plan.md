@@ -311,3 +311,5 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - lots has been reported but not included here. 
 - align whole powerpoint better
 - explaining why PHS peak is a valid metric 
+- speak that 210mm tiles are "within error"
+- for the 30mm tiles, we were changing alot, so the 63mm are more closely distributed 

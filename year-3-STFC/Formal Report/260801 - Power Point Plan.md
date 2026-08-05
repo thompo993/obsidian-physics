@@ -329,7 +329,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 -“this could be an issue later”
 -MORE LINKING
 -More of a story less of a diary
--Seems like the process is already set, doestn come throught that we optimized this.
+-Seems like the process is already set, doestn come through that we optimized this.
 -Need to say that I have done this more
 -Steering and critical decisions
 -Not enough of my impact comes through.

@@ -300,9 +300,12 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 	- what is the solid angle we have on each tile 
 - Make rehearsed response on how a tile works 
 - learn mechanism for the WLSF and scintillator, this is Florescence  
-- weekly time managed process had to be repoerted on weekly, its a real time production 
+- weekly time managed process had to be reported on weekly, its a real time production 
 - added data analysis tools and steered production 
 - this is a subsection of results, and make sure to mention this 
 - A summary slide of things that have been optimised and noticed as having an effect
 - workflow slide
-- hint 
+- hint at all the things we did, not just these test 
+- caught the fact that i had to normalise the data out, 
+	- required investiagtion and setup, resulting in mornalizing hte data 
+- lots has been reported but not included here. 

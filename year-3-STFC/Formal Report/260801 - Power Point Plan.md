@@ -307,5 +307,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - workflow slide
 - hint at all the things we did, not just these test 
 - caught the fact that i had to normalise the data out, 
-	- required investiagtion and setup, resulting in mornalizing hte data 
+	- required investigation and setup, resulting in normalizing the data 
 - lots has been reported but not included here. 
+- align whole powerpoint better
+- explaining why PHS peak is a valid metric 

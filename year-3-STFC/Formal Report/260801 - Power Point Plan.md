@@ -314,4 +314,7 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - speak that 210mm tiles are "within error"
 - for the 30mm tiles, we were changing alot, so the 63mm are more closely distributed 
 - mention stud diagnostic as its own slide, as like a case study of something extra that i did 
+- re menntion that we  caught wonky studs
+- show a good vs bad plot
+- expalme of how we saw drop, cuaght the error and could continue onwards
 - 

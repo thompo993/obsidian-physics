@@ -317,4 +317,4 @@ These tend to come up regardless of slide content — worth rehearsing even thou
 - re menntion that we  caught wonky studs
 - show a good vs bad plot
 - expalme of how we saw drop, cuaght the error and could continue onwards
-- 
+- we do not want to recover a negative skew 

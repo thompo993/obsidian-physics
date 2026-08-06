@@ -16,5 +16,8 @@ Take tile off and remove optical grease with screen wipe
 Clean photocathodes with isopropanol and deionised water solution
 Clean tile studs with same solution and make sure they are dry
 Apply optical vacuum grease again (small peaks) and press down into photocathode, align with source by eye, replace strontium source and close box
-Replace 
+Replace cloth and turn power back on
+Start run on picoscope (check settings on setup)
+Wait ~10 mins (or longer, set runs going overnight)
+Repeat
 

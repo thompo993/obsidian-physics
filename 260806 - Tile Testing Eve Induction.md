@@ -9,5 +9,5 @@ created: 2026-08-06
 [[calibration-documentation]]
 # Notes:
 Switch off HV supply
-
+Take off light-tight cloth (scientific blanket) and open box (with cool stand)
 

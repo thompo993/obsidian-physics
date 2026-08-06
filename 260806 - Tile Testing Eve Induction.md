@@ -22,3 +22,7 @@ Wait ~10 mins (or longer, set runs going overnight/over weekend)
 Repeat on RHS
 
 ## Tile " LHS RHS"
+![[fig-260806-tile-naming-convention-scintillator.png]]
+
+
+- This is the naming convention for the tiles, if the text on the tiles is the correct way up, it 

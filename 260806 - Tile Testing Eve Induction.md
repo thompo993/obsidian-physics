@@ -21,6 +21,4 @@ Start run on picoscope (check settings on setup)
 Wait ~10 mins (or longer, set runs going overnight/over weekend)
 Repeat on RHS
 
-## Tile " LHS RHS" Convention 
-
-
+## Tile " LHS RHS"

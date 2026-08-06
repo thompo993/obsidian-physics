@@ -25,4 +25,4 @@ Repeat on RHS
 ![[fig-260806-tile-naming-convention-scintillator.png]]
 
 
-- This is the naming convention for the tiles, if the text on the tiles is the correct way up, it 
+- This is the naming convention for the tiles, if the text on the tiles is the correct way up, it is the LHS is on the left as you view it 

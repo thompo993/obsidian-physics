@@ -13,6 +13,6 @@ Take off light-tight cloth (scientific blanket) and open box (with cool stand)
 Ensure power supply is completely 0 V
 Remove Strontium source (let others, if around, know you are moving it)
 Take tile off and remove optical grease with screen wipe
-Clean lenses with isopropanol and deionised water solution
-
+Clean photocathodes with isopropanol and deionised water solution
+Clean tile studs with same solution 
 

@@ -26,5 +26,8 @@ After the prd stave testing was complete 63mm tiles were removed from the stave 
 currently having issues with the peak finder, potentially need to re gain match, or place the tiles more centrally. Very broad peaks. 
 With better alignment of the tiles, it seems that you can get a broad peak that works
 will need longer runs as broad peaks require better stats. 
-chosen benchmark tile id
+chosen benchmark tile id012
+
+### 210mm 
+chosen tile was id008
 

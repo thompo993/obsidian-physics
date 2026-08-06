@@ -18,6 +18,6 @@ Clean tile studs with same solution and make sure they are dry
 Apply optical vacuum grease again (small peaks) and press down into photocathode, align with source by eye, replace strontium source and close box
 Replace cloth and turn power back on
 Start run on picoscope (check settings on setup)
-Wait ~10 mins (or longer, set runs going overnight)
-Repeat
+Wait ~10 mins (or longer, set runs going overnight/over weekend)
+Repeat on RHS
 

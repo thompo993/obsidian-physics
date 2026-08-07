@@ -26,4 +26,5 @@ For two staves we need:
 We need to be able to have a setup such that we can "scramble" and get beam data as quickly as possible. 
 
 - Procurement: 
+	- do we need to new PTFE connectors 
 	- 

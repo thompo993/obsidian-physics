@@ -31,4 +31,4 @@ We need to be able to have a setup such that we can "scramble" and get beam data
 	- new cables?? (getting some Lemo cables could be nice)
 
 ## Minutes 
-- 
+- Aidy suggesting as many staves as possible in one  go to save tim e

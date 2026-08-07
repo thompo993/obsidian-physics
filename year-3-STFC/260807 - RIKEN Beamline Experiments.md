@@ -14,10 +14,13 @@ We need to be able to test two staves, and a test setup so we can click in out a
 > How can this be designed? 
 
 For two staves we need: 
-- Two DAQs
+- Two DAQ121s
 	- 8 Ethernet Ports 
 	- two sets of 20m cables
 	- Lots of Lemo cables
 
+- One chiller: 
+	- borrowed? 
+	- manifold required? 
 
 We need to be able to have a setup such that we can "scramble" and get beam data as quickly as possible. 

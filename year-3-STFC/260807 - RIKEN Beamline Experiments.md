@@ -38,4 +38,4 @@ We need to be able to have a setup such that we can "scramble" and get beam data
 ask person who decline meeting for the exact dates. 
 
 
-one thing to be way of
+one thing to be wary 

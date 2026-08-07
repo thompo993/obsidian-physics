@@ -32,4 +32,4 @@ We need to be able to have a setup such that we can "scramble" and get beam data
 
 ## Minutes 
 - Aidy suggesting as many staves as possible in one  go to save time 
-- 
+- potentially get the full barrel in 

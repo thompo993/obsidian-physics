@@ -24,3 +24,6 @@ For two staves we need:
 	- manifold required? 
 
 We need to be able to have a setup such that we can "scramble" and get beam data as quickly as possible. 
+
+- Procurement: 
+	- 

@@ -35,3 +35,4 @@ We need to be able to have a setup such that we can "scramble" and get beam data
 - potentially get the full barrel in 
 - we can get a complete pulse and we have the whole riken port 3, 20MeV/2
 - limiting factor is now us, the cables and stuff
+ask person who decline dmeeting 

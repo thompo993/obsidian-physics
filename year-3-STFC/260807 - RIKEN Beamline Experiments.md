@@ -17,6 +17,7 @@ For two staves we need:
 - Two DAQs
 	- 8 Ethernet Ports 
 	- two sets of 20m cables
+	- Lots of Lemo cables
 
 
 We need to be able to have a setup such that we can "scramble" and get beam data as quickly as possible. 

@@ -29,3 +29,6 @@ We need to be able to have a setup such that we can "scramble" and get beam data
 	- do we need to new PTFE connectors 
 	- more plumbing 
 	- new cables?? (getting some Lemo cables could be nice)
+
+## Minutes 
+- 

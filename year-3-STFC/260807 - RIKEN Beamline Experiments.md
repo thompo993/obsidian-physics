@@ -39,3 +39,7 @@ ask person who decline meeting for the exact dates.
 
 
 one thing to be wary 
+
+
+# Plan For Riken 
+- why dont we use the new barrel, the current issue is now the kind of pump we can get and the number

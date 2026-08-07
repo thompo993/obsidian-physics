@@ -8,7 +8,11 @@ created: 2026-08-07
 # Agenda: 
 ## Discuss RIKEN Port 3
 - why cant we use the whole barrel? 
-- limiting factor is no longer space or time, but what we have availbe in terms of digitisers and 
+- limiting factor is no longer space or time, but what we have avaible in terms of digitisers, pumps and pluming.
+- what can we start for preperation
+
+## Dowl discussion
+- ben has assembled dowls before, only needed pinf
 
 # Previous Minutes:
 ## Procurement 

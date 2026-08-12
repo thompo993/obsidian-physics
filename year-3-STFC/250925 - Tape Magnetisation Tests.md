@@ -9,7 +9,7 @@ created: 2026-08-12
 
 # Notes:
 ### Key Findings 
-After discussion with peter after doing SQUID measurements on 3M 425 DWB tape, it was determined that the 
+After discussion with peter after doing SQUID measurements on **3M 425 DWB** tape, it was determined that there was **not significant content of magnetic material**. 
 ## XRF Measurements
 Initially, work was done with XRF measurements. This was done using CAT NO 436-PD membrane, and results showed that there was indication of iron. This was determined as an unsuitable method for determining overall magnetic content, due to the fact that XRF only uses surfaces measurements. All results can be found under "XRF Tape Testing", but the tape that we ended up using was **3M 425 DWB** tape, DWB is the manufacturer location code, so should not matter. 
 ### Results for 3M 425 

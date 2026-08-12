@@ -24,6 +24,7 @@ Measurement of just the adhesive.
 We then used this result to determine that XRF may not be useful. as it was clearly not 21.4% iron. 
 
 ### SQUID Measurements 
-Then i got trained on the SQUID, and we tested the 3M 425 tape on it, as we were fairly convinced it was magnetic (no mention of dopants on datasheet, and is used all over TS1 Muon arms.)
+Then I got trained on the SQUID, and we tested the 3M 425 tape on it, as we were fairly convinced it was magnetic (no mention of dopants on datasheet, and is used all over TS1 Muon arms.)
 
-With the SQUID the tape was scrunched into 
+With the SQUID the tape was scrunched into a  small ball in one case, and folded into a small square in another (convince is that the boundary on a small square with the rapid oscillations a squid does may mess up the results)
+

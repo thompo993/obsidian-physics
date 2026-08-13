@@ -7,7 +7,7 @@ created: 2026-08-13
 # Links: 
 
 # Notes:
-### 260925 
+## 260925 
 #### Plan
 - 90deg to beam
 - Parallel to beam
@@ -24,3 +24,22 @@ created: 2026-08-13
 - Is the vbr is real from these measurements or is it a "fake" number
 - Andrea plans to do sever tests - may have to help with that in the afternoon  - may be banned by dan
 - Get HDMI cable from source room as we go past
+##### Voltage Bais Scan - Ben and Lisa Objective - IF BEAM
+- Change target PE from as low as you dare to the max overbias
+- Do the scan in both positions, 90deg and parallel to beam
+- Told by dan how to do this.
+- vbr=51+/-1 
+- Range to scan:
+- Chug away with beam
+##### Beam Procedure:
+- Take key to unlock door,
+- Unlock door
+- Check door stop is working
+- Extra step about lights etc - learn from dan
+- Walk and change sample
+- Press the search button
+- Ensure no one is in there
+- Shut door, lock door
+- Place key back in place
+
+### 

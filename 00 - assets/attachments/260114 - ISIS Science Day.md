@@ -287,12 +287,11 @@ Neutron and muon studies of catalysts for ammonia synthesis
 
 - Muons used on the Kubo-Toyabe model --> what is this, google search shows Stephen Blundell lecture. Above paygrade
 
-Marvelous muons and where to make them -peter baker
+### Marvelous muons and where to make them -peter baker
 
-MDANSE molecular dynamics analysis for neutron scattering experiments - recent developments
+### MDANSE molecular dynamics analysis for neutron scattering experiments - recent developments
 
-Expanding access to data analysis training through online training
-
+### Expanding access to data analysis training through online training
 - Barrier to entry is on analysis
 - Online training is better as not rushed, less resource intensive
 - Covers full QENS workflow
@@ -301,37 +300,26 @@ Expanding access to data analysis training through online training
 - Jupyter exercises will be very useful.
 
 Isis website update
-
 - Will links remain the same this could mess up ALL my references
 
-Deuteration talk
+### Deuteration talk
 
-Polarized Neutron Scattering
-
+### Polarized Neutron Scattering
 - Spin echo SANS
-
 - What is spin echo
-
 - SESANS data and wavelength effects
-
 - SESANS relates polarisation (what is measured) to the projection of the auto correlation function of density distribution within a sample (what is interesting
 - Data are normalised scattering correction unction vs spin echo length.
-
 - Worlds only white beam SESANS instrument Larmor
 - Data reproducibility of SESANS instruments
-
 - However the effect of wavelength and finite size of detector means that data needs to be corrected.
 - Once corrected the similarity was very good.
 - SESANS can be reliably reproduced and SESANS data can be trusted
 
-VESUVIO Beamline ISIS
-
+### VESUVIO Beamline ISIS
 - In cancer research time matters, the more diagnostic tools we can run in parallel, the better
-
 - Neutron transmission
-
 - Dose rate planning
-
 - Gamma spectroscopy, transmission and Compton scattering
 - One instrument one workflow
 - Irradiation and spectroscopy at the same time

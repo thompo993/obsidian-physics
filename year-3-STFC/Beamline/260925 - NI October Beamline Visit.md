@@ -8,7 +8,7 @@ created: 2026-08-13
 
 # Notes:
 ## 260925 
-#### Plan
+### Plan
 - 90deg to beam
 - Parallel to beam
 - Voltage scan of all the tiles, low to high bias on the SiPM
@@ -42,9 +42,11 @@ created: 2026-08-13
 - Shut door, lock door
 - Place key back in place
 
-### Evidence of increase in voltage counts
+#### Evidence of increase in voltage counts
 ![[fig-260813-beamline-ni-october-visit-1.jpg]]
 This was later determined to be caused by the Line drivers [[251114 - Line Driver Testing]]. 
 
-### Example Experimental setup for the short stave
+#### Example Experimental setup for the short stave
 ![[fig-260813-beamline-ni-october-visit-2.jpg]]
+
+##

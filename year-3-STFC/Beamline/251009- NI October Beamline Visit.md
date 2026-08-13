@@ -69,3 +69,42 @@ Notes:
 - No kinks
 - Should see a "+" or "-"
 - No error messages should be seen, they flash
+
+### Automation code - Manual:
+- scan_pe.py is the name of the file there are some key params:
+- DIGITIZER_IP: the ip of the specific digitizer you are using
+- SETTINGS_FILE: The settings setup that are used for the automation
+- PE_SCAN_VALUES: The value of photons per positron eg 1000 peak for PE of 20 would be a 50 photon peak, it repeats for all of the given PE
+- ACQUISITION_TIME : The length the automation counts per iteration
+- OUTPUT_DIR: output directory for data and pllots and data, timestamped and hard coded to the correct PE
+```
+# ============================================================================
+
+# GLOBAL CONFIGURATION
+
+# ============================================================================
+
+# Digitizer IP address
+
+DIGITIZER_IP = "130.246.54.1"
+
+# Path to settings JSON file
+
+SETTINGS_FILE = "scan_pe_protostave.json"
+
+# Path to unified calibration JSON file
+
+CALIBRATION_JSON = "calibration_module_c_10010.json"
+
+# PE values to scan
+
+PE_SCAN_VALUES = [30, 35, 25, 40, 20, 15, 50, 10, 5, 32, 28, 38, 22]
+
+# Acquisition time for each PE value (seconds)
+
+ACQUISITION_TIME = 45*60
+
+# Output directory
+
+OUTPUT_DIR = "run_scan_pe"
+```

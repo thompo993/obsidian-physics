@@ -43,4 +43,5 @@ created: 2026-08-13
 - Place key back in place
 
 ### Evidence of increase in voltage counts
-![[]]
+![[fig-260813-beamline-ni-october-visit-1.jpg]]
+This was determined to be cuased by the [[251114 - Line Driver Testing]]

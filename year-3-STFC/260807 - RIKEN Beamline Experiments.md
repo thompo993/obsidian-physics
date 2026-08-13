@@ -2,6 +2,7 @@
 tags:
   - note
   - super-musr
+  - meeting
 created: 2026-08-07
 ---
 # Links: 

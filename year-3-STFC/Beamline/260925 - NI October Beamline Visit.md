@@ -42,4 +42,5 @@ created: 2026-08-13
 - Shut door, lock door
 - Place key back in place
 
-### 
+### Evidence of increase in voltage counts
+![[]]

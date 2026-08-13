@@ -19,6 +19,8 @@ created: 2026-07-22
 		- [ ] beamline work
 		- [ ] gui work
 		- [ ] XRF Testing
+		- [ ] we cand delete as we go 
+	- [ ] make a list of what we put on HTML file and upload it. 
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

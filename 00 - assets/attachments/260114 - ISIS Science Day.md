@@ -360,61 +360,43 @@ VESUVIO Beamline ISIS
 - 10B captures thermal neutrons: H in -OH moderates epithermal ---> thermal
 
 Baro caloric for green cooling:
-
 - Current solution Vapor compression
-
 - Cheap
 - Routine
 - Well established
 - Space hungry
 - 40-60% Carnot efficiency
-
 - Proposed solution:
-
 - Barocalorics - replace fluids with solids
-
 - What do we want with Barocalorics
-
 - High deltaT
 - Suitable T phase transition
 - Cheap eco friends, non-toxic
-
 - How?
-
 - High heat exchange
 - High sensitivity for pressure
 - Low hysteresis --> low change in volume
-
 Formation of Molybdenum Deuteride
-
 - Why do we study metal hydrides
-
 - Hydrogen is considered a key energy carrier
 - Efficient hydrogen storage is still a major challenge
 - Metal hydrides are a very promising solution
-
 - Multiple ways to synthesis transition metal hydrides
+### Heterogenous Catalysis
 
-Heterogenous Catalysis
 
-Space charge
-
+### Space charge
 - h- & h+ injectors
-
 - Injectors include an ion source, LEBT and RFQ accelerator
 - This project focusing on the high current, low energy hydrogen ion beam through the LEBT and comparing a H- & H+ beam
-
 - Space charge compensation
-
 - Space charge forces beam divergence in the LEBT where beam velocity is low.
 - Space charge compensation reduces or climates this effect.
 - SCCC degree & time
-
-Mesoscopic oxygen
-
+### Mesoscopic oxygen
 - Great applications oat lower temperature
 
-###Megan Talk - simulating Low energy Muons
+### Megan Talk - simulating Low energy Muons
 - Wow this is amazing
 -  why low energy muons
 - Spin polarized are produced for looking at bulk materials

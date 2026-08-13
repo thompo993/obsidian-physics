@@ -21,3 +21,8 @@ created: 2026-08-13
 - Grade 2 titanium screws not yet been ordered - expensive
 - We seem to be lagging behind schedule
 - MuSR Rending done by tomorrow Absolute latest
+
+### Plots: 
+![[fig-260806-onenote-transfer-det-weekly-260331-1.png]]
+![[fig-260806-onenote-transfer-det-weekly-260331-2.png]]
+![[fig-260806-onenote-transfer-det-weekly-260331-3.png]]

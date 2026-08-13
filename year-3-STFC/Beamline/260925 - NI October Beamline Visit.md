@@ -44,4 +44,7 @@ created: 2026-08-13
 
 ### Evidence of increase in voltage counts
 ![[fig-260813-beamline-ni-october-visit-1.jpg]]
-This was determined to be cuased by the [[251114 - Line Driver Testing]]
+This was later determined to be caused by the Line drivers [[251114 - Line Driver Testing]]. 
+
+### Example Experimental setup for the short stave
+![[fig-260813-beamline-ni-october-visit-2.jpg]]

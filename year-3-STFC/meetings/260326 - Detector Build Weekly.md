@@ -10,11 +10,9 @@ created: 2026-08-13
 
 # Minutes:
 - Another order for the screws have been ordered
-
 - Oxford bolt and bearing could not work
 - Investigating more suppliers
 - Get some brass ones stave, and titanium for barrel
-
 - Lapping jigs are in the workshop, and it has been put on priority
 - No update that the strain report has no update, but general consensus is that it will be fine
 - All 63mm tiles are performing as expected, no rejections

@@ -29,6 +29,7 @@ created: 2026-07-22
 		- [ ] Photorefractometer 
 		- [ ] SQUID 
 		- [ ] XRF above two are abit different as you have training. 
+	- [ ] upadte tile testing database
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

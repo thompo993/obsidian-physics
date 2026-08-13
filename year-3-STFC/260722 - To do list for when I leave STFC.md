@@ -21,7 +21,14 @@ created: 2026-07-22
 		- [ ] XRF Testing
 		- [ ] we cand delete as we go 
 	- [ ] make a list of what we put on HTML file and upload it. 
-	- [ ] experiment
+	- [ ] experimental procedures for all things i have done. 
+		- [ ] stave wiring 
+		- [ ] calibration of the GUI 
+		- [ ] microscope 
+		- [ ] PMT rig 
+		- [ ] Photorefractometer 
+		- [ ] SQUID 
+		- [ ] XRF above two are abit different as you have training. 
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

@@ -7,7 +7,7 @@ created: 2026-08-13
 # Links: 
 
 # Notes:
-## 261009 
+## Day 1: 261009 
 ### Plan
 - 90deg to beam
 - Parallel to beam
@@ -59,4 +59,13 @@ Notes:
 - No pictures taken due to time constraints, but can be assured that experimental setup was identical to that of PCB A
 - Results of PCB a and B are in the google drive on your wrok email google drive, shared by lisa.
 
-## 251010
+## Day 2: 251010
+- Arrived to hot desk while one measurement was being taken, during the data.
+- Scan with date around 10/10/25 - 9:30 may have nonsense data due to changed geometry.
+- Andrea wrote script to optimize and automate the code
+### Pump
+- Check for "*" on left of panel, suggests it's not working
+- Ensure bubbles are not stationary
+- No kinks
+- Should see a "+" or "-"
+- No error messages should be seen, they flash

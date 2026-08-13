@@ -13,4 +13,3 @@ created: 2026-07-21
 - i need to state that i labelled all of the tiles as either stud or not stud damage to ensure no ambiguity [[260603 - Plan]]. 
 # Presentation 
 [[pdf-BT-260721-63mm-Tile-Testing.pdf]]
-![[pdf-BT-260721-63mm-Tile-Testing.pdf]]

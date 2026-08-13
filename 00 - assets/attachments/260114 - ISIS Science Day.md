@@ -12,7 +12,7 @@ Notes:
 
 -  get muon presentations for my report.
 
-Superfluid Helium:
+### Superfluid Helium:
 
 - Using polref and is used to investigate the properties of superfluid helium
 - Bayesian modeling used to convert neutron reflectivity into neutron scattering density.
@@ -26,7 +26,7 @@ Superfluid Helium:
 - At T=700mK the He4 climbs back onto the surface.
 - This restores the layered surface seen at 200mK
 
-Muonium Chemistry - Studies of reactions on MNP surfaces: Mu as H analogue
+### Muonium Chemistry - Studies of reactions on MNP surfaces: Mu as H analogue
 
 - Muons produced 100% spin polarized
 
@@ -85,7 +85,7 @@ Muonium Chemistry - Studies of reactions on MNP surfaces: Mu as H analogue
 - Practical applications
 - Can I reference it
 
-Muon studies on charge carries in Si photovoltaic systems
+### Muon studies on charge carries in Si photovoltaic systems
 
 - Muons are implanted into a sample
 - Kinetic energy released to crystal lattices and Muon+ stops
@@ -120,7 +120,7 @@ Muon studies on charge carries in Si photovoltaic systems
 - Spatially localized
 - Bulk probe
 
-EPAC Facility overview - C.D Armstrong
+### EPAC Facility overview - C.D Armstrong
 
 - Extreme photonics application centre
 

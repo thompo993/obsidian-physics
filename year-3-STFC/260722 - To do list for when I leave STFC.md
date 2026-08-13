@@ -21,6 +21,7 @@ created: 2026-07-22
 		- [ ] XRF Testing
 		- [ ] we cand delete as we go 
 	- [ ] make a list of what we put on HTML file and upload it. 
+	- [ ] experiment
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

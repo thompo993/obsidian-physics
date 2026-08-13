@@ -334,32 +334,20 @@ VESUVIO Beamline ISIS
 
 - Gamma spectroscopy, transmission and Compton scattering
 - One instrument one workflow
-
 - Irradiation and spectroscopy at the same time
-
 - No logistically painful biohazard sample shuttling between labs and facilities
-
 - The How
-
 - Hydrogen cant backscatter in simple elastic scattering
-
 - Signal is cleaner, helping isolation of boron peaks
-
 - Peak shapes aren't biased across cross sections
-
 - Measure and model vibration signature more directly
-
 - eV range neutrons
-
 - Ordinary non resonant absorption hardly matters so boron peak shapes stay reliable.
-
 - The What
-
 - BNCT physics:
-
 - 10B captures thermal neutrons: H in -OH moderates epithermal ---> thermal
 
-Baro caloric for green cooling:
+### Baro caloric for green cooling:
 - Current solution Vapor compression
 - Cheap
 - Routine

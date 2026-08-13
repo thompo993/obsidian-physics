@@ -8,6 +8,12 @@ created: 2026-07-22
 
 # Notes:
 - [ ] Complete all things required for leaving day 🔺 📅 2026-08-20
+	- [ ] move code onto netowork
+	- [ ] write readme for notes
+	- [ ] orginise onenotes 
+		- [ ] meetings
+		- [ ] journal
+		- [ ] critical de
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

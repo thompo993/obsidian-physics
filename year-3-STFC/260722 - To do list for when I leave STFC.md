@@ -13,7 +13,12 @@ created: 2026-07-22
 	- [ ] orginise onenotes 
 		- [ ] meetings
 		- [ ] journal
-		- [ ] critical de
+		- [ ] critical decisions
+		- [ ] tile testing 
+		- [ ] epoxy testing
+		- [ ] beamline work
+		- [ ] gui work
+		- [ ] XRF Testing
 
 - move locally stored supermusr-codebase onto the network 
 - write readme for navigating all of the notes

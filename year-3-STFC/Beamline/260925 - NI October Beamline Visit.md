@@ -7,7 +7,7 @@ created: 2026-08-13
 # Links: 
 
 # Notes:
-## 260925 
+## 261009 
 ### Plan
 - 90deg to beam
 - Parallel to beam
@@ -49,4 +49,14 @@ This was later determined to be caused by the Line drivers [[251114 - Line Drive
 #### Example Experimental setup for the short stave
 ![[fig-260813-beamline-ni-october-visit-2.jpg]]
 
-##
+### Notes on runs 
+#### HV SCAN Pulse height analysis Module B:A
+- 3 25min scans, as statistics were poor for the 15 min ones
+Notes:
+- More photons per positron (from prelim data) for tiles that are closer to the interaction point (sample)
+#### HV SCAN Pulse height analysis Module B:B
+- 70mm slit width (basically fully open)
+- No pictures taken due to time constraints, but can be assured that experimental setup was identical to that of PCB A
+- Results of PCB a and B are in the google drive on your wrok email google drive, shared by lisa.
+
+## 251010

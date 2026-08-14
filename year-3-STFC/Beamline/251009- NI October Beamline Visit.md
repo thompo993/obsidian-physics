@@ -120,4 +120,15 @@ We expect a approximately 40% change in peak location.
 ![[fig-260806-onenote-transfer-line-driver-beamline-1.png]]
 We are still experiencing upturn in the line driver chips.
 
-## 26
+## Day 4: 260814
+- Crosstalk (em communication between two tracks in the PCB)
+- This is making a negative signal, that can somethimes go past zero in the negative direction,
+- Due to how binary works, this then takes you to the max value. "wrapping round effect"
+- This is dans working hypothesis as of last night.
+- Francesco is making adjustments to module BB
+- There is a log of all time averaging plots in university OneDrive
+- All the best code is in Lisa google drive (shared with work gmail google drive)
+- Nothing too be done about upturn past 3500, key result of day
+**Corrected Pre Transmission impedance to 33 Ohm from 22 Ohm**
+- Likely cause for the reflection
+- Still seeing crosstalk and the large negative cross talks.

@@ -11,9 +11,9 @@ created: 2026-08-14
 We want to experiment with three different compression types, split across each of the three system config files. we will have some settings the same, with only compression mode chaging 
 
 
-| `sysconfig` file: | compression: |     |
-| ----------------- | ------------ | --- |
-|                   |              |     |
+| `sysconfig` file: | compression: | emu.enable_pulse: | emu.enable: | emu.ch_map_mode: |
+| ----------------- | ------------ | ----------------- | ----------- | ---------------- |
+|                   |              |                   |             |                  |
 
 
 

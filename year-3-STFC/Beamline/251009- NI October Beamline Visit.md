@@ -160,4 +160,7 @@ Restoring RF
 
 The cuase of the upturn is unknown at this point (future ben adding this in, we know it was the line drivers and this issue is resolved. )
 
-### images of calbin and 
+### images of calbin and daq setup 
+
+![[fig-260814-beamline-ni-visit-exp-geom.png]]
+![[fig-260813-beamline-ni-october-visit-4.jpg]]

@@ -173,4 +173,5 @@ Offset was changed and done manually, as seemingly incorrect for the "dinner tim
 Andrea calibrations all done on the incorrect line drivers.
 Do not trust PE as exact photons per LSB, but as more of a "dial/number"
 V_br = 51.8 is the global standard for SiPM
+we got some nice peak to valley values.
 ![[fig-260806-onenote-transfer-line-beamline-ni-visit-5.png]]

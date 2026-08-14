@@ -139,3 +139,23 @@ We are still experiencing upturn in the line driver chips.
 - Should see less reflections and see if analogue pileup is a result of the cables
 - Cables can be a band pass filter, which can hurt higher frequency signals
 - So it seems like we can't saturate charge, unsure on how this is effecting the pileup in a differential sense.
+
+**Horizontal_20m_Cables_testing_LD - Binary data, taken at 14/10/25 @15:00**
+- A = 51 Ohms
+- F=51 Ohms + rf(eedback)=470 Ohms
+- All others have line drivers 33 Ohms
+
+**Horizontal_20m_Cables_testing_LD - Binary data, taken at 14/10/25 @15:15**
+- A = 0 Ohms
+- F=51 Ohms + rf(eedback)=470 Ohms
+- All others have line drivers 33 Ohms
+
+**Horizontal_20m_Cables_testing_LD - Binary data, taken at 14/10/25 @15:35**
+- A = 10 Ohms
+- F=51 Ohms + rf(eedback)=470 Ohms
+- All others have line drivers 33 Ohms
+None of these yielded a successful solution to the upturn issue
+Henceforth everything is returned to how it should be with correct 33 Ohm
+Restoring RF
+
+The cuase of the upturn is unknown at this poin

@@ -132,3 +132,10 @@ We are still experiencing upturn in the line driver chips.
 **Corrected Pre Transmission impedance to 33 Ohm from 22 Ohm**
 - Likely cause for the reflection
 - Still seeing crosstalk and the large negative cross talks.
+![[fig-260814-beamline-ni-visit-evidence-of-reflection.png]]
+
+**Cable Check**
+- Moved back to the old digitiser, and have swapped cables, one 5m and one 10m.
+- Should see less reflections and see if analogue pileup is a result of the cables
+- Cables can be a band pass filter, which can hurt higher frequency signals
+- So it seems like we can't saturate charge, unsure on how this is effecting the pileup in a differential sense.

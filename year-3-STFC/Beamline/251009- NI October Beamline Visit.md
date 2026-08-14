@@ -111,4 +111,8 @@ OUTPUT_DIR = "run_scan_pe"
 
 
 ## Day 3: 251013 (i missed weekend)
-- changed resistors 
+- changed resistors to shift the PHS peak location
+
+$$
+\frac{(\frac{460}{33}+!)}{(\frac{}{})}
+$$

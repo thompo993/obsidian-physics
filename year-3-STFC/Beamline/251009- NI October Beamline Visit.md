@@ -167,4 +167,12 @@ The cuase of the upturn is unknown at this point (future ben adding this in, we 
 
 
 ### Evening Run PtV 
-![[]]
+This above setting file is the settings used for the above run "loc_compact" is represents the detectors has been rotated perpendicular to the beam, there is not much space around the detector. The detector is 90deg anticlockwise relative to the muon beam direction.
+
+Peak to valley discrimination was not deemed very good, repeat of PE with increased slit width and increased PE --> 30
+
+Offset was changed and done manually, as seemingly incorrect for the "dinner time run"
+Andrea calibrations all done on the incorrect line drivers.
+Do not trust PE as exact photons per LSB, but as more of a "dial/number"
+V_br = 51.8 is the global standard for SiPM
+![[fig-260806-onenote-transfer-line-beamline-ni-visit-5.png]]

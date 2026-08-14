@@ -117,3 +117,7 @@ $$
 \frac{(\frac{460}{33}+1)}{(\frac{470}{47}+1)} = 1.386
 $$
 We expect a approximately 40% change in peak location. 
+![[fig-260806-onenote-transfer-line-driver-beamline-1.png]]
+We are still experiencing upturn in the line driver chips.
+
+## 26

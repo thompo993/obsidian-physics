@@ -58,7 +58,7 @@ Notes:
 - 70mm slit width (basically fully open)
 - No pictures taken due to time constraints, but can be assured that experimental setup was identical to that of PCB A
 - Results of PCB a and B are in the google drive on your wrok email google drive, shared by lisa.
-
+---
 ## Day 2: 251010
 - Arrived to hot desk while one measurement was being taken, during the data.
 - Scan with date around 10/10/25 - 9:30 may have nonsense data due to changed geometry.
@@ -110,3 +110,4 @@ OUTPUT_DIR = "run_scan_pe"
 ```
 
 
+## Day 3: 251013 (i missed weekend)

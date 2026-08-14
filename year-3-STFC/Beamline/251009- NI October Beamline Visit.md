@@ -114,5 +114,6 @@ OUTPUT_DIR = "run_scan_pe"
 - changed resistors to shift the PHS peak location
 
 $$
-\frac{(\frac{460}{33}+!)}{(\frac{}{})}
+\frac{(\frac{460}{33}+1)}{(\frac{470}{47}+1)} = 1.386
 $$
+We expect a approximately 40% change in peak location. 

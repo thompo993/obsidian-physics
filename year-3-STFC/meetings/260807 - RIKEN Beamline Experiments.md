@@ -8,6 +8,11 @@ created: 2026-08-07
 # Links: 
 
 # Notes:
+
+
+## may as well only use 2, overhead of setting the rest up.
+
+
 ## RIKEN Experiments - Design Requirements
 
 We need to be able to test two staves, and a test setup so we can click in out and modules

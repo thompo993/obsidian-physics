@@ -18,3 +18,7 @@ The first step is to ensure the laser will be on once the power source is enable
 
 ### Step 2: Power Source:
 - The  next step is to set the power source on. There are two on switches, one for the display and one for the actual power. Ensure both are on and are set to sensible values, such as in the image.
+![[fig-260817-turn-on-laser-2.png]]
+
+If all goes well, we should see the "laser on light"
+

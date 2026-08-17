@@ -11,4 +11,7 @@ created: 2026-08-17
 [[260741 - Underfilled Resin Tests]]
 # Notes:
 
-
+# Tape Magnetisation tests
+## Detailed Report 
+[[250925 - Tape Magnetisation Tests]]
+## Summary 

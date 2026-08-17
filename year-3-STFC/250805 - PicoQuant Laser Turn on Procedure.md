@@ -8,10 +8,8 @@ created: 2025-08-05
 # Notes:
 
 ## Laser turn on procedure:
-#### Step 1: Oscillator & Main:
-
+### Step 1: Oscillator & Main:
 The first step is to ensure the laser will be on once the power source is enabled.
-
 - The Key should be set to "laser active" don’t worry about the power light, as this is faulty.
 - Set the oscillator to the correct divisor. Note that 16 is the lowest. See the equation f_{o}/x represents the fundamental frequency of the laser divided by the numbers on the dial x.
 - Note that also the trigger must be set to internal, choice for an external trigger you will have to insert apparatus into the "input" seen below the trigger.

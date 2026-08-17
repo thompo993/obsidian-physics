@@ -16,4 +16,6 @@ created: 2025-11-25
 - Poor phs and traces and waves.
 - Stave has not died yet
 - Only far away module was working ( C )
-
+-  Brief tests on EMU suggested that the foil is not pure aluminium and some sort of alloy
+- Eric mentioned that he is almost certain that it is not only alu, due to strength issues with pure aluminium. **This was determined to have an insignificant amount of Magnetic material** [[250925 - Tape Magnetisation Tests]]
+- 

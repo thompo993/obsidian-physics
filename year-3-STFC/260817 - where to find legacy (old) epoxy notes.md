@@ -1,6 +1,8 @@
 ---
 tags:
   - note
+  - super-musr
+  - scintillating-tiles
 created: 2026-08-17
 ---
 # Links: 

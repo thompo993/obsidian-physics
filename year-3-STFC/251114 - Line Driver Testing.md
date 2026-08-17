@@ -48,4 +48,8 @@ Threshold height from "wiggles" of the spectra suggest resistors are a bit low, 
 Eric suggests that we do a small increase of about 50% increase in resistance of the relevant resistor components.
 We don't see any significant change in wave shape that cannot be adjusted for. 
 
-![[]]
+### Line driver tests, images
+#### Evidence of upturn
+![[fig-260806-onenote-transfer-line-driver-1.png]]
+
+#### 

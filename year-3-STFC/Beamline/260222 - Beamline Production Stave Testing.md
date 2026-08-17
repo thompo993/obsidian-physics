@@ -2,6 +2,7 @@
 tags:
   - note
   - super-musr
+  - beamline
 created: 2026-02-22
 ---
 ### Links: 

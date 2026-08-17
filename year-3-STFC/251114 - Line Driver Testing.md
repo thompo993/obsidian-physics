@@ -36,3 +36,6 @@ Obvious increase in the max LSB from changing gain of op amps:
 ![[fig-260806-onenote-transfer-line-driver-10.png]]
 ![[fig-260806-onenote-transfer-line-driver-9.png]]
 - we see a much higher increase in PE and peak, which is good. 
+- the next step is to observe the waveform shape to see if the new ones distort it. 
+
+![[fig-260806-onenote-transfer-line-driver-6.png]]

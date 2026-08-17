@@ -46,3 +46,6 @@ Obvious increase in the max LSB from changing gain of op amps:
 
 Threshold height from "wiggles" of the spectra suggest resistors are a bit low, which is expected with low value resistors and the current feedback amplifier.
 Eric suggests that we do a small increase of about 50% increase in resistance of the relevant resistor components.
+We don't see any significant change in wave shape that cannot be adjusted for. 
+
+![[]]

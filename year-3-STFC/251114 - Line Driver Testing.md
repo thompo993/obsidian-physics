@@ -15,3 +15,5 @@ As mentioned in [[251009- NI October Beamline Visit]], there were issues regardi
 - Laser setup to have internal trigger on highest frequency
 - Getting PHS with decent scan, 10m scans should suffice
 - Unable to setup internal trigger using the Pico scope
+![[fig-260806-onenote-transfer-line-driver-8.png]]
+We could not get a suitable LSB ran

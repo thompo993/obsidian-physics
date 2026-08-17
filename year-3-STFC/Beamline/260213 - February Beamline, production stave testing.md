@@ -13,8 +13,8 @@ created: 2026-08-17
 
 **_ _ _ _ _ A _ _ _**
 
-NI PID
-Module Type
-Tile Configuration
+"NI PID" "Module Type" "Tile Configuration"
 
+
+For example, a module C with the stave
 

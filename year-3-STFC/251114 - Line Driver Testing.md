@@ -31,5 +31,8 @@ Obvious increase in the max LSB from changing gain of op amps:
 - Changed unified Calib file offsets accordingly
 - Two of the bias were too high, set to 58
 - Reflections could be causing software to not work
+- half the chips were swapped.
 
 ![[fig-260806-onenote-transfer-line-driver-10.png]]
+![[fig-260806-onenote-transfer-line-driver-9.png]]
+- we see a much higher increase in PE and peak, which is good. 

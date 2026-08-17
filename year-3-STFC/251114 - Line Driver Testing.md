@@ -8,5 +8,5 @@ created: 2025-11-14
 # Links: 
 
 # Notes:
-As mentioned in [[251009- NI October Beamline Visit]], therer were issues regarding some upturn seen at the 
+As mentioned in [[251009- NI October Beamline Visit]], there were issues regarding some upturn seen at the end of the LSB range on the line driver chips. 
 

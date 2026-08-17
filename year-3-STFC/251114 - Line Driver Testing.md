@@ -58,3 +58,4 @@ We don't see any significant change in wave shape that cannot be adjusted for.
 
 #### Peculiar behaviour on one of the channels
 The other candidate line driver chip was deemed unsuitable, the ADA4927, turns out it was a current feedback  Current Feedback Differential ADC Driver, so additional adjustments to the resistors and surrounding components is required. The traces were also odd and the offset functioned weirdly. Below is a plot of the offsets of all of the channels, and their associated fits, as we can see the ADA4930 and ADA437chips are similar and work well, which should be the case for offset. However the ADA4927 went AWRY
+![[fig-260806-onenote-transfer-line-driver-11.png]]

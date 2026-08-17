@@ -1,6 +1,7 @@
 ---
 tags:
   - note
+  - scintillating-tiles
 created: 2026-08-17
 ---
 # Links: 

@@ -52,4 +52,8 @@ We don't see any significant change in wave shape that cannot be adjusted for.
 #### Evidence of upturn
 ![[fig-260806-onenote-transfer-line-driver-1.png]]
 
-#### 
+#### Layered comparison between line driver chips
+![[fig-260806-onenote-transfer-line-driver-4.png]]
+
+
+![[fig-260806-onenote-transfer-line-driver-4.png]

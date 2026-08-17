@@ -20,4 +20,5 @@ For example, a module **C** with the stave NI PID **20692** and it is the 10th u
 							 **20692C009**
 
 Here is an example setup of a stave: 
-
+![[fig-260213-prd-stave-testing-2.jpg]]
+With this tile arrangment, 

@@ -5,7 +5,10 @@ tags:
   - beamline
 created: 2025-11-14
 ---
-# Links: 
+
+# Key result
+- As we can see here the overall are shape is comparable, and there is no major changes to tau, therefore we can consider the waveforms unaffected.
+- **Therefore the ADA4937 Line driver chip is a best choice to reduce non-linearity in the 3500-4096LSB range, with no major change to the waveforms, and a visual improvement to the PHS.**
 
 # Notes:
 As mentioned in [[251009- NI October Beamline Visit]], there were issues regarding some upturn seen at the end of the LSB range on the line driver chips. Some tests were done with the picoquant laser to get a uniform source of light [[250805 - PicoQuant Laser Turn on Procedure]]

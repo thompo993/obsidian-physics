@@ -23,14 +23,11 @@ Plan:
 - Read NumPy binary traces to test the shape of the signals
 - Detailed overnight PHS of a source over one of the channels
 - Swap the line driver differential op amps.
-
 14/11/25
-
 - CHANGED UNIFIED CALIB FILE
 - With the resistors with low values it can cause funny feedback loops and stuff, for current feedback ada4927
 
 Obvious increase in the max LSB from changing gain of op amps:
-
 - Changed unified Calib file offsets accordingly
 - Two of the bias were too high, set to 58
 - Reflections could be causing software to not work

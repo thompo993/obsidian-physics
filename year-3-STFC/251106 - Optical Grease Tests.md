@@ -11,4 +11,4 @@ Too bubbly and viscous to use in a cuvette, on the photo refractometer so we wil
 ![[fig-260806-onenote-transfer-optical-grease.png]]
 ![[fig-260806-onenote-transfer-optical-grease-PHS.png]]
 
-Therefore there was no significant difference betwe
+Therefore there was no significant difference between the optical grease

@@ -34,7 +34,9 @@ For the correct layout, see the stave tracking spreadsheet in
 ```
 "\\isis\Shares\MuonDevelopment\2025_BenThompson\Shared\Stave Testing\module_configuration_log.xlsx"
 ```
-And the documentation of each run that was conducted over the course of the weekend is found here [[260213 - February Beamline, production stave testing]]
+
+### Documentation
+The documentation of each run that was conducted over the course of the weekend is found here [[260213 - February Beamline, production stave testing]]
 
 
 ## Apply calibration tool

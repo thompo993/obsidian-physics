@@ -16,5 +16,5 @@ The RAL71a resin, RT152 resin, and IN2and **are identical in terms of BULK TRANS
  
 ### Legacy notes filepath: 
 ```
-\\isis\Shares\MuonDevelopment\2025_BenThompson\Shared\Stave Testing
+"\\isis\shares\MuonDevelopment\2025_BenThompson\Shared\epoxy_resin\Epoxy Testing.one"
 ```

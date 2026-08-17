@@ -44,3 +44,4 @@ The purpose of the "apply calibration to Configuration" GUI is too allow the adj
 ### Booting
 Load apply_calibration_gui.py using terminal or running normally. No extra arguments
 ### Usage
+![[fig-260213-prd-stave-testing-3.png]]

@@ -1,7 +1,7 @@
 ---
 tags:
   - note
-created: 2025-11-14
+created: 2026-08-17
 ---
 # Links: 
 

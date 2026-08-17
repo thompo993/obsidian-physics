@@ -13,6 +13,7 @@ The 210mm tiles had a reduction likely caused by the underfilling of scintillati
 
 
 # plots
+![[fig-260817-critical-decisions-underfilling-resin-1.png|602]]
 ![[fig-260817-critical-decisions-underfilling-resin.png]]]]
 # Notes from report:
 The 210mm tiles exhibited a severe drop in light output for a group of four tiles (36, 37, 38 and 39), outlined in red in Figure 17a. In total there were 37 tiles that were investigated, with an average of 1.9% worse than the benchmark tile repeats. When removing the four extremely poor performing tiles, the mean becomes a 1.7% improvement above the benchmark mean. Neither one of these percentages raise concern on their own, as this is a very small deviation away from the benchmark tile, however as this decrease comes largely from outliers, they were investigated alongside the other 3 tiles that fell below the acceptance threshold:

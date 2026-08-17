@@ -16,5 +16,5 @@ created: 2026-08-17
 "NI PID" "Module Type" "Tile Configuration"
 
 
-For example, a module C with the stave
+For example, a module **C** with the stave NI PID **20692** and it is the 10th unique arrangement of tiles with this layout,
 

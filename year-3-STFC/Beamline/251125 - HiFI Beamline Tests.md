@@ -20,4 +20,5 @@ created: 2025-11-25
 - Eric mentioned that he is almost certain that it is not only alu, due to strength issues with pure aluminium. **This was determined to have an insignificant amount of Magnetic material** [[250925 - Tape Magnetisation Tests]]
 - 
 
-[[fig-260817-beamline-hifi-stave-tests-1.jpg]]
+![[fig-260817-beamline-hifi-stave-tests-1.jpg]]
+![[fig-260817-beamline-hifi-stave-tests-2.jpg]]

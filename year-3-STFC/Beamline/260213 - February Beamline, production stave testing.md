@@ -30,5 +30,5 @@ With this tile arrangement, the correct labelling should be:
 | 3     | 4     | 117  | 19   | 54   | 76   | 89   | 98   |
 | 4     | 6     | 118  | 22   | 60   | 83   | 91   | 99   |
 
-
+For the correct layout, see the stave tracking spreadsheet in 
 

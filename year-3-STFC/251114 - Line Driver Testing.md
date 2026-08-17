@@ -38,4 +38,11 @@ Obvious increase in the max LSB from changing gain of op amps:
 - we see a much higher increase in PE and peak, which is good. 
 - the next step is to observe the waveform shape to see if the new ones distort it. 
 
+
+### Old line drivers
 ![[fig-260806-onenote-transfer-line-driver-6.png]]
+
+### ADA4937 Line Drivers![[fig-260806-onenote-transfer-line-driver-7.png]]
+
+Threshold height from "wiggles" of the spectra suggest resistors are a bit low, which is expected with low value resistors and the current feedback amplifier.
+Eric suggests that we do a small increase of about 50% increase in resistance of the relevant resistor components.

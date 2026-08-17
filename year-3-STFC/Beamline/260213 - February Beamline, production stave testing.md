@@ -23,8 +23,11 @@ Here is an example setup of a stave:
 ![[fig-260213-prd-stave-testing-2.jpg]]
 With this tile arrangement, the correct labelling should be: 
 
-| 210mm | 105mm |     |
-| ----- | ----- | --- |
-|       |       |     |
-|       |       |     |
+| 210mm | 105mm | 63mm | 43mm | 30mm | 30mm | 30mm | 30mm |
+| ----- | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1     |       |      |      |      |      |      |      |
+| 2     |       |      |      |      |      |      |      |
+| 3     |       |      |      |      |      |      |      |
+| 4     |       |      |      |      |      |      |      |
+
 

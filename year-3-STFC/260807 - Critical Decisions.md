@@ -37,4 +37,4 @@ created: 2026-08-17
 [[260741 - Underfilled Resin Tests]]
 
 ### Summary 
-Underfilling of resin during production is cuasing a singificant decrease in 
+Underfilling of resin during production is causing a significant decrease in tile performance, and therefore tiles should be produced with suitable optical resin applied. 

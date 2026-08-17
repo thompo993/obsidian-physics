@@ -6,7 +6,13 @@ created: 2026-08-17
 # Links: 
 
 # Notes:
-## Wiring a Stave 
+## Stave 
+### Wiring a Stave
 
-## Testing Scintillating Tile
+### Calibrating a Stave
+
+
+## Testing Scintillating Tiles 
+
+## Using Olympus Microscope
 

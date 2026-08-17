@@ -16,7 +16,7 @@ created: 2026-08-17
 "NI PID" "Module Type" "Tile Configuration"
 
 
-For example, a module **C** with the stave NI PID **20692** and it is the 10th unique arrangement of tiles (remember we zero index this number) with this layout, the arrangement would be: 
+For example, a module **C** with the stave NI PID **20692** and it is the 9th unique arrangement of tileswith this layout, the arrangement would be: 
 							 **20692C009**
 
 Here is an example setup of a stave: 

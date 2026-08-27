@@ -11,7 +11,7 @@ created: 2026-06-25
 [[blundell_Muon_Spectroscopy_Introduction_2022]]
 
 
-- [ ] Finish documentation and notetaking on elements of muon spectroscopy 🔽
+- [x] Finish documentation and notetaking on elements of muon spectroscopy 🔽 ✅ 2026-08-27
 ### discovery of the muon 
 The [[muon]] is a fundamental particle with some unique properties, it was discovered 1936 by Carl Anderson and Seth Neddermeyer. They determined the mass charge ratio of a mystery particle, which turned out to be the fundamental particle the muon, which had some interesting properties. 
 

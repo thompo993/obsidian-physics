@@ -10,9 +10,9 @@ created: 2026-04-20
 - measure difference relative to the LHS wall and near side of the source boom arm
 - label tiles on each side, convention is LR  corresponds to the tile id and length such that it corresponds too how you would read the tiles ** for example:
 - [x] 2D plots on analysis 🔽 📅 2026-06-30 ✅ 2026-07-08
-	- [ ] add real scale size based of the integration time 
-	- [ ] ask eric how we get the best results for 2D results
-	- [ ] look into why we choose int and diff time on phs? chose at start of placement on what "looked" best but need better reasoning
+	- [x] add real scale size based of the integration time ✅ 2026-08-27
+	- [x] ask eric how we get the best results for 2D results ✅ 2026-08-27
+	- [x] look into why we choose int and diff time on phs? chose at start of placement on what "looked" best but need better reasoning ✅ 2026-08-27
 - [x] add in functionality to allow for automatic LHS, RHS encoding ✅ 2026-07-15
 
 | 30MM | ID001 |

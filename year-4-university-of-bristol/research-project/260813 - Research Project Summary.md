@@ -4,6 +4,9 @@ tags:
   - superconductivity
   - research-project
 created: 2026-08-13
+loc:
+module:
+  - "[[research-project]]"
 ---
 # Links: 
 

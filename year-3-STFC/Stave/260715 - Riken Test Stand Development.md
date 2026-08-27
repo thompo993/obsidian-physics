@@ -13,11 +13,11 @@ created: 2026-07-15
 - creative plumbing required if we only have one chiller 
 
 ## Procurement 
-- [ ] Order Pieces for Riken Test Stand Development
-	- [ ] PTFE 
-	- [ ] Plumbing Bits 
-	- [ ] Mechanics 
-	- [ ] Thorlabs pieces 
-	- [ ] 📅 2026-09-01
+- [x] Order Pieces for Riken Test Stand Development ✅ 2026-08-27
+	- [x] PTFE ✅ 2026-08-27
+	- [x] Plumbing Bits ✅ 2026-08-27
+	- [x] Mechanics ✅ 2026-08-27
+	- [x] Thorlabs pieces ✅ 2026-08-27
+	- [x]  📅 2026-09-01 ✅ 2026-08-27
 
 

@@ -93,7 +93,7 @@ I'm not sure if the config for the DAQ allows specifying more than one broker ad
 	- jack asks about forcing them to run, i think i can do this by setting tiles to emulation mode [[260501 - Set digitisers to emulation Mode]]
 
 
-- [ ] ask Anthony to update the reserved ID addresses for the new digitisers. 
+- [x] ask Anthony to update the reserved ID addresses for the new digitisers. ✅ 2026-08-27
 
 
 

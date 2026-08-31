@@ -12,7 +12,7 @@ module:
 
 
 # History and Background
-At low temperatures, the restivity of normal  metals reaches a cosntant, of which depends on the concentration of impurites, shown in fig 4.1 in 1911, Heiki Kamerlingh-Onnes, had liquidied helium and when measuring the rsitance of a mercury sample noticed a drop in resitances at 4.2K. The resitance was 
+At low temperatures, the restivity of normal  metals reaches a cosntant, of which depends on the concentration of impurites, shown in fig 4.1 in 1911, Heiki Kamerlingh-Onnes, had liquidied helium and when measuring the rsitance of a mercury sample noticed a drop in resitances at 4.2K. The resitance was below what he could measure. He named this the **superconductor**
 # Excalidraw Data
 
 ## Text Elements

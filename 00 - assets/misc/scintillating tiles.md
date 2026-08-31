@@ -18,5 +18,5 @@ The fibre and scintillator are held in place by a gluing/curing jig seen in Figu
 The stud and WLSF will be of different lengths, and are set to deliberately be longer than necessary to allow for them to be lapped down using high grit micro-fine silicone carbide sandpaper, such that they have a polished finish. Each tile is placed into a lapping jig shown in Figure \ref{fig:lapping_jig}. The tile is fixed in place and polished down to the level of the bottom stainless steel plate.
 
 The final stage of assembly is the wrapping state, this involves placing an Excellent Specular Reflector (ESR) is wrapped around the tile in order to minimise light loss, it is kept tightly wrapped by thin layers of aluminium tape, providing maximum reflection from the ESR.
-![[fig-260707-105mm-tile-unwrapped-image.JPG]]
+![[fig-260707-105mm-tile-unwrapped-image.jpg]]
 

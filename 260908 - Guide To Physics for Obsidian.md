@@ -48,11 +48,18 @@ At work i would use it for things like
 
 "speak to eve about microscope"
 
-I have these made automatically. 
+I have these made automatically, and will explain how to do this. 
+
+## Other 
+The rest of my folders are just for actual topics, like "year 3 stfc" was for my placement. in there i have things like "meetings" and "digitiser" order this like you normally would, but only add sub folders if you need them. over doing folders can just make navigation harder, and you wont even be using them much
+
+## Tasks
+Tasks is a single note, not a folder, but using a plugin it automatically contains all of the "to do" things i have, so i will show you how to set it up.
+![[Pasted image 20260909004737.png]]
 
 
 ---
-## Plugins Setup
+## Essential Community Plugins Setup
 To setup the core aspects of the same style of vault i have, you will need to setup the following plugins and community plugins. The difference is that one is made by the dev team, and one by some random guys, so treat community plugins more carefully, i only use ones with many downloads, all the ones in the setup I recommend.
 
 ### Obsidian Git
@@ -73,4 +80,18 @@ Pull on start up: True
 
 The rest are the default settings. 
 
+### Templater
+This is a superior version to the basic obsidian "templates" functionality.  It allows you to auto create notes instantly, instead of having to insert templates, it also has some really cool features like: 
+
+```
+<% tp.web.daily_quote() %>
+<% tp.date.now("YYYY-MM-DD") %>
+```
+
+The only relevant setting for this plugin is the "template folder location". The other thing i do is change the hotkey for "create new note", which is `Ctrl + N` i changed it so that it is now "create new note from template" this way whenever i try and make a new note, it prompts me to select a template. 
+
+I have quite a few handy templates that i can share, please let me know if you want them. One thing to note that to make a template for Excalidraw you have to press the three dots in the top right corner of a note and press "open as markdown" to view the properties table. 
+
 ### Excalidraw
+Just download Excalidraw, and watch a basic YouTube tutorial, this is the least used of my plugins, but i think ill end up using it much more when i return from university. 
+

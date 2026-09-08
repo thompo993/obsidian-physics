@@ -33,7 +33,7 @@ Where I store all images, screenshots, diagrams, PowerPoints, Course Notes, pdfs
 You should setup in the "Files and links" section in the settings to set you attachment folder to this folder, so everything automatically goes here. (Lazy and simple). 
 
 ### drawings 
-A plugin that we need to use later, Excalidraw, requires a folder. It will let us take handwritten notes and diagrams. If i want to put a drawing in a typed document, it goes here, the "annotations" and "cropped" are just becuase excalidraw 
+A plugin that we need to use later, Excalidraw, requires a folder. It will let us take handwritten notes and diagrams. If i want to put a drawing in a typed document, it goes here, the "annotations" and "cropped" are just because Excalidraw does it like this by default, so i wanted it to match. If i do a full note by
 
 ---
 ## Plugins Setup

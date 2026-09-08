@@ -28,7 +28,7 @@ The "00" and "01" is just so i can choose the order the folders appear, i do the
 ### 00 - assets 
 This folder has a few things in them, and basically contains all the things needed to make the vault work. 
 ### attachments 
-Where
+Where I store all images, screenshots, diagrames 
 
 ---
 ## Plugins Setup

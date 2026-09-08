@@ -42,7 +42,13 @@ A folder for notes that i don't know where they go, basically just keeps the res
 This  folder is used to hold templates, which are a key part of our workflow, they allow us to auto create the inital setup of a note so we dont forget things like creation date, topics etc. I will explain this more later. examples of some templates i used are above.
 
 ## 01 - daily-notes
-This is where all my daily notes go, daily notes is a core plugin (made by devs) and is where my note for each day goes, this can be random stuff, l
+This is where all my daily notes go, daily notes is a core plugin (made by devs) and is where my note for each day goes, this can be random stuff, like a to-do list for the day, or something that doesn't quite desrve its own note.
+
+At work i would use it for things like 
+
+"speak to eve about microscope"
+
+I have these made automatically. 
 
 
 ---

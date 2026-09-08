@@ -16,7 +16,12 @@ If you are confused as to what you see above, it is a **properties** table, whic
 The note taking approach we want should be simple and lazy, with having topic, and module, and location, i am confident we can single out any note, for example, a lecture on semiconductors, taken in Tyndall, on P-N junctions can be found, and if i need to specify more i will just add the property (for example i could add a `type` property to separate worksheets and past papers and lecture notes, for example. 
 
 ---
-## Setup
+## Folder Structure
+
+
+
+---
+## Plugins Setup
 To setup the core aspects of the same style of vault i have, you will need to setup the following plugins and community plugins. The difference is that one is made by the dev team, and one by some random guys, so treat community plugins more carefully, i only use ones with many downloads, all the ones in the setup I recommend.
 
 ### Obsidian Git
@@ -36,3 +41,5 @@ Auto pull: off
 Pull on start up: True
 
 The rest are the default settings. 
+
+### Excalidraw

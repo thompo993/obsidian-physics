@@ -33,6 +33,7 @@ Where I store all images, screenshots, diagrams, PowerPoints, Course Notes, pdfs
 You should setup in the "Files and links" section in the settings to set you attachment folder to this folder, so everything automatically goes here. (Lazy and simple). 
 
 ### drawings 
+A plugin that we need to use later, excalidraw, requires a folder.
 
 ---
 ## Plugins Setup

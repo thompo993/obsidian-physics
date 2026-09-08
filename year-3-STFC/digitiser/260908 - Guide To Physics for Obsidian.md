@@ -24,9 +24,10 @@ The purpose of this is to allow for version control that is synced to the cloud 
 #### Notes on Obsidian Git
 - You cannot use two devices simultaneously 
 - it does not auto sync on closing obsidian
-- you have to have all of your vault in one "master folder", I just have all sub folders in this master folder, so it doesnt really change anything. I littera
+- you have to have all of your vault in one "master folder", I just have all sub folders in this master folder, so it doesn't really change anything (folder structure will be explained later):
+![[Pasted image 20260909002138.png|624]]
 
-The first issue has no solution, use the paid obsidian sync service. The second i recommend going to Settings  -> Hotkeys, and setting `Git: Commit and Sync then close Obsidian` to something sensible, i chose `Ctrl + Alt + S` for "save and close". This way when you close obsidian, you can do it this way, so you always have your most updated version on github. 
+The first issue has no solution, use the paid obsidian sync service. The second i recommend going to Settings  -> Hotkeys, and setting `Git: Commit and Sync then close Obsidian` to something sensible, i chose `Ctrl + Alt + S` for "save and close". This way when you close obsidian, you can do it this way, so you always have your most updated version on GitHub. 
 
 #### Settings I use for Obsidian Git
 Auto commit-and-sync interval: 1

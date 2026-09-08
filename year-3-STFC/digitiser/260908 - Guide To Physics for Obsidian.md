@@ -23,8 +23,9 @@ My folder structure is fairly simple. To be clear, most people do not even use f
 My basic file structure is as follows:
 ![[Pasted image 20260909002515.png]]
 
-The "00" and "01" is just so i can choose the order the folders appear, i do the same for 
+The "00" and "01" is just so i can choose the order the folders appear, i do the same for all of my notes, I preface them is YYMMDD so they by default are sorted by creation date, for example, this note is called `260908 - Guide To Physics for Obsidian`. 
 
+### 
 
 
 ---

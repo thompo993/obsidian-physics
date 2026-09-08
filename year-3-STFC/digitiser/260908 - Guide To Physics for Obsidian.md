@@ -17,7 +17,7 @@ The note taking approach we want should be simple and lazy, with having topic, a
 
 ---
 ## Folder Structure
-
+My folder structure is fairly simple. To be clear, most people do not even use folders, and only tags and links, i think this is arrogant, as it means you cannot navigate your files without obsidian, and others who do not have obsidian cannot navigate it making proper folders means that anyone
 
 
 ---

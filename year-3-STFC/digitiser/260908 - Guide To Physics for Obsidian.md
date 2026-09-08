@@ -28,7 +28,9 @@ The "00" and "01" is just so i can choose the order the folders appear, i do the
 ### 00 - assets 
 This folder has a few things in them, and basically contains all the things needed to make the vault work. 
 ### attachments 
-Where I store all images, screenshots, diagrams, PowerPoints, Course Notes, pdfs etc. It just keeps them in all in one place and not messy. I used to bother with labelling things but dont anymore, as it wasnt useful. if its plot from a code or
+Where I store all images, screenshots, diagrams, PowerPoints, Course Notes, pdfs etc. It just keeps them in all in one place and not messy. I used to bother with labelling things but dont anymore, as it wasnt useful. if its plot from a code or a document a do, but screenshots i just copy and paste. 
+
+You should setup in the "Files and links" section in the settings to set you attachment folder to this folder, so everything automatically goes here. (Lazy and simple)
 
 ---
 ## Plugins Setup

@@ -39,7 +39,10 @@ A plugin that we need to use later, Excalidraw, requires a folder. It will let u
 A folder for notes that i don't know where they go, basically just keeps the rest of the folder structure uncluttered, i have things like definitions in there "paramagnetic" for example
 
 ### templates
-This  folder is used to hold templates, which are a key part of our workflow, they allow us to auto create the inital setup of a note so we dont forget things like creation date, topics etc (told you this )
+This  folder is used to hold templates, which are a key part of our workflow, they allow us to auto create the inital setup of a note so we dont forget things like creation date, topics etc. I will explain this more later. examples of some templates i used are above.
+
+## 01 - daily-notes
+This is where all my daily notes go, daily notes is a core plugin (made by devs) and is where my note for each day goes, this can be random stuff, l
 
 
 ---

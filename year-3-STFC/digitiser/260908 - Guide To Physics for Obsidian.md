@@ -36,7 +36,11 @@ You should setup in the "Files and links" section in the settings to set you att
 A plugin that we need to use later, Excalidraw, requires a folder. It will let us take handwritten notes and diagrams. If i want to put a drawing in a typed document, it goes here, the "annotations" and "cropped" are just because Excalidraw does it like this by default, so i wanted it to match. If i do a full note handwritten style, i put in a different folder, usually the topic folder.
 
 ### misc 
-A folder for notes that i dont know where they go, basically just keeps the rest of the folder structure clear, i have things lile
+A folder for notes that i don't know where they go, basically just keeps the rest of the folder structure uncluttered, i have things like definitions in there "paramagnetic" for example
+
+### templates
+
+
 
 ---
 ## Plugins Setup

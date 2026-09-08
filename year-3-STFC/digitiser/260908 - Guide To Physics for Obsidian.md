@@ -26,7 +26,9 @@ My basic file structure is as follows:
 The "00" and "01" is just so i can choose the order the folders appear, i do the same for all of my notes, I preface them is YYMMDD so they by default are sorted by creation date, for example, this note is called `260908 - Guide To Physics for Obsidian`. 
 
 ### 00 - assets 
-This folder has a few things in them, and basically contains all the things needed to make the vault work
+This folder has a few things in them, and basically contains all the things needed to make the vault work. 
+### attachments 
+Where
 
 ---
 ## Plugins Setup

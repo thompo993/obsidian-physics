@@ -4,8 +4,8 @@ if (!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion("1.5.21")) 
 }
 
 // Tweak these two numbers to taste.
-const BOLD_WIDTH = 2;     // stroke width while "bold mode" is ON
-const NORMAL_WIDTH = 1;   // fallback width if nothing was saved yet
+const BOLD_WIDTH = 1;     // stroke width while "bold mode" is ON
+const NORMAL_WIDTH = 0.5;   // fallback width if nothing was saved yet
 
 let settings = ea.getScriptSettings();
 if (!settings || settings["Bold active"] === undefined) {

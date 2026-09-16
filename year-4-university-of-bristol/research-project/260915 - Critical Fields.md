@@ -3,7 +3,7 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 created: 2026-09-15
-topic:
+topic: superconductors
 module:
   - "[[research-project]]"
 loc:

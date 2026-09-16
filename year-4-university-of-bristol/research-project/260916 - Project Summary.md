@@ -2,10 +2,11 @@
 tags:
   - note
 created: 2026-09-16
-topic:
+topic: superconductors
 module:
   - "[[research-project]]"
 loc:
+  - home
 ---
 # Links: 
 

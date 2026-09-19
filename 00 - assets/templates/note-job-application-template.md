@@ -2,9 +2,7 @@
 tags:
   - note
 created: <% tp.date.now("YYYY-MM-DD") %>
-topic:
-module:
-  - "[[data-intensive]]"
+topic: job-applications
 loc:
 ---
 # Links: 
